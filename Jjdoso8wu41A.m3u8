@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:0,CA : CTV NEWS CHANNEL
+http://mains.services/live/pmf0423/1aku0jt%40/5f84d329-bcdc-435d-b497-219c873527af.m3u
+#EXTINF:0,CA : FOOD NETWORK
+http://mains.services/live/pmf0423/1aku0jt%40/bcc84d2f-7f00-46e1-8da4-56b2db38514c.m3u
+#EXTINF:50,US : CNN
+http://mains.services/live/pmf0423/1aku0jt%40/4a4cdf4e-2bd8-49b9-bb8a-91adcb154ae9.m3u
+#EXTINF:0,US : FOX NEWS CHANNEL
+http://mains.services/live/pmf0423/1aku0jt%40/601e83bc-431d-4ea2-a0c4-7bdd4bce6462.m3u
+#EXTINF:0, Crunchyroll
+https://r.mjh.nz/PlutoTV/65652f7fc0fc88000883537a-alt.m3u8
 #EXTINF:0,USA - TSN 1
 #EXTVLCOPT:network-caching=1000
 http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61554
@@ -212,15 +222,13 @@ http://mains.services/live/pmf0423/1aku0jt%40/9936e9e7-e0d6-411c-b06c-035804c831
 http://mains.services/live/pmf0423/1aku0jt%40/d44e3c45-f357-4ff2-80a3-4e167abf4107.m3u
 #EXTINF:25, Haunt TV
 https://r.mjh.nz/PlutoTV/6319f06067a3ee000708af95-alt.m3u8
-#EXTINF:58, FilmRise Anime
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8
 #EXTINF:0, Comedy Central Animation
 https://r.mjh.nz/PlutoTV/64f8a949f5b5e4000862467c-alt.m3u8
 #EXTINF:25, Anime All Day
 https://r.mjh.nz/PlutoTV/5812b7d3249444e05d09cc49-alt.m3u8
 #EXTINF:25, Global News Kingston
 https://r.mjh.nz/PlutoTV/62cbf4964446e2000742073e-alt.m3u8
-#EXTINF:55, Crunchyroll
+#EXTINF:60, Crunchyroll
 https://i.mjh.nz/Roku/307b3b9ea321539b9688148fc97a8bfd.m3u8
 #EXTINF:60, Aliwko
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64d4ee537b323f6abbd19e59.m3u8
@@ -541,12 +549,12 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:0, realities -  competencias de talento y “talk shows”. ¡Una experiencia que no se pueden perder!" group-title="En Español", EstrellaTV
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8e3586-b9e0-11ee-8ecd-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31f61cb7-b614-46d5-ad10-b629bed0e2c8&userId=&serverSideAds=true
-#EXTINF:0, Court TV
+#EXTINF:60, Court TV
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6245d867ddf1ba983d5b8bf8.m3u8
-#EXTINF:0, in-depth legal reporting and expert analysis of the nation’s most important and compelling trials." group-title="True Crime" -  Court TV
+#EXTINF:25, in-depth legal reporting and expert analysis of the nation’s most important and compelling trials." group-title="True Crime" -  Court TV
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8cebd6-b9e0-11ee-9ca3-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ce08e2fa-2f42-4271-9a71-8296b4ece6cc&userId=&serverSideAds=true
-#EXTINF:0, Court TV Legendary Trials
+#EXTINF:60, Court TV Legendary Trials
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-648095ad190e97d15c3470e9.m3u8
 #EXTINF:0, your true crime destination -  covering crime all the time." group-title="True Crime", Crime 360
 #EXTVLCOPT:network-caching=1000
@@ -1322,54 +1330,6 @@ https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:32,Comet (720p)
 #EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:0,Filmrise Action (Geo)
-#EXTVLCOPT:network-caching=1000
-https://live436.delivery.roku.com/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/7f55d7d9-7e4c-41b8-9234-d166089f2704/live.m3u8
-#EXTINF:60,Filmrise Black TV (Geo)
-#EXTVLCOPT:network-caching=1000
-https://live903.delivery.roku.com/64c091a2-c70f-4390-a1d1-1e28711f3972/t2-origin/out/v1/live.m3u8
-#EXTINF:0,Filmrise British TV (Geo)
-#EXTVLCOPT:network-caching=1000
-https://live436.delivery.roku.com/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/76d71a5e-3579-422f-8d81-9a129bd4ba5e/live.m3u8
-#EXTINF:0,Filmrise Classic (Geo)
-#EXTVLCOPT:network-caching=1000
-https://live436.delivery.roku.com/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/8576275e-fcac-4f83-bbcf-c4c59d3f484d/live.m3u8
-#EXTINF:0,FilmRise Classic TV
-#EXTVLCOPT:network-caching=1000
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
-#EXTINF:0,FilmRise Family
-#EXTVLCOPT:network-caching=1000
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
-#EXTINF:0,Filmrise Food (Geo)
-#EXTVLCOPT:network-caching=1000
-https://live436.delivery.roku.com/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/12c272ff-71f8-4eca-99ac-39ec3368f4c9/live.m3u8
-#EXTINF:0,FilmRise Forensic Files (Geo)
-#EXTVLCOPT:network-caching=1000
-https://live436.delivery.roku.com/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/a34fbc23-6ba4-42d8-b86f-a956121092cd/live.m3u8
-#EXTINF:0,FilmRise Free Movies
-#EXTVLCOPT:network-caching=1000
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=
-#EXTINF:0,Filmrise Free Movies (Geo)
-#EXTVLCOPT:network-caching=1000
-https://live423.delivery.roku.com/98073cee-023b-4b7c-9fe2-8b4a4688fadb/t2-origin/out/v1/live.m3u8
-#EXTINF:60,FilmRise Horror (Geo)
-#EXTVLCOPT:network-caching=1000
-https://live436.delivery.roku.com/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/e55c066f-6c30-4686-aeac-731f8f7ab561/live.m3u8
-#EXTINF:0,Filmrise Kids (Geo)
-#EXTVLCOPT:network-caching=1000
-https://live436.delivery.roku.com/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/eb1eff9f-c29c-408e-879e-d42a375983fd/live.m3u8
-#EXTINF:0,FilmRise Mysteries (Geo)
-#EXTVLCOPT:network-caching=1000
-https://live436.delivery.roku.com/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/b33f75e6-d13b-43fb-836f-a13f35298372/live.m3u8
-#EXTINF:0,FilmRise Sci-Fi (Geo)
-#EXTVLCOPT:network-caching=1000
-https://live436.delivery.roku.com/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/dc885253-c319-4913-aeca-900745ebce58/live.m3u8
-#EXTINF:0,Filmrise True Crime (Geo)
-#EXTVLCOPT:network-caching=1000
-https://live436.delivery.roku.com/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/4cb6a45e-6cea-49b3-a2c0-312700076af8/live.m3u8
-#EXTINF:0,Filmrise Western (Geo)
-#EXTVLCOPT:network-caching=1000
-https://live1026.delivery.roku.com/02fff215-420e-4067-b480-dd9d16ac068e/t2-origin/out/v1/live.m3u8
 #EXTINF:36, Bigtime - Free Movies
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6348a4f190b96ef5e0eb3286.m3u8
 #EXTINF:0, the guys who make movies funny, are the former stars of the cult TV show Mystery Science Theater 3000.  They’ve brought their comedic riffing treatment to over 200 feature films - from the cheesiest B movies to the latest Hollywood blockbusters!" group-title="Comedy", RiffTrax
