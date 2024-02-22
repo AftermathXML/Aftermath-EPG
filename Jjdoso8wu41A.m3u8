@@ -1,5 +1,39 @@
 #EXTM3U
-#EXTINF:0,CA : CTV NEWS CHANNEL
+#EXTINF:60,WU Tang Collection
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991745
+#EXTINF:60,Hi-Yah!
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302
+#EXTINF:0,Filmrise True Crime
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-True-Crime.m3u8
+#EXTINF:60,Filmrise Horror
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror.m3u8
+#EXTINF:0,Filmrise Black TV
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-BlackTV.m3u8
+#EXTINF:59,Filmrise
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991337
+#EXTINF:0, FilmRise Western
+https://i.mjh.nz/SamsungTVPlus/CAAJ27000159K.m3u8
+#EXTINF:0, FilmRise Western
+https://i.mjh.nz/SamsungTVPlus/USBB32000196O.m3u8
+#EXTINF:59, FilmRise True Crime
+https://i.mjh.nz/SamsungTVPlus/CAAJ27000079E.m3u8
+#EXTINF:60, FilmRise Free Movies
+https://i.mjh.nz/SamsungTVPlus/CAAJ40000077N.m3u8
+#EXTINF:58, FilmRise Free Movies
+https://i.mjh.nz/SamsungTVPlus/USAJ40000072X.m3u8
+#EXTINF:0, FilmRise Classic TV
+https://i.mjh.nz/SamsungTVPlus/CAAJ2700008QA.m3u8
+#EXTINF:59, FilmRise Action
+https://i.mjh.nz/SamsungTVPlus/CAAJ2700014EE.m3u8
+#EXTINF:54, FilmRise Action
+https://i.mjh.nz/SamsungTVPlus/USBB3200020ID.m3u8
+#EXTINF:50,CA : CTV NEWS CHANNEL
 http://mains.services/live/pmf0423/1aku0jt%40/5f84d329-bcdc-435d-b497-219c873527af.m3u
 #EXTINF:0,CA : FOOD NETWORK
 http://mains.services/live/pmf0423/1aku0jt%40/bcc84d2f-7f00-46e1-8da4-56b2db38514c.m3u
