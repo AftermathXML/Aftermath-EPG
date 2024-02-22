@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:0,USA - TSN 1
+#EXTVLCOPT:network-caching=1000
+http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61554
+#EXTINF:0,USA - TSN 2 
+#EXTVLCOPT:network-caching=1000
+http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61555
+#EXTINF:0,USA - TSN 3
+#EXTVLCOPT:network-caching=1000
+http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61556
+#EXTINF:0,USA - TSN 4
+#EXTVLCOPT:network-caching=1000
+http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61557
+#EXTINF:0,USA - TSN 5
+#EXTVLCOPT:network-caching=1000
+http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61558
 #EXTINF:0,CA : A&E
 http://mains.services/live/pmf0423/1aku0jt%40/50c7e9df-e57d-473a-9209-a47f020dfa93.m3u
 #EXTINF:0,CA : ABC SPARK
