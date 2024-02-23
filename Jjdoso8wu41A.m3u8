@@ -1,277 +1,6 @@
 #EXTM3U
-#EXTINF:60,WU Tang Collection
-#EXTVLCOPT:network-caching=1000
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991745
-#EXTINF:60,Hi-Yah!
-#EXTVLCOPT:network-caching=1000
-https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302
-#EXTINF:0,Filmrise True Crime
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-True-Crime.m3u8
-#EXTINF:60,Filmrise Horror
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror.m3u8
-#EXTINF:0,Filmrise Black TV
-#EXTVLCOPT:network-caching=1000
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-BlackTV.m3u8
-#EXTINF:59,Filmrise
-#EXTVLCOPT:network-caching=1000
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991337
-#EXTINF:0, FilmRise Western
-https://i.mjh.nz/SamsungTVPlus/CAAJ27000159K.m3u8
-#EXTINF:0, FilmRise Western
-https://i.mjh.nz/SamsungTVPlus/USBB32000196O.m3u8
-#EXTINF:59, FilmRise True Crime
-https://i.mjh.nz/SamsungTVPlus/CAAJ27000079E.m3u8
-#EXTINF:60, FilmRise Free Movies
-https://i.mjh.nz/SamsungTVPlus/CAAJ40000077N.m3u8
-#EXTINF:58, FilmRise Free Movies
-https://i.mjh.nz/SamsungTVPlus/USAJ40000072X.m3u8
-#EXTINF:0, FilmRise Classic TV
-https://i.mjh.nz/SamsungTVPlus/CAAJ2700008QA.m3u8
-#EXTINF:59, FilmRise Action
-https://i.mjh.nz/SamsungTVPlus/CAAJ2700014EE.m3u8
-#EXTINF:54, FilmRise Action
-https://i.mjh.nz/SamsungTVPlus/USBB3200020ID.m3u8
-#EXTINF:50,CA : CTV NEWS CHANNEL
-http://mains.services/live/pmf0423/1aku0jt%40/5f84d329-bcdc-435d-b497-219c873527af.m3u
-#EXTINF:0,CA : FOOD NETWORK
-http://mains.services/live/pmf0423/1aku0jt%40/bcc84d2f-7f00-46e1-8da4-56b2db38514c.m3u
-#EXTINF:50,US : CNN
-http://mains.services/live/pmf0423/1aku0jt%40/4a4cdf4e-2bd8-49b9-bb8a-91adcb154ae9.m3u
-#EXTINF:0,US : FOX NEWS CHANNEL
-http://mains.services/live/pmf0423/1aku0jt%40/601e83bc-431d-4ea2-a0c4-7bdd4bce6462.m3u
-#EXTINF:0, Crunchyroll
-https://r.mjh.nz/PlutoTV/65652f7fc0fc88000883537a-alt.m3u8
-#EXTINF:0,USA - TSN 1
-#EXTVLCOPT:network-caching=1000
-http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61554
-#EXTINF:0,USA - TSN 2 
-#EXTVLCOPT:network-caching=1000
-http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61555
-#EXTINF:0,USA - TSN 3
-#EXTVLCOPT:network-caching=1000
-http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61556
-#EXTINF:0,USA - TSN 4
-#EXTVLCOPT:network-caching=1000
-http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61557
-#EXTINF:0,USA - TSN 5
-#EXTVLCOPT:network-caching=1000
-http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61558
-#EXTINF:0,CA : A&E
-http://mains.services/live/pmf0423/1aku0jt%40/50c7e9df-e57d-473a-9209-a47f020dfa93.m3u
-#EXTINF:0,CA : ABC SPARK
-http://mains.services/live/pmf0423/1aku0jt%40/2638f363-ad46-4e59-89b8-208188283c70.m3u
-#EXTINF:0,CA : ADULT SWIM
-http://mains.services/live/pmf0423/1aku0jt%40/4872c571-7125-442e-91c1-f6e76b03b7e4.m3u
-#EXTINF:0,CA : AMC
-http://mains.services/live/pmf0423/1aku0jt%40/e2d70511-417d-4544-9e4f-afb3c2974f64.m3u
-#EXTINF:0,CA : BBC CANADA
-http://mains.services/live/pmf0423/1aku0jt%40/7c6c1cce-8e7c-45cc-bced-239d8983bf43.m3u
-#EXTINF:0,CA : CARTOON NETWORK
-http://mains.services/live/pmf0423/1aku0jt%40/4f2edee3-ce46-46c2-81f2-bf2c8da96ffe.m3u
-#EXTINF:0,CA : CITY TV TORONTO
-http://mains.services/live/pmf0423/1aku0jt%40/46e31ee9-54d7-428e-bebf-87479a4a035e.m3u
-#EXTINF:0,CA : CP24
-http://mains.services/live/pmf0423/1aku0jt%40/352d2888-e11b-48d8-89cc-5c87eb964d5e.m3u
-#EXTINF:0,CA : CRAVE 1
-http://mains.services/live/pmf0423/1aku0jt%40/4aea29e6-822a-4516-9300-ff6f26573005.m3u
-#EXTINF:0,CA : CRAVE 2
-http://mains.services/live/pmf0423/1aku0jt%40/2da0df01-7653-4bed-bb95-cbcb2c991c37.m3u
-#EXTINF:0,CA : CRAVE 3
-http://mains.services/live/pmf0423/1aku0jt%40/d2a25995-aceb-49af-aa80-710b36bfb0e6.m3u
-#EXTINF:0,CA : CRAVE 4
-http://mains.services/live/pmf0423/1aku0jt%40/9e50f43d-801c-4229-beb3-38bdbf14dc13.m3u
-#EXTINF:0,CA : DEJAVIEW
-http://mains.services/live/pmf0423/1aku0jt%40/006b4011-43c4-4d67-ab4f-d0f6a1955532.m3u
-#EXTINF:0,CA : HOLLYWOOD SUITE 2000s
-http://mains.services/live/pmf0423/1aku0jt%40/76d28b26-99b2-4017-a45b-d117027abdac.m3u
-#EXTINF:0,CA : HOLLYWOOD SUITE 70s
-http://mains.services/live/pmf0423/1aku0jt%40/4b58160e-b9e6-405f-9c6a-1c5e7935221f.m3u
-#EXTINF:0,CA : HOLLYWOOD SUITE 80s
-http://mains.services/live/pmf0423/1aku0jt%40/07d0ce6a-cdbb-4367-ba71-2e59abb7a6e7.m3u
-#EXTINF:0,CA : HOLLYWOOD SUITE 90s
-http://mains.services/live/pmf0423/1aku0jt%40/a007db3e-eabb-4322-8455-c02c18a67df8.m3u
-#EXTINF:0,CA : MUCH
-http://mains.services/live/pmf0423/1aku0jt%40/5f9b360c-3f8b-4852-9b39-14c520d93a38.m3u
-#EXTINF:0,CA : SPORTSNET 360
-http://mains.services/live/pmf0423/1aku0jt%40/3be0557f-f67b-4ce4-8b05-5142ed952870.m3u
-#EXTINF:0,CA : SPORTSNET EAST
-http://mains.services/live/pmf0423/1aku0jt%40/98f22436-c862-4a90-b3c3-7286bdf1db03.m3u
-#EXTINF:0,CA : SPORTSNET ONE
-http://mains.services/live/pmf0423/1aku0jt%40/dc379409-ee90-4382-9d9c-8d60ddd14302.m3u
-#EXTINF:0,CA : SPORTSNET PACIFIC
-http://mains.services/live/pmf0423/1aku0jt%40/6bbaa88e-b678-416e-b087-34da238bf88c.m3u
-#EXTINF:0,GB : BOOMERANG
-http://mains.services/live/pmf0423/1aku0jt%40/3ef2fbdc-b8f8-4b66-a692-346dc85e5359.m3u
-#EXTINF:0,GB : SKY ATLANTIC
-http://mains.services/live/pmf0423/1aku0jt%40/bce13a56-09d7-4e13-9d0f-4cc6d037319f.m3u
-#EXTINF:0,GB : SKY CINEMA ACTION
-http://mains.services/live/pmf0423/1aku0jt%40/9f764494-a742-45e1-a857-af6515cd098f.m3u
-#EXTINF:0,GB : SKY CINEMA ANIMATION
-http://mains.services/live/pmf0423/1aku0jt%40/be8ae3e0-236e-4e31-9e1a-21faa92ad120.m3u
-#EXTINF:0,GB : SKY CINEMA COMEDY
-http://mains.services/live/pmf0423/1aku0jt%40/818d9064-5aed-4847-9630-bb0cdf6677f0.m3u
-#EXTINF:0,GB : SKY CINEMA DRAMA
-http://mains.services/live/pmf0423/1aku0jt%40/aee69300-87dc-4ecb-990e-a0b48bc37f24.m3u
-#EXTINF:0,GB : SKY CINEMA FAMILY
-http://mains.services/live/pmf0423/1aku0jt%40/55755742-d541-45c1-ae7d-793dc1b71a69.m3u
-#EXTINF:0,GB : SKY CINEMA GREATS
-http://mains.services/live/pmf0423/1aku0jt%40/23d28a3d-1b05-43d4-b4ef-9414c6d7335e.m3u
-#EXTINF:0,GB : SKY CINEMA HITS
-http://mains.services/live/pmf0423/1aku0jt%40/50325fb3-2b41-44f1-903f-9baf15cad14d.m3u
-#EXTINF:0,GB : SKY CINEMA PREMIERE
-http://mains.services/live/pmf0423/1aku0jt%40/7c001dcd-9496-431f-825c-f994e1e45ae6.m3u
-#EXTINF:0,GB : SKY CINEMA SCI-FI
-http://mains.services/live/pmf0423/1aku0jt%40/8531cfd2-8b1a-4e24-bb6d-9b1200e52d78.m3u
-#EXTINF:0,GB : SKY CINEMA THRILLER
-http://mains.services/live/pmf0423/1aku0jt%40/efbb9e32-4b62-4a6f-b72e-4d8241a7d4db.m3u
-#EXTINF:0,GB : SKY COMEDY
-http://mains.services/live/pmf0423/1aku0jt%40/290147cc-48b7-4541-974f-3b17c5b5b73b.m3u
-#EXTINF:0,GB : TNT SPORTS 01
-http://mains.services/live/pmf0423/1aku0jt%40/6c5b4010-afa9-4e64-921b-263217b936da.m3u
-#EXTINF:0,GB : TNT SPORTS 02
-http://mains.services/live/pmf0423/1aku0jt%40/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.m3u
-#EXTINF:0,GB : TNT SPORTS 03
-http://mains.services/live/pmf0423/1aku0jt%40/3487f1f4-771e-4c8c-aa7c-80945800c7d9.m3u
-#EXTINF:0,GB : TNT SPORTS 04
-http://mains.services/live/pmf0423/1aku0jt%40/26a00017-1496-468f-8693-93df9e1b846f.m3u
-#EXTINF:0,US : ESPN
-http://mains.services/live/pmf0423/1aku0jt%40/2191e4f0-5b32-4be9-92a5-f132ee389d6f.m3u
-#EXTINF:0,US : ESPN 2
-http://mains.services/live/pmf0423/1aku0jt%40/c9982f5c-883b-4f5c-a544-f6aad83836ed.m3u
-#EXTINF:0,US : ESPN DEPORTES FHD
-http://mains.services/live/pmf0423/1aku0jt%40/79c81c69-bc8f-4df1-9ac1-4ddc67e3ec1c.m3u
-#EXTINF:0,US : ESPN NEWS
-http://mains.services/live/pmf0423/1aku0jt%40/3b8c951e-b931-49b6-b406-9c603b1cdf4f.m3u
-#EXTINF:0,US : ESPN NEWS FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/1da60b7c-3f73-45fa-a7b7-259350ad78fa.m3u
-#EXTINF:0,US : ESPN U
-http://mains.services/live/pmf0423/1aku0jt%40/a9652e03-9ed6-4e84-9145-2dd528509e71.m3u
-#EXTINF:0,US : ESPN U FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/19db782b-0a2d-42f2-b85d-e93a54b964a2.m3u
-#EXTINF:0,US : FREEFORM
-http://mains.services/live/pmf0423/1aku0jt%40/0f7bb2c4-9411-4a9b-bacf-6cb4c1bd44ba.m3u
-#EXTINF:50,US : FUSE
-http://mains.services/live/pmf0423/1aku0jt%40/a2903e36-7a71-4894-baa9-509fe803768a.m3u
-#EXTINF:0,US : FX
-http://mains.services/live/pmf0423/1aku0jt%40/0bc5076a-871a-4574-ba14-2302049aa688.m3u
-#EXTINF:0,US : FXM
-http://mains.services/live/pmf0423/1aku0jt%40/b319309c-5199-40bf-9bb6-8bbd16fc7158.m3u
-#EXTINF:0,US : FXX
-http://mains.services/live/pmf0423/1aku0jt%40/e9fc2880-b9cd-46ef-b80e-0830d51303ae.m3u
-#EXTINF:0,US : HBO COMEDY
-http://mains.services/live/pmf0423/1aku0jt%40/7b7443ed-d764-4a7a-b3f4-b5fcb347f68e.m3u
-#EXTINF:0,US : HBO EAST
-http://mains.services/live/pmf0423/1aku0jt%40/cf866ce9-3357-426c-a87d-9fbc3c806f79.m3u
-#EXTINF:0,US : HBO FAMILY
-http://mains.services/live/pmf0423/1aku0jt%40/da163917-c57e-47c5-bfb2-eb97ce575ba6.m3u
-#EXTINF:0,US : HBO SIGNATURE EAST
-http://mains.services/live/pmf0423/1aku0jt%40/d5243253-180b-47fb-b7b0-3448b280480f.m3u
-#EXTINF:0,US : HBO ZONE
-http://mains.services/live/pmf0423/1aku0jt%40/91370594-0b36-446d-bd17-158347f7cc89.m3u
-#EXTINF:0,US : INVESTIGATION DISCOVERY
-http://mains.services/live/pmf0423/1aku0jt%40/9a563cd3-c044-43e4-910e-9a870c34bf3b.m3u
-#EXTINF:0,US : LAFF TV
-http://mains.services/live/pmf0423/1aku0jt%40/23ac9757-6d50-4053-85d7-77c8f918bc6b.m3u
-#EXTINF:0,US : ME TV
-http://mains.services/live/pmf0423/1aku0jt%40/c361079d-4a51-432f-a70f-f49d74aea8bd.m3u
-#EXTINF:0,US : METV FHD
-http://mains.services/live/pmf0423/1aku0jt%40/a22076b0-fd82-4f8a-a406-e8d43dc18993.m3u
-#EXTINF:0,US : MGM+
-http://mains.services/live/pmf0423/1aku0jt%40/8b067ad2-9419-41ca-b598-a149581bb9a5.m3u
-#EXTINF:0,US : MGM+ DRIVE-IN
-http://mains.services/live/pmf0423/1aku0jt%40/0c7ffa48-2560-4672-9d17-2626ee060355.m3u
-#EXTINF:0,US : MGM+ HITS
-http://mains.services/live/pmf0423/1aku0jt%40/b24b80fe-6f1d-43f6-a087-6a88a7d3c0bc.m3u
-#EXTINF:0,US : MGM+ MARQUEE
-http://mains.services/live/pmf0423/1aku0jt%40/acde4878-8208-4bf0-b118-e24650b9d910.m3u
-#EXTINF:0,US : SHOWTIME EAST
-http://mains.services/live/pmf0423/1aku0jt%40/951f812f-7fc2-4f3d-b16a-89b008d75d94.m3u
-#EXTINF:0,US : SHOWTIME EAST FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/bb472739-a3fa-4600-acde-d8418220dc73.m3u
-#EXTINF:0,US : SHOWTIME EXTREME
-http://mains.services/live/pmf0423/1aku0jt%40/862261ae-6b38-4bab-8075-01cf87c4e0d7.m3u
-#EXTINF:0,US : SHOWTIME EXTREME WEST HD
-http://mains.services/live/pmf0423/1aku0jt%40/48e95d63-46f8-43af-a487-fa462abe3328.m3u
-#EXTINF:0,US : SHOWTIME FAMILY ZONE
-http://mains.services/live/pmf0423/1aku0jt%40/3b97fc18-9bff-41e2-ad7b-f46a0cb37531.m3u
-#EXTINF:0,US : SHOWTIME FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/f8544552-4193-4275-93df-838180f8b43f.m3u
-#EXTINF:0,US : SHOWTIME  NEXT
-http://mains.services/live/pmf0423/1aku0jt%40/68cac6b8-6ea0-4f10-804a-6e5e7916cf7d.m3u
-#EXTINF:0,US : SHOWTIME SHOWCASE
-http://mains.services/live/pmf0423/1aku0jt%40/27a1a946-29e0-4496-8b9c-f51bf4cd0694.m3u
-#EXTINF:0,US : SHOWTIME SHOWCASE FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/4d9d7767-5492-43b2-a4c3-7e673332464a.m3u
-#EXTINF:0,US : SHOWTIME SHOWCASE WEST HD
-http://mains.services/live/pmf0423/1aku0jt%40/3c430bb3-05c5-4504-8f74-057bba3351b9.m3u
-#EXTINF:0,US : SHOWTIME WEST
-http://mains.services/live/pmf0423/1aku0jt%40/96a3da86-86ac-4195-9781-25614a1ec290.m3u
-#EXTINF:0,US : SHOWTIME WEST FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/148a5a16-3f13-4cac-bc42-70ae0b3b2a4a.m3u
-#EXTINF:0,US : SHOWTIME WEST HD
-http://mains.services/live/pmf0423/1aku0jt%40/9cf89874-258a-40e4-b64f-b1e51e75455d.m3u
-#EXTINF:0,US : SHOWTIME WOMEN
-http://mains.services/live/pmf0423/1aku0jt%40/8086546f-e5d0-46d9-a817-89c59826126b.m3u
-#EXTINF:0,US : STARZ CINEMA
-http://mains.services/live/pmf0423/1aku0jt%40/1896d9b4-941a-4edb-ba4b-b88a7cca678a.m3u
-#EXTINF:0,US : STARZ CINEMA FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/42191289-dbbc-42f3-9eb3-4f004bb08492.m3u
-#EXTINF:0,US : STARZ COMEDY
-http://mains.services/live/pmf0423/1aku0jt%40/e8c78330-8776-4907-968e-db1f0f6010ea.m3u
-#EXTINF:0,US : STARZ EAST
-http://mains.services/live/pmf0423/1aku0jt%40/b5771b63-1b3c-42ce-886a-a65ea33c16bd.m3u
-#EXTINF:0,US : STARZ EDGE
-http://mains.services/live/pmf0423/1aku0jt%40/e885db74-17a8-4d37-a7f1-75d502d253c9.m3u
-#EXTINF:0,US : STARZ ENCORE
-http://mains.services/live/pmf0423/1aku0jt%40/11d3e629-f14b-4c07-9e41-4246b0f9903d.m3u
-#EXTINF:0,US : STARZ ENCORE ACTION
-http://mains.services/live/pmf0423/1aku0jt%40/409058f3-f91a-4923-8ea9-48217f985923.m3u
-#EXTINF:0,US : STARZ  ENCORE BLACK
-http://mains.services/live/pmf0423/1aku0jt%40/2f24cf2f-a937-41d2-9a9e-17401489f45f.m3u
-#EXTINF:0,US : STARZ ENCORE CLASSIC
-http://mains.services/live/pmf0423/1aku0jt%40/347beb2d-168e-467d-94be-c28101a4d900.m3u
-#EXTINF:0,US : STARZ ENCORE FAMILY
-http://mains.services/live/pmf0423/1aku0jt%40/906946cc-ec9b-4b47-a8c8-bfef3fb8d014.m3u
-#EXTINF:0,US : STARZ ENCORE FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/6e640297-4838-4098-a864-cc4f58a1e146.m3u
-#EXTINF:0,US : STARZ ENCORE SUSPENSE
-http://mains.services/live/pmf0423/1aku0jt%40/8ddd80ff-20cf-4c05-b632-d6f52cd8204d.m3u
-#EXTINF:0,US : STARZ ENCORE WESTERNS
-http://mains.services/live/pmf0423/1aku0jt%40/01d0650b-8e43-4b4c-93e0-6cf15df8555b.m3u
-#EXTINF:0,US : STARZ FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/1adb930b-83cb-4fa3-a80a-1a88fea83c67.m3u
-#EXTINF:0,US : STARZ KIDS & FAMILY
-http://mains.services/live/pmf0423/1aku0jt%40/ff06494f-3b85-418f-b9ee-a32947e51a5e.m3u
-#EXTINF:0,US : SUNDANCE TV
-http://mains.services/live/pmf0423/1aku0jt%40/aef56886-3b17-4590-89fc-192c36f5ceba.m3u
-#EXTINF:0,US : SYFY
-http://mains.services/live/pmf0423/1aku0jt%40/bb5ac3dd-9ed2-4060-adb6-0e9355dc6782.m3u
-#EXTINF:0,US : TBS
-http://mains.services/live/pmf0423/1aku0jt%40/4149f8aa-5cb0-4632-abd7-d59fffffc31a.m3u
-#EXTINF:0,US : TNT EAST
-http://mains.services/live/pmf0423/1aku0jt%40/9936e9e7-e0d6-411c-b06c-035804c8319b.m3u
-#EXTINF:0,US : TV LAND
-http://mains.services/live/pmf0423/1aku0jt%40/d44e3c45-f357-4ff2-80a3-4e167abf4107.m3u
-#EXTINF:25, Haunt TV
-https://r.mjh.nz/PlutoTV/6319f06067a3ee000708af95-alt.m3u8
-#EXTINF:0, Comedy Central Animation
-https://r.mjh.nz/PlutoTV/64f8a949f5b5e4000862467c-alt.m3u8
-#EXTINF:25, Anime All Day
-https://r.mjh.nz/PlutoTV/5812b7d3249444e05d09cc49-alt.m3u8
-#EXTINF:25, Global News Kingston
-https://r.mjh.nz/PlutoTV/62cbf4964446e2000742073e-alt.m3u8
-#EXTINF:60, Crunchyroll
-https://i.mjh.nz/Roku/307b3b9ea321539b9688148fc97a8bfd.m3u8
-#EXTINF:60, Aliwko
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64d4ee537b323f6abbd19e59.m3u8
-#EXTINF:0, AsianCrush
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767.m3u8
 #EXTINF:25, 00s Replay
 https://r.mjh.nz/PlutoTV/62ba60f059624e000781c436-alt.m3u8
-#EXTINF:0, 90s Throwback
-https://r.mjh.nz/PlutoTV/5f4d86f519358a00072b978e-alt.m3u8
 #EXTINF:25, right here on 00s Replay." group-title="Movies" -  00s Replay
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8cacb6-b9e0-11ee-aad9-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f80fd93e-11ba-4513-8b08-ca818f3fc9ac&userId=&serverSideAds=true
@@ -290,6 +19,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:0, 70s Cinema
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8cae6e-b9e0-11ee-8041-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2bed6dcf-d3cb-4e6c-a053-695028bf666b&userId=&serverSideAds=true
+#EXTINF:0, 90s Throwback
+https://r.mjh.nz/PlutoTV/5f4d86f519358a00072b978e-alt.m3u8
 #EXTINF:0, 24 hours a day." group-title="Movies" -  90s Throwback
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8cad4c-b9e0-11ee-a8d0-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=16ba3e61-9276-49bd-95a5-29f79da6d39e&userId=&serverSideAds=true
@@ -299,6 +30,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:0, a family entertainment destination that delivers enduring childhood moments of humor -  adventure, and discovery through hit shows including Stan Lee’s Superhero Kindergarten, Rainbow Rangers, and more!" group-title="Kids", Kartoon Channel!
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb040d4795a6000762fe8f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d5e68-b9e0-11ee-8c01-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7e61467f-8124-43ed-87cd-f8a1475747b2&userId=&serverSideAds=true
+#EXTINF:60, Aliwko
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64d4ee537b323f6abbd19e59.m3u8
 #EXTINF:0, get ready for Teen Mom on Pluto TV. Enjoy MTV’s hit shows like Teen Mom OG and Teen Mom 2 -  all day, everyday. Relive all the wildest moments from your favorite teen moms. Don’t miss Teen Mom, now on Pluto TV." group-title="Reality", Teen Mom
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6127e12ed140e900077e7b6f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8cfc2a-b9e0-11ee-bb53-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dae11605-3f82-416a-9324-9aacae057d48&userId=&serverSideAds=true
@@ -440,6 +173,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:0, romance -  angst, and fun of the Emmy-nominated “Degrassi: The Next Generation” any time, here on Pluto TV." group-title="Drama", Degrassi
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6eeb85c05dfc257e5a50c4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8ce640-b9e0-11ee-9d8e-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=285de168-7bf2-4c90-970e-115a82c12286&userId=&serverSideAds=true
+#EXTINF:25, Anime All Day
+https://r.mjh.nz/PlutoTV/5812b7d3249444e05d09cc49-alt.m3u8
 #EXTINF:0, where you can watch all kinds of anime from your favorite classics to today’s biggest hits. Catch up on your favorite series or jump into a new adventure with Anime All Day." group-title="Gaming + Anime" -  Anime All Day
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d6782-b9e0-11ee-977c-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=48fc1684-fb66-4501-bc44-81a5c68959e8&userId=&serverSideAds=true
@@ -464,6 +199,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:0, including episodes of original programs -  as well as recent hit series and timeless classics. Want access to live sports, breaking news and a mountain of entertainment? Get Paramount+ now." group-title="Entertainment", Paramount+ Picks
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d0512-b9e0-11ee-8e41-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c02b9c6-e4c7-495b-bbe1-04bd455d124c&userId=&serverSideAds=true
+#EXTINF:0, AsianCrush
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767.m3u8
 #EXTINF:0, you’ll find the most popular -  award-winning, non-fiction series,  here on Pluto" group-title="Lifestyle + Culture", Smithsonian Channel Selects
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f21ea08007a49000762d349/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d452c-b9e0-11ee-9481-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6871e4fa-eebc-4068-8ae0-5a1fde3f3913&userId=&serverSideAds=true
@@ -570,6 +307,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:0, news and highlights network. Watch LIVE soccer -  combat sports, adventure sports, original studio programming and an XTRA robust library of historically relevant sporting events… all at no XTRA cost!" group-title="Sports", beIN SPORTS XTRA
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d379e-b9e0-11ee-8f42-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa132bb1-f196-489a-bbb2-67aa9d765a84&userId=&serverSideAds=true
+#EXTINF:0, Comedy Central Animation
+https://r.mjh.nz/PlutoTV/64f8a949f5b5e4000862467c-alt.m3u8
 #EXTINF:0, Comedy Central Animation is a treasure trove of animated fan favorites." group-title="Comedy" -  Comedy Central Animation
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8cb5f8-b9e0-11ee-bdf5-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=87cb8e73-0cdd-4bf1-b8fb-813b0f08e5c1&userId=&serverSideAds=true
@@ -599,6 +338,10 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:25, TAPS (The Atlantic Paranormal Society) -  cross the country searching for answers in the nation's most haunted locations." group-title="Reality", Ghost Hunters
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8cf61c-b9e0-11ee-c0a3-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=01304b0d-fa67-4660-b66f-87ea4a6da901&userId=&serverSideAds=true
+#EXTINF:0, Crunchyroll
+https://r.mjh.nz/PlutoTV/65652f7fc0fc88000883537a-alt.m3u8
+#EXTINF:60, Crunchyroll
+https://i.mjh.nz/Roku/307b3b9ea321539b9688148fc97a8bfd.m3u8
 #EXTINF:0, friendships -  crushes, pranks and more on Nickelodeon’s Totally Teen with iCarly, VICTORiOUS, and Sam & Cat every day on Pluto TV!" group-title="Kids", Totally Teen
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6450209d939a5900084dba1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d594a-b9e0-11ee-863d-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8504abd6-bdc2-4944-bab3-69eb92bcebc1&userId=&serverSideAds=true
@@ -686,6 +429,22 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:0, The Asylum Movie Channel offers the very best in Original Films and TV -  featuring action-adventure, sci-fi, horror, late-night thrills and more. Popcorn and beer is a must!" group-title="Sci-Fi", The Asylum
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8cd588-b9e0-11ee-9094-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d71cf954-9a10-43f9-9af9-5cf3bb0a874d&userId=&serverSideAds=true
+#EXTINF:59, FilmRise Action
+https://i.mjh.nz/SamsungTVPlus/CAAJ2700014EE.m3u8
+#EXTINF:54, FilmRise Action
+https://i.mjh.nz/SamsungTVPlus/USBB3200020ID.m3u8
+#EXTINF:0, FilmRise Classic TV
+https://i.mjh.nz/SamsungTVPlus/CAAJ2700008QA.m3u8
+#EXTINF:60, FilmRise Free Movies
+https://i.mjh.nz/SamsungTVPlus/CAAJ40000077N.m3u8
+#EXTINF:58, FilmRise Free Movies
+https://i.mjh.nz/SamsungTVPlus/USAJ40000072X.m3u8
+#EXTINF:59, FilmRise True Crime
+https://i.mjh.nz/SamsungTVPlus/CAAJ27000079E.m3u8
+#EXTINF:0, FilmRise Western
+https://i.mjh.nz/SamsungTVPlus/CAAJ27000159K.m3u8
+#EXTINF:0, FilmRise Western
+https://i.mjh.nz/SamsungTVPlus/USBB32000196O.m3u8
 #EXTINF:0, restaurantes de clase mundial y platos exóticos desfilan por el canal que te mostrará excitantes maneras de preparar ese aburrido arroz... ¡Tu cocina no será la misma!" group-title="En Español" -  Foodies
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8e3888-b9e0-11ee-9987-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b0dc2bf-1526-45b9-a903-b464de8b7062&userId=&serverSideAds=true
@@ -707,6 +466,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:0, to the finest offerings of internationally known restaurants -  get your tastebuds ready to enter the delicious world of Food TV." group-title="Food", Food TV
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d40d6-b9e0-11ee-8ba5-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7f90af5b-44cf-49b1-98f5-c8177ba0500a&userId=&serverSideAds=true
+#EXTINF:25, Global News Kingston
+https://r.mjh.nz/PlutoTV/62cbf4964446e2000742073e-alt.m3u8
 #EXTINF:0, Gordon Ramsay's Hell's Kitchen
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e99f4423e067bd6df6903/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d4248-b9e0-11ee-847f-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=00f70423-f822-4d75-922f-de92c5138d94&userId=&serverSideAds=true
@@ -719,6 +480,8 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:0, Jamie Oliver -  has built his own 24/7 channel." group-title="Food", The Jamie Oliver Channel
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab9df3d48f40008868091/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d42de-b9e0-11ee-9a73-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c3feffab-6f6d-4a2c-908a-ef4463d3c097&userId=&serverSideAds=true
+#EXTINF:25, Haunt TV
+https://r.mjh.nz/PlutoTV/6319f06067a3ee000708af95-alt.m3u8
 #EXTINF:0, find your strength and go on unforgettable adventures because powers or not -  having team spirit comes from the heart!" group-title="Kids", Team Spirit
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f9ebb06f0b3d000746fbdb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d5bf2-b9e0-11ee-be09-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b5b94b8-8a60-40f4-9a36-ebf9298e9a01&userId=&serverSideAds=true
@@ -1034,7 +797,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:0, up-to- the-minute reports -  powerful interviews and special features produced by world-class storytellers." group-title="News + Opinion", ABC News Live
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d257e-b9e0-11ee-a314-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e055d74a-7fc9-4154-8eee-e24dde3cd585&userId=&serverSideAds=true
-#EXTINF:0, featuring films and series on alien encounters -  psychic phenomenon, hidden conspiracies and other things that defy explanation." group-title="Reality", Pluto TV Paranormal
+#EXTINF:25, featuring films and series on alien encounters -  psychic phenomenon, hidden conspiracies and other things that defy explanation." group-title="Reality", Pluto TV Paranormal
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8cf586-b9e0-11ee-a23a-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b063984e-ba87-4cc5-a1cb-8a274130e499&userId=&serverSideAds=true
 #EXTINF:0, every day! Watch and shop QVC anytime—at home or on the go." group-title="Daytime TV" -  QVC
@@ -1331,9 +1094,54 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 #EXTINF:0,000 - 000 on the line. 24 hours a day. Watch Deal Or No Deal, hosted by Howie Mandel, any time you want on Pluto TV" group-title="Game Shows", Deal or No Deal
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9debf8c881310007d7bde1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d17a0-b9e0-11ee-888c-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ed87aadc-3d45-4f31-bbdd-81d872744a8f&userId=&serverSideAds=true
-#EXTINF:36,ANIME x HIDIVE
-#EXTVLCOPT:network-caching=1000
-https://b92ce5e96c924931a49f2d97401db3a9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_ANIMExHIDIVE/playlist.m3u8?ads.wurl_channel=1398&ads.wurl_name=ANIMExHIDIVE&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D
+#EXTINF:0,CA : A&E
+http://mains.services/live/pmf0423/1aku0jt%40/50c7e9df-e57d-473a-9209-a47f020dfa93.m3u
+#EXTINF:0,CA : ABC SPARK
+http://mains.services/live/pmf0423/1aku0jt%40/2638f363-ad46-4e59-89b8-208188283c70.m3u
+#EXTINF:0,CA : ADULT SWIM
+http://mains.services/live/pmf0423/1aku0jt%40/4872c571-7125-442e-91c1-f6e76b03b7e4.m3u
+#EXTINF:0,CA : AMC
+http://mains.services/live/pmf0423/1aku0jt%40/e2d70511-417d-4544-9e4f-afb3c2974f64.m3u
+#EXTINF:0,CA : BBC CANADA
+http://mains.services/live/pmf0423/1aku0jt%40/7c6c1cce-8e7c-45cc-bced-239d8983bf43.m3u
+#EXTINF:0,CA : CARTOON NETWORK
+http://mains.services/live/pmf0423/1aku0jt%40/4f2edee3-ce46-46c2-81f2-bf2c8da96ffe.m3u
+#EXTINF:0,CA : CITY TV TORONTO
+http://mains.services/live/pmf0423/1aku0jt%40/46e31ee9-54d7-428e-bebf-87479a4a035e.m3u
+#EXTINF:0,CA : CP24
+http://mains.services/live/pmf0423/1aku0jt%40/352d2888-e11b-48d8-89cc-5c87eb964d5e.m3u
+#EXTINF:0,CA : CRAVE 1
+http://mains.services/live/pmf0423/1aku0jt%40/4aea29e6-822a-4516-9300-ff6f26573005.m3u
+#EXTINF:0,CA : CRAVE 2
+http://mains.services/live/pmf0423/1aku0jt%40/2da0df01-7653-4bed-bb95-cbcb2c991c37.m3u
+#EXTINF:0,CA : CRAVE 3
+http://mains.services/live/pmf0423/1aku0jt%40/d2a25995-aceb-49af-aa80-710b36bfb0e6.m3u
+#EXTINF:0,CA : CRAVE 4
+http://mains.services/live/pmf0423/1aku0jt%40/9e50f43d-801c-4229-beb3-38bdbf14dc13.m3u
+#EXTINF:50,CA : CTV NEWS CHANNEL
+http://mains.services/live/pmf0423/1aku0jt%40/5f84d329-bcdc-435d-b497-219c873527af.m3u
+#EXTINF:0,CA : DEJAVIEW
+http://mains.services/live/pmf0423/1aku0jt%40/006b4011-43c4-4d67-ab4f-d0f6a1955532.m3u
+#EXTINF:0,CA : FOOD NETWORK
+http://mains.services/live/pmf0423/1aku0jt%40/bcc84d2f-7f00-46e1-8da4-56b2db38514c.m3u
+#EXTINF:0,CA : HOLLYWOOD SUITE 2000s
+http://mains.services/live/pmf0423/1aku0jt%40/76d28b26-99b2-4017-a45b-d117027abdac.m3u
+#EXTINF:0,CA : HOLLYWOOD SUITE 70s
+http://mains.services/live/pmf0423/1aku0jt%40/4b58160e-b9e6-405f-9c6a-1c5e7935221f.m3u
+#EXTINF:0,CA : HOLLYWOOD SUITE 80s
+http://mains.services/live/pmf0423/1aku0jt%40/07d0ce6a-cdbb-4367-ba71-2e59abb7a6e7.m3u
+#EXTINF:0,CA : HOLLYWOOD SUITE 90s
+http://mains.services/live/pmf0423/1aku0jt%40/a007db3e-eabb-4322-8455-c02c18a67df8.m3u
+#EXTINF:0,CA : MUCH
+http://mains.services/live/pmf0423/1aku0jt%40/5f9b360c-3f8b-4852-9b39-14c520d93a38.m3u
+#EXTINF:0,CA : SPORTSNET 360
+http://mains.services/live/pmf0423/1aku0jt%40/3be0557f-f67b-4ce4-8b05-5142ed952870.m3u
+#EXTINF:0,CA : SPORTSNET EAST
+http://mains.services/live/pmf0423/1aku0jt%40/98f22436-c862-4a90-b3c3-7286bdf1db03.m3u
+#EXTINF:0,CA : SPORTSNET ONE
+http://mains.services/live/pmf0423/1aku0jt%40/dc379409-ee90-4382-9d9c-8d60ddd14302.m3u
+#EXTINF:0,CA : SPORTSNET PACIFIC
+http://mains.services/live/pmf0423/1aku0jt%40/6bbaa88e-b678-416e-b087-34da238bf88c.m3u
 #EXTINF:0,CA Adult Swim (R)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/34580347/32765518/11644
@@ -1364,11 +1172,60 @@ https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:32,Comet (720p)
 #EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:59,Filmrise
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991337
+#EXTINF:0,Filmrise Black TV
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-BlackTV.m3u8
+#EXTINF:60,Filmrise Horror
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror.m3u8
+#EXTINF:0,Filmrise True Crime
+#EXTVLCOPT:network-caching=1000
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-True-Crime.m3u8
 #EXTINF:36, Bigtime - Free Movies
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6348a4f190b96ef5e0eb3286.m3u8
 #EXTINF:0, the guys who make movies funny, are the former stars of the cult TV show Mystery Science Theater 3000.  They’ve brought their comedic riffing treatment to over 200 feature films - from the cheesiest B movies to the latest Hollywood blockbusters!" group-title="Comedy", RiffTrax
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8cbbb6-b9e0-11ee-b594-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=531dc125-5bdd-45cc-a0a4-9ef899c84e49&userId=&serverSideAds=true
+#EXTINF:0,GB : BOOMERANG
+http://mains.services/live/pmf0423/1aku0jt%40/3ef2fbdc-b8f8-4b66-a692-346dc85e5359.m3u
+#EXTINF:0,GB : SKY ATLANTIC
+http://mains.services/live/pmf0423/1aku0jt%40/bce13a56-09d7-4e13-9d0f-4cc6d037319f.m3u
+#EXTINF:0,GB : SKY CINEMA ACTION
+http://mains.services/live/pmf0423/1aku0jt%40/9f764494-a742-45e1-a857-af6515cd098f.m3u
+#EXTINF:0,GB : SKY CINEMA ANIMATION
+http://mains.services/live/pmf0423/1aku0jt%40/be8ae3e0-236e-4e31-9e1a-21faa92ad120.m3u
+#EXTINF:0,GB : SKY CINEMA COMEDY
+http://mains.services/live/pmf0423/1aku0jt%40/818d9064-5aed-4847-9630-bb0cdf6677f0.m3u
+#EXTINF:0,GB : SKY CINEMA DRAMA
+http://mains.services/live/pmf0423/1aku0jt%40/aee69300-87dc-4ecb-990e-a0b48bc37f24.m3u
+#EXTINF:0,GB : SKY CINEMA FAMILY
+http://mains.services/live/pmf0423/1aku0jt%40/55755742-d541-45c1-ae7d-793dc1b71a69.m3u
+#EXTINF:0,GB : SKY CINEMA GREATS
+http://mains.services/live/pmf0423/1aku0jt%40/23d28a3d-1b05-43d4-b4ef-9414c6d7335e.m3u
+#EXTINF:0,GB : SKY CINEMA HITS
+http://mains.services/live/pmf0423/1aku0jt%40/50325fb3-2b41-44f1-903f-9baf15cad14d.m3u
+#EXTINF:0,GB : SKY CINEMA PREMIERE
+http://mains.services/live/pmf0423/1aku0jt%40/7c001dcd-9496-431f-825c-f994e1e45ae6.m3u
+#EXTINF:0,GB : SKY CINEMA SCI-FI
+http://mains.services/live/pmf0423/1aku0jt%40/8531cfd2-8b1a-4e24-bb6d-9b1200e52d78.m3u
+#EXTINF:0,GB : SKY CINEMA THRILLER
+http://mains.services/live/pmf0423/1aku0jt%40/efbb9e32-4b62-4a6f-b72e-4d8241a7d4db.m3u
+#EXTINF:0,GB : SKY COMEDY
+http://mains.services/live/pmf0423/1aku0jt%40/290147cc-48b7-4541-974f-3b17c5b5b73b.m3u
+#EXTINF:0,GB : TNT SPORTS 01
+http://mains.services/live/pmf0423/1aku0jt%40/6c5b4010-afa9-4e64-921b-263217b936da.m3u
+#EXTINF:0,GB : TNT SPORTS 02
+http://mains.services/live/pmf0423/1aku0jt%40/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.m3u
+#EXTINF:0,GB : TNT SPORTS 03
+http://mains.services/live/pmf0423/1aku0jt%40/3487f1f4-771e-4c8c-aa7c-80945800c7d9.m3u
+#EXTINF:0,GB : TNT SPORTS 04
+http://mains.services/live/pmf0423/1aku0jt%40/26a00017-1496-468f-8693-93df9e1b846f.m3u
+#EXTINF:60,Hi-Yah!
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302
 #EXTINF:56,Lone Star Classics
 https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6196c9241d310bf925e02616.m3u8
 #EXTINF:60,Mytime Movie Network (Geo)
@@ -1423,6 +1280,21 @@ https://live759.delivery.roku.com/t2-origin/out/v1/25d83fb3-d088-460d-9ad2-84915
 #EXTINF:0, entertaining and interiors - TDN focuses on style, how-to, and design choices beyond just the before and after." group-title="Home", The Design Network
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ff8c8bcf3d600078af3eb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d3f64-b9e0-11ee-b69c-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc5e1ce8-bc4c-4890-a590-6d5af12a1d05&userId=&serverSideAds=true
+#EXTINF:0,USA - TSN 1
+#EXTVLCOPT:network-caching=1000
+http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61554
+#EXTINF:0,USA - TSN 2 
+#EXTVLCOPT:network-caching=1000
+http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61555
+#EXTINF:0,USA - TSN 3
+#EXTVLCOPT:network-caching=1000
+http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61556
+#EXTINF:0,USA - TSN 4
+#EXTVLCOPT:network-caching=1000
+http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61557
+#EXTINF:0,USA - TSN 5
+#EXTVLCOPT:network-caching=1000
+http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61558
 #EXTINF:120,Universal Action
 #EXTVLCOPT:network-caching=1000
 https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951254
@@ -1438,6 +1310,128 @@ https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:0,Unsolved Mysterys
 #EXTVLCOPT:network-caching=1000
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991680
+#EXTINF:50,US : CNN
+http://mains.services/live/pmf0423/1aku0jt%40/4a4cdf4e-2bd8-49b9-bb8a-91adcb154ae9.m3u
+#EXTINF:0,US : ESPN
+http://mains.services/live/pmf0423/1aku0jt%40/2191e4f0-5b32-4be9-92a5-f132ee389d6f.m3u
+#EXTINF:0,US : ESPN 2
+http://mains.services/live/pmf0423/1aku0jt%40/c9982f5c-883b-4f5c-a544-f6aad83836ed.m3u
+#EXTINF:0,US : ESPN DEPORTES FHD
+http://mains.services/live/pmf0423/1aku0jt%40/79c81c69-bc8f-4df1-9ac1-4ddc67e3ec1c.m3u
+#EXTINF:0,US : ESPN NEWS
+http://mains.services/live/pmf0423/1aku0jt%40/3b8c951e-b931-49b6-b406-9c603b1cdf4f.m3u
+#EXTINF:0,US : ESPN NEWS FHD 1080
+http://mains.services/live/pmf0423/1aku0jt%40/1da60b7c-3f73-45fa-a7b7-259350ad78fa.m3u
+#EXTINF:0,US : ESPN U
+http://mains.services/live/pmf0423/1aku0jt%40/a9652e03-9ed6-4e84-9145-2dd528509e71.m3u
+#EXTINF:0,US : ESPN U FHD 1080
+http://mains.services/live/pmf0423/1aku0jt%40/19db782b-0a2d-42f2-b85d-e93a54b964a2.m3u
+#EXTINF:0,US : FOX NEWS CHANNEL
+http://mains.services/live/pmf0423/1aku0jt%40/601e83bc-431d-4ea2-a0c4-7bdd4bce6462.m3u
+#EXTINF:0,US : FREEFORM
+http://mains.services/live/pmf0423/1aku0jt%40/0f7bb2c4-9411-4a9b-bacf-6cb4c1bd44ba.m3u
+#EXTINF:50,US : FUSE
+http://mains.services/live/pmf0423/1aku0jt%40/a2903e36-7a71-4894-baa9-509fe803768a.m3u
+#EXTINF:0,US : FX
+http://mains.services/live/pmf0423/1aku0jt%40/0bc5076a-871a-4574-ba14-2302049aa688.m3u
+#EXTINF:0,US : FXM
+http://mains.services/live/pmf0423/1aku0jt%40/b319309c-5199-40bf-9bb6-8bbd16fc7158.m3u
+#EXTINF:0,US : FXX
+http://mains.services/live/pmf0423/1aku0jt%40/e9fc2880-b9cd-46ef-b80e-0830d51303ae.m3u
+#EXTINF:0,US : HBO COMEDY
+http://mains.services/live/pmf0423/1aku0jt%40/7b7443ed-d764-4a7a-b3f4-b5fcb347f68e.m3u
+#EXTINF:0,US : HBO EAST
+http://mains.services/live/pmf0423/1aku0jt%40/cf866ce9-3357-426c-a87d-9fbc3c806f79.m3u
+#EXTINF:0,US : HBO FAMILY
+http://mains.services/live/pmf0423/1aku0jt%40/da163917-c57e-47c5-bfb2-eb97ce575ba6.m3u
+#EXTINF:0,US : HBO SIGNATURE EAST
+http://mains.services/live/pmf0423/1aku0jt%40/d5243253-180b-47fb-b7b0-3448b280480f.m3u
+#EXTINF:0,US : HBO ZONE
+http://mains.services/live/pmf0423/1aku0jt%40/91370594-0b36-446d-bd17-158347f7cc89.m3u
+#EXTINF:0,US : INVESTIGATION DISCOVERY
+http://mains.services/live/pmf0423/1aku0jt%40/9a563cd3-c044-43e4-910e-9a870c34bf3b.m3u
+#EXTINF:0,US : LAFF TV
+http://mains.services/live/pmf0423/1aku0jt%40/23ac9757-6d50-4053-85d7-77c8f918bc6b.m3u
+#EXTINF:0,US : ME TV
+http://mains.services/live/pmf0423/1aku0jt%40/c361079d-4a51-432f-a70f-f49d74aea8bd.m3u
+#EXTINF:0,US : METV FHD
+http://mains.services/live/pmf0423/1aku0jt%40/a22076b0-fd82-4f8a-a406-e8d43dc18993.m3u
+#EXTINF:0,US : MGM+
+http://mains.services/live/pmf0423/1aku0jt%40/8b067ad2-9419-41ca-b598-a149581bb9a5.m3u
+#EXTINF:0,US : MGM+ DRIVE-IN
+http://mains.services/live/pmf0423/1aku0jt%40/0c7ffa48-2560-4672-9d17-2626ee060355.m3u
+#EXTINF:0,US : MGM+ HITS
+http://mains.services/live/pmf0423/1aku0jt%40/b24b80fe-6f1d-43f6-a087-6a88a7d3c0bc.m3u
+#EXTINF:0,US : MGM+ MARQUEE
+http://mains.services/live/pmf0423/1aku0jt%40/acde4878-8208-4bf0-b118-e24650b9d910.m3u
+#EXTINF:0,US : SHOWTIME  NEXT
+http://mains.services/live/pmf0423/1aku0jt%40/68cac6b8-6ea0-4f10-804a-6e5e7916cf7d.m3u
+#EXTINF:0,US : SHOWTIME EAST
+http://mains.services/live/pmf0423/1aku0jt%40/951f812f-7fc2-4f3d-b16a-89b008d75d94.m3u
+#EXTINF:0,US : SHOWTIME EAST FHD 1080
+http://mains.services/live/pmf0423/1aku0jt%40/bb472739-a3fa-4600-acde-d8418220dc73.m3u
+#EXTINF:0,US : SHOWTIME EXTREME
+http://mains.services/live/pmf0423/1aku0jt%40/862261ae-6b38-4bab-8075-01cf87c4e0d7.m3u
+#EXTINF:0,US : SHOWTIME EXTREME WEST HD
+http://mains.services/live/pmf0423/1aku0jt%40/48e95d63-46f8-43af-a487-fa462abe3328.m3u
+#EXTINF:0,US : SHOWTIME FAMILY ZONE
+http://mains.services/live/pmf0423/1aku0jt%40/3b97fc18-9bff-41e2-ad7b-f46a0cb37531.m3u
+#EXTINF:0,US : SHOWTIME FHD 1080
+http://mains.services/live/pmf0423/1aku0jt%40/f8544552-4193-4275-93df-838180f8b43f.m3u
+#EXTINF:0,US : SHOWTIME SHOWCASE
+http://mains.services/live/pmf0423/1aku0jt%40/27a1a946-29e0-4496-8b9c-f51bf4cd0694.m3u
+#EXTINF:0,US : SHOWTIME SHOWCASE FHD 1080
+http://mains.services/live/pmf0423/1aku0jt%40/4d9d7767-5492-43b2-a4c3-7e673332464a.m3u
+#EXTINF:0,US : SHOWTIME SHOWCASE WEST HD
+http://mains.services/live/pmf0423/1aku0jt%40/3c430bb3-05c5-4504-8f74-057bba3351b9.m3u
+#EXTINF:0,US : SHOWTIME WEST
+http://mains.services/live/pmf0423/1aku0jt%40/96a3da86-86ac-4195-9781-25614a1ec290.m3u
+#EXTINF:0,US : SHOWTIME WEST FHD 1080
+http://mains.services/live/pmf0423/1aku0jt%40/148a5a16-3f13-4cac-bc42-70ae0b3b2a4a.m3u
+#EXTINF:0,US : SHOWTIME WEST HD
+http://mains.services/live/pmf0423/1aku0jt%40/9cf89874-258a-40e4-b64f-b1e51e75455d.m3u
+#EXTINF:0,US : SHOWTIME WOMEN
+http://mains.services/live/pmf0423/1aku0jt%40/8086546f-e5d0-46d9-a817-89c59826126b.m3u
+#EXTINF:0,US : STARZ  ENCORE BLACK
+http://mains.services/live/pmf0423/1aku0jt%40/2f24cf2f-a937-41d2-9a9e-17401489f45f.m3u
+#EXTINF:0,US : STARZ CINEMA
+http://mains.services/live/pmf0423/1aku0jt%40/1896d9b4-941a-4edb-ba4b-b88a7cca678a.m3u
+#EXTINF:0,US : STARZ CINEMA FHD 1080
+http://mains.services/live/pmf0423/1aku0jt%40/42191289-dbbc-42f3-9eb3-4f004bb08492.m3u
+#EXTINF:0,US : STARZ COMEDY
+http://mains.services/live/pmf0423/1aku0jt%40/e8c78330-8776-4907-968e-db1f0f6010ea.m3u
+#EXTINF:0,US : STARZ EAST
+http://mains.services/live/pmf0423/1aku0jt%40/b5771b63-1b3c-42ce-886a-a65ea33c16bd.m3u
+#EXTINF:0,US : STARZ EDGE
+http://mains.services/live/pmf0423/1aku0jt%40/e885db74-17a8-4d37-a7f1-75d502d253c9.m3u
+#EXTINF:0,US : STARZ ENCORE
+http://mains.services/live/pmf0423/1aku0jt%40/11d3e629-f14b-4c07-9e41-4246b0f9903d.m3u
+#EXTINF:0,US : STARZ ENCORE ACTION
+http://mains.services/live/pmf0423/1aku0jt%40/409058f3-f91a-4923-8ea9-48217f985923.m3u
+#EXTINF:0,US : STARZ ENCORE CLASSIC
+http://mains.services/live/pmf0423/1aku0jt%40/347beb2d-168e-467d-94be-c28101a4d900.m3u
+#EXTINF:0,US : STARZ ENCORE FAMILY
+http://mains.services/live/pmf0423/1aku0jt%40/906946cc-ec9b-4b47-a8c8-bfef3fb8d014.m3u
+#EXTINF:0,US : STARZ ENCORE FHD 1080
+http://mains.services/live/pmf0423/1aku0jt%40/6e640297-4838-4098-a864-cc4f58a1e146.m3u
+#EXTINF:0,US : STARZ ENCORE SUSPENSE
+http://mains.services/live/pmf0423/1aku0jt%40/8ddd80ff-20cf-4c05-b632-d6f52cd8204d.m3u
+#EXTINF:0,US : STARZ ENCORE WESTERNS
+http://mains.services/live/pmf0423/1aku0jt%40/01d0650b-8e43-4b4c-93e0-6cf15df8555b.m3u
+#EXTINF:0,US : STARZ FHD 1080
+http://mains.services/live/pmf0423/1aku0jt%40/1adb930b-83cb-4fa3-a80a-1a88fea83c67.m3u
+#EXTINF:0,US : STARZ KIDS & FAMILY
+http://mains.services/live/pmf0423/1aku0jt%40/ff06494f-3b85-418f-b9ee-a32947e51a5e.m3u
+#EXTINF:0,US : SUNDANCE TV
+http://mains.services/live/pmf0423/1aku0jt%40/aef56886-3b17-4590-89fc-192c36f5ceba.m3u
+#EXTINF:0,US : SYFY
+http://mains.services/live/pmf0423/1aku0jt%40/bb5ac3dd-9ed2-4060-adb6-0e9355dc6782.m3u
+#EXTINF:0,US : TBS
+http://mains.services/live/pmf0423/1aku0jt%40/4149f8aa-5cb0-4632-abd7-d59fffffc31a.m3u
+#EXTINF:0,US : TNT EAST
+http://mains.services/live/pmf0423/1aku0jt%40/9936e9e7-e0d6-411c-b06c-035804c8319b.m3u
+#EXTINF:0,US : TV LAND
+http://mains.services/live/pmf0423/1aku0jt%40/d44e3c45-f357-4ff2-80a3-4e167abf4107.m3u
 #EXTINF:0,US Boomerang (H)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/34580347/32765518/14741
@@ -1456,6 +1450,9 @@ http://fortv.cc:8080/34580347/32765518/36
 #EXTINF:0,US TeenNick
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/34580347/32765518/140004
+#EXTINF:59,WU Tang Collection
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991745
 #EXTINF:0,Xumo Comedy TV
 #EXTVLCOPT:network-caching=1000
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991105
@@ -1486,3 +1483,393 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:0, including “NCIS - ” “FBI,” and “Chicago Fire,” ION’s action-packed schedule promises to keep you entertained all day long." group-title="Entertainment", ION
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d0882-b9e0-11ee-a39a-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b737ffd-7618-4f83-b3f3-d696ae089726&userId=&serverSideAds=true
+#EXTINF:0, Chill Music Lab
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708488642/ei/YiPVZaaBFoSO_9EP0fKBkAM/ip/40.76.254.133/id/faUViXdxDbg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxoLHzr-t6pxFsIWz-XUhy2RxY7dwsHZidiInLOjxaQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQ5EtqRATQ83d-mIpXRSToi8fR_kpv2TG4Hs_bU-w5aECIQD6mlAxmhhXI-yOjzOsuBdAv82gOmViFMh6K1KRwp0kYw%3D%3D/file/index.m3u8
+#EXTINF:0,US: Music Choice 80s
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/299722
+#EXTINF:0,US: Music Choice 90s
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66078
+#EXTINF:0,US: Music Choice Alternative
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/299719
+#EXTINF:0,US: Music Choice Classic Alternative
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66103
+#EXTINF:0,US: Music Choice Dance EDM
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/192207
+#EXTINF:0,US: Music Choice Hip Hop & R&B
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66075
+#EXTINF:0,US: Music Choice Hit List
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66074
+#EXTINF:0,US: Music Choice Indie
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66097
+#EXTINF:0,US: Music Choice Kids Bob
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/299720
+#EXTINF:0,US: Music Choice Kidz Bop
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66104
+#EXTINF:0,US: Music Choice Kidz Only
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66105
+#EXTINF:0,US: Music Choice Max
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66084
+#EXTINF:0,US: Music Choice METAL
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/148269
+#EXTINF:0,US: Music Choice Mexican
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66101
+#EXTINF:0,US: Music Choice Musica URBANa
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66094
+#EXTINF:0,US: Music Choice Pop & Country
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66083
+#EXTINF:0,US: Music Choice Pop Hits
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66082
+#EXTINF:0,US: Music Choice Pop Latino
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66090
+#EXTINF:0,US: Music Choice R&B Soul
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66079
+#EXTINF:0,US: Music Choice Rap
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/63184
+#EXTINF:0,US: Music Choice Rock
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/282818
+#EXTINF:0,US: Music Choice Soft Rock
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/299723
+#EXTINF:0,US: Music Choice Teen Beats
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66077
+#EXTINF:0,US: Music Choice Throwback Jamz
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66100
+#EXTINF:0,US: Music Choice Todays Country
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66076
+#EXTINF:0,US: Music choice Toddler Tunes
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66099
+#EXTINF:0,US: Music Choice Tropicales
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/148267
+#EXTINF:0,US: Music Choice Urbana
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/299717
+#EXTINF:0,US: Music Choice Y2K
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/66088
+#EXTINF:0,US: Music Choice Youth Hits
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/299724
+#EXTINF:0,US: Music Choice ​Country Hits
+#EXTVLCOPT:network-caching=1000
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/299721
+#EXTINF:68, Stingray Alternative
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8
+#EXTINF:30, Best Shuffle Dance Music 2021
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702951959/ei/t6eAZenYA4mR_9EP-r-W6Ac/ip/20.109.38.148/id/qWf-FPFmVw0.5/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6yCypd4nf4YGJF0IojdTzYxRO-nSffA9vEUQw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgZYusDcoq9PpXJIj_j0x0x9FZgEyK2cIR5E5bpg3V-P0CIQCJxDtWjIfwimSbgzSQSYuPspMUIedKR01FY3P_KIXBFA%3D%3D/file/index.m3u8
+#EXTINF:30, Chill Out Music Mixe
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703010920/ei/CI6BZYecAtma2_gPidmAqAM/ip/172.183.37.85/id/m52ynxt1mOo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyYdPHqieTdnNDfRdsdj4wBlmoraHu5LRlnF5g/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMHiHJSVYNcc68S_HweaXa5e-Zimb8uScMtsIW0mPjwrAiAOoqjOacHgCFM9OfcrY61UrPPO2CVzyt2BTBUb8vYrvA%3D%3D/file/index.m3u8
+#EXTINF:30, Chillout Lounge
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1703010920/ei/CI6BZa-BJ9Cilu8Px-aRKA/ip/172.183.37.85/id/9UMxZofMNbA.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fy-up6DGEZXfHqinr6cvTmqRj2tFOgQyaqjyvQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSzvdo7V8_alLuUgDK8s9zw6AIAtqTXX0oyaBRUT1cYkCIFEYYuw_3M72FLy4xR2pFuJJy1lwIdsjG6K-QADIlEJi/file/index.m3u8
+#EXTINF:0, Stingray Classic Rock
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff.m3u8
+#EXTINF:0, Stingray Easy Listening
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee76b5271f393d2d9f709a.m3u8
+#EXTINF:0, Stingray Euro Hits
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491.m3u8
+#EXTINF:0, Stingray Flashback 70s
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62f15810a3ffe928ef806c75.m3u8
+#EXTINF:0, Stingray Hip-Hop/R&B
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e.m3u8
+#EXTINF:0, Stingray Hit List
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd.m3u8
+#EXTINF:0, Stingray Nothin' But 90s
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54.m3u8
+#EXTINF:0, Stingray Qello Concerts
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199.m3u8
+#EXTINF:60, Qwest TV
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8
+#EXTINF:30, Relaxing Nature in 4k
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702955123/ei/E7SAZaXJDOm8sfIP2fKQ2A4/ip/20.171.78.152/id/i7U9ThH3ZzU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9_xYzCEBqyZrZi-75q-myj9JwdI39xMwdkhNg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJbrg-vIJyxCw6GgqW6VDFtb0JQ0FW4iY3iEOkclwgGhAiEA4wVOLfNzl1ATXUSHo_UU25aKqEuUuePZeIJdssBCbcs%3D/file/index.m3u8
+#EXTINF:0, Stingray Remember the ‘80s
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb.m3u8
+#EXTINF:0, Stingray Soul Storm
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801.m3u8
+#EXTINF:0, Stingray Classica Stream
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62d7f68fb19cbf65dc7bef7d.m3u8
+#EXTINF:0, Stingray CMusic
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87.m3u8
+#EXTINF:0, Stingray DJAZZ
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62fc0150c67d52bddf74cc89.m3u8
+#EXTINF:0, Stingray Holidayscapes
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8
+#EXTINF:0, Stingray Karaoke
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fc705daa2236e002d69f108.m3u8
+#EXTINF:0, Stingray Naturescape
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5.m3u8
+#EXTINF:0, Stingray The Spa
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62f11395586633e88e3a3274.m3u8
+#EXTINF:0, Today's K-Pop
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096.m3u8
+#EXTINF:0, TRACE Brazuca
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6329474265c8569187176338.m3u8
+#EXTINF:0, TRACE Latina
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63226c03e67cf9cd9011fcdf.m3u8
+#EXTINF:0, TRACE Urban
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda.m3u8
+#EXTINF:0, Vevo '70s
+https://i.mjh.nz/SamsungTVPlus/USBD300011KQ.m3u8
+#EXTINF:0, Vevo '70s & '80s
+https://i.mjh.nz/SamsungTVPlus/GBBD1900009UD.m3u8
+#EXTINF:0, Vevo '80s
+https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8
+#EXTINF:0, Vevo '90s
+https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8
+#EXTINF:0, Vevo '90s & '00s
+https://i.mjh.nz/SamsungTVPlus/GBBC2100002HP.m3u8
+#EXTINF:0, Vevo 2010s
+https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8
+#EXTINF:0, Vevo 2K
+https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8
+#EXTINF:0, Vevo Country
+https://i.mjh.nz/SamsungTVPlus/USBC3600001RQ.m3u8
+#EXTINF:0, Vevo Hip-Hop
+https://i.mjh.nz/SamsungTVPlus/USBC3600002EK.m3u8
+#EXTINF:0, Vevo Holiday
+https://i.mjh.nz/SamsungTVPlus/USBD1200008GL.m3u8
+#EXTINF:0, Vevo Latino
+https://i.mjh.nz/SamsungTVPlus/USBC3600015GF.m3u8
+#EXTINF:0, Vevo Pop
+https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
+#EXTINF:0, Vevo R&B
+https://i.mjh.nz/SamsungTVPlus/USBC3900009K5.m3u8
+#EXTINF:0, Vevo Retro Rock
+https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8
+#EXTINF:0, VH1+ Canzoni Italiane
+https://i.mjh.nz/PlutoTV/163724270c7c2360007b170e8-alt.m3u8
+#EXTINF:25, VH1+ Christmas
+https://i.mjh.nz/PlutoTV/162e8e137865c590007ecae3c-alt.m3u8
+#EXTINF:0, VH1+ Hip Hop & Rap
+https://i.mjh.nz/PlutoTV/16465fef47cb4b100086ee7bd-alt.m3u8
+#EXTINF:25, VH1+ Music Legends
+https://i.mjh.nz/PlutoTV/162e8cc10ca869f00078efca8-alt.m3u8
+#EXTINF:0, Vivaldi
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61bb9a63e0b39cfe304c9a8a.m3u8
+#EXTINF:0, XITE 80s Flashback
+https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
+#EXTINF:0, XITE 90s Throwback
+https://i.mjh.nz/SamsungTVPlus/USBB3200007AK.m3u8
+#EXTINF:0, XITE Celebrates
+https://i.mjh.nz/SamsungTVPlus/USBD350003932.m3u8
+#EXTINF:0, XITE Country Today
+https://i.mjh.nz/SamsungTVPlus/USBD3300006O3.m3u8
+#EXTINF:0, XITE Country's Finest
+https://i.mjh.nz/SamsungTVPlus/USBD3300011UT.m3u8
+#EXTINF:0, XITE Hits
+https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
+#EXTINF:0, XITE Icons
+https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
+#EXTINF:0, XITE Just Chill
+https://i.mjh.nz/SamsungTVPlus/USBB2300003JZ.m3u8
+#EXTINF:0, XITE Nuevo Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
+#EXTINF:0, XITE Only Love
+https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8
+#EXTINF:0, XITE R&B Classic Jams
+https://i.mjh.nz/SamsungTVPlus/USBD330000948.m3u8
+#EXTINF:0, XITE Rock On
+https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
+#EXTINF:0, XITE Siempre Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3300010L9.m3u8
+#EXTINF:0, Stingray Y2K
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee72cc271f393d2d9f7098.m3u8
+#EXTINF:0, Éxitos del Momento
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8
+#EXTINF:0,Autumn Escape
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=82588&ads.show_id=3174&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Autumn%20Escape&ads.episodetitle=Autumn%20Escape&ads.keywords=Autumn%2CEscape%2CRelax%2CMoods%2CAutum%20Escape&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:30,Baraza TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:0,Baraza TV Deep House (720p)
+#EXTVLCOPT:network-caching=1000
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:0,Baraza TV Greek Music Hits (1080p)
+#EXTVLCOPT:network-caching=1000
+https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:21,Baraza TV Relaxing (720p)
+#EXTVLCOPT:network-caching=1000
+https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
+#EXTINF:30, The Good Life Radio - Best Relax House, Chillout, Study, Running, Gym, Happy Music
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702951998/ei/3aeAZaGXOqK7_9EPpfC90AE/ip/20.109.38.148/id/36YnV9STBqc.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6Lo0UgBcHpx-AMpJ9Pix8EgfzOqtadorEX3mw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgArsuSTJdFYb3UohqGk4LcHf1zz1FdsRYn0f45hHP5MwCIAYAt4LFwnxUHe4CBsZYCpqDsCsyqgNgAFOnH6rMCjPQ/file/index.m3u8
+#EXTINF:24,Bridge
+#EXTVLCOPT:network-caching=1000
+http://moobl.ru/hls/Bridge_tv.m3u8
+#EXTINF:0,Bridge Classic (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:0,Bridge Deluxe (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:0,Bridge Hits (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:0,Bridge Rock (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:0,Bridge Русский хит (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:0,Bridge Шлягер (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:60,Escapes
+#EXTVLCOPT:network-caching=1000
+https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991280
+#EXTINF:58,Escapes alt
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991280
+#EXTINF:0,FastCast4u.com AutoDJ
+#EXTVLCOPT:network-caching=1000
+http://192.95.39.65:5607/stream
+#EXTINF:0,Fireplace Lounge
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25045&ads.show_id=653&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Fireplace%20Lounge&ads.episodetitle=Fireplace%20Lounge&ads.keywords=fireplace%2Clounge%20videos&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:100,Fish Tank
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25073&ads.show_id=654&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Fish%20Tank&ads.episodetitle=Fish%20Tank&ads.keywords=fish%20tank%2Clounge%20video&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:60,iHeart 80s
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,iHeart 90s
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,iHeart Alt Radio
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,Iheart Christmas
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/99951199/hls/playlist.m3u8?ads.xumo_channelId=99951199
+#EXTINF:0,Iheart Christmas Jazz
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/99951200/hls/playlist.m3u8?ads.xumo_channelId=99951200
+#EXTINF:0,iHeart Country 
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,Iheart Hip Hop Beats
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/9995103/hls/playlist.m3u8?ads.xumo_channelId=9995103
+#EXTINF:0,iHeart Hit Nation 
+#EXTVLCOPT:network-caching=1000
+https://iheart-ihearthitnation-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,iHeart Latino Hits 
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,Iheart Radio Beso
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/9995104/hls/playlist.m3u8?ads.xumo_channelId=9995104
+#EXTINF:0,iHeart The Beat 
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheartthebeat-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,Island Escape
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25102&ads.show_id=656&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Island%20Escape&ads.episodetitle=Island%20Escape&ads.keywords=island%2Cisland%20vibes%2Clounge&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:60,Kidz Bop (Geo)
+#EXTVLCOPT:network-caching=1000
+https://live436.delivery.roku.com/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/a3f2410b-9775-44f2-9112-cc69a756f7d5/live.m3u8
+#EXTINF:60,Loupe (unlisted)
+#EXTVLCOPT:network-caching=1000
+https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991773
+#EXTINF:21,MUZZIK (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:0,Muzzik ELECTRO (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:0,Muzzik FLASHBACK (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:0,Muzzik MOBA (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:0,Muzzik POP STAR (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:0,Muzzik SENSE (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:0,Muzzik TIKTAK (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:0,Muzzik ZZ TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:97,NatureStream.tv
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23037&ads.content_duration=18000&ads.episode_id=77808&ads.show_id=3074&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=NatureStream.tv&ads.episodetitle=NatureStream.tv&ads.keywords=Nature%20Stream%2CNature%2Cmoods%2Crelaxing&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:0,Planet LoFi
+#EXTVLCOPT:network-caching=1000
+http://198.245.60.88:8080/stream
+#EXTINF:75,playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+#EXTINF:60,Quietude 4K
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22930&ads.content_duration=18000&ads.episode_id=51848&ads.show_id=1685&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Quietude%204K&ads.episodetitle=Quietude%204K&ads.keywords=screen%20saver%2Cnature%2Cviews%2Ccalming%2Cchill%2Cbackground%20video%2CQuietude%204K&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=quietude&ads.islive=1&ads.streamtype=live
+#EXTINF:0,Qwest TV Jazz & Beyond (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
+#EXTINF:0,Qwest TV Mix (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
+#EXTINF:0,QwestTV
+#EXTVLCOPT:network-caching=1000
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+#EXTINF:50,Real-Music
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-music/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87421&ads.show_id=3263&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music&ads.showRating=TV-G&ads.episodeRating=&ads.language=en&ads.showtitle=Real%20Music&ads.episodetitle=Real%20Music&ads.keywords=Music&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:0,Relax
+#EXTVLCOPT:network-caching=1000
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:100,Relaxing Rain
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25089&ads.show_id=655&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Relaxing%20Rain&ads.episodetitle=Relaxing%20Rain&ads.keywords=rain%2Clounge%20videos&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:97,Relaxing WinterScapes
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=82603&ads.show_id=3175&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Relaxing%20WinterScapes&ads.episodetitle=Relaxing%20WinterScapes&ads.keywords=Relax%2CRelaxing%20Winterscapes%2CWinterscapes%2CRelaxing&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:97,Spring Escape
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=82604&ads.show_id=3176&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Spring%20Escape&ads.episodetitle=Spring%20Escape&ads.keywords=Spring%20Escape%2CSptring%2CEscape%2CRelax&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:97,Study Lounge
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=82605&ads.show_id=3177&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Study%20Lounge&ads.episodetitle=Study%20Lounge&ads.keywords=Study%2CLounge%2CStudy%20Lounge%2CRelax&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:0,Toonami Aftermath Radio (480p)
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+#EXTINF:0,Tranquil Thunderstorms
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25455&ads.show_id=659&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Tranquil%20Thunderstorms&ads.episodetitle=Tranquil%20Thunderstorms&ads.keywords=ambiance%2Cmood%2Clounge%2Cthunderstorms&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:30,Lofi Girl
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
