@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:60,WU Tang Collection
+#EXTINF:59,WU Tang Collection
 #EXTVLCOPT:network-caching=1000
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991745
 #EXTINF:60,Hi-Yah!
@@ -33,227 +33,8 @@ https://i.mjh.nz/SamsungTVPlus/CAAJ2700008QA.m3u8
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700014EE.m3u8
 #EXTINF:54, FilmRise Action
 https://i.mjh.nz/SamsungTVPlus/USBB3200020ID.m3u8
-#EXTINF:50,CA : CTV NEWS CHANNEL
-http://mains.services/live/pmf0423/1aku0jt%40/5f84d329-bcdc-435d-b497-219c873527af.m3u
-#EXTINF:0,CA : FOOD NETWORK
-http://mains.services/live/pmf0423/1aku0jt%40/bcc84d2f-7f00-46e1-8da4-56b2db38514c.m3u
-#EXTINF:50,US : CNN
-http://mains.services/live/pmf0423/1aku0jt%40/4a4cdf4e-2bd8-49b9-bb8a-91adcb154ae9.m3u
-#EXTINF:0,US : FOX NEWS CHANNEL
-http://mains.services/live/pmf0423/1aku0jt%40/601e83bc-431d-4ea2-a0c4-7bdd4bce6462.m3u
-#EXTINF:0, Crunchyroll
+#EXTINF:25, Crunchyroll
 https://r.mjh.nz/PlutoTV/65652f7fc0fc88000883537a-alt.m3u8
-#EXTINF:0,USA - TSN 1
-#EXTVLCOPT:network-caching=1000
-http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61554
-#EXTINF:0,USA - TSN 2 
-#EXTVLCOPT:network-caching=1000
-http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61555
-#EXTINF:0,USA - TSN 3
-#EXTVLCOPT:network-caching=1000
-http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61556
-#EXTINF:0,USA - TSN 4
-#EXTVLCOPT:network-caching=1000
-http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61557
-#EXTINF:0,USA - TSN 5
-#EXTVLCOPT:network-caching=1000
-http://2hubs.ddns.net:25461/bronder/drL3ksLUHg/61558
-#EXTINF:0,CA : A&E
-http://mains.services/live/pmf0423/1aku0jt%40/50c7e9df-e57d-473a-9209-a47f020dfa93.m3u
-#EXTINF:0,CA : ABC SPARK
-http://mains.services/live/pmf0423/1aku0jt%40/2638f363-ad46-4e59-89b8-208188283c70.m3u
-#EXTINF:0,CA : ADULT SWIM
-http://mains.services/live/pmf0423/1aku0jt%40/4872c571-7125-442e-91c1-f6e76b03b7e4.m3u
-#EXTINF:0,CA : AMC
-http://mains.services/live/pmf0423/1aku0jt%40/e2d70511-417d-4544-9e4f-afb3c2974f64.m3u
-#EXTINF:0,CA : BBC CANADA
-http://mains.services/live/pmf0423/1aku0jt%40/7c6c1cce-8e7c-45cc-bced-239d8983bf43.m3u
-#EXTINF:0,CA : CARTOON NETWORK
-http://mains.services/live/pmf0423/1aku0jt%40/4f2edee3-ce46-46c2-81f2-bf2c8da96ffe.m3u
-#EXTINF:0,CA : CITY TV TORONTO
-http://mains.services/live/pmf0423/1aku0jt%40/46e31ee9-54d7-428e-bebf-87479a4a035e.m3u
-#EXTINF:0,CA : CP24
-http://mains.services/live/pmf0423/1aku0jt%40/352d2888-e11b-48d8-89cc-5c87eb964d5e.m3u
-#EXTINF:0,CA : CRAVE 1
-http://mains.services/live/pmf0423/1aku0jt%40/4aea29e6-822a-4516-9300-ff6f26573005.m3u
-#EXTINF:0,CA : CRAVE 2
-http://mains.services/live/pmf0423/1aku0jt%40/2da0df01-7653-4bed-bb95-cbcb2c991c37.m3u
-#EXTINF:0,CA : CRAVE 3
-http://mains.services/live/pmf0423/1aku0jt%40/d2a25995-aceb-49af-aa80-710b36bfb0e6.m3u
-#EXTINF:0,CA : CRAVE 4
-http://mains.services/live/pmf0423/1aku0jt%40/9e50f43d-801c-4229-beb3-38bdbf14dc13.m3u
-#EXTINF:0,CA : DEJAVIEW
-http://mains.services/live/pmf0423/1aku0jt%40/006b4011-43c4-4d67-ab4f-d0f6a1955532.m3u
-#EXTINF:0,CA : HOLLYWOOD SUITE 2000s
-http://mains.services/live/pmf0423/1aku0jt%40/76d28b26-99b2-4017-a45b-d117027abdac.m3u
-#EXTINF:0,CA : HOLLYWOOD SUITE 70s
-http://mains.services/live/pmf0423/1aku0jt%40/4b58160e-b9e6-405f-9c6a-1c5e7935221f.m3u
-#EXTINF:0,CA : HOLLYWOOD SUITE 80s
-http://mains.services/live/pmf0423/1aku0jt%40/07d0ce6a-cdbb-4367-ba71-2e59abb7a6e7.m3u
-#EXTINF:0,CA : HOLLYWOOD SUITE 90s
-http://mains.services/live/pmf0423/1aku0jt%40/a007db3e-eabb-4322-8455-c02c18a67df8.m3u
-#EXTINF:0,CA : MUCH
-http://mains.services/live/pmf0423/1aku0jt%40/5f9b360c-3f8b-4852-9b39-14c520d93a38.m3u
-#EXTINF:0,CA : SPORTSNET 360
-http://mains.services/live/pmf0423/1aku0jt%40/3be0557f-f67b-4ce4-8b05-5142ed952870.m3u
-#EXTINF:0,CA : SPORTSNET EAST
-http://mains.services/live/pmf0423/1aku0jt%40/98f22436-c862-4a90-b3c3-7286bdf1db03.m3u
-#EXTINF:0,CA : SPORTSNET ONE
-http://mains.services/live/pmf0423/1aku0jt%40/dc379409-ee90-4382-9d9c-8d60ddd14302.m3u
-#EXTINF:0,CA : SPORTSNET PACIFIC
-http://mains.services/live/pmf0423/1aku0jt%40/6bbaa88e-b678-416e-b087-34da238bf88c.m3u
-#EXTINF:0,GB : BOOMERANG
-http://mains.services/live/pmf0423/1aku0jt%40/3ef2fbdc-b8f8-4b66-a692-346dc85e5359.m3u
-#EXTINF:0,GB : SKY ATLANTIC
-http://mains.services/live/pmf0423/1aku0jt%40/bce13a56-09d7-4e13-9d0f-4cc6d037319f.m3u
-#EXTINF:0,GB : SKY CINEMA ACTION
-http://mains.services/live/pmf0423/1aku0jt%40/9f764494-a742-45e1-a857-af6515cd098f.m3u
-#EXTINF:0,GB : SKY CINEMA ANIMATION
-http://mains.services/live/pmf0423/1aku0jt%40/be8ae3e0-236e-4e31-9e1a-21faa92ad120.m3u
-#EXTINF:0,GB : SKY CINEMA COMEDY
-http://mains.services/live/pmf0423/1aku0jt%40/818d9064-5aed-4847-9630-bb0cdf6677f0.m3u
-#EXTINF:0,GB : SKY CINEMA DRAMA
-http://mains.services/live/pmf0423/1aku0jt%40/aee69300-87dc-4ecb-990e-a0b48bc37f24.m3u
-#EXTINF:0,GB : SKY CINEMA FAMILY
-http://mains.services/live/pmf0423/1aku0jt%40/55755742-d541-45c1-ae7d-793dc1b71a69.m3u
-#EXTINF:0,GB : SKY CINEMA GREATS
-http://mains.services/live/pmf0423/1aku0jt%40/23d28a3d-1b05-43d4-b4ef-9414c6d7335e.m3u
-#EXTINF:0,GB : SKY CINEMA HITS
-http://mains.services/live/pmf0423/1aku0jt%40/50325fb3-2b41-44f1-903f-9baf15cad14d.m3u
-#EXTINF:0,GB : SKY CINEMA PREMIERE
-http://mains.services/live/pmf0423/1aku0jt%40/7c001dcd-9496-431f-825c-f994e1e45ae6.m3u
-#EXTINF:0,GB : SKY CINEMA SCI-FI
-http://mains.services/live/pmf0423/1aku0jt%40/8531cfd2-8b1a-4e24-bb6d-9b1200e52d78.m3u
-#EXTINF:0,GB : SKY CINEMA THRILLER
-http://mains.services/live/pmf0423/1aku0jt%40/efbb9e32-4b62-4a6f-b72e-4d8241a7d4db.m3u
-#EXTINF:0,GB : SKY COMEDY
-http://mains.services/live/pmf0423/1aku0jt%40/290147cc-48b7-4541-974f-3b17c5b5b73b.m3u
-#EXTINF:0,GB : TNT SPORTS 01
-http://mains.services/live/pmf0423/1aku0jt%40/6c5b4010-afa9-4e64-921b-263217b936da.m3u
-#EXTINF:0,GB : TNT SPORTS 02
-http://mains.services/live/pmf0423/1aku0jt%40/b99d4063-9cbf-46cc-a6ac-86601b3a17b1.m3u
-#EXTINF:0,GB : TNT SPORTS 03
-http://mains.services/live/pmf0423/1aku0jt%40/3487f1f4-771e-4c8c-aa7c-80945800c7d9.m3u
-#EXTINF:0,GB : TNT SPORTS 04
-http://mains.services/live/pmf0423/1aku0jt%40/26a00017-1496-468f-8693-93df9e1b846f.m3u
-#EXTINF:0,US : ESPN
-http://mains.services/live/pmf0423/1aku0jt%40/2191e4f0-5b32-4be9-92a5-f132ee389d6f.m3u
-#EXTINF:0,US : ESPN 2
-http://mains.services/live/pmf0423/1aku0jt%40/c9982f5c-883b-4f5c-a544-f6aad83836ed.m3u
-#EXTINF:0,US : ESPN DEPORTES FHD
-http://mains.services/live/pmf0423/1aku0jt%40/79c81c69-bc8f-4df1-9ac1-4ddc67e3ec1c.m3u
-#EXTINF:0,US : ESPN NEWS
-http://mains.services/live/pmf0423/1aku0jt%40/3b8c951e-b931-49b6-b406-9c603b1cdf4f.m3u
-#EXTINF:0,US : ESPN NEWS FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/1da60b7c-3f73-45fa-a7b7-259350ad78fa.m3u
-#EXTINF:0,US : ESPN U
-http://mains.services/live/pmf0423/1aku0jt%40/a9652e03-9ed6-4e84-9145-2dd528509e71.m3u
-#EXTINF:0,US : ESPN U FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/19db782b-0a2d-42f2-b85d-e93a54b964a2.m3u
-#EXTINF:0,US : FREEFORM
-http://mains.services/live/pmf0423/1aku0jt%40/0f7bb2c4-9411-4a9b-bacf-6cb4c1bd44ba.m3u
-#EXTINF:50,US : FUSE
-http://mains.services/live/pmf0423/1aku0jt%40/a2903e36-7a71-4894-baa9-509fe803768a.m3u
-#EXTINF:0,US : FX
-http://mains.services/live/pmf0423/1aku0jt%40/0bc5076a-871a-4574-ba14-2302049aa688.m3u
-#EXTINF:0,US : FXM
-http://mains.services/live/pmf0423/1aku0jt%40/b319309c-5199-40bf-9bb6-8bbd16fc7158.m3u
-#EXTINF:0,US : FXX
-http://mains.services/live/pmf0423/1aku0jt%40/e9fc2880-b9cd-46ef-b80e-0830d51303ae.m3u
-#EXTINF:0,US : HBO COMEDY
-http://mains.services/live/pmf0423/1aku0jt%40/7b7443ed-d764-4a7a-b3f4-b5fcb347f68e.m3u
-#EXTINF:0,US : HBO EAST
-http://mains.services/live/pmf0423/1aku0jt%40/cf866ce9-3357-426c-a87d-9fbc3c806f79.m3u
-#EXTINF:0,US : HBO FAMILY
-http://mains.services/live/pmf0423/1aku0jt%40/da163917-c57e-47c5-bfb2-eb97ce575ba6.m3u
-#EXTINF:0,US : HBO SIGNATURE EAST
-http://mains.services/live/pmf0423/1aku0jt%40/d5243253-180b-47fb-b7b0-3448b280480f.m3u
-#EXTINF:0,US : HBO ZONE
-http://mains.services/live/pmf0423/1aku0jt%40/91370594-0b36-446d-bd17-158347f7cc89.m3u
-#EXTINF:0,US : INVESTIGATION DISCOVERY
-http://mains.services/live/pmf0423/1aku0jt%40/9a563cd3-c044-43e4-910e-9a870c34bf3b.m3u
-#EXTINF:0,US : LAFF TV
-http://mains.services/live/pmf0423/1aku0jt%40/23ac9757-6d50-4053-85d7-77c8f918bc6b.m3u
-#EXTINF:0,US : ME TV
-http://mains.services/live/pmf0423/1aku0jt%40/c361079d-4a51-432f-a70f-f49d74aea8bd.m3u
-#EXTINF:0,US : METV FHD
-http://mains.services/live/pmf0423/1aku0jt%40/a22076b0-fd82-4f8a-a406-e8d43dc18993.m3u
-#EXTINF:0,US : MGM+
-http://mains.services/live/pmf0423/1aku0jt%40/8b067ad2-9419-41ca-b598-a149581bb9a5.m3u
-#EXTINF:0,US : MGM+ DRIVE-IN
-http://mains.services/live/pmf0423/1aku0jt%40/0c7ffa48-2560-4672-9d17-2626ee060355.m3u
-#EXTINF:0,US : MGM+ HITS
-http://mains.services/live/pmf0423/1aku0jt%40/b24b80fe-6f1d-43f6-a087-6a88a7d3c0bc.m3u
-#EXTINF:0,US : MGM+ MARQUEE
-http://mains.services/live/pmf0423/1aku0jt%40/acde4878-8208-4bf0-b118-e24650b9d910.m3u
-#EXTINF:0,US : SHOWTIME EAST
-http://mains.services/live/pmf0423/1aku0jt%40/951f812f-7fc2-4f3d-b16a-89b008d75d94.m3u
-#EXTINF:0,US : SHOWTIME EAST FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/bb472739-a3fa-4600-acde-d8418220dc73.m3u
-#EXTINF:0,US : SHOWTIME EXTREME
-http://mains.services/live/pmf0423/1aku0jt%40/862261ae-6b38-4bab-8075-01cf87c4e0d7.m3u
-#EXTINF:0,US : SHOWTIME EXTREME WEST HD
-http://mains.services/live/pmf0423/1aku0jt%40/48e95d63-46f8-43af-a487-fa462abe3328.m3u
-#EXTINF:0,US : SHOWTIME FAMILY ZONE
-http://mains.services/live/pmf0423/1aku0jt%40/3b97fc18-9bff-41e2-ad7b-f46a0cb37531.m3u
-#EXTINF:0,US : SHOWTIME FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/f8544552-4193-4275-93df-838180f8b43f.m3u
-#EXTINF:0,US : SHOWTIME  NEXT
-http://mains.services/live/pmf0423/1aku0jt%40/68cac6b8-6ea0-4f10-804a-6e5e7916cf7d.m3u
-#EXTINF:0,US : SHOWTIME SHOWCASE
-http://mains.services/live/pmf0423/1aku0jt%40/27a1a946-29e0-4496-8b9c-f51bf4cd0694.m3u
-#EXTINF:0,US : SHOWTIME SHOWCASE FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/4d9d7767-5492-43b2-a4c3-7e673332464a.m3u
-#EXTINF:0,US : SHOWTIME SHOWCASE WEST HD
-http://mains.services/live/pmf0423/1aku0jt%40/3c430bb3-05c5-4504-8f74-057bba3351b9.m3u
-#EXTINF:0,US : SHOWTIME WEST
-http://mains.services/live/pmf0423/1aku0jt%40/96a3da86-86ac-4195-9781-25614a1ec290.m3u
-#EXTINF:0,US : SHOWTIME WEST FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/148a5a16-3f13-4cac-bc42-70ae0b3b2a4a.m3u
-#EXTINF:0,US : SHOWTIME WEST HD
-http://mains.services/live/pmf0423/1aku0jt%40/9cf89874-258a-40e4-b64f-b1e51e75455d.m3u
-#EXTINF:0,US : SHOWTIME WOMEN
-http://mains.services/live/pmf0423/1aku0jt%40/8086546f-e5d0-46d9-a817-89c59826126b.m3u
-#EXTINF:0,US : STARZ CINEMA
-http://mains.services/live/pmf0423/1aku0jt%40/1896d9b4-941a-4edb-ba4b-b88a7cca678a.m3u
-#EXTINF:0,US : STARZ CINEMA FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/42191289-dbbc-42f3-9eb3-4f004bb08492.m3u
-#EXTINF:0,US : STARZ COMEDY
-http://mains.services/live/pmf0423/1aku0jt%40/e8c78330-8776-4907-968e-db1f0f6010ea.m3u
-#EXTINF:0,US : STARZ EAST
-http://mains.services/live/pmf0423/1aku0jt%40/b5771b63-1b3c-42ce-886a-a65ea33c16bd.m3u
-#EXTINF:0,US : STARZ EDGE
-http://mains.services/live/pmf0423/1aku0jt%40/e885db74-17a8-4d37-a7f1-75d502d253c9.m3u
-#EXTINF:0,US : STARZ ENCORE
-http://mains.services/live/pmf0423/1aku0jt%40/11d3e629-f14b-4c07-9e41-4246b0f9903d.m3u
-#EXTINF:0,US : STARZ ENCORE ACTION
-http://mains.services/live/pmf0423/1aku0jt%40/409058f3-f91a-4923-8ea9-48217f985923.m3u
-#EXTINF:0,US : STARZ  ENCORE BLACK
-http://mains.services/live/pmf0423/1aku0jt%40/2f24cf2f-a937-41d2-9a9e-17401489f45f.m3u
-#EXTINF:0,US : STARZ ENCORE CLASSIC
-http://mains.services/live/pmf0423/1aku0jt%40/347beb2d-168e-467d-94be-c28101a4d900.m3u
-#EXTINF:0,US : STARZ ENCORE FAMILY
-http://mains.services/live/pmf0423/1aku0jt%40/906946cc-ec9b-4b47-a8c8-bfef3fb8d014.m3u
-#EXTINF:0,US : STARZ ENCORE FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/6e640297-4838-4098-a864-cc4f58a1e146.m3u
-#EXTINF:0,US : STARZ ENCORE SUSPENSE
-http://mains.services/live/pmf0423/1aku0jt%40/8ddd80ff-20cf-4c05-b632-d6f52cd8204d.m3u
-#EXTINF:0,US : STARZ ENCORE WESTERNS
-http://mains.services/live/pmf0423/1aku0jt%40/01d0650b-8e43-4b4c-93e0-6cf15df8555b.m3u
-#EXTINF:0,US : STARZ FHD 1080
-http://mains.services/live/pmf0423/1aku0jt%40/1adb930b-83cb-4fa3-a80a-1a88fea83c67.m3u
-#EXTINF:0,US : STARZ KIDS & FAMILY
-http://mains.services/live/pmf0423/1aku0jt%40/ff06494f-3b85-418f-b9ee-a32947e51a5e.m3u
-#EXTINF:0,US : SUNDANCE TV
-http://mains.services/live/pmf0423/1aku0jt%40/aef56886-3b17-4590-89fc-192c36f5ceba.m3u
-#EXTINF:0,US : SYFY
-http://mains.services/live/pmf0423/1aku0jt%40/bb5ac3dd-9ed2-4060-adb6-0e9355dc6782.m3u
-#EXTINF:0,US : TBS
-http://mains.services/live/pmf0423/1aku0jt%40/4149f8aa-5cb0-4632-abd7-d59fffffc31a.m3u
-#EXTINF:0,US : TNT EAST
-http://mains.services/live/pmf0423/1aku0jt%40/9936e9e7-e0d6-411c-b06c-035804c8319b.m3u
-#EXTINF:0,US : TV LAND
-http://mains.services/live/pmf0423/1aku0jt%40/d44e3c45-f357-4ff2-80a3-4e167abf4107.m3u
 #EXTINF:25, Haunt TV
 https://r.mjh.nz/PlutoTV/6319f06067a3ee000708af95-alt.m3u8
 #EXTINF:0, Comedy Central Animation
@@ -1438,22 +1219,22 @@ https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:0,Unsolved Mysterys
 #EXTVLCOPT:network-caching=1000
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991680
-#EXTINF:0,US Boomerang (H)
+#EXTINF:0,Cartoon Boomerang (H)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/34580347/32765518/14741
-#EXTINF:0,US Disney Channel East (A)
+#EXTINF:0,Cartoon Disney Channel East (A)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/34580347/32765518/2206
-#EXTINF:0,US Nick Jr 
+#EXTINF:0,Cartoon Nick Jr 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/34580347/32765518/46710
-#EXTINF:0,US Nickelodeon East (A)
+#EXTINF:0,Cartoon Nickelodeon East (A)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/34580347/32765518/38
-#EXTINF:0,US NickToons 
+#EXTINF:0,Cartoon NickToons 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/34580347/32765518/36
-#EXTINF:0,US TeenNick
+#EXTINF:0,Cartoon TeenNick
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/34580347/32765518/140004
 #EXTINF:0,Xumo Comedy TV
@@ -1486,3 +1267,288 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 #EXTINF:0, including “NCIS - ” “FBI,” and “Chicago Fire,” ION’s action-packed schedule promises to keep you entertained all day long." group-title="Entertainment", ION
 #EXTVLCOPT:network-caching=1000
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65453f30085df200085883d8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=da8d0882-b9e0-11ee-a39a-5be4306711fd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b737ffd-7618-4f83-b3f3-d696ae089726&userId=&serverSideAds=true
+#EXTINF:0,Cable Adult Swim
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1883
+#EXTINF:0,Sports TSN 1
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1195
+#EXTINF:0,Sports TSN 2
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/175
+#EXTINF:0,Sports TSN 3
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/188
+#EXTINF:0,Sports TSN 4
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1586
+#EXTINF:0,Sports TSN 5
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/977
+#EXTINF:0,Sports A&E
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/212
+#EXTINF:0,Sports ABC
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/211
+#EXTINF:0,Sports AMC
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/209
+#EXTINF:0,Sports BBC America
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/206
+#EXTINF:0,Cartoon Boomerang
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/130
+#EXTINF:0,Cartoon Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/199
+#EXTINF:0,Cartoon CBS
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/198
+#EXTINF:0,Movie Cinemax
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/196
+#EXTINF:0,Movie Cinemax 5StarMAX
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1603
+#EXTINF:0,Movie Cinemax ActionMax
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1604
+#EXTINF:0,Movie Cinemax MoreMax
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1204
+#EXTINF:0,Movie Cinemax MovieMax
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1605
+#EXTINF:0,Movie Cinemax OuterMax
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1606
+#EXTINF:0,Movie Cinemax ThrillerMax
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1607
+#EXTINF:0,Cable CMT
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/355
+#EXTINF:0,News CNN
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/191
+#EXTINF:0,News CNN International
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1660
+#EXTINF:0,Cable Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/190
+#EXTINF:0,Cable Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/184
+#EXTINF:0,Cable Discovery Family
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/183
+#EXTINF:0,Cable Discovery Life
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/182
+#EXTINF:0,Cable Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/181
+#EXTINF:0,Cartoon Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/180
+#EXTINF:0,Cartoon Disney Jr
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/179
+#EXTINF:0,Cartoon Disney XD
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/178
+#EXTINF:0,Sports ESPN
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/133
+#EXTINF:0,Sports ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/173
+#EXTINF:0,Sports ESPN News
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/134
+#EXTINF:0,Sports ESPN U
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/172
+#EXTINF:0,Cable Fox
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/269
+#EXTINF:0,Cable FreeForm
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/170
+#EXTINF:0,Cable Fuse
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/169
+#EXTINF:0,Cable FX
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/167
+#EXTINF:0,Cable FXM
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/166
+#EXTINF:0,Cable FXX
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/165
+#EXTINF:0,Cable Hallmark
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/162
+#EXTINF:0,Cable Hallmark Drama
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/356
+#EXTINF:0,Cable Hallmark Movies & Mysteries
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/161
+#EXTINF:0,Movie HBO
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/160
+#EXTINF:0,Movie HBO 2
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1085
+#EXTINF:0,Movie HBO Comedy
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1087
+#EXTINF:0,Movie HBO Family
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/157
+#EXTINF:0,Movie HBO Signature
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/156
+#EXTINF:0,Movie HBO Zone
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/155
+#EXTINF:0,Cable HGTV
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/154
+#EXTINF:0,Cable History 2
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1181
+#EXTINF:0,Cable History Channel
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/153
+#EXTINF:0,Cable Magnolia Networks
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/177
+#EXTINF:0,Movie MSG
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/287
+#EXTINF:0,Movie MSG +
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1617
+#EXTINF:0,Movie MSG 2
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/333
+#EXTINF:0,Cartoon Nick
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/327
+#EXTINF:0,Cartoon Nick Jr
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/351
+#EXTINF:0,Cartoon Nicktoons
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1223
+#EXTINF:0,Movie Showtime
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/223
+#EXTINF:0,Movie Showtime 2
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/222
+#EXTINF:0,Movie Showtime Beyond
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1619
+#EXTINF:0,Movie Showtime Extreme
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/385
+#EXTINF:0,Movie Showtime Family Zone
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1464
+#EXTINF:0,Movie Showtime Next
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1187
+#EXTINF:0,Movie Showtime Showcase
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1465
+#EXTINF:0,Movie Showtime Women
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1251
+#EXTINF:0,Movie Starz
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/280
+#EXTINF:0,Movie Starz Cinema
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1250
+#EXTINF:0,Movie Starz Comedy
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1653
+#EXTINF:0,Movie Starz Edge
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/444
+#EXTINF:0,Movie Starz Encore
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1468
+#EXTINF:0,Movie Starz Encore Action
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1469
+#EXTINF:0,Movie Starz Encore Black
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1470
+#EXTINF:0,Movie Starz Encore Classic
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1471
+#EXTINF:0,Movie Starz Encore Family
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1472
+#EXTINF:0,Movie Starz Encore Suspense
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1249
+#EXTINF:0,Movie Starz Encore Western
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/649
+#EXTINF:0,Movie Starz in Black
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/397
+#EXTINF:0,Movie Starz Kids & Family
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1248
+#EXTINF:0,Cable Sundance
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/215
+#EXTINF:0,Cable SyFy
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/214
+#EXTINF:0,Cable TBS
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/213
+#EXTINF:0,Cable TCM
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/352
+#EXTINF:0,Cartoon TeenNick
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1668
+#EXTINF:0,Cable The CW Network
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1086
+#EXTINF:0,Cable The Weather Channel
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/301
+#EXTINF:0,Cable TNT
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/240
+#EXTINF:0,Cable TruTV
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/238
+#EXTINF:0,Cable TV Land
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/300
+#EXTINF:0,Cable TV One
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/384
+#EXTINF:0,Cartoon Universal Kids
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/252
+#EXTINF:0,Cable Univision
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1522
+#EXTINF:0,Sport WWE
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/398
