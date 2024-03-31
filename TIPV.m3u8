@@ -265,10 +265,6 @@ http://et1.xyz:25461/Izzyjasper1/Freckles2881/161307
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://et1.xyz:25461/Izzyjasper1/Freckles2881/161267
-#EXTINF:0,SpongeBob SquarePants
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://et1.xyz:25461/Izzyjasper1/Freckles2881/193598
 #EXTINF:0,Supernatural
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -425,8 +421,6 @@ https://r.mjh.nz/PlutoTV/63fe2ec4dff38e000835f786-alt.m3u8
 https://r.mjh.nz/PlutoTV/63d000ef4e83e700086e0d6c-alt.m3u8
 #EXTINF:0, Sensing Murder
 https://r.mjh.nz/PlutoTV/5e9ed47c26ebb000074af566-alt.m3u8
-#EXTINF:0, South Park
-https://r.mjh.nz/PlutoTV/64edf6eaa7ec0d000812f58c-alt.m3u8
 #EXTINF:0, Survivorman
 https://r.mjh.nz/PlutoTV/63d91c65da7118000883df1f-alt.m3u8
 #EXTINF:0, 90210
@@ -495,8 +489,6 @@ https://r.mjh.nz/PlutoTV/58d947b9e420d8656ee101ab-alt.m3u8
 https://r.mjh.nz/PlutoTV/642be30baa2d690008ed2935-alt.m3u8
 #EXTINF:25, Murder -  She Wrote
 https://r.mjh.nz/PlutoTV/6549337183595c000815ad05-alt.m3u8
-#EXTINF:0, South Park
-https://r.mjh.nz/PlutoTV/62bdb1c5e25122000798ac79-alt.m3u8
 #EXTINF:25, SpongeBob SquarePants
 https://r.mjh.nz/PlutoTV/63f87d057533d80008ab9549-alt.m3u8
 #EXTINF:0, Star Trek
