@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240323">
-<channel id="AmericasTestKitchen.us"><display-name>America&apos;s Test Kitchen</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/8/81/Angel_%281999_television_series_logo%29.png"/><url>https://xumo.tv</url></channel>
-<channel id="AntiquesRoadshowUK.us"><display-name>Antiques Roadshow UK</display-name><icon src="https://i.imgur.com/rKWLv48.png"/><url>https://xumo.tv</url></channel>
+<channel id="AmericasTestKitchen.us"><display-name>Angel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/8/81/Angel_%281999_television_series_logo%29.png"/><url>https://xumo.tv</url></channel>
+<channel id="American Dad"><display-name>Antiques Roadshow UK</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/American_dad_logo.svg"/><url>https://xumo.tv</url></channel>
 <channel id="ArchitecturalDigest.us"><display-name>Architectural Digest</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Architectural_Digest_logo.svg/512px-Architectural_Digest_logo.svg.png"/><url>https://xumo.tv</url></channel>
 <channel id="BBCFood.us"><display-name>BBC Food</display-name><icon src="https://i.imgur.com/kcmHcSx.png"/><url>https://xumo.tv</url></channel>
 <channel id="BloombergTV.us"><display-name>Bloomberg TV</display-name><icon src="https://i.imgur.com/OuogLHx.png"/><url>https://xumo.tv</url></channel>
