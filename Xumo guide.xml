@@ -1,36 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240323">
-<channel id="Angel"><display-name>Angel</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/8/81/Angel_%281999_television_series_logo%29.png"/><url>https://xumo.tv</url></channel>
-<channel id="American Dad"><display-name>Antiques Roadshow UK</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/4/4d/American_dad_logo.svg"/><url>https://xumo.tv</url></channel>
-<channel id="ArchitecturalDigest.us"><display-name>Architectural Digest</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Architectural_Digest_logo.svg/512px-Architectural_Digest_logo.svg.png"/><url>https://xumo.tv</url></channel>
-<channel id="BBCFood.us"><display-name>BBC Food</display-name><icon src="https://i.imgur.com/kcmHcSx.png"/><url>https://xumo.tv</url></channel>
-<channel id="BloombergTV.us"><display-name>Bloomberg TV</display-name><icon src="https://i.imgur.com/OuogLHx.png"/><url>https://xumo.tv</url></channel>
-<channel id="CBSNews.us"><display-name>CBS News</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/CBS_News_logo_%282020%29.svg/512px-CBS_News_logo_%282020%29.svg.png"/><url>https://xumo.tv</url></channel>
-<channel id="CineSureno.us"><display-name>Cine Sureno</display-name><icon src="https://i.imgur.com/gQimt9G.png"/><url>https://xumo.tv</url></channel>
-<channel id="CourtTV.us"><display-name>Court TV</display-name><icon src="https://i.imgur.com/qkfe3o9.png"/><url>https://xumo.tv</url></channel>
-<channel id="DarkMatterTV.us"><display-name>Dark Matter TV</display-name><icon src="https://i.imgur.com/9K8T3ND.png"/><url>https://xumo.tv</url></channel>
-<channel id="Degrassi.us"><display-name>Degrassi</display-name><icon src="https://i.imgur.com/vhSzfDC.png"/><url>https://xumo.tv</url></channel>
-<channel id="ElectricNow.us"><display-name>Electric Now</display-name><icon src="https://od.lk/s/MF8yMjgzOTI0NjRf/ElectricNow_300x300.png"/><url>https://xumo.tv</url></channel>
-<channel id="EstrellaNews.us"><display-name>Estrella News</display-name><icon src="https://i.imgur.com/HRrkhLq.png"/><url>https://xumo.tv</url></channel>
-<channel id="Filmex.mx"><display-name>Filmex</display-name><icon src="https://i.imgur.com/Hiz2OyC.png"/><url>https://xumo.tv</url></channel>
-<channel id="FilmexClasico.mx"><display-name>Filmex Clasico</display-name><icon src="https://i.imgur.com/D3dj4mv.png"/><url>https://xumo.tv</url></channel>
-<channel id="Food52.us"><display-name>Food 52</display-name><icon src="https://i.imgur.com/cjvqjh2.png"/><url>https://xumo.tv</url></channel>
-<channel id="FoxWeather.us"><display-name>Fox Weather</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png"/><url>https://xumo.tv</url></channel>
-<channel id="GustoTV.us"><display-name>Gusto TV</display-name><icon src="https://i.imgur.com/swUX3hQ.png"/><url>https://xumo.tv</url></channel>
-<channel id="LiveNOWfromFOX.us"><display-name>LiveNOW from FOX</display-name><icon src="https://i.imgur.com/1JnyzHv.png"/><url>https://xumo.tv</url></channel>
-<channel id="LoveNature.ca"><display-name>Love Nature</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png"/><url>https://xumo.tv</url></channel>
-<channel id="MidsomerMurders.us"><display-name>Midsomer Murders</display-name><icon src="https://i.imgur.com/VFqfyfY.png"/><url>https://xumo.tv</url></channel>
-<channel id="NBCNewsNOW.us"><display-name>NBC News NOW</display-name><icon src="https://i.imgur.com/JZt2qh5.png"/><url>https://xumo.tv</url></channel>
-<channel id="NewsmaxTV.us"><display-name>Newsmax TV</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/512px-Newsmax_logo.svg.png"/><url>https://xumo.tv</url></channel>
-<channel id="Newsy.us"><display-name>Newsy</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Newsy_2021.svg/512px-Newsy_2021.svg.png"/><url>https://xumo.tv</url></channel>
-<channel id="RiffTrax.us"><display-name>RiffTrax</display-name><icon src="https://i.imgur.com/hM4yKMn.png"/><url>https://xumo.tv</url></channel>
-<channel id="SonyCanalComedias.us"><display-name>Sony Canal Comedias</display-name><icon src="https://i.imgur.com/9QG3Jz6.png"/><url>https://xumo.tv</url></channel>
-<channel id="StoriesbyAMC.us"><display-name>Stories by AMC</display-name><icon src="https://i.imgur.com/QJtwJoS.png"/><url>https://xumo.tv</url></channel>
-<channel id="Tastemade.us"><display-name>Tastemade</display-name><icon src="https://i.imgur.com/xP7Ehn8.png"/><url>https://xumo.tv</url></channel>
-<channel id="TastemadeenEspanol.us"><display-name>Tastemade en Espanol</display-name><icon src="https://i.imgur.com/8s6aRwv.png"/><url>https://xumo.tv</url></channel>
-<channel id="TheDesignNetwork.us"><display-name>The Design Network</display-name><icon src="https://i.imgur.com/J5YJ3r3.png"/><url>https://xumo.tv</url></channel>
-<channel id="TheJamieOliverChannel.us"><display-name>The Jamie Oliver Channel</display-name><icon src="https://i.imgur.com/4v93XUB.png"/><url>https://xumo.tv</url></channel>
-<channel id="ThisOldHouse.us"><display-name>This Old House</display-name><icon src="https://i.imgur.com/nrVLyE6.png"/><url>https://xumo.tv</url></channel>
-<channel id="TODAYAllDay.us"><display-name>TODAY All Day</display-name><icon src="https://i.imgur.com/LhbQ8Mr.png"/><url>https://xumo.tv</url></channel>
-<channel id="TYTNetwork.us"><display-name>TYT Network</display-name><icon src="https://i.imgur.com/rZQWV08.png"/><url>https://xumo.tv</url></channel>
-<channel id="WildEarth.uk"><display-name>WildEarth</display-name><icon src="https://i.imgur.com/Vhv5gjN.png"/><url>https://xumo.tv</url></channel>
-</tv>
+<channel id="Angel"><display-name>American Dad</display-name><icon src="https://i.pinimg.com/736x/8a/51/2c/8a512cc2be14d9f8c1bc101982e44315.jpg"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel Beats</display-name><icon src="https://i.pinimg.com/originals/1e/80/5f/1e805fb275599011b3f2037eb5ce660b.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Are you Afraid of The Dark</display-name><icon src="https://upload.wikimedia.org/wikipedia/en/3/35/AYAotD_logo.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Batman Beyond</display-name><icon src="https://i.pinimg.com/736x/01/e7/0d/01e70de8ab485c5d3334fef94bfc8081.jpg"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
+<channel id="Angel"><display-name>Angel</display-name><icon src="http.png"/><url>https://xumo.tv</url></channel>
