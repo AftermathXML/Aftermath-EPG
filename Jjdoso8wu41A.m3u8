@@ -91,8 +91,6 @@ https://r.mjh.nz/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d94f1e137315d10db2c80b.m3u8
 #EXTINF:0, FreeTV Crime
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d94c5f137315d10db2c808.m3u8
-#EXTINF:0, FreeTV Drama
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60240f57676235002df19f47.m3u8
 #EXTINF:0, FreeTV Drama Vault
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d84f7715431f0798dd6b66.m3u8
 #EXTINF:54, FreeTV Family
@@ -200,8 +198,6 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1883
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/206
-#EXTINF:54,BLDSTG
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-641db53c2f7a0fca29488c99.m3u8
 #EXTINF:0,CA Teletoon East
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
