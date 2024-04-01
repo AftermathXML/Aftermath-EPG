@@ -1,5 +1,15 @@
 #EXTM3U
-#EXTINF:25, Pluto TV Action Movies
+#EXTINF:49,Sportsnet 360
+http://mains.services/live/pmf0423/1aku0jt%40/3be0557f-f67b-4ce4-8b05-5142ed952870.m3u
+#EXTINF:0,Sportsnet
+http://mains.services/live/pmf0423/1aku0jt%40/98f22436-c862-4a90-b3c3-7286bdf1db03.m3u
+#EXTINF:0,Sportsnet One
+http://mains.services/live/pmf0423/1aku0jt%40/dc379409-ee90-4382-9d9c-8d60ddd14302.m3u
+#EXTINF:0,Sportsnet Pacific
+http://mains.services/live/pmf0423/1aku0jt%40/6bbaa88e-b678-416e-b087-34da238bf88c.m3u
+#EXTINF:0,Sportsnet West
+http://mains.services/live/pmf0423/1aku0jt%40/3317da2f-9af5-48d1-a082-b088b97a4b0d.m3u
+#EXTINF:0, Pluto TV Action Movies
 https://r.mjh.nz/PlutoTV/62ea3c2e4823db00072788ed-alt.m3u8
 #EXTINF:0, Pluto TV Comedy Movies
 https://r.mjh.nz/PlutoTV/62ea3d24b8e02600071fa296-alt.m3u8
@@ -7,6 +17,8 @@ https://r.mjh.nz/PlutoTV/62ea3d24b8e02600071fa296-alt.m3u8
 https://r.mjh.nz/PlutoTV/62bdb0bcd707b9000739d2e5-alt.m3u8
 #EXTINF:25, Pluto TV Horror
 https://r.mjh.nz/PlutoTV/62ea3f8a38acc80007072d26-alt.m3u8
+#EXTINF:25, Pluto TV Action
+https://r.mjh.nz/PlutoTV/5dbfeb961b411c00090b52b3-alt.m3u8
 #EXTINF:25, Pluto TV 00s Replay
 https://r.mjh.nz/PlutoTV/62ba60f059624e000781c436-alt.m3u8
 #EXTINF:0, Pluto TV 70s Cinema
@@ -91,6 +103,8 @@ https://r.mjh.nz/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d94f1e137315d10db2c80b.m3u8
 #EXTINF:0, FreeTV Crime
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d94c5f137315d10db2c808.m3u8
+#EXTINF:0, FreeTV Drama
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60240f57676235002df19f47.m3u8
 #EXTINF:0, FreeTV Drama Vault
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d84f7715431f0798dd6b66.m3u8
 #EXTINF:54, FreeTV Family
@@ -198,6 +212,8 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1883
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/206
+#EXTINF:54,BLDSTG
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-641db53c2f7a0fca29488c99.m3u8
 #EXTINF:0,CA Teletoon East
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
