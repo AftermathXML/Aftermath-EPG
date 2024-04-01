@@ -464,3 +464,17 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/977
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/300
+#EXTINF:0, Pluto TV Action
+https://r.mjh.nz/PlutoTV/5dbfeb961b411c00090b52b3-alt.m3u8
+#EXTINF:0, Pluto TV Adventure
+https://r.mjh.nz/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
+#EXTINF:0, Pluto TV Cult Films
+https://r.mjh.nz/PlutoTV/5c5c31f2f21b553c1f673fb0-alt.m3u8
+#EXTINF:0, Pluto TV Family Movie Club
+https://r.mjh.nz/PlutoTV/5dc3fc6b9133f500099c7d98-alt.m3u8
+#EXTINF:0, Pluto TV Horror
+https://r.mjh.nz/PlutoTV/612cda102f5f18000705e0bf-alt.m3u8
+#EXTINF:0, Pluto TV Sci-Fi
+https://r.mjh.nz/PlutoTV/5dc02a44a9518600094273ac-alt.m3u8
+#EXTINF:0, Pluto TV Sci-fi Series
+https://r.mjh.nz/PlutoTV/619247c34a270700077c8415-alt.m3u8
