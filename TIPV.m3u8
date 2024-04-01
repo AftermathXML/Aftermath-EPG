@@ -535,3 +535,73 @@ https://r.mjh.nz/PlutoTV/625f054c5dfea70007244612-alt.m3u8
 https://r.mjh.nz/PlutoTV/64b52ec24ea4800008370651-alt.m3u8
 #EXTINF:0, Yu-Gi-Oh!
 https://r.mjh.nz/PlutoTV/5f4ec10ed9636f00089b8c89-alt.m3u8
+#EXTM3U
+#EXTINF:0,Alvin & The Chipmunks
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/89651
+#EXTINF:0,American Pie
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/93991
+#EXTINF:0,Chip 'n' Dale Rescue Rangers
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/89655
+#EXTINF:0,Dallas
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/93745
+#EXTINF:0,Deadwood
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/93667
+#EXTINF:0,Degrassi
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/93663
+#EXTINF:0,Disney Adventures of the Gummi Bears
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/89660
+#EXTINF:0,Dragon-Ball
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/89747
+#EXTINF:0,DragonBall GT
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/89673
+#EXTINF:0,Elm Street
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/94013
+#EXTINF:0,Halloween
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/89526
+#EXTINF:0,Hannibal
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/93636
+#EXTINF:0,He-Man
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/60156
+#EXTINF:0,He-Man and the Masters of the Universe 2002
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/89641
+#EXTINF:0,Knight Rider
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/93872
+#EXTINF:0,Little House On The Prairie Season 1-3
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/89459
+#EXTINF:0,Looney Tunes Golden Collection Season 1
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/89378
+#EXTINF:0,Looney Tunes Golden Collection Season 2
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/89373
+#EXTINF:0,Looney Tunes Golden Collection Season 3
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/89372
+#EXTINF:0,Looney Tunes Golden Collection Season 4
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/89371
+#EXTINF:0,Lucifer
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/93965
+#EXTINF:0,Xena Warrior Princess SEASON 1-2
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/89404
+#EXTINF:0, Batman the Animated Series
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/94050
