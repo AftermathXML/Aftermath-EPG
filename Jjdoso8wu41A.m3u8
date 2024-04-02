@@ -385,7 +385,7 @@ https://holiday-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-holiday/CDN/playlis
 #EXTVLCOPT:network-caching=1000
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
 #EXTINF:102,RetroCrush
-https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
 #EXTINF:0,Sport WWE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
