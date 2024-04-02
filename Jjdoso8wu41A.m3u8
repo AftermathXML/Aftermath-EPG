@@ -578,3 +578,6 @@ http://tkosportz.live:25461/robertweyandt/77135152/55955
 #EXTINF:0,Sony TV HD
 #EXTVLCOPT:network-caching=1000
 http://tkosportz.live:25461/robertweyandt/77135152/55956
+#EXTM3U
+#EXTINF:25, Anime All day
+https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
