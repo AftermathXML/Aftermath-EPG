@@ -496,3 +496,85 @@ https://r.mjh.nz/PlutoTV/612cda102f5f18000705e0bf-alt.m3u8
 https://r.mjh.nz/PlutoTV/5dc02a44a9518600094273ac-alt.m3u8
 #EXTINF:0, Pluto TV Sci-fi Series
 https://r.mjh.nz/PlutoTV/619247c34a270700077c8415-alt.m3u8
+#EXTM3U
+#EXTINF:0,Crave 1
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/98081
+#EXTINF:0,Crave 2
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/98082
+#EXTINF:0,Crave 3
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/98083
+#EXTINF:0,Crave 4
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/98084
+#EXTINF:0,GLOBAL KINGSTON
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/98237
+#EXTINF:0,Hollywood Suite 00's
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/98258
+#EXTINF:0,Hollywood Suite 70's
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/98259
+#EXTINF:0,Hollywood Suite 80's
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/98260
+#EXTINF:0,Hollywood Suite 90's
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/98261
+#EXTINF:0,Sky Atlantic HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55937
+#EXTINF:0,Sky Cinema Action HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55938
+#EXTINF:0,Sky Cinema Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55939
+#EXTINF:0,Sky Cinema Drama HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55940
+#EXTINF:0,Sky Cinema Family HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55941
+#EXTINF:0,Sky Cinema Greats HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55942
+#EXTINF:0,Sky Cinema Hits
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55943
+#EXTINF:0,Sky Cinema Premiere HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55946
+#EXTINF:0,Sky Cinema SciFi HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55947
+#EXTINF:0,Sky Cinema Space week
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55944
+#EXTINF:0,Sky Cinema Space week
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55945
+#EXTINF:0,Sky Cinema Thriller HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55948
+#EXTINF:0,Sky Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55949
+#EXTINF:0,Sky Crime HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55950
+#EXTINF:0,Sky Showcase HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55953
+#EXTINF:0,Sky Witness HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55954
+#EXTINF:0,Sony Max HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55955
+#EXTINF:0,Sony TV HD
+#EXTVLCOPT:network-caching=1000
+http://tkosportz.live:25461/robertweyandt/77135152/55956
