@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="63rcuijh7ebd83n33dn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bang_Bang_Albania.png",Bang Bang
+http://45.90.80.250:8000/play/a013
 #EXTINF:71,YTV
 https://z88.ubtvfans.com/live/rx3/1285/6a471ce047aaff86981fef89ee8ca359/index.m3u8
 #EXTINF:25, Global News Kingston
