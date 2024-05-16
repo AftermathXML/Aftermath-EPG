@@ -520,13 +520,75 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1586
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/977
-#EXTINF:0,TV Land
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/300
 #EXTINF:51,US : FUSE
 http://mains.services/live/pmf0423/1aku0jt%40/a2903e36-7a71-4894-baa9-509fe803768a.m3u
 #EXTINF:71,YTV
 https://z88.ubtvfans.com/live/rx3/1285/6a471ce047aaff86981fef89ee8ca359/index.m3u8
 #EXTINF:14,FX HD
 http://172.111.36.190:6887/stream/spectrum-east/fx-hd/master.m3u8
+#EXTINF:0,Bally Sports Detroit
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/317
+#EXTINF:0,Bally Sports Midwest
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/324
+#EXTINF:0,Bally Sports San Diego
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/316
+#EXTINF:0,Bally Sports SouthWest
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1189
+#EXTINF:0,USA | A&E
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/212
+#EXTINF:0,USA | Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/190
+#EXTINF:0,USA | ESPN
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/133
+#EXTINF:0,USA | ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/173
+#EXTINF:0,USA | ESPN News
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/134
+#EXTINF:0,USA | ESPN U
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/172
+#EXTINF:0,USA | Food Network
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/171
+#EXTINF:0,USA | FOX New York
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/728
+#EXTINF:0,USA | Pop
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/226
+#EXTINF:0,USA | Showtime
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/223
+#EXTINF:0,USA | Showtime 2
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/222
+#EXTINF:0,USA | Showtime Beyond
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1619
+#EXTINF:0,USA | Showtime Extreme
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/385
+#EXTINF:0,USA | Showtime Family Zone
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1464
+#EXTINF:0,USA | Showtime Next
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1187
+#EXTINF:0,USA | Showtime Showcase
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1465
+#EXTINF:0,USA | Showtime Women
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1251
+#EXTINF:0,USA | TV Land
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/300
