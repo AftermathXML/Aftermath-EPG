@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="63rcuijh7ebd83n33dn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Bang_Bang_Albania.png",Bang Bang
-http://45.90.80.250:8000/play/a013
-#EXTINF:71,YTV
-https://z88.ubtvfans.com/live/rx3/1285/6a471ce047aaff86981fef89ee8ca359/index.m3u8
-#EXTINF:25, Global News Kingston
-https://r.mjh.nz/PlutoTV/62cbf4964446e2000742073e-alt.m3u8
 #EXTINF:0, 90's Kids
 https://r.mjh.nz/PlutoTV/6452c814939a590008567a3b-alt.m3u8
 #EXTINF:57, Aliwko
@@ -67,6 +61,8 @@ https://r.mjh.nz/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
 https://r.mjh.nz/PlutoTV/580e87ff497c73ba2f321dd3-alt.m3u8
 #EXTINF:0, Game Show Central
 https://r.mjh.nz/PlutoTV/5e54187aae660e00093561d6-alt.m3u8
+#EXTINF:25, Global News Kingston
+https://r.mjh.nz/PlutoTV/62cbf4964446e2000742073e-alt.m3u8
 #EXTINF:0, Godzilla
 https://r.mjh.nz/PlutoTV/6452c8cee1979c0008608e27-alt.m3u8
 #EXTINF:0, Haunt TV
@@ -105,11 +101,11 @@ https://r.mjh.nz/PlutoTV/5f4d878d3d19b30007d2e782-alt.m3u8
 https://r.mjh.nz/PlutoTV/5ca525b650be2571e3943c63-alt.m3u8
 #EXTINF:0, Pluto TV 90s Throwback
 https://r.mjh.nz/PlutoTV/5f4d86f519358a00072b978e-alt.m3u8
+#EXTINF:25, Pluto TV Action
+https://r.mjh.nz/PlutoTV/5dbfeb961b411c00090b52b3-alt.m3u8
 #EXTINF:0, Pluto TV Action
 https://r.mjh.nz/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
 #EXTINF:0, Pluto TV Action
-https://r.mjh.nz/PlutoTV/5dbfeb961b411c00090b52b3-alt.m3u8
-#EXTINF:25, Pluto TV Action
 https://r.mjh.nz/PlutoTV/5dbfeb961b411c00090b52b3-alt.m3u8
 #EXTINF:0, Pluto TV Action Movies
 https://r.mjh.nz/PlutoTV/62ea3c2e4823db00072788ed-alt.m3u8
@@ -122,9 +118,9 @@ https://r.mjh.nz/PlutoTV/62ea3d24b8e02600071fa296-alt.m3u8
 #EXTINF:0, Pluto TV Crime Movies
 https://r.mjh.nz/PlutoTV/5f4d8594eb979c0007706de7-alt.m3u8
 #EXTINF:0, Pluto TV Cult Films
-https://r.mjh.nz/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
-#EXTINF:0, Pluto TV Cult Films
 https://r.mjh.nz/PlutoTV/5c5c31f2f21b553c1f673fb0-alt.m3u8
+#EXTINF:0, Pluto TV Cult Films
+https://r.mjh.nz/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
 #EXTINF:0, Pluto TV Drama
 https://r.mjh.nz/PlutoTV/5b4e92e4694c027be6ecece1-alt.m3u8
 #EXTINF:25, Pluto TV Drama Movies
@@ -134,9 +130,9 @@ https://r.mjh.nz/PlutoTV/5dc3fc6b9133f500099c7d98-alt.m3u8
 #EXTINF:0, Pluto TV Fantastic
 https://r.mjh.nz/PlutoTV/5b64a245a202b3337f09e51d-alt.m3u8
 #EXTINF:0, Pluto TV Horror
-https://r.mjh.nz/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
-#EXTINF:0, Pluto TV Horror
 https://r.mjh.nz/PlutoTV/612cda102f5f18000705e0bf-alt.m3u8
+#EXTINF:0, Pluto TV Horror
+https://r.mjh.nz/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
 #EXTINF:25, Pluto TV Horror
 https://r.mjh.nz/PlutoTV/62ea3f8a38acc80007072d26-alt.m3u8
 #EXTINF:0, Pluto TV Paranormal
@@ -144,9 +140,9 @@ https://r.mjh.nz/PlutoTV/5adf96e3e738977e2c31cb04-alt.m3u8
 #EXTINF:0, Pluto TV Romance
 https://r.mjh.nz/PlutoTV/5a66795ef91fef2c7031c599-alt.m3u8
 #EXTINF:0, Pluto TV Sci-Fi
-https://r.mjh.nz/PlutoTV/5dc02a44a9518600094273ac-alt.m3u8
-#EXTINF:0, Pluto TV Sci-Fi
 https://r.mjh.nz/PlutoTV/5b4fc274694c027be6ed3eea-alt.m3u8
+#EXTINF:0, Pluto TV Sci-Fi
+https://r.mjh.nz/PlutoTV/5dc02a44a9518600094273ac-alt.m3u8
 #EXTINF:0, Pluto TV Sci-fi Series
 https://r.mjh.nz/PlutoTV/619247c34a270700077c8415-alt.m3u8
 #EXTINF:0, Pluto TV Science
@@ -188,24 +184,51 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1883
+#EXTINF:0,AMC
+http://170.254.18.106/AMC/mono.m3u8
+#EXTINF:36,ANIME x HIDIVE
+#EXTVLCOPT:network-caching=1000
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:0,Bang Bang
+http://45.90.80.250:8000/play/a013
 #EXTINF:0,BBC America
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/206
 #EXTINF:54,BLDSTG
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-641db53c2f7a0fca29488c99.m3u8
-#EXTINF:0,CA Teletoon East
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/34580347/32765518/57372
-#EXTINF:0,CA Treehouse
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/34580347/32765518/57371
-#EXTINF:0,CA YTV East
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/34580347/32765518/63850
+#EXTINF:20,Bravo
+http://170.254.18.106/BRAVO/index.m3u8
+#EXTINF:36,Britbox Mysteries
+https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
+#EXTINF:0,CA : CITY TV TORONTO
+http://mains.services/live/pmf0423/1aku0jt%40/46e31ee9-54d7-428e-bebf-87479a4a035e.m3u
+#EXTINF:0,CA : CP24
+http://mains.services/live/pmf0423/1aku0jt%40/352d2888-e11b-48d8-89cc-5c87eb964d5e.m3u
+#EXTINF:50,CA : CTV COMEDY
+http://mains.services/live/pmf0423/1aku0jt%40/8a096813-9f86-4364-a9c6-85c98e50a1a3.m3u
+#EXTINF:0,CA : CTV DRAMA
+http://mains.services/live/pmf0423/1aku0jt%40/60c06291-0470-4286-9aff-a2bc63a30e3f.m3u
+#EXTINF:0,CA : CTV NEWS CHANNEL
+http://mains.services/live/pmf0423/1aku0jt%40/5f84d329-bcdc-435d-b497-219c873527af.m3u
+#EXTINF:0,CA : CTV SCI-FI
+http://mains.services/live/pmf0423/1aku0jt%40/15809d0a-3ad0-4993-a1ed-1832ebd95b53.m3u
+#EXTINF:0,CA : CTV TORONTO
+http://mains.services/live/pmf0423/1aku0jt%40/65ead561-4298-42d8-8e72-9fe33894755c.m3u
+#EXTINF:0,CA : CTV2 TORONTO
+http://mains.services/live/pmf0423/1aku0jt%40/3154886d-4d8e-4566-89dc-6fb8e35cee8b.m3u
+#EXTINF:0,CA : DEJAVIEW
+http://mains.services/live/pmf0423/1aku0jt%40/006b4011-43c4-4d67-ab4f-d0f6a1955532.m3u
+#EXTINF:50,CA : HOLLYWOOD SUITE 2000s
+http://mains.services/live/pmf0423/1aku0jt%40/76d28b26-99b2-4017-a45b-d117027abdac.m3u
+#EXTINF:0,CA : HOLLYWOOD SUITE 70s
+http://mains.services/live/pmf0423/1aku0jt%40/4b58160e-b9e6-405f-9c6a-1c5e7935221f.m3u
+#EXTINF:0,CA : HOLLYWOOD SUITE 80s
+http://mains.services/live/pmf0423/1aku0jt%40/07d0ce6a-cdbb-4367-ba71-2e59abb7a6e7.m3u
+#EXTINF:48,CA : HOLLYWOOD SUITE 90s
+http://mains.services/live/pmf0423/1aku0jt%40/a007db3e-eabb-4322-8455-c02c18a67df8.m3u
+#EXTINF:50,CA : MUCH
+http://mains.services/live/pmf0423/1aku0jt%40/5f9b360c-3f8b-4852-9b39-14c520d93a38.m3u
 #EXTINF:0,Cartoon Boomerang
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -226,6 +249,8 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/179
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/178
+#EXTINF:40,Cartoon Network Asia
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:0,Cartoon Nick
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -242,6 +267,8 @@ http://fortv.cc:8080/34580347/32765518/36
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1668
+#EXTINF:0,Charge!
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:0,Cinemax
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -270,6 +297,20 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1606
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1607
+#EXTINF:0,CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:20,Comedy Central
+http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+#EXTINF:0,Comet
+https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:32,CourtTV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:54,Dove Channel
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:20,ESPN US
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:0,ESPN2
+http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/127365
 #EXTINF:0,FreeForm
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -278,10 +319,6 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/170
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/169
-#EXTINF:0,FX
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/167
 #EXTINF:0,FXM
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -290,6 +327,10 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/166
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/165
+#EXTINF:49,GB : COMEDYXTRA
+http://mains.services/live/pmf0423/1aku0jt%40/2d9fcec1-1f00-4194-be93-06843a5c8387.m3u
+#EXTINF:30,GB : HORROR
+http://mains.services/live/pmf0423/1aku0jt%40/839b629c-c025-4170-88f5-740283cf7a33.m3u
 #EXTINF:0,GLOBAL KINGSTON
 #EXTVLCOPT:network-caching=1000
 http://tkosportz.live:25461/robertweyandt/77135152/98237
@@ -325,6 +366,14 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/154
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/177
+#EXTINF:30,POP Max
+https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+#EXTINF:0, Drama Movies - Rakuten TV
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
+#EXTINF:0, Real Series - Rakuten TV
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBBD1100006DS.m3u8
 #EXTINF:0, Top Movies - Rakuten TV
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/GBBC90001660.m3u8
@@ -337,12 +386,6 @@ https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
 #EXTINF:0, Comedy Movies - Rakuten TV
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
-#EXTINF:0, Drama Movies - Rakuten TV
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
-#EXTINF:0, Real Series - Rakuten TV
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/GBBD1100006DS.m3u8
 #EXTINF:0, Action Movies - Rakuten TV
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
@@ -443,6 +486,10 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/214
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/213
+#EXTINF:0,TCM
+http://143.244.60.30/TCM/index.m3u8
+#EXTINF:0,TLC
+http://thevdm.xyz:25461/Jennifer/Year!/39846
 #EXTINF:0,TNT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -477,70 +524,9 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/977
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/300
-#EXTINF:36,ANIME x HIDIVE
-#EXTVLCOPT:network-caching=1000
-https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
-#EXTINF:0,AMC
-http://170.254.18.106/AMC/mono.m3u8
-#EXTINF:20,Bravo
-http://170.254.18.106/BRAVO/index.m3u8
-#EXTINF:36,Britbox Mysteries
-https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
-#EXTINF:40,Cartoon Network Asia
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:0,Charge!
-https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:0,CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:20,Comedy Central
-http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
-#EXTINF:0,Comet
-https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:32,CourtTV
-https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:54,Dove Channel
-https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
-#EXTINF:20,ESPN US
-http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:0,ESPN2
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/127365
-#EXTINF:30,POP Max
-https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
-#EXTINF:0,TCM
-http://143.244.60.30/TCM/index.m3u8
-#EXTINF:0,TLC
-http://thevdm.xyz:25461/Jennifer/Year!/39846
-#EXTINF:0,CA : CITY TV TORONTO
-http://mains.services/live/pmf0423/1aku0jt%40/46e31ee9-54d7-428e-bebf-87479a4a035e.m3u
-#EXTINF:0,CA : CP24
-http://mains.services/live/pmf0423/1aku0jt%40/352d2888-e11b-48d8-89cc-5c87eb964d5e.m3u
-#EXTINF:50,CA : CTV COMEDY
-http://mains.services/live/pmf0423/1aku0jt%40/8a096813-9f86-4364-a9c6-85c98e50a1a3.m3u
-#EXTINF:0,CA : CTV DRAMA
-http://mains.services/live/pmf0423/1aku0jt%40/60c06291-0470-4286-9aff-a2bc63a30e3f.m3u
-#EXTINF:0,CA : CTV NEWS CHANNEL
-http://mains.services/live/pmf0423/1aku0jt%40/5f84d329-bcdc-435d-b497-219c873527af.m3u
-#EXTINF:0,CA : CTV SCI-FI
-http://mains.services/live/pmf0423/1aku0jt%40/15809d0a-3ad0-4993-a1ed-1832ebd95b53.m3u
-#EXTINF:0,CA : CTV TORONTO
-http://mains.services/live/pmf0423/1aku0jt%40/65ead561-4298-42d8-8e72-9fe33894755c.m3u
-#EXTINF:0,CA : CTV2 TORONTO
-http://mains.services/live/pmf0423/1aku0jt%40/3154886d-4d8e-4566-89dc-6fb8e35cee8b.m3u
-#EXTINF:0,CA : DEJAVIEW
-http://mains.services/live/pmf0423/1aku0jt%40/006b4011-43c4-4d67-ab4f-d0f6a1955532.m3u
-#EXTINF:0,CA : HOLLYWOOD SUITE 2000s
-http://mains.services/live/pmf0423/1aku0jt%40/76d28b26-99b2-4017-a45b-d117027abdac.m3u
-#EXTINF:0,CA : HOLLYWOOD SUITE 70s
-http://mains.services/live/pmf0423/1aku0jt%40/4b58160e-b9e6-405f-9c6a-1c5e7935221f.m3u
-#EXTINF:0,CA : HOLLYWOOD SUITE 80s
-http://mains.services/live/pmf0423/1aku0jt%40/07d0ce6a-cdbb-4367-ba71-2e59abb7a6e7.m3u
-#EXTINF:48,CA : HOLLYWOOD SUITE 90s
-http://mains.services/live/pmf0423/1aku0jt%40/a007db3e-eabb-4322-8455-c02c18a67df8.m3u
-#EXTINF:50,CA : MUCH
-http://mains.services/live/pmf0423/1aku0jt%40/5f9b360c-3f8b-4852-9b39-14c520d93a38.m3u
-#EXTINF:49,GB : COMEDYXTRA
-http://mains.services/live/pmf0423/1aku0jt%40/2d9fcec1-1f00-4194-be93-06843a5c8387.m3u
-#EXTINF:30,GB : HORROR
-http://mains.services/live/pmf0423/1aku0jt%40/839b629c-c025-4170-88f5-740283cf7a33.m3u
 #EXTINF:51,US : FUSE
 http://mains.services/live/pmf0423/1aku0jt%40/a2903e36-7a71-4894-baa9-509fe803768a.m3u
+#EXTINF:71,YTV
+https://z88.ubtvfans.com/live/rx3/1285/6a471ce047aaff86981fef89ee8ca359/index.m3u8
+#EXTINF:14,FX HD
+http://172.111.36.190:6887/stream/spectrum-east/fx-hd/master.m3u8
