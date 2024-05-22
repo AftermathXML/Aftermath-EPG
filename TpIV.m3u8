@@ -1,1 +1,302 @@
-Testing
+#EXTM3U
+#EXTINF:68, Alternative
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8
+#EXTINF:0, Classic Rock
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff.m3u8
+#EXTINF:0, Easy Listening
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee76b5271f393d2d9f709a.m3u8
+#EXTINF:0, Euro Hits
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491.m3u8
+#EXTINF:0, Flashback 70s
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62f15810a3ffe928ef806c75.m3u8
+#EXTINF:0, Hip-Hop/R&B
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e.m3u8
+#EXTINF:0, Hit List
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd.m3u8
+#EXTINF:0, Nothin' But 90s
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54.m3u8
+#EXTINF:0, Qello Concerts
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199.m3u8
+#EXTINF:60, Qwest TV
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8
+#EXTINF:30, Relaxing Nature in 4k
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702955123/ei/E7SAZaXJDOm8sfIP2fKQ2A4/ip/20.171.78.152/id/i7U9ThH3ZzU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9_xYzCEBqyZrZi-75q-myj9JwdI39xMwdkhNg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJbrg-vIJyxCw6GgqW6VDFtb0JQ0FW4iY3iEOkclwgGhAiEA4wVOLfNzl1ATXUSHo_UU25aKqEuUuePZeIJdssBCbcs%3D/file/index.m3u8
+#EXTINF:0, Remember the ‘80s
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb.m3u8
+#EXTINF:0, Soul Storm
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801.m3u8
+#EXTINF:0, Stingray Classica Stream
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62d7f68fb19cbf65dc7bef7d.m3u8
+#EXTINF:0, Stingray CMusic
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87.m3u8
+#EXTINF:0, Stingray DJAZZ
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62fc0150c67d52bddf74cc89.m3u8
+#EXTINF:0, Stingray Holidayscapes
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8
+#EXTINF:0, Stingray Karaoke
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fc705daa2236e002d69f108.m3u8
+#EXTINF:0, Stingray Naturescape
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5.m3u8
+#EXTINF:0, The Spa
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62f11395586633e88e3a3274.m3u8
+#EXTINF:0, Today's K-Pop
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096.m3u8
+#EXTINF:0, TRACE Brazuca
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6329474265c8569187176338.m3u8
+#EXTINF:0, TRACE Latina
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63226c03e67cf9cd9011fcdf.m3u8
+#EXTINF:0, TRACE Urban
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda.m3u8
+#EXTINF:0, Vevo '70s
+https://i.mjh.nz/SamsungTVPlus/USBD300011KQ.m3u8
+#EXTINF:0, Vevo '70s & '80s
+https://i.mjh.nz/SamsungTVPlus/GBBD1900009UD.m3u8
+#EXTINF:0, Vevo '80s
+https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8
+#EXTINF:0, Vevo '90s
+https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8
+#EXTINF:0, Vevo '90s & '00s
+https://i.mjh.nz/SamsungTVPlus/GBBC2100002HP.m3u8
+#EXTINF:0, Vevo 2010s
+https://i.mjh.nz/SamsungTVPlus/USBD120002431.m3u8
+#EXTINF:0, Vevo 2K
+https://i.mjh.nz/SamsungTVPlus/USBB4400015F5.m3u8
+#EXTINF:0, Vevo Country
+https://i.mjh.nz/SamsungTVPlus/USBC3600001RQ.m3u8
+#EXTINF:0, Vevo Hip-Hop
+https://i.mjh.nz/SamsungTVPlus/USBC3600002EK.m3u8
+#EXTINF:0, Vevo Holiday
+https://i.mjh.nz/SamsungTVPlus/USBD1200008GL.m3u8
+#EXTINF:0, Vevo Latino
+https://i.mjh.nz/SamsungTVPlus/USBC3600015GF.m3u8
+#EXTINF:0, Vevo Pop
+https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
+#EXTINF:0, Vevo R&B
+https://i.mjh.nz/SamsungTVPlus/USBC3900009K5.m3u8
+#EXTINF:0, Vevo Retro Rock
+https://i.mjh.nz/SamsungTVPlus/USBD3000145P.m3u8
+#EXTINF:0, Vivaldi
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61bb9a63e0b39cfe304c9a8a.m3u8
+#EXTINF:0, XITE 80s Flashback
+https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
+#EXTINF:0, XITE 90s Throwback
+https://i.mjh.nz/SamsungTVPlus/USBB3200007AK.m3u8
+#EXTINF:0, XITE Celebrates
+https://i.mjh.nz/SamsungTVPlus/USBD350003932.m3u8
+#EXTINF:0, XITE Country Today
+https://i.mjh.nz/SamsungTVPlus/USBD3300006O3.m3u8
+#EXTINF:0, XITE Country's Finest
+https://i.mjh.nz/SamsungTVPlus/USBD3300011UT.m3u8
+#EXTINF:0, XITE Hits
+https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
+#EXTINF:0, XITE Icons
+https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
+#EXTINF:0, XITE Just Chill
+https://i.mjh.nz/SamsungTVPlus/USBB2300003JZ.m3u8
+#EXTINF:0, XITE Nuevo Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
+#EXTINF:0, XITE Only Love
+https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8
+#EXTINF:0, XITE R&B Classic Jams
+https://i.mjh.nz/SamsungTVPlus/USBD330000948.m3u8
+#EXTINF:0, XITE Rock On
+https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
+#EXTINF:0, XITE Siempre Latino
+https://i.mjh.nz/SamsungTVPlus/USBD3300010L9.m3u8
+#EXTINF:0, Y2K
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee72cc271f393d2d9f7098.m3u8
+#EXTINF:0, Éxitos del Momento
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8
+#EXTINF:0,Autumn Escape
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=82588&ads.show_id=3174&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Autumn%20Escape&ads.episodetitle=Autumn%20Escape&ads.keywords=Autumn%2CEscape%2CRelax%2CMoods%2CAutum%20Escape&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:30,Baraza TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:0,Baraza TV Deep House (720p)
+#EXTVLCOPT:network-caching=1000
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:0,Baraza TV Greek Music Hits (1080p)
+#EXTVLCOPT:network-caching=1000
+https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:30, The Good Life Radio - Best Relax House, Chillout, Study, Running, Gym, Happy Music
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702951998/ei/3aeAZaGXOqK7_9EPpfC90AE/ip/20.109.38.148/id/36YnV9STBqc.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f6Lo0UgBcHpx-AMpJ9Pix8EgfzOqtadorEX3mw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgArsuSTJdFYb3UohqGk4LcHf1zz1FdsRYn0f45hHP5MwCIAYAt4LFwnxUHe4CBsZYCpqDsCsyqgNgAFOnH6rMCjPQ/file/index.m3u8
+#EXTINF:24,Bridge
+#EXTVLCOPT:network-caching=1000
+http://moobl.ru/hls/Bridge_tv.m3u8
+#EXTINF:0,Bridge Classic (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:0,Bridge Deluxe (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:0,Bridge Hits (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:0,Bridge Rock (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:0,Bridge Русский хит (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:0,Bridge Шлягер (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:60,Escapes
+#EXTVLCOPT:network-caching=1000
+https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991280
+#EXTINF:58,Escapes alt
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991280
+#EXTINF:0,FastCast4u.com AutoDJ
+#EXTVLCOPT:network-caching=1000
+http://192.95.39.65:5607/stream
+#EXTINF:0,Fireplace Lounge
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25045&ads.show_id=653&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Fireplace%20Lounge&ads.episodetitle=Fireplace%20Lounge&ads.keywords=fireplace%2Clounge%20videos&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:100,Fish Tank
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25073&ads.show_id=654&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Fish%20Tank&ads.episodetitle=Fish%20Tank&ads.keywords=fish%20tank%2Clounge%20video&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:60,iHeart 80s
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,iHeart 90s
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,iHeart Alt Radio
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,Iheart Christmas
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/99951199/hls/playlist.m3u8?ads.xumo_channelId=99951199
+#EXTINF:0,Iheart Christmas Jazz
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/99951200/hls/playlist.m3u8?ads.xumo_channelId=99951200
+#EXTINF:0,iHeart Country 
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,Iheart Hip Hop Beats
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/9995103/hls/playlist.m3u8?ads.xumo_channelId=9995103
+#EXTINF:0,iHeart Hit Nation 
+#EXTVLCOPT:network-caching=1000
+https://iheart-ihearthitnation-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,iHeart Latino Hits 
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,Iheart Radio Beso
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/9995104/hls/playlist.m3u8?ads.xumo_channelId=9995104
+#EXTINF:0,iHeart The Beat 
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheartthebeat-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:0,Island Escape
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25102&ads.show_id=656&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Island%20Escape&ads.episodetitle=Island%20Escape&ads.keywords=island%2Cisland%20vibes%2Clounge&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:0,MUZZIK (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:0,Muzzik ELECTRO (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:0,Muzzik FLASHBACK (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:0,Muzzik MOBA (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:0,Muzzik POP STAR (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:0,Muzzik SENSE (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:0,Muzzik TIKTAK (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:0,Muzzik ZZ TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:97,NatureStream.tv
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23037&ads.content_duration=18000&ads.episode_id=77808&ads.show_id=3074&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=NatureStream.tv&ads.episodetitle=NatureStream.tv&ads.keywords=Nature%20Stream%2CNature%2Cmoods%2Crelaxing&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:0,Planet LoFi
+#EXTVLCOPT:network-caching=1000
+http://198.245.60.88:8080/stream
+#EXTINF:60,Quietude 4K
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22930&ads.content_duration=18000&ads.episode_id=51848&ads.show_id=1685&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Quietude%204K&ads.episodetitle=Quietude%204K&ads.keywords=screen%20saver%2Cnature%2Cviews%2Ccalming%2Cchill%2Cbackground%20video%2CQuietude%204K&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=quietude&ads.islive=1&ads.streamtype=live
+#EXTINF:0,Qwest TV Jazz & Beyond (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
+#EXTINF:0,Qwest TV Mix (720p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
+#EXTINF:0,QwestTV
+#EXTVLCOPT:network-caching=1000
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+#EXTINF:50,Real-Music
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-music/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87421&ads.show_id=3263&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music&ads.showRating=TV-G&ads.episodeRating=&ads.language=en&ads.showtitle=Real%20Music&ads.episodetitle=Real%20Music&ads.keywords=Music&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:0,Relax
+#EXTVLCOPT:network-caching=1000
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:100,Relaxing Rain
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25089&ads.show_id=655&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Relaxing%20Rain&ads.episodetitle=Relaxing%20Rain&ads.keywords=rain%2Clounge%20videos&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:97,Relaxing WinterScapes
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=82603&ads.show_id=3175&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Relaxing%20WinterScapes&ads.episodetitle=Relaxing%20WinterScapes&ads.keywords=Relax%2CRelaxing%20Winterscapes%2CWinterscapes%2CRelaxing&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:97,Spring Escape
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=82604&ads.show_id=3176&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Spring%20Escape&ads.episodetitle=Spring%20Escape&ads.keywords=Spring%20Escape%2CSptring%2CEscape%2CRelax&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:97,Study Lounge
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=82605&ads.show_id=3177&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Study%20Lounge&ads.episodetitle=Study%20Lounge&ads.keywords=Study%2CLounge%2CStudy%20Lounge%2CRelax&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:0,Toonami Aftermath Radio (480p)
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+#EXTINF:0,Tranquil Thunderstorms
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25455&ads.show_id=659&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Tranquil%20Thunderstorms&ads.episodetitle=Tranquil%20Thunderstorms&ads.keywords=ambiance%2Cmood%2Clounge%2Cthunderstorms&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:30,TV77.m3u8
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
+#EXTINF:30, Anime Song Radio
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422411/ei/qzJOZvimOqG0v_IP28WrgAU/ip/94.19.92.16/id/4FBW3mkdKOs.12/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOYBH4H0RfLwWwnBkwxo4GadkrsqF7S362qTTpqb7aBWAiA36foG-dg31VaI92deaLC7nskV7n_fdnoXqHuoNj1Asg%3D%3D/file/index.m3u8
+#EXTINF:30, Chill Out Music Mixe
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716423990/ei/1jhOZvHpBcy1kucPkJGJsAI/ip/40.76.106.51/id/m52ynxt1mOo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177566/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANkCA_P7SUoiMgk5DIdTPNPTNRwz4ZIjwZ4w7wbMqBZQAiEA_fGVSmvSLk_UgxgzEdk9Png_IL4M62W8OCwBlDD7Yh8%3D/file/index.m3u8
+#EXTINF:30, Chillout Lounge
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716423990/ei/1jhOZsXbJeGLkucPm4mIKA/ip/40.76.106.51/id/9UMxZofMNbA.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177567/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANDuYU7ocOKyPi7MZIAwSDmjbaRmdDoJ4zaRQ34whBDSAiEApY0WmAcSxmgCnZ8V6m-NwbXtti8yVl213AHv3XDekkg%3D/file/index.m3u8
+#EXTINF:30, Copyright Free Music Radio
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422405/ei/pTJOZrTUHJOVv_IP9pSv0Ac/ip/94.19.92.16/id/7tNtU5XFwrU.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPBCBjUhpqcB3LLrVHTtL7W8IUWkhHZ6c2vqvDNXXTJiAiEAgX8IAoBsltMAsuwvs3G4Ocz_FEwSqrzBH4UMVBwa-yE%3D/file/index.m3u8
+#EXTINF:0, Elegant Blues
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422410/ei/qjJOZo7HOfqTv_IPh4uAiA0/ip/94.19.92.16/id/gpT3hBRgG1U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIZBFROzXgvuZjFgwY5JemLHbG7rtuleYPte241JipmhAiAlctMX5Jzjwhcjl5xJzEYpVCab_L1JaIVK06_qUUSurQ%3D%3D/file/index.m3u8
+#EXTINF:0, Hardstyle & Hardcore Music Radio
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+#EXTINF:30, Lo-Fi Hip-Hop radio
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422402/ei/ojJOZpWYO_asv_IPv_WNsAE/ip/94.19.92.16/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAILSsNyF5NWfofdeqlJpirxVvkIR9sXmlSHIRQCJ7i4EAiBZwlVfmpP8rR9-TSuU247gfEFhID9Xy1fonrdQfYVVqQ%3D%3D/file/index.m3u8
+#EXTINF:30, Phonk Radio
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422404/ei/pDJOZt_JA9qE0u8PiPmCOA/ip/94.19.92.16/id/8v_kKMaq5po.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51099272/txs/51099271%2C51099272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgebQHuL2HySWHiu32tSJrBgjIs3dXlizCemwwYYV-ZigCIDn_I12RVnpSXUPZnB5fKPta3F5Nnolgzw2L6nLspx5C/file/index.m3u8
+#EXTINF:30, PostRock Radio
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422412/ei/rDJOZvXJNK7jv_IPq4KQ-AM/ip/94.19.92.16/id/MRhplCpkPKE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgI-dvs4VHtAMYUc_mo0A9SzmrNZYOXow0wy8ourUgHacCIQCDeBdzJcR8IBmZJ-SrokPgTgPTIGQn8Ea2e_ZYtOKL6A%3D%3D/file/index.m3u8
+#EXTINF:0, Relaxing Whiskey Blues Radio
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422410/ei/qjJOZr0bq7m_8g_2sanIAw/ip/94.19.92.16/id/WnQsXCPufyM.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51103729/txs/51103729%2C51103730%2C51113346/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOe1DjZjYcLUuvNfMZlbmKWsys32OdXJkeCOtaZ3Qk7xAiBEuRKPvOuR8oLAiJdqGjoJYJXK_O12jNMxGu33s6Kqng%3D%3D/file/index.m3u8
+#EXTINF:30, Synthwave Radio
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422405/ei/pTJOZuq8CYqrv_IPvsyJuAw/ip/94.19.92.16/id/4xDzrJKXOOY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgO-RZn5bUAq_uyNB-XorFrdrQ2AAkuqY9otvOKPftOU0CIQCYRI3P2n_U5BoeCiqk59kwDG6kK_gGZfumyPBpeUetCA%3D%3D/file/index.m3u8
+#EXTINF:0, Tokyo Night Drive Radio
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422406/ei/pjJOZovNItLD0u8P1-O6yAo/ip/94.19.92.16/id/Lcdi9O2XB4E.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMH3Phn0R0OZ0Z8hqYeIzsiQ7ghZMudUuu0z9f7q8MbRAiBPu_Vp2t5E4tTV0G8u5JWeHEIYtxtv-qUIrCgUKloaGg%3D%3D/file/index.m3u8
