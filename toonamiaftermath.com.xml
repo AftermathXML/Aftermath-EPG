@@ -1,185 +1,781 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20240426">
-<channel id="ToonamiAftermathEast.us"><display-name>Toonami Aftermath East</display-name><icon src="https://i.imgur.com/aSjhZK7.png"/><url>https://toonamiaftermath.com</url></channel>
-<programme start="20240426160030 +0000" stop="20240426162043 +0000" channel="ToonamiAftermathEast.us"><title lang="en">X-Men</title><sub-title lang="en">Whatever It Takes</sub-title><icon src="https://i.imgur.com/ZSZ0x1m.gif"/></programme>
-<programme start="20240426162204 +0000" stop="20240426164559 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Mega Man</title><sub-title lang="en">The Strange Island of Dr. Wily</sub-title><icon src="https://i.imgur.com/vhvmTlP.gif"/></programme>
-<programme start="20240426164749 +0000" stop="20240426170911 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Men in Black</title><sub-title lang="en">The Jack O&apos;Lantern Syndrome</sub-title><icon src="https://i.imgur.com/M2q5NRC.gif"/></programme>
-<programme start="20240426171040 +0000" stop="20240426173127 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Street Fighter</title><sub-title lang="en">Cammy Tell Me True (Finale)</sub-title><icon src="https://i.imgur.com/cCLSPil.gif"/></programme>
-<programme start="20240426173337 +0000" stop="20240426175400 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spider-Man</title><sub-title lang="en">The Hobgoblin (Part One)</sub-title><icon src="https://i.imgur.com/hprZiwl.gif"/></programme>
-<programme start="20240426175600 +0000" stop="20240426181819 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Thundercats</title><sub-title lang="en">All That Glitters</sub-title><icon src="https://i.imgur.com/7TOnnN5.gif"/></programme>
-<programme start="20240426181933 +0000" stop="20240426184311 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ronin Warriors</title><sub-title lang="en">Legend of the White Armor</sub-title><icon src="https://i.imgur.com/NYqBWaN.gif"/></programme>
-<programme start="20240426184406 +0000" stop="20240426190820 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Zeta Gundam</title><sub-title lang="en">The Dark Side of the Moon</sub-title><icon src="https://i.imgur.com/Tqe7v2I.gif"/></programme>
-<programme start="20240426190939 +0000" stop="20240426193320 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Robotech</title><sub-title lang="en">The Hunters</sub-title><icon src="https://i.imgur.com/d2iQJ5T.gif"/></programme>
-<programme start="20240426193454 +0000" stop="20240426195649 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Beast Wars</title><sub-title lang="en">Code of Hero</sub-title><icon src="https://i.imgur.com/1fov0VP.gif"/></programme>
-<programme start="20240426200000 +0000" stop="20240426202549 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Pokemon</title><sub-title lang="en">The Needs of the Three!</sub-title><icon src="https://i.imgur.com/VfdN6pP.gif"/></programme>
-<programme start="20240426202955 +0000" stop="20240426205548 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Teen Titans</title><sub-title lang="en">Fear Itself</sub-title><icon src="https://i.imgur.com/Csz1Dr1.gif"/></programme>
-<programme start="20240426210130 +0000" stop="20240426212215 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dragonball</title><sub-title lang="en">Siege on Chow Castle</sub-title><icon src="https://i.imgur.com/cQBxAVU.gif"/></programme>
-<programme start="20240426212503 +0000" stop="20240426214841 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Sailor Moon</title><sub-title lang="en">No Turning Back</sub-title><icon src="https://i.imgur.com/TnI0NkT.gif"/></programme>
-<programme start="20240426214927 +0000" stop="20240426221036 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Tien goes all out!</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20240426221232 +0000" stop="20240426223344 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Time&apos;s Up!</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20240426223600 +0000" stop="20240426230000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">G Gundam</title><sub-title lang="en">Emissary of Darkness! Chapman Rises Again</sub-title><icon src="https://i.imgur.com/WCckIMt.gif"/></programme>
-<programme start="20240426230100 +0000" stop="20240426235728 +0000" channel="ToonamiAftermathEast.us"><title lang="en">The World&apos;s Strongest</title><icon src="https://i.imgur.com/kvY6OZG.jpg"/></programme>
-<programme start="20240426235830 +0000" stop="20240427001742 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Powerpuff Girls</title><sub-title lang="en">All Chalked Up</sub-title><icon src="https://i.imgur.com/8ULe6pE.gif"/></programme>
-<programme start="20240427001752 +0000" stop="20240427002843 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ed Edd Eddy</title><sub-title lang="en">Look Into My Eds</sub-title><icon src="https://i.imgur.com/igzgfih.gif"/></programme>
-<programme start="20240427002853 +0000" stop="20240427003639 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dexters Laboratory</title><sub-title lang="en">Dexter&apos;s Lab: A Story</sub-title><icon src="https://i.imgur.com/hMP6ON2.gif"/></programme>
-<programme start="20240427003655 +0000" stop="20240427004359 +0000" channel="ToonamiAftermathEast.us"><title lang="en">2 Stupid Dogs</title><sub-title lang="en">Where&apos;s the Bone</sub-title><icon src="https://i.imgur.com/wQWDVZi.gif"/></programme>
-<programme start="20240427004420 +0000" stop="20240427005139 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Johnny Bravo</title><sub-title lang="en">Super Duped</sub-title><icon src="https://i.imgur.com/duW3ILx.gif"/></programme>
-<programme start="20240427005154 +0000" stop="20240427005914 +0000" channel="ToonamiAftermathEast.us"><title lang="en">What A Cartoon! Show</title><sub-title lang="en">Dino in Stay Out!</sub-title><icon src="https://i.imgur.com/Vfe6dDZ.gif"/></programme>
-<programme start="20240427010130 +0000" stop="20240427012215 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dragonball</title><sub-title lang="en">Conquest and Power</sub-title><icon src="https://i.imgur.com/cQBxAVU.gif"/></programme>
-<programme start="20240427012500 +0000" stop="20240427014838 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Sailor Moon</title><sub-title lang="en">Destiny&apos;s Arrival</sub-title><icon src="https://i.imgur.com/TnI0NkT.gif"/></programme>
-<programme start="20240427014939 +0000" stop="20240427021046 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">The Return of Goku</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20240427021248 +0000" stop="20240427023405 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Goku Strikes Back!</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20240427023624 +0000" stop="20240427030000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gundam Wing</title><sub-title lang="en">Battleship Libra</sub-title><icon src="https://i.imgur.com/XWp96IJ.gif"/></programme>
-<programme start="20240427030147 +0000" stop="20240427031915 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Space Ghost C2C</title><icon src="https://i.imgur.com/7oi7Qxf.gif"/></programme>
-<programme start="20240427032117 +0000" stop="20240427034353 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Home Movies</title><sub-title lang="en">Curses</sub-title><icon src="https://i.imgur.com/VDMuEdj.gif"/></programme>
-<programme start="20240427034604 +0000" stop="20240427035745 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Brak Show</title><sub-title lang="en">Runaway</sub-title><icon src="https://i.imgur.com/uGF2Olk.gif"/></programme>
-<programme start="20240427040130 +0000" stop="20240427042538 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Trigun</title><sub-title lang="en">Under the Sky So Blue (Finale)</sub-title><icon src="https://i.imgur.com/5Gde0JD.gif"/></programme>
-<programme start="20240427042654 +0000" stop="20240427045035 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Yu Yu Hakusho</title><sub-title lang="en">Requirements for Lovers</sub-title><icon src="https://i.imgur.com/zLgdAie.gif"/></programme>
-<programme start="20240427045136 +0000" stop="20240427051136 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rurouni Kenshin</title><sub-title lang="en">Change Tears to Courage: Kaoru Kamiya&apos;s Choice</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
-<programme start="20240427051306 +0000" stop="20240427053506 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Lupin III</title><sub-title lang="en">Guns, Buns, and Fun in the Sun</sub-title><icon src="https://i.imgur.com/ttnXgu9.gif"/></programme>
-<programme start="20240427053646 +0000" stop="20240427060000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ranma</title><sub-title lang="en">Extra, Extra! Kuno &amp; Nabiki: Read All About It!</sub-title><icon src="https://i.imgur.com/GZNzBTy.gif"/></programme>
-<programme start="20240427060000 +0000" stop="20240427062151 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Wolfs Rain</title><sub-title lang="en">Scent of a Trap</sub-title><icon src="https://i.imgur.com/RtRk8oq.gif"/></programme>
-<programme start="20240427062607 +0000" stop="20240427063737 +0000" channel="ToonamiAftermathEast.us"><title lang="en">12 oz Mouse</title><sub-title lang="en">Hired</sub-title><icon src="https://i.imgur.com/VxDpdPC.gif"/></programme>
-<programme start="20240427064152 +0000" stop="20240427070426 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Android Kikaider</title><sub-title lang="en">Negative Fragments</sub-title><icon src="https://i.imgur.com/qPWDxEX.gif"/></programme>
-<programme start="20240427070900 +0000" stop="20240427073141 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Shin Chan</title><sub-title lang="en">Domestic Abuse Isn&apos;t That Funny</sub-title><icon src="https://i.imgur.com/XWL4wlj.gif"/></programme>
-<programme start="20240427073607 +0000" stop="20240427080000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Slayers NEXT</title><sub-title lang="en">A Big Crash? The Battle at Artemay Tower!</sub-title><icon src="https://i.imgur.com/pLL80IY.gif"/></programme>
-
-
-
-
-
-
-
-
-
-<programme start="20240427100000 +0000" stop="20240427101106 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Specialists and Slaves Part 1</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20240427101314 +0000" stop="20240427102345 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Specialists and Slaves Part 2</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20240427102600 +0000" stop="20240427103701 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Down to Earth Part 1</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20240427103930 +0000" stop="20240427105009 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Down to Earth Part 2</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20240427105238 +0000" stop="20240427110930 +0000" channel="ToonamiAftermathEast.us"><title lang="en">The Mighty Thor</title><sub-title lang="en">Every Hand Against Him, The Power of the Thunder God, The Power of Odin</sub-title><icon src="https://i.imgur.com/vARmo88.gif"/></programme>
-<programme start="20240427111159 +0000" stop="20240427112309 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Fantastic Four</title><sub-title lang="en">The Red Ghost</sub-title><icon src="https://i.imgur.com/Stqcavd.gif"/></programme>
-<programme start="20240427112541 +0000" stop="20240427113210 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Birdman</title><sub-title lang="en">Birdman Meets Reducto</sub-title><icon src="https://i.imgur.com/cAylbtL.gif"/></programme>
-<programme start="20240427113427 +0000" stop="20240427114055 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Birdman</title><sub-title lang="en">Serpents of the Deep</sub-title><icon src="https://i.imgur.com/cAylbtL.gif"/></programme>
-<programme start="20240427114436 +0000" stop="20240427115056 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Space Ghost</title><sub-title lang="en">Space Birds</sub-title><icon src="https://i.imgur.com/TKjCB1Z.gif"/></programme>
-<programme start="20240427115340 +0000" stop="20240427120000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Space Ghost</title><sub-title lang="en">Attack of the Saucer Crab</sub-title><icon src="https://i.imgur.com/TKjCB1Z.gif"/></programme>
-<programme start="20240427120000 +0000" stop="20240427122118 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Earthworm Jim</title><sub-title lang="en">Assault and Battery</sub-title><icon src="https://i.imgur.com/sQB7OBu.gif"/></programme>
-<programme start="20240427122439 +0000" stop="20240427124548 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Static Shock</title><sub-title lang="en">Consequences</sub-title><icon src="https://i.imgur.com/riIBi2T.gif"/></programme>
-<programme start="20240427124855 +0000" stop="20240427131018 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Animaniacs</title><sub-title lang="en">The Sound of Warners / Yabba Dabba Boo</sub-title><icon src="https://i.imgur.com/Iahwehb.gif"/></programme>
-<programme start="20240427131359 +0000" stop="20240427133520 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Tick</title><sub-title lang="en">Leonardo da Vinci and His Fightin&apos; Genius Time Commandos!</sub-title><icon src="https://i.imgur.com/6LCtAKv.gif"/></programme>
-<programme start="20240427133904 +0000" stop="20240427140000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Freakazoid</title><sub-title lang="en">A Matter of Love</sub-title><icon src="https://i.imgur.com/qaSxxx8.gif"/></programme>
-<programme start="20240427140045 +0000" stop="20240427142112 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Digimon</title><sub-title lang="en">Kyoto Dragon</sub-title><icon src="https://i.imgur.com/rM5a4vc.gif"/></programme>
-<programme start="20240427142442 +0000" stop="20240427144601 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Monster Rancher</title><sub-title lang="en">Warriors of the Ruins</sub-title><icon src="https://i.imgur.com/8Q2xfrx.gif"/></programme>
-<programme start="20240427144933 +0000" stop="20240427150935 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Yu-Gi-Oh!</title><sub-title lang="en">Brothers in Arms (Part 1)</sub-title><icon src="https://i.imgur.com/F5wIvS0.gif"/></programme>
-<programme start="20240427151351 +0000" stop="20240427153444 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Starship Troopers</title><sub-title lang="en">D-Day</sub-title><icon src="https://i.imgur.com/aRS8xZQ.gif"/></programme>
-<programme start="20240427153830 +0000" stop="20240427160000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Beast Machines</title><sub-title lang="en">Survivor</sub-title><icon src="https://i.imgur.com/9E7F997.gif"/></programme>
-<programme start="20240427160128 +0000" stop="20240427162226 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Jonny Quest Real Adventures</title><sub-title lang="en">AMOK</sub-title><icon src="https://i.imgur.com/XOp3nEP.gif"/></programme>
-<programme start="20240427162316 +0000" stop="20240427164415 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Jonny Quest Real Adventures</title><sub-title lang="en">Besieged in Paradise</sub-title><icon src="https://i.imgur.com/XOp3nEP.gif"/></programme>
-<programme start="20240427164533 +0000" stop="20240427171046 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Jonny Quest</title><sub-title lang="en">The Quetong Missile Mystery</sub-title><icon src="https://i.imgur.com/1LkPW7k.gif"/></programme>
-<programme start="20240427171205 +0000" stop="20240427173407 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Scooby Doo</title><sub-title lang="en">Bedlam in the Big Top</sub-title><icon src="https://i.imgur.com/i1ZedHL.gif"/></programme>
-<programme start="20240427173532 +0000" stop="20240427175731 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Scooby Doo</title><sub-title lang="en">A Gaggle of Galloping Ghosts</sub-title><icon src="https://i.imgur.com/i1ZedHL.gif"/></programme>
-<programme start="20240427180030 +0000" stop="20240427182300 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Superman</title><sub-title lang="en">The Last Son of Krypton (Part 3)</sub-title><icon src="https://i.imgur.com/hUYhp5I.gif"/></programme>
-<programme start="20240427182516 +0000" stop="20240427184732 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Batman</title><sub-title lang="en">The Laughing Fish</sub-title><icon src="https://i.imgur.com/nygJi6C.gif"/></programme>
-<programme start="20240427184949 +0000" stop="20240427191041 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Batman Beyond</title><sub-title lang="en">Hooked Up</sub-title><icon src="https://i.imgur.com/4bXZkXc.gif"/></programme>
-<programme start="20240427191224 +0000" stop="20240427193510 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Justice League</title><sub-title lang="en">Maid of Honor: Part 2</sub-title><icon src="https://i.imgur.com/IAoWUJN.gif"/></programme>
-<programme start="20240427193707 +0000" stop="20240427200000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Justice League</title><sub-title lang="en">Hearts and Minds: Part 1</sub-title><icon src="https://i.imgur.com/IAoWUJN.gif"/></programme>
-<programme start="20240427200030 +0000" stop="20240427202239 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Megas XLR</title><sub-title lang="en">Thanksgiving Throwdown</sub-title><icon src="https://i.imgur.com/YuD5Ab3.gif"/></programme>
-<programme start="20240427202557 +0000" stop="20240427204945 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Big O</title><sub-title lang="en">Roger the Negotiator</sub-title><icon src="https://i.imgur.com/0JJXLwO.gif"/></programme>
-<programme start="20240427205147 +0000" stop="20240427211628 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Patlabor</title><sub-title lang="en">Kanuka Has Come</sub-title><icon src="https://i.imgur.com/lP8LKsc.gif"/></programme>
-<programme start="20240427211952 +0000" stop="20240427214528 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gundam 0083</title><sub-title lang="en">Colliding War Zones</sub-title><icon src="https://i.imgur.com/6Gm5ykC.gif"/></programme>
-<programme start="20240427214931 +0000" stop="20240427221800 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gundam 0083</title><sub-title lang="en">La Vie En Rose</sub-title><icon src="https://i.imgur.com/6Gm5ykC.gif"/></programme>
-<programme start="20240427221800 +0000" stop="20240427223933 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Celebrity Deathmatch</title><sub-title lang="en">The New Employee</sub-title><icon src="https://i.imgur.com/asKW14D.gif"/></programme>
-<programme start="20240427223953 +0000" stop="20240427230715 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Initial D</title><sub-title lang="en">Project D</sub-title><icon src="https://i.imgur.com/WzNYM0K.gif"/></programme>
-<programme start="20240427230730 +0000" stop="20240427233452 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Initial D</title><sub-title lang="en">Full Throttle! Downhill Battle</sub-title><icon src="https://i.imgur.com/WzNYM0K.gif"/></programme>
-<programme start="20240427233519 +0000" stop="20240427235926 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Fighting Spirit</title><sub-title lang="en">Anticipating a Fierce Fight</sub-title><icon src="https://i.imgur.com/q17pj8O.gif"/></programme>
-<programme start="20240427235953 +0000" stop="20240428002400 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Fighting Spirit</title><sub-title lang="en">Ippo on the Beach</sub-title><icon src="https://i.imgur.com/q17pj8O.gif"/></programme>
-<programme start="20240428002435 +0000" stop="20240428004732 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Powerpuff Girls Z</title><sub-title lang="en">Practice Makes Pandemonium / Ms. Keane to the Rescue</sub-title><icon src="https://i.imgur.com/8hApzOA.gif"/></programme>
-<programme start="20240428004946 +0000" stop="20240428011236 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Powerpuff Girls Z</title><sub-title lang="en">The Rowdyruff Boys</sub-title><icon src="https://i.imgur.com/8hApzOA.gif"/></programme>
-<programme start="20240428011437 +0000" stop="20240428014001 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ghost in the Shell</title><sub-title lang="en">DI: Reactivation - REEMBODY</sub-title><icon src="https://i.imgur.com/19QluZh.gif"/></programme>
-<programme start="20240428014235 +0000" stop="20240428020803 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ghost in the Shell</title><sub-title lang="en">DI: Well-Fed Me - NIGHT CRUISE</sub-title><icon src="https://i.imgur.com/19QluZh.gif"/></programme>
-<programme start="20240428021036 +0000" stop="20240428023356 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Samurai Champloo</title><sub-title lang="en">The Disorder Diaries (Recap)</sub-title><icon src="https://i.imgur.com/bENqNkY.gif"/></programme>
-<programme start="20240428023639 +0000" stop="20240428030000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Samurai Champloo</title><sub-title lang="en">Misguided Miscreants (Part 1)</sub-title><icon src="https://i.imgur.com/bENqNkY.gif"/></programme>
-<programme start="20240428030100 +0000" stop="20240428040610 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Interstella 5555</title><icon src="https://i.imgur.com/ODBlBOU.gif"/></programme>
-<programme start="20240428040610 +0000" stop="20240428055239 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax - Star Trek V The Final Frontier</title></programme>
-<programme start="20240428055448 +0000" stop="20240428072529 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax - Cool as Ice</title></programme>
-<programme start="20240428072548 +0000" stop="20240428083952 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Mystery Science Theater 3000 - This Island Earth</title></programme>
-
-
-
-
-
-
-<programme start="20240428100000 +0000" stop="20240428101100 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Trip to Tomorrow Part 1</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-
-<programme start="20240428101235 +0000" stop="20240428102313 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Trip to Tomorrow Part 2</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-
-<programme start="20240428102445 +0000" stop="20240428103537 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">The Power of Dr. Octopus</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-
-<programme start="20240428103714 +0000" stop="20240428104807 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Sub-Zero for Spidey</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20240428104949 +0000" stop="20240428110707 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Iron Man</title><sub-title lang="en">Crimson Dynamo!, The Crimson Dynamo Strikes, Captured</sub-title><icon src="https://i.imgur.com/ZkugjMx.gif"/></programme>
-<programme start="20240428110843 +0000" stop="20240428112627 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Hulk</title><sub-title lang="en">Micro Monsters, The Lair of the Leader, To Live Again</sub-title><icon src="https://i.imgur.com/4V4izFA.gif"/></programme>
-<programme start="20240428112807 +0000" stop="20240428113433 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Birdman</title><sub-title lang="en">Hannibal the Hunter</sub-title><icon src="https://i.imgur.com/cAylbtL.gif"/></programme>
-<programme start="20240428113611 +0000" stop="20240428114240 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Birdman</title><sub-title lang="en">The Purple Moss</sub-title><icon src="https://i.imgur.com/cAylbtL.gif"/></programme>
-<programme start="20240428114524 +0000" stop="20240428115145 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Space Ghost</title><sub-title lang="en">Nightmare Planet</sub-title><icon src="https://i.imgur.com/TKjCB1Z.gif"/></programme>
-<programme start="20240428115340 +0000" stop="20240428120000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Space Ghost</title><sub-title lang="en">Space Armada</sub-title><icon src="https://i.imgur.com/TKjCB1Z.gif"/></programme>
-<programme start="20240428120000 +0000" stop="20240428122119 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Earthworm Jim</title><sub-title lang="en">Day of the Fish</sub-title><icon src="https://i.imgur.com/sQB7OBu.gif"/></programme>
-<programme start="20240428122429 +0000" stop="20240428124524 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Static Shock</title><sub-title lang="en">Romeo in the Mix</sub-title><icon src="https://i.imgur.com/riIBi2T.gif"/></programme>
-<programme start="20240428124832 +0000" stop="20240428131005 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Animaniacs</title><sub-title lang="en">My Mother the Squirrel / The Party / Oh! Say Can You See? / The 12 Days of Christmas Song</sub-title><icon src="https://i.imgur.com/Iahwehb.gif"/></programme>
-<programme start="20240428131359 +0000" stop="20240428133519 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Tick</title><sub-title lang="en">Bloomsday</sub-title><icon src="https://i.imgur.com/6LCtAKv.gif"/></programme>
-<programme start="20240428133850 +0000" stop="20240428140000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Freakazoid</title><sub-title lang="en">Statuesque</sub-title><icon src="https://i.imgur.com/qaSxxx8.gif"/></programme>
-<programme start="20240428140045 +0000" stop="20240428142217 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Digimon</title><sub-title lang="en">A Very Digi-Christmas</sub-title><icon src="https://i.imgur.com/rM5a4vc.gif"/></programme>
-<programme start="20240428142528 +0000" stop="20240428144647 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Monster Rancher</title><sub-title lang="en">Melcarba</sub-title><icon src="https://i.imgur.com/8Q2xfrx.gif"/></programme>
-<programme start="20240428144945 +0000" stop="20240428151031 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Yu-Gi-Oh!</title><sub-title lang="en">Brothers in Arms (Part 2)</sub-title><icon src="https://i.imgur.com/F5wIvS0.gif"/></programme>
-<programme start="20240428151417 +0000" stop="20240428153510 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Starship Troopers</title><sub-title lang="en">The Mission</sub-title><icon src="https://i.imgur.com/aRS8xZQ.gif"/></programme>
-<programme start="20240428153830 +0000" stop="20240428160000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Beast Machines</title><sub-title lang="en">The Key</sub-title><icon src="https://i.imgur.com/9E7F997.gif"/></programme>
-<programme start="20240428160128 +0000" stop="20240428162224 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Jonny Quest Real Adventures</title><sub-title lang="en">The Spectre of the Pine Barrens</sub-title><icon src="https://i.imgur.com/XOp3nEP.gif"/></programme>
-<programme start="20240428162334 +0000" stop="20240428164432 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Jonny Quest Real Adventures</title><sub-title lang="en">In the Darkness of the Moon</sub-title><icon src="https://i.imgur.com/XOp3nEP.gif"/></programme>
-<programme start="20240428164527 +0000" stop="20240428171041 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Jonny Quest</title><sub-title lang="en">Terror Island</sub-title><icon src="https://i.imgur.com/1LkPW7k.gif"/></programme>
-<programme start="20240428171157 +0000" stop="20240428173400 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Scooby Doo</title><sub-title lang="en">Scooby-Doo and A Mummy, Too</sub-title><icon src="https://i.imgur.com/i1ZedHL.gif"/></programme>
-<programme start="20240428173529 +0000" stop="20240428175729 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Scooby Doo</title><sub-title lang="en">Which Witch is Which?</sub-title><icon src="https://i.imgur.com/i1ZedHL.gif"/></programme>
-<programme start="20240428180030 +0000" stop="20240428182146 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Superman</title><sub-title lang="en">Fun and Games</sub-title><icon src="https://i.imgur.com/hUYhp5I.gif"/></programme>
-<programme start="20240428182428 +0000" stop="20240428184648 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Batman</title><sub-title lang="en">Vendetta</sub-title><icon src="https://i.imgur.com/nygJi6C.gif"/></programme>
-<programme start="20240428184920 +0000" stop="20240428191013 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Batman Beyond</title><sub-title lang="en">Rats</sub-title><icon src="https://i.imgur.com/4bXZkXc.gif"/></programme>
-<programme start="20240428191232 +0000" stop="20240428193554 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Justice League</title><sub-title lang="en">Hearts and Minds: Part 2</sub-title><icon src="https://i.imgur.com/IAoWUJN.gif"/></programme>
-<programme start="20240428193818 +0000" stop="20240428200000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Justice League</title><sub-title lang="en">A Better World: Part 1</sub-title><icon src="https://i.imgur.com/IAoWUJN.gif"/></programme>
-<programme start="20240428200030 +0000" stop="20240428202212 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Megas XLR</title><sub-title lang="en">Terminate Her</sub-title><icon src="https://i.imgur.com/YuD5Ab3.gif"/></programme>
-<programme start="20240428202442 +0000" stop="20240428204837 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Big O</title><sub-title lang="en">Dorothy Dorothy</sub-title><icon src="https://i.imgur.com/0JJXLwO.gif"/></programme>
-<programme start="20240428205040 +0000" stop="20240428211518 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Patlabor</title><sub-title lang="en">This is SV2</sub-title><icon src="https://i.imgur.com/lP8LKsc.gif"/></programme>
-<programme start="20240428211755 +0000" stop="20240428214556 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gundam 0083</title><sub-title lang="en">Assault on the Point of No Return</sub-title><icon src="https://i.imgur.com/6Gm5ykC.gif"/></programme>
-<programme start="20240428214834 +0000" stop="20240428221800 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gundam 0083</title><sub-title lang="en">A Storm Raging Through</sub-title><icon src="https://i.imgur.com/6Gm5ykC.gif"/></programme>
-<programme start="20240428221800 +0000" stop="20240428223856 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Celebrity Deathmatch</title><sub-title lang="en">Turn on Your TV Day</sub-title><icon src="https://i.imgur.com/asKW14D.gif"/></programme>
-<programme start="20240428223926 +0000" stop="20240428230648 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Initial D</title><sub-title lang="en">The Strongest Man of the Todo School</sub-title><icon src="https://i.imgur.com/WzNYM0K.gif"/></programme>
-<programme start="20240428230718 +0000" stop="20240428233440 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Initial D</title><sub-title lang="en">Two Pieces of Advice</sub-title><icon src="https://i.imgur.com/WzNYM0K.gif"/></programme>
-<programme start="20240428233511 +0000" stop="20240428235916 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Fighting Spirit</title><sub-title lang="en">Clinch</sub-title><icon src="https://i.imgur.com/q17pj8O.gif"/></programme>
-<programme start="20240428235956 +0000" stop="20240429002400 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Fighting Spirit</title><sub-title lang="en">Dream of a KO</sub-title><icon src="https://i.imgur.com/q17pj8O.gif"/></programme>
-<programme start="20240429002435 +0000" stop="20240429004730 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Powerpuff Girls Z</title><sub-title lang="en">Quack-Quack Attack / Veggie Vengeance</sub-title><icon src="https://i.imgur.com/8hApzOA.gif"/></programme>
-<programme start="20240429004946 +0000" stop="20240429011233 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Powerpuff Girls Z</title><sub-title lang="en">Pastry Puff Panic</sub-title><icon src="https://i.imgur.com/8hApzOA.gif"/></programme>
-<programme start="20240429011456 +0000" stop="20240429014009 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ghost in the Shell</title><sub-title lang="en">DI: Saturday Night and Sunday Morning - CASH EYE</sub-title><icon src="https://i.imgur.com/19QluZh.gif"/></programme>
-<programme start="20240429014213 +0000" stop="20240429020749 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ghost in the Shell</title><sub-title lang="en">DU: Natural Enemy - NATURAL ENEMY</sub-title><icon src="https://i.imgur.com/19QluZh.gif"/></programme>
-<programme start="20240429021032 +0000" stop="20240429023352 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Samurai Champloo</title><sub-title lang="en">Misguided Miscreants (Part 2)</sub-title><icon src="https://i.imgur.com/bENqNkY.gif"/></programme>
-<programme start="20240429023640 +0000" stop="20240429030000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Samurai Champloo</title><sub-title lang="en">Bogus Booty</sub-title><icon src="https://i.imgur.com/bENqNkY.gif"/></programme>
-<programme start="20240429030100 +0000" stop="20240429044008 +0000" channel="ToonamiAftermathEast.us"><title lang="en">The Girl Who Leapt Through Time</title><icon src="https://i.imgur.com/jJXNTjE.jpg"/></programme>
-<programme start="20240429044008 +0000" stop="20240429070815 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax - Inception</title></programme>
-<programme start="20240429071025 +0000" stop="20240429082954 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax - Dr Who and the Daleks</title></programme>
-<programme start="20240429083014 +0000" stop="20240429100753 +0000" channel="ToonamiAftermathEast.us"><title lang="en">MST3K - S02E06 - Ring of Terror</title></programme>
-<programme start="20240429100753 +0000" stop="20240429103342 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Pokemon</title><sub-title lang="en">The Needs of the Three!</sub-title><icon src="https://i.imgur.com/VfdN6pP.gif"/></programme>
-<programme start="20240429103748 +0000" stop="20240429110341 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Teen Titans</title><sub-title lang="en">Fear Itself</sub-title><icon src="https://i.imgur.com/Csz1Dr1.gif"/></programme>
-<programme start="20240429110923 +0000" stop="20240429113008 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dragonball</title><sub-title lang="en">Siege on Chow Castle</sub-title><icon src="https://i.imgur.com/cQBxAVU.gif"/></programme>
-<programme start="20240429113256 +0000" stop="20240429115634 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Sailor Moon</title><sub-title lang="en">No Turning Back</sub-title><icon src="https://i.imgur.com/TnI0NkT.gif"/></programme>
-<programme start="20240429115720 +0000" stop="20240429121829 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Tien goes all out!</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20240429122025 +0000" stop="20240429124137 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Time&apos;s Up!</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20240429124353 +0000" stop="20240429130753 +0000" channel="ToonamiAftermathEast.us"><title lang="en">G Gundam</title><sub-title lang="en">Emissary of Darkness! Chapman Rises Again</sub-title><icon src="https://i.imgur.com/WCckIMt.gif"/></programme>
-<programme start="20240429130853 +0000" stop="20240429140521 +0000" channel="ToonamiAftermathEast.us"><title lang="en">The World&apos;s Strongest</title><icon src="https://i.imgur.com/kvY6OZG.jpg"/></programme>
-<programme start="20240429140623 +0000" stop="20240429142535 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Powerpuff Girls</title><sub-title lang="en">All Chalked Up</sub-title><icon src="https://i.imgur.com/8ULe6pE.gif"/></programme>
-<programme start="20240429142545 +0000" stop="20240429143636 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ed Edd Eddy</title><sub-title lang="en">Look Into My Eds</sub-title><icon src="https://i.imgur.com/igzgfih.gif"/></programme>
-<programme start="20240429143646 +0000" stop="20240429144432 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dexters Laboratory</title><sub-title lang="en">Dexter&apos;s Lab: A Story</sub-title><icon src="https://i.imgur.com/hMP6ON2.gif"/></programme>
-<programme start="20240429144448 +0000" stop="20240429145152 +0000" channel="ToonamiAftermathEast.us"><title lang="en">2 Stupid Dogs</title><sub-title lang="en">Where&apos;s the Bone</sub-title><icon src="https://i.imgur.com/wQWDVZi.gif"/></programme>
-<programme start="20240429145213 +0000" stop="20240429145932 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Johnny Bravo</title><sub-title lang="en">Super Duped</sub-title><icon src="https://i.imgur.com/duW3ILx.gif"/></programme>
-<programme start="20240429145947 +0000" stop="20240429150707 +0000" channel="ToonamiAftermathEast.us"><title lang="en">What A Cartoon! Show</title><sub-title lang="en">Dino in Stay Out!</sub-title><icon src="https://i.imgur.com/Vfe6dDZ.gif"/></programme>
-<programme start="20240429150924 +0000" stop="20240429153009 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dragonball</title><sub-title lang="en">Conquest and Power</sub-title><icon src="https://i.imgur.com/cQBxAVU.gif"/></programme>
-<programme start="20240429153254 +0000" stop="20240429155632 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Sailor Moon</title><sub-title lang="en">Destiny&apos;s Arrival</sub-title><icon src="https://i.imgur.com/TnI0NkT.gif"/></programme>
-<programme start="20240429155733 +0000" stop="20240429161840 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">The Return of Goku</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20240429162042 +0000" stop="20240429164159 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Goku Strikes Back!</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20240429164418 +0000" stop="20240429170754 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gundam Wing</title><sub-title lang="en">Battleship Libra</sub-title><icon src="https://i.imgur.com/XWp96IJ.gif"/></programme>
-<programme start="20240429170941 +0000" stop="20240429172709 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Space Ghost C2C</title><icon src="https://i.imgur.com/7oi7Qxf.gif"/></programme>
-<programme start="20240429172911 +0000" stop="20240429175147 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Home Movies</title><sub-title lang="en">Curses</sub-title><icon src="https://i.imgur.com/VDMuEdj.gif"/></programme>
-<programme start="20240429175358 +0000" stop="20240429180539 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Brak Show</title><sub-title lang="en">Runaway</sub-title><icon src="https://i.imgur.com/uGF2Olk.gif"/></programme>
+<tv date="20240530">
+<channel id="ToonamiAftermathEast.us">
+<display-name>Toonami Aftermath East</display-name>
+<icon src="https://i.imgur.com/aSjhZK7.png"/>
+<url>https://toonamiaftermath.com</url>
+</channel>
+<programme start="20240530160030 +0000" stop="20240530162147 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">X-Men</title>
+<sub-title lang="en">The Dark Phoenix Saga (Part 1): Dazzled</sub-title>
+<icon src="https://i.imgur.com/ZSZ0x1m.gif"/>
+</programme>
+<programme start="20240530162223 +0000" stop="20240530164620 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Mega Man</title>
+<sub-title lang="en">Ice Age</sub-title>
+<icon src="https://i.imgur.com/vhvmTlP.gif"/>
+</programme>
+<programme start="20240530164659 +0000" stop="20240530170819 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Men in Black</title>
+<sub-title lang="en">The Future's So Bright Syndrome</sub-title>
+<icon src="https://i.imgur.com/M2q5NRC.gif"/>
+</programme>
+<programme start="20240530170905 +0000" stop="20240530173249 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Street Fighter II V</title>
+<sub-title lang="en">Nightmare Reunion</sub-title>
+<icon src="https://i.imgur.com/mQiuwRJ.gif"/>
+</programme>
+<programme start="20240530173339 +0000" stop="20240530175400 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Spider-Man</title>
+<sub-title lang="en">The Ultimate Slayer</sub-title>
+<icon src="https://i.imgur.com/hprZiwl.gif"/>
+</programme>
+<programme start="20240530175530 +0000" stop="20240530181744 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Silverhawks</title>
+<sub-title lang="en">Gold Shield</sub-title>
+<icon src="https://i.imgur.com/dpR9jOG.gif"/>
+</programme>
+<programme start="20240530181839 +0000" stop="20240530184303 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Saint Seiya</title>
+<sub-title lang="en">A Giant! The Fierce Attack of Docrates</sub-title>
+<icon src="https://i.imgur.com/6rmD2nL.gif"/>
+</programme>
+<programme start="20240530184351 +0000" stop="20240530190805 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Zeta Gundam</title>
+<sub-title lang="en">Unidentified Mobile Suits</sub-title>
+<icon src="https://i.imgur.com/Tqe7v2I.gif"/>
+</programme>
+<programme start="20240530190924 +0000" stop="20240530193139 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Robotech</title>
+<sub-title lang="en">The Midnight Sun</sub-title>
+<icon src="https://i.imgur.com/d2iQJ5T.gif"/>
+</programme>
+<programme start="20240530193304 +0000" stop="20240530195646 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Reboot</title>
+<sub-title lang="en">The Crimson Binome</sub-title>
+<icon src="https://i.imgur.com/CFaaZSh.gif"/>
+</programme>
+<programme start="20240530200000 +0000" stop="20240530202532 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Pokemon</title>
+<sub-title lang="en">Beauty and the Beach</sub-title>
+<icon src="https://i.imgur.com/VfdN6pP.gif"/>
+</programme>
+<programme start="20240530202944 +0000" stop="20240530205555 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Batman</title>
+<sub-title lang="en">Dreams in Darkness</sub-title>
+<icon src="https://i.imgur.com/nygJi6C.gif"/>
+</programme>
+<programme start="20240530210130 +0000" stop="20240530212214 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Dragonball</title>
+<sub-title lang="en">The Turtle Hermit's Kamehameha</sub-title>
+<icon src="https://i.imgur.com/cQBxAVU.gif"/>
+</programme>
+<programme start="20240530212623 +0000" stop="20240530214945 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Sailor Moon</title>
+<sub-title lang="en">Pegasus is Gone?! Swinging Friendships</sub-title>
+<icon src="https://i.imgur.com/TnI0NkT.gif"/>
+</programme>
+<programme start="20240530215116 +0000" stop="20240530221148 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">DBZ</title>
+<sub-title lang="en">Upgrade to Super Saiyan</sub-title>
+<icon src="https://i.imgur.com/4qfad4o.gif"/>
+</programme>
+<programme start="20240530221447 +0000" stop="20240530223519 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">DBZ</title>
+<sub-title lang="en">The Secret of Dr. Gero</sub-title>
+<icon src="https://i.imgur.com/4qfad4o.gif"/>
+</programme>
+<programme start="20240530223837 +0000" stop="20240530230000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Zoids</title>
+<sub-title lang="en">Invasion of the Fierce Tigers - Transform to Zero Schneider</sub-title>
+<icon src="https://i.imgur.com/2Vh8RTx.gif"/>
+</programme>
+<programme start="20240530230029 +0000" stop="20240530232317 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Samurai Jack</title>
+<sub-title lang="en">Jack and the Scotsman, Part 2</sub-title>
+<icon src="https://i.imgur.com/twLpmyP.gif"/>
+</programme>
+<programme start="20240530233027 +0000" stop="20240530235311 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Samurai Jack</title>
+<sub-title lang="en">Jack and the Ultra-robots</sub-title>
+<icon src="https://i.imgur.com/twLpmyP.gif"/>
+</programme>
+<programme start="20240531000102 +0000" stop="20240531002342 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Courage the Cowardly Dog</title>
+<sub-title lang="en">Campsite of Terror / Record Deal</sub-title>
+<icon src="https://i.imgur.com/KD0PG3P.gif"/>
+</programme>
+<programme start="20240531002407 +0000" stop="20240531003457 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Ed Edd Eddy</title>
+<sub-title lang="en">Who Let the Ed In?</sub-title>
+<icon src="https://i.imgur.com/igzgfih.gif"/>
+</programme>
+<programme start="20240531003542 +0000" stop="20240531004215 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">I Am Weasel</title>
+<sub-title lang="en">My Blue Hiney</sub-title>
+<icon src="https://i.imgur.com/b0n28MI.gif"/>
+</programme>
+<programme start="20240531004252 +0000" stop="20240531005014 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Dexters Laboratory</title>
+<sub-title lang="en">Paper Route Bout</sub-title>
+<icon src="https://i.imgur.com/hMP6ON2.gif"/>
+</programme>
+<programme start="20240531005100 +0000" stop="20240531005806 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">2 Stupid Dogs</title>
+<sub-title lang="en">Cornflakes</sub-title>
+<icon src="https://i.imgur.com/wQWDVZi.gif"/>
+</programme>
+<programme start="20240531010130 +0000" stop="20240531012214 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Dragonball</title>
+<sub-title lang="en">The Rabbit Boss' Special Technique</sub-title>
+<icon src="https://i.imgur.com/cQBxAVU.gif"/>
+</programme>
+<programme start="20240531012544 +0000" stop="20240531014907 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Sailor Moon</title>
+<sub-title lang="en">The Secret of the Pegasus! The Handsome Guardian of the Dream World</sub-title>
+<icon src="https://i.imgur.com/TnI0NkT.gif"/>
+</programme>
+<programme start="20240531015020 +0000" stop="20240531021051 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">DBZ</title>
+<sub-title lang="en">More Androids?!</sub-title>
+<icon src="https://i.imgur.com/4qfad4o.gif"/>
+</programme>
+<programme start="20240531021310 +0000" stop="20240531023342 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">DBZ</title>
+<sub-title lang="en">Follow Dr. Gero</sub-title>
+<icon src="https://i.imgur.com/4qfad4o.gif"/>
+</programme>
+<programme start="20240531023623 +0000" stop="20240531030000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Gundam Wing</title>
+<sub-title lang="en">The Sorrowful Battle</sub-title>
+<icon src="https://i.imgur.com/XWp96IJ.gif"/>
+</programme>
+<programme start="20240531030101 +0000" stop="20240531031220 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Space Ghost C2C</title>
+<icon src="https://i.imgur.com/7oi7Qxf.gif"/>
+</programme>
+<programme start="20240531031336 +0000" stop="20240531033548 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Home Movies</title>
+<sub-title lang="en">Brendon Gets Rabies</sub-title>
+<icon src="https://i.imgur.com/VDMuEdj.gif"/>
+</programme>
+<programme start="20240531033741 +0000" stop="20240531040000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Cartoon Planet</title>
+<sub-title lang="en">The Big Mouths</sub-title>
+<icon src="https://i.imgur.com/I5Lgh6a.gif"/>
+</programme>
+<programme start="20240531040130 +0000" stop="20240531042524 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Full Metal Alchemist</title>
+<sub-title lang="en">Bonding Memories</sub-title>
+<icon src="https://i.imgur.com/3T6NatN.gif"/>
+</programme>
+<programme start="20240531042641 +0000" stop="20240531045022 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Yu Yu Hakusho</title>
+<sub-title lang="en">First Fight</sub-title>
+<icon src="https://i.imgur.com/zLgdAie.gif"/>
+</programme>
+<programme start="20240531045109 +0000" stop="20240531051209 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Rurouni Kenshin</title>
+<sub-title lang="en">A Duel With an Extreme Moment</sub-title>
+<icon src="https://i.imgur.com/litCtMD.gif"/>
+</programme>
+<programme start="20240531051325 +0000" stop="20240531053525 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Lupin III</title>
+<sub-title lang="en">Shot Through the Heart</sub-title>
+<icon src="https://i.imgur.com/ttnXgu9.gif"/>
+</programme>
+<programme start="20240531053643 +0000" stop="20240531060000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Ranma</title>
+<sub-title lang="en">Ranma the Lady-Killer</sub-title>
+<icon src="https://i.imgur.com/GZNzBTy.gif"/>
+</programme>
+<programme start="20240531060000 +0000" stop="20240531062504 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Record of Lodoss War TV</title>
+<sub-title lang="en">Mission... The Path One Follows</sub-title>
+<icon src="https://i.imgur.com/yskXuxs.gif"/>
+</programme>
+<programme start="20240531063012 +0000" stop="20240531064212 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">12 oz Mouse</title>
+<sub-title lang="en">Surgery Circus</sub-title>
+<icon src="https://i.imgur.com/VxDpdPC.gif"/>
+</programme>
+<programme start="20240531064735 +0000" stop="20240531071247 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Elfen Lied</title>
+<sub-title lang="en">Attack</sub-title>
+<icon src="https://i.imgur.com/FA7swkr.gif"/>
+</programme>
+<programme start="20240531071824 +0000" stop="20240531073015 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Cromartie High School</title>
+<sub-title lang="en">Jackson</sub-title>
+<icon src="https://i.imgur.com/4BYylmk.gif"/>
+</programme>
+<programme start="20240531073546 +0000" stop="20240531080000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Slayers TRY</title>
+<sub-title lang="en">An Explosive Situation! The One Who Holds the Key!</sub-title>
+<icon src="https://i.imgur.com/pLL80IY.gif"/>
+</programme>
+<programme start="20240531080000 +0000" stop="20240531082532 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Pokemon</title>
+<sub-title lang="en">Beauty and the Beach</sub-title>
+<icon src="https://i.imgur.com/VfdN6pP.gif"/>
+</programme>
+<programme start="20240531082944 +0000" stop="20240531085555 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Batman</title>
+<sub-title lang="en">Dreams in Darkness</sub-title>
+<icon src="https://i.imgur.com/nygJi6C.gif"/>
+</programme>
+<programme start="20240531090130 +0000" stop="20240531092214 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Dragonball</title>
+<sub-title lang="en">The Turtle Hermit's Kamehameha</sub-title>
+<icon src="https://i.imgur.com/cQBxAVU.gif"/>
+</programme>
+<programme start="20240531092623 +0000" stop="20240531094945 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Sailor Moon</title>
+<sub-title lang="en">Pegasus is Gone?! Swinging Friendships</sub-title>
+<icon src="https://i.imgur.com/TnI0NkT.gif"/>
+</programme>
+<programme start="20240531095116 +0000" stop="20240531101148 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">DBZ</title>
+<sub-title lang="en">Upgrade to Super Saiyan</sub-title>
+<icon src="https://i.imgur.com/4qfad4o.gif"/>
+</programme>
+<programme start="20240531101447 +0000" stop="20240531103519 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">DBZ</title>
+<sub-title lang="en">The Secret of Dr. Gero</sub-title>
+<icon src="https://i.imgur.com/4qfad4o.gif"/>
+</programme>
+<programme start="20240531103837 +0000" stop="20240531110000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Zoids</title>
+<sub-title lang="en">Invasion of the Fierce Tigers - Transform to Zero Schneider</sub-title>
+<icon src="https://i.imgur.com/2Vh8RTx.gif"/>
+</programme>
+<programme start="20240531110029 +0000" stop="20240531112317 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Samurai Jack</title>
+<sub-title lang="en">Jack and the Scotsman, Part 2</sub-title>
+<icon src="https://i.imgur.com/twLpmyP.gif"/>
+</programme>
+<programme start="20240531113027 +0000" stop="20240531115311 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Samurai Jack</title>
+<sub-title lang="en">Jack and the Ultra-robots</sub-title>
+<icon src="https://i.imgur.com/twLpmyP.gif"/>
+</programme>
+<programme start="20240531120102 +0000" stop="20240531122342 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Courage the Cowardly Dog</title>
+<sub-title lang="en">Campsite of Terror / Record Deal</sub-title>
+<icon src="https://i.imgur.com/KD0PG3P.gif"/>
+</programme>
+<programme start="20240531122407 +0000" stop="20240531123457 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Ed Edd Eddy</title>
+<sub-title lang="en">Who Let the Ed In?</sub-title>
+<icon src="https://i.imgur.com/igzgfih.gif"/>
+</programme>
+<programme start="20240531123542 +0000" stop="20240531124215 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">I Am Weasel</title>
+<sub-title lang="en">My Blue Hiney</sub-title>
+<icon src="https://i.imgur.com/b0n28MI.gif"/>
+</programme>
+<programme start="20240531124252 +0000" stop="20240531125014 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Dexters Laboratory</title>
+<sub-title lang="en">Paper Route Bout</sub-title>
+<icon src="https://i.imgur.com/hMP6ON2.gif"/>
+</programme>
+<programme start="20240531125100 +0000" stop="20240531125806 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">2 Stupid Dogs</title>
+<sub-title lang="en">Cornflakes</sub-title>
+<icon src="https://i.imgur.com/wQWDVZi.gif"/>
+</programme>
+<programme start="20240531130130 +0000" stop="20240531132214 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Dragonball</title>
+<sub-title lang="en">The Rabbit Boss' Special Technique</sub-title>
+<icon src="https://i.imgur.com/cQBxAVU.gif"/>
+</programme>
+<programme start="20240531132544 +0000" stop="20240531134907 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Sailor Moon</title>
+<sub-title lang="en">The Secret of the Pegasus! The Handsome Guardian of the Dream World</sub-title>
+<icon src="https://i.imgur.com/TnI0NkT.gif"/>
+</programme>
+<programme start="20240531135020 +0000" stop="20240531141051 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">DBZ</title>
+<sub-title lang="en">More Androids?!</sub-title>
+<icon src="https://i.imgur.com/4qfad4o.gif"/>
+</programme>
+<programme start="20240531141310 +0000" stop="20240531143342 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">DBZ</title>
+<sub-title lang="en">Follow Dr. Gero</sub-title>
+<icon src="https://i.imgur.com/4qfad4o.gif"/>
+</programme>
+<programme start="20240531143623 +0000" stop="20240531150000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Gundam Wing</title>
+<sub-title lang="en">The Sorrowful Battle</sub-title>
+<icon src="https://i.imgur.com/XWp96IJ.gif"/>
+</programme>
+<programme start="20240531150101 +0000" stop="20240531151220 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Space Ghost C2C</title>
+<icon src="https://i.imgur.com/7oi7Qxf.gif"/>
+</programme>
+<programme start="20240531151336 +0000" stop="20240531153548 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Home Movies</title>
+<sub-title lang="en">Brendon Gets Rabies</sub-title>
+<icon src="https://i.imgur.com/VDMuEdj.gif"/>
+</programme>
+<programme start="20240531153741 +0000" stop="20240531160000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Cartoon Planet</title>
+<sub-title lang="en">The Big Mouths</sub-title>
+<icon src="https://i.imgur.com/I5Lgh6a.gif"/>
+</programme>
+<programme start="20240531160030 +0000" stop="20240531162003 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">X-Men</title>
+<sub-title lang="en">The Dark Phoenix Saga (Part 2): The Inner Circle</sub-title>
+<icon src="https://i.imgur.com/ZSZ0x1m.gif"/>
+</programme>
+<programme start="20240531162106 +0000" stop="20240531164500 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Mega Man</title>
+<sub-title lang="en">Cold Steel</sub-title>
+<icon src="https://i.imgur.com/vhvmTlP.gif"/>
+</programme>
+<programme start="20240531164602 +0000" stop="20240531170721 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Men in Black</title>
+<sub-title lang="en">The Loose Ball Foul Syndrome</sub-title>
+<icon src="https://i.imgur.com/M2q5NRC.gif"/>
+</programme>
+<programme start="20240531170837 +0000" stop="20240531173221 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Street Fighter II V</title>
+<sub-title lang="en">Fight to the Finish (Round One)</sub-title>
+<icon src="https://i.imgur.com/mQiuwRJ.gif"/>
+</programme>
+<programme start="20240531173339 +0000" stop="20240531175400 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Spider-Man</title>
+<sub-title lang="en">Tombstone</sub-title>
+<icon src="https://i.imgur.com/hprZiwl.gif"/>
+</programme>
+<programme start="20240531175600 +0000" stop="20240531181819 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Thundercats</title>
+<sub-title lang="en">Return of the Driller</sub-title>
+<icon src="https://i.imgur.com/7TOnnN5.gif"/>
+</programme>
+<programme start="20240531181903 +0000" stop="20240531184326 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Saint Seiya</title>
+<sub-title lang="en">Rescue! Saori's Crisis</sub-title>
+<icon src="https://i.imgur.com/6rmD2nL.gif"/>
+</programme>
+<programme start="20240531184407 +0000" stop="20240531190821 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Zeta Gundam</title>
+<sub-title lang="en">The Messenger from Axis</sub-title>
+<icon src="https://i.imgur.com/Tqe7v2I.gif"/>
+</programme>
+<programme start="20240531190938 +0000" stop="20240531193222 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Robotech</title>
+<sub-title lang="en">Ghost Town</sub-title>
+<icon src="https://i.imgur.com/d2iQJ5T.gif"/>
+</programme>
+<programme start="20240531193338 +0000" stop="20240531195719 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Reboot</title>
+<sub-title lang="en">Enzo the Smart</sub-title>
+<icon src="https://i.imgur.com/CFaaZSh.gif"/>
+</programme>
+<programme start="20240531200000 +0000" stop="20240531202523 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Pokemon</title>
+<sub-title lang="en">Tentacool & Tentacruel</sub-title>
+<icon src="https://i.imgur.com/VfdN6pP.gif"/>
+</programme>
+<programme start="20240531202912 +0000" stop="20240531205556 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Teen Titans</title>
+<sub-title lang="en">Revolution</sub-title>
+<icon src="https://i.imgur.com/Csz1Dr1.gif"/>
+</programme>
+<programme start="20240531210130 +0000" stop="20240531212214 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Dragonball</title>
+<sub-title lang="en">The Dragon Balls are Stolen!!</sub-title>
+<icon src="https://i.imgur.com/cQBxAVU.gif"/>
+</programme>
+<programme start="20240531212617 +0000" stop="20240531214939 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Sailor Moon</title>
+<sub-title lang="en">Chibi-Usa's Little Rhapsody of Love</sub-title>
+<icon src="https://i.imgur.com/TnI0NkT.gif"/>
+</programme>
+<programme start="20240531215111 +0000" stop="20240531221142 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">DBZ</title>
+<sub-title lang="en">Nightmare Comes True</sub-title>
+<icon src="https://i.imgur.com/4qfad4o.gif"/>
+</programme>
+<programme start="20240531221449 +0000" stop="20240531223517 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">DBZ</title>
+<sub-title lang="en">Goku's Assassin</sub-title>
+<icon src="https://i.imgur.com/4qfad4o.gif"/>
+</programme>
+<programme start="20240531223837 +0000" stop="20240531230000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Zoids</title>
+<sub-title lang="en">The Princess Arrives - Mary Champ</sub-title>
+<icon src="https://i.imgur.com/2Vh8RTx.gif"/>
+</programme>
+<programme start="20240531230100 +0000" stop="20240531234907 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">The History Of Trunks</title>
+<icon src="https://i.imgur.com/4GMWDrX.jpg"/>
+</programme>
+<programme start="20240531235009 +0000" stop="20240601001225 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Powerpuff Girls</title>
+<sub-title lang="en">Toast of the Town / Divide and Conquer</sub-title>
+<icon src="https://i.imgur.com/8ULe6pE.gif"/>
+</programme>
+<programme start="20240601001234 +0000" stop="20240601002328 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Ed Edd Eddy</title>
+<sub-title lang="en">Rambling Ed</sub-title>
+<icon src="https://i.imgur.com/igzgfih.gif"/>
+</programme>
+<programme start="20240601002348 +0000" stop="20240601003059 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Johnny Bravo</title>
+<sub-title lang="en">Over The Hump!</sub-title>
+<icon src="https://i.imgur.com/duW3ILx.gif"/>
+</programme>
+<programme start="20240601003114 +0000" stop="20240601003819 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">What A Cartoon! Show</title>
+<sub-title lang="en">Wind-Up Wolf</sub-title>
+<icon src="https://i.imgur.com/Vfe6dDZ.gif"/>
+</programme>
+<programme start="20240601003838 +0000" stop="20240601004512 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Cow and Chicken</title>
+<sub-title lang="en">Meet Lance Sackless</sub-title>
+<icon src="https://i.imgur.com/0QYl7ZQ.gif"/>
+</programme>
+<programme start="20240601004528 +0000" stop="20240601005202 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">I Am Weasel</title>
+<sub-title lang="en">Mission: Stupid</sub-title>
+<icon src="https://i.imgur.com/b0n28MI.gif"/>
+</programme>
+<programme start="20240601005212 +0000" stop="20240601005903 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Dexters Laboratory</title>
+<sub-title lang="en">The Old Switcharooms</sub-title>
+<icon src="https://i.imgur.com/hMP6ON2.gif"/>
+</programme>
+<programme start="20240601010130 +0000" stop="20240601012215 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Dragonball</title>
+<sub-title lang="en">The Penalty is Pinball</sub-title>
+<icon src="https://i.imgur.com/cQBxAVU.gif"/>
+</programme>
+<programme start="20240601012533 +0000" stop="20240601014855 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Sailor Moon</title>
+<sub-title lang="en">Dream to be an Adult! The Amazoness' Bewilderment</sub-title>
+<icon src="https://i.imgur.com/TnI0NkT.gif"/>
+</programme>
+<programme start="20240601015008 +0000" stop="20240601021039 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">DBZ</title>
+<sub-title lang="en">Deadly Beauty</sub-title>
+<icon src="https://i.imgur.com/4qfad4o.gif"/>
+</programme>
+<programme start="20240601021308 +0000" stop="20240601023340 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">DBZ</title>
+<sub-title lang="en">No Match For The Androids</sub-title>
+<icon src="https://i.imgur.com/4qfad4o.gif"/>
+</programme>
+<programme start="20240601023622 +0000" stop="20240601030000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Gundam Wing</title>
+<sub-title lang="en">Betrayed by Home, Far Away</sub-title>
+<icon src="https://i.imgur.com/XWp96IJ.gif"/>
+</programme>
+<programme start="20240601030214 +0000" stop="20240601031903 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Space Ghost C2C</title>
+<icon src="https://i.imgur.com/7oi7Qxf.gif"/>
+</programme>
+<programme start="20240601032109 +0000" stop="20240601034256 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Home Movies</title>
+<sub-title lang="en">Yoko (aka We'll Always Have Tuesday)</sub-title>
+<icon src="https://i.imgur.com/VDMuEdj.gif"/>
+</programme>
+<programme start="20240601034522 +0000" stop="20240601035640 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Brak Show</title>
+<sub-title lang="en">All That I Desire You</sub-title>
+<icon src="https://i.imgur.com/uGF2Olk.gif"/>
+</programme>
+<programme start="20240601040130 +0000" stop="20240601042714 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Full Metal Alchemist</title>
+<sub-title lang="en">Words of Farewell</sub-title>
+<icon src="https://i.imgur.com/3T6NatN.gif"/>
+</programme>
+<programme start="20240601042759 +0000" stop="20240601045141 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Yu Yu Hakusho</title>
+<sub-title lang="en">Flowers of Blood</sub-title>
+<icon src="https://i.imgur.com/zLgdAie.gif"/>
+</programme>
+<programme start="20240601045156 +0000" stop="20240601051256 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Rurouni Kenshin</title>
+<sub-title lang="en">Two Men at the End of an Era</sub-title>
+<icon src="https://i.imgur.com/litCtMD.gif"/>
+</programme>
+<programme start="20240601051344 +0000" stop="20240601053546 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Lupin III</title>
+<sub-title lang="en">The Little Princess of Darkness</sub-title>
+<icon src="https://i.imgur.com/ttnXgu9.gif"/>
+</programme>
+<programme start="20240601053642 +0000" stop="20240601060000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Ranma</title>
+<sub-title lang="en">Shogi Showdown</sub-title>
+<icon src="https://i.imgur.com/GZNzBTy.gif"/>
+</programme>
+<programme start="20240601060000 +0000" stop="20240601062503 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Record of Lodoss War TV</title>
+<sub-title lang="en">Reunion... In a Distant War-torn Land</sub-title>
+<icon src="https://i.imgur.com/yskXuxs.gif"/>
+</programme>
+<programme start="20240601062751 +0000" stop="20240601063903 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Sealab 2021</title>
+<sub-title lang="en">Cavemen</sub-title>
+<icon src="https://i.imgur.com/AnkyrnS.gif"/>
+</programme>
+<programme start="20240601064141 +0000" stop="20240601070653 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Elfen Lied</title>
+<sub-title lang="en">Receipt</sub-title>
+<icon src="https://i.imgur.com/FA7swkr.gif"/>
+</programme>
+<programme start="20240601070929 +0000" stop="20240601073305 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Sgt. Frog</title>
+<sub-title lang="en">Fake It 'Til You Make It!</sub-title>
+<icon src="https://i.imgur.com/6qmdAtv.gif"/>
+</programme>
+<programme start="20240601073545 +0000" stop="20240601080000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Slayers TRY</title>
+<sub-title lang="en">Striding and Swaggering! Lamentation Without End!</sub-title>
+<icon src="https://i.imgur.com/pLL80IY.gif"/>
+</programme>
+<programme start="20240601100000 +0000" stop="20240601101052 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Spiderman</title>
+<sub-title lang="en">Fountain of Terror</sub-title>
+<icon src="https://i.imgur.com/rtVhGpO.gif"/>
+</programme>
+<programme start="20240601101206 +0000" stop="20240601102257 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Spiderman</title>
+<sub-title lang="en">Fiddler on the Loose</sub-title>
+<icon src="https://i.imgur.com/rtVhGpO.gif"/>
+</programme>
+<programme start="20240601102403 +0000" stop="20240601103456 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Spiderman</title>
+<sub-title lang="en">To Catch a Spider</sub-title>
+<icon src="https://i.imgur.com/rtVhGpO.gif"/>
+</programme>
+<programme start="20240601103620 +0000" stop="20240601104713 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Spiderman</title>
+<sub-title lang="en">Double Identity</sub-title>
+<icon src="https://i.imgur.com/rtVhGpO.gif"/>
+</programme>
+<programme start="20240601104835 +0000" stop="20240601110528 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">The Mighty Thor</title>
+<sub-title lang="en">Molto, the Lava Man; Invasion of the Lava Man; Living Rock</sub-title>
+<icon src="https://i.imgur.com/vARmo88.gif"/>
+</programme>
+<programme start="20240601110644 +0000" stop="20240601112708 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Fantastic Four</title>
+<sub-title lang="en">Behold A Distant Star</sub-title>
+<icon src="https://i.imgur.com/Stqcavd.gif"/>
+</programme>
+<programme start="20240601112840 +0000" stop="20240601113510 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Birdman</title>
+<sub-title lang="en">The Wild Weird West</sub-title>
+<icon src="https://i.imgur.com/cAylbtL.gif"/>
+</programme>
+<programme start="20240601113639 +0000" stop="20240601114307 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Birdman</title>
+<sub-title lang="en">The Ant Ape</sub-title>
+<icon src="https://i.imgur.com/cAylbtL.gif"/>
+</programme>
+<programme start="20240601114534 +0000" stop="20240601115155 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Space Ghost</title>
+<sub-title lang="en">The Cyclopeds</sub-title>
+<icon src="https://i.imgur.com/TKjCB1Z.gif"/>
+</programme>
+<programme start="20240601115340 +0000" stop="20240601120000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Space Ghost</title>
+<sub-title lang="en">Space Sargasso</sub-title>
+<icon src="https://i.imgur.com/TKjCB1Z.gif"/>
+</programme>
+<programme start="20240601120000 +0000" stop="20240601122121 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Earthworm Jim</title>
+<sub-title lang="en">The Anti-Fish</sub-title>
+<icon src="https://i.imgur.com/sQB7OBu.gif"/>
+</programme>
+<programme start="20240601122447 +0000" stop="20240601124548 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Static Shock</title>
+<sub-title lang="en">Fallen Hero</sub-title>
+<icon src="https://i.imgur.com/riIBi2T.gif"/>
+</programme>
+<programme start="20240601124927 +0000" stop="20240601131059 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Animaniacs</title>
+<sub-title lang="en">Papers for Pappa / Amazing Gladiators / Pinky and the Ralph</sub-title>
+<icon src="https://i.imgur.com/Iahwehb.gif"/>
+</programme>
+<programme start="20240601131505 +0000" stop="20240601133500 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Tick</title>
+<sub-title lang="en">Tick vs. Dot and Neil's Wedding</sub-title>
+<icon src="https://i.imgur.com/6LCtAKv.gif"/>
+</programme>
+<programme start="20240601133844 +0000" stop="20240601140000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Freakazoid</title>
+<sub-title lang="en">Foamy The Freakadog/Office Visit/An Ode To Leonard Nimoy/Emergency Broadcast System/Conversational Norwegian</sub-title>
+<icon src="https://i.imgur.com/qaSxxx8.gif"/>
+</programme>
+<programme start="20240601140045 +0000" stop="20240601142046 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Digimon</title>
+<sub-title lang="en">BlackWarGreymon's Destiny</sub-title>
+<icon src="https://i.imgur.com/rM5a4vc.gif"/>
+</programme>
+<programme start="20240601142414 +0000" stop="20240601144533 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Monster Rancher</title>
+<sub-title lang="en">Battle With the Big Bad Four</sub-title>
+<icon src="https://i.imgur.com/8Q2xfrx.gif"/>
+</programme>
+<programme start="20240601144906 +0000" stop="20240601150948 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Yu-Gi-Oh!</title>
+<sub-title lang="en">Back to Battle City (Part 3)</sub-title>
+<icon src="https://i.imgur.com/F5wIvS0.gif"/>
+</programme>
+<programme start="20240601151331 +0000" stop="20240601153432 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Starship Troopers</title>
+<sub-title lang="en">Spirits Of The Departed</sub-title>
+<icon src="https://i.imgur.com/aRS8xZQ.gif"/>
+</programme>
+<programme start="20240601153829 +0000" stop="20240601160000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Beast Machines</title>
+<sub-title lang="en">Sparkwar, Part. I: The Strike</sub-title>
+<icon src="https://i.imgur.com/9E7F997.gif"/>
+</programme>
+<programme start="20240601160128 +0000" stop="20240601162225 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Jonny Quest Real Adventures</title>
+<sub-title lang="en">The Bangalore Falcon</sub-title>
+<icon src="https://i.imgur.com/XOp3nEP.gif"/>
+</programme>
+<programme start="20240601162335 +0000" stop="20240601164430 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Jonny Quest Real Adventures</title>
+<sub-title lang="en">Diamonds and Jade</sub-title>
+<icon src="https://i.imgur.com/XOp3nEP.gif"/>
+</programme>
+<programme start="20240601164526 +0000" stop="20240601171047 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Jonny Quest</title>
+<sub-title lang="en">Calcutta Adventure</sub-title>
+<icon src="https://i.imgur.com/1LkPW7k.gif"/>
+</programme>
+<programme start="20240601171202 +0000" stop="20240601173407 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Scooby Doo</title>
+<sub-title lang="en">Decoy for a Dognapper</sub-title>
+<icon src="https://i.imgur.com/i1ZedHL.gif"/>
+</programme>
+<programme start="20240601173533 +0000" stop="20240601175733 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Scooby Doo</title>
+<sub-title lang="en">What the Hex Going On?</sub-title>
+<icon src="https://i.imgur.com/i1ZedHL.gif"/>
+</programme>
+<programme start="20240601180030 +0000" stop="20240601182143 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Superman</title>
+<sub-title lang="en">Two's a Crowd</sub-title>
+<icon src="https://i.imgur.com/hUYhp5I.gif"/>
+</programme>
+<programme start="20240601182434 +0000" stop="20240601184649 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Batman</title>
+<sub-title lang="en">Joker's Wild</sub-title>
+<icon src="https://i.imgur.com/nygJi6C.gif"/>
+</programme>
+<programme start="20240601184930 +0000" stop="20240601191015 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Batman Beyond</title>
+<sub-title lang="en">Sneak Peek</sub-title>
+<icon src="https://i.imgur.com/4bXZkXc.gif"/>
+</programme>
+<programme start="20240601191239 +0000" stop="20240601193435 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Justice League</title>
+<sub-title lang="en">For the Man Who Has Everything (JLU)</sub-title>
+<icon src="https://i.imgur.com/IAoWUJN.gif"/>
+</programme>
+<programme start="20240601193714 +0000" stop="20240601200000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Justice League</title>
+<sub-title lang="en">Hawk and Dove</sub-title>
+<icon src="https://i.imgur.com/IAoWUJN.gif"/>
+</programme>
+<programme start="20240601200000 +0000" stop="20240601202413 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">GaoGaiGar</title>
+<sub-title lang="en">Runaway Zonder</sub-title>
+<icon src="https://i.imgur.com/5rCBrb9.gif"/>
+</programme>
+<programme start="20240601202715 +0000" stop="20240601205104 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Big O</title>
+<sub-title lang="en">Daemonseed</sub-title>
+<icon src="https://i.imgur.com/0JJXLwO.gif"/>
+</programme>
+<programme start="20240601205251 +0000" stop="20240601211733 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Patlabor</title>
+<sub-title lang="en">Ohta's One Troubled Afternoon</sub-title>
+<icon src="https://i.imgur.com/lP8LKsc.gif"/>
+</programme>
+<programme start="20240601212029 +0000" stop="20240601214750 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Gundam 0080</title>
+<sub-title lang="en">Say it Ain't So, Bernie!</sub-title>
+<icon src="https://i.imgur.com/1wd7Qjr.gif"/>
+</programme>
+<programme start="20240601215047 +0000" stop="20240601221800 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Gundam 0080</title>
+<sub-title lang="en">War in the Pocket</sub-title>
+<icon src="https://i.imgur.com/1wd7Qjr.gif"/>
+</programme>
+<programme start="20240601221800 +0000" stop="20240601223924 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Celebrity Deathmatch</title>
+<sub-title lang="en">The Battle of the Heavy Metal Maniacs</sub-title>
+<icon src="https://i.imgur.com/asKW14D.gif"/>
+</programme>
+<programme start="20240601223955 +0000" stop="20240601230717 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Initial D</title>
+<sub-title lang="en">Dogfight</sub-title>
+<icon src="https://i.imgur.com/WzNYM0K.gif"/>
+</programme>
+<programme start="20240601230748 +0000" stop="20240601233510 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Initial D</title>
+<sub-title lang="en">The Magic of One-Hand Steer</sub-title>
+<icon src="https://i.imgur.com/WzNYM0K.gif"/>
+</programme>
+<programme start="20240601233540 +0000" stop="20240601235933 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Fighting Spirit</title>
+<sub-title lang="en">The Champ and I</sub-title>
+<icon src="https://i.imgur.com/q17pj8O.gif"/>
+</programme>
+<programme start="20240602000004 +0000" stop="20240602002400 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Fighting Spirit</title>
+<sub-title lang="en">A Thing to Strive For</sub-title>
+<icon src="https://i.imgur.com/q17pj8O.gif"/>
+</programme>
+<programme start="20240602002435 +0000" stop="20240602004814 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Ghost Stories</title>
+<sub-title lang="en">The Talking Merry Doll!! Shadow of Terror</sub-title>
+<icon src="https://i.imgur.com/tQ0bpmD.gif"/>
+</programme>
+<programme start="20240602004941 +0000" stop="20240602011321 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Ghost Stories</title>
+<sub-title lang="en">The Nurse Who Tells Your Death - Mother's Feelings</sub-title>
+<icon src="https://i.imgur.com/tQ0bpmD.gif"/>
+</programme>
+<programme start="20240602011436 +0000" stop="20240602013955 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Ghost in the Shell</title>
+<sub-title lang="en">IN: Chain Reaction of Symmetry - CHAIN REACTION</sub-title>
+<icon src="https://i.imgur.com/19QluZh.gif"/>
+</programme>
+<programme start="20240602014127 +0000" stop="20240602020659 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Ghost in the Shell</title>
+<sub-title lang="en">IN: Confusion at the North End - FABRICATE FOG</sub-title>
+<icon src="https://i.imgur.com/19QluZh.gif"/>
+</programme>
+<programme start="20240602020900 +0000" stop="20240602023340 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Cowboy Bebop</title>
+<sub-title lang="en">Gateway Shuffle</sub-title>
+<icon src="https://i.imgur.com/CJXo161.gif"/>
+</programme>
+<programme start="20240602023558 +0000" stop="20240602030000 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Cowboy Bebop</title>
+<sub-title lang="en">Ballad of Fallen Angels</sub-title>
+<icon src="https://i.imgur.com/CJXo161.gif"/>
+</programme>
+<programme start="20240602030100 +0000" stop="20240602040610 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Interstella 5555</title>
+<icon src="https://i.imgur.com/ODBlBOU.gif"/>
+</programme>
+<programme start="20240602040610 +0000" stop="20240602062838 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Rifftrax - Star Wars II</title>
+</programme>
+<programme start="20240602063048 +0000" stop="20240602082250 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">Rifftrax - The Bermuda Triangle</title>
+</programme>
+<programme start="20240602082310 +0000" stop="20240602095659 +0000" channel="ToonamiAftermathEast.us">
+<title lang="en">MST3K - S05E10 - The Painted Hills</title>
+</programme>
 </tv>
