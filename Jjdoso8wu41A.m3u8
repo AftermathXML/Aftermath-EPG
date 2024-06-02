@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ace.us",Ace
+https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 #EXTINF:0,Laff
 #EXTVLCOPT:network-caching=1000
 http://172.111.36.190:6887/stream/spectrum-east/laff-wxxa-dt3/master.m3u8
