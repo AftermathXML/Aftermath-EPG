@@ -1,4 +1,43 @@
 #EXTM3U
+#EXTINF:0,CBS News
+#EXTVLCOPT:network-caching=1000
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0,Comet
+#EXTVLCOPT:network-caching=1000
+https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:0,Great! TV
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/a08f97ab4e11e6cd6b892c1c56980f3e
+#EXTINF:0,Legend UK
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/ceb424dcb243b40d23ab16edb9d0bbde
+#EXTINF:0,Legend Xtra
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/9e1753e8c2ee845dc26a1a98bf05b34b
+#EXTINF:0,Pop +1
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/d6cb2d769deb6b7f6afd49c3e68ad3dc
+#EXTINF:0,Pop Max +1
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/81e8c23c5fdf0f63f32fd461d4374368
+#EXTINF:0,RetroTV
+#EXTVLCOPT:network-caching=1000
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
+#EXTINF:0,Sky News UK
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/5921999176d588325d768f3fc7bbcdce
+#EXTINF:0,Virgin Media 1
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/bb7276016aa8015097f5fddf37496baf
+#EXTINF:0,Virgin Media 2
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/3b5a604c3631112913afad33baedd2b8
+#EXTINF:0,Virgin Media 3
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/85603f5d19ca518315823c3c012ac6ea
+#EXTINF:0,Virgin Media 4
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/27c05adc99ff8516c49dce318eb3b681
 #EXTINF:-1 tvg-id="ace.us",Ace
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 #EXTINF:0,Laff
