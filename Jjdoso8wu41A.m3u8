@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:60, Watch it Kid
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-621672612c2627c068e73ad6.m3u8
+#EXTINF:0, Watch it SCREAM
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-621671d05abdd3d5556a1baf.m3u8
+#EXTINF:60, Non-Stop '90s
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65bd5a538314c24e11553543.m3u8
 #EXTINF:25, Universal Action
 https://r.mjh.nz/PlutoTV/654933e253fc970008390114-alt.m3u8
 #EXTINF:25, Universal Crime
