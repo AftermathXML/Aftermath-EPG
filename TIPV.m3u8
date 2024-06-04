@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0,Scooby Doo and Guess Who
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81104
 #EXTINF:0, 1 vs 100
 https://r.mjh.nz/PlutoTV/646f2af681844c00097d85a9-alt.m3u8
 #EXTINF:0, 16 & Pregnant
