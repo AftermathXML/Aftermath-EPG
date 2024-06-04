@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:25, Universal Action
+https://r.mjh.nz/PlutoTV/654933e253fc970008390114-alt.m3u8
+#EXTINF:25, Universal Crime
+https://r.mjh.nz/PlutoTV/6549341853fc9700083901ac-alt.m3u8
+#EXTINF:25, Universal Monsters
+https://r.mjh.nz/PlutoTV/65a9b20f0c7ff50008d3a3b6-alt.m3u8
 #EXTINF:0,CBS News
 #EXTVLCOPT:network-caching=1000
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
