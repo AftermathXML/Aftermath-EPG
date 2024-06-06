@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0,UK Sky Cinema Scifi & Horror FHD  
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/6SHyY6/595088/35248
 #EXTINF:64, Watch it Kid
 https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-621672612c2627c068e73ad6.m3u8
 #EXTINF:0, Watch it SCREAM
@@ -449,9 +452,6 @@ http://170.254.18.106/AMC/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
-#EXTINF:0,Bang Bang
-#EXTVLCOPT:network-caching=1000
-http://45.90.80.250:8000/play/a013
 #EXTINF:0,BBC America
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -532,9 +532,6 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1607
 #EXTINF:0,CNN
 #EXTVLCOPT:network-caching=1000
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:20,Comedy Central
-#EXTVLCOPT:network-caching=1000
-http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 #EXTINF:32,CourtTV
 #EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
