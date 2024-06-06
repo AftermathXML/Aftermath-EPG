@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0, beIN SPORTS XTRA
+https://r.mjh.nz/PlutoTV/62b97ef310e33f0007eea65f-alt.m3u8
+#EXTINF:25, DAZN TV
+https://r.mjh.nz/PlutoTV/647f07e74cfc2c0008a2e557-alt.m3u8
+#EXTINF:0, TNA Wrestling
+https://r.mjh.nz/PlutoTV/62ea4dadce395f0007086df2-alt.m3u8
 #EXTINF:0,Sportsnet East HD
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/3009
