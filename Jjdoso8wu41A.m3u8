@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:60, Watch it Kid
+#EXTINF:64, Watch it Kid
 https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-621672612c2627c068e73ad6.m3u8
 #EXTINF:0, Watch it SCREAM
 https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-621671d05abdd3d5556a1baf.m3u8
@@ -50,9 +50,9 @@ http://84.203.199.198:9981/stream/channel/85603f5d19ca518315823c3c012ac6ea
 #EXTINF:0,Virgin Media 4
 #EXTVLCOPT:network-caching=1000
 http://84.203.199.198:9981/stream/channel/27c05adc99ff8516c49dce318eb3b681
-#EXTINF:-1 tvg-id="ace.us",Ace
+#EXTINF:0,Ace
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
-#EXTINF:-1 tvg-id="laff.us" tvg-logo="https://i.imgur.com/PtHtgsn.png",Laff
+#EXTINF:0,Laff
 http://thevdm.xyz:25461/Jennifer/Year!/39792
 #EXTINF:60,MeTV
 #EXTVLCOPT:network-caching=1000
@@ -113,45 +113,9 @@ http://fortv.cc:8080/8bqC68/409069/57429
 #EXTINF:0,CA GLOBAL TORONTO
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57435
-#EXTINF:0,CA Sportsnet 360 (HD)
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57299
-#EXTINF:0,CA Sportsnet East (D) 
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/41836
-#EXTINF:0,CA Sportsnet One (E)
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/10247
-#EXTINF:0,CA Sportsnet Ontario HD 
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57296
-#EXTINF:0,CA Sportsnet Pacific (FHD) 
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/9860
-#EXTINF:0,CA Sportsnet West (FHD)
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/20975
-#EXTINF:0,CA Sportsnet World HD 
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/75675
 #EXTINF:0,CA Treehouse (R)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57371
-#EXTINF:0,CA TSN 1 (E)
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57292
-#EXTINF:0,CA TSN 2 HD 
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/47442
-#EXTINF:0,CA TSN 3 HD 
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/47444
-#EXTINF:0,CA TSN 3 HD 
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/10389
-#EXTINF:0,CA TSN 5 
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57467
 #EXTINF:0,CA YTV East 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/63850
@@ -197,39 +161,18 @@ http://fortv.cc:8080/8bqC68/409069/53699
 #EXTINF:0,UK-Sky Cinema Premier
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/35256
-#EXTINF:0,UK-Sky Sports Action
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/53705
-#EXTINF:0,UK-Sky Sports Arena
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35238
-#EXTINF:0,UK-Sky Sports Main Event
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35243
-#EXTINF:0,UK-Sky Sports News
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35241
 #EXTINF:0,UK: CBS JUSTICE
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/134942
 #EXTINF:0,UK: SKY NEWS
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/77166
-#EXTINF:0,US Altitude Sports HD 
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/79545
 #EXTINF:0,US Antenna TV 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/20180
 #EXTINF:0,US Fox News 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/135794
-#EXTINF:0,US FOX Sports 1 
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/46792
-#EXTINF:0,US Fox Sports 2 (A)
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/1847
 #EXTINF:0,US FX East 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/46690
@@ -518,22 +461,6 @@ http://170.254.18.106/AMC/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
-#EXTINF:0,Bally Sports Detroit
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/317
-#EXTINF:0,Bally Sports Midwest
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/324
-#EXTINF:0,Bally Sports San Diego
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/316
-#EXTINF:0,Bally Sports SouthWest
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1189
 #EXTINF:0,Bang Bang
 #EXTVLCOPT:network-caching=1000
 http://45.90.80.250:8000/play/a013
@@ -629,12 +556,6 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:54,Dove Channel
 #EXTVLCOPT:network-caching=1000
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
-#EXTINF:20,ESPN US
-#EXTVLCOPT:network-caching=1000
-http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:0,ESPN2
-#EXTVLCOPT:network-caching=1000
-http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/127365
 #EXTINF:0,FreeForm
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -762,11 +683,6 @@ https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
 #EXTINF:102,RetroCrush
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
-#EXTINF:0,Sport WWE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/398
 #EXTINF:0,Starz
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -861,31 +777,6 @@ http://45.232.176.17:8000/play/a00r
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/238
-#EXTINF:0,TSN 1
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1195
-#EXTINF:0,TSN 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/175
-#EXTINF:0,TSN 3
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/188
-#EXTINF:0,TSN 4
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1586
-#EXTINF:0,TSN 5
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/977
 #EXTINF:51,US : FUSE
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/a2903e36-7a71-4894-baa9-509fe803768a.m3u
@@ -897,22 +788,6 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/212
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/190
-#EXTINF:0,USA | ESPN
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/133
-#EXTINF:0,USA | ESPN 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/173
-#EXTINF:0,USA | ESPN News
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/134
-#EXTINF:0,USA | ESPN U
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/172
 #EXTINF:0,USA | Food Network
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
