@@ -143,11 +143,6 @@ http://fortv.cc:8080/8bqC68/409069/35252
 http://fortv.cc:8080/8bqC68/409069/35249
 #EXTINF:0,UK Sky Cinema Comedy 
 #EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/53661
-
-#EXTINF:0,UK SKY SciFI FHD (D)
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/53663
 #EXTINF:0,UK-Sky Cinema Animation
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/53698
