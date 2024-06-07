@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:0,DAZN 1 (Spanish)
+#EXTVLCOPT:network-caching=1000
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/66046.ts
+#EXTINF:0,DAZN 2 (Spanish)
+#EXTVLCOPT:network-caching=1000
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/66047.ts
+#EXTINF:0,DAZN 3 (Spanish)
+#EXTVLCOPT:network-caching=1000
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/66048.ts
+#EXTINF:0,DAZN 4 (Spanish)
+#EXTVLCOPT:network-caching=1000
+http://vip.fr3tv.com:25443/live/6596554854/GT16NDE958/66049.ts
 #EXTINF:0,BT Sport 1 HD
 #EXTVLCOPT:network-caching=1000
 http://yesimes.oknirvana.club:8880/D12m0846/702669023/2943
