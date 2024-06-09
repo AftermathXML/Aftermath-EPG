@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,Boomerang Canada
-#EXTVLCOPT:network-caching=1000
-http://5.181.236.159:8484/stream/canada/boomerang/master.m3u8
 #EXTINF:0,Cartoon Network Canada
 #EXTVLCOPT:network-caching=1000
 http://5.181.236.159:8484/stream/canada/cartoonnetworkphf/master.m3u8
