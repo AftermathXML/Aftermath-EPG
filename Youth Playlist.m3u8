@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:0,Family
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/30184
+#EXTINF:0,Teletoon Canada
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/30117
+#EXTINF:25, 90's Kids
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://r.mjh.nz/PlutoTV/6452c814939a590008567a3b-alt.m3u8
+#EXTINF:54, Animax
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/INBD13000043W.m3u8
+#EXTINF:25, Anime All day
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
+#EXTINF:0, Brat TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d6f6c5a9e88ee909e7ee1f.m3u8
+#EXTINF:0, Comedy Central Animation
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://r.mjh.nz/PlutoTV/5f99e24636d67d0007a94e6d-alt.m3u8
+#EXTINF:0, Crunchyroll
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://r.mjh.nz/PlutoTV/65652f7fc0fc88000883537a-alt.m3u8
+#EXTINF:0, Forever Kids
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://r.mjh.nz/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
+#EXTINF:0, Kartoon Channel!
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://r.mjh.nz/PlutoTV/60fb040d4795a6000762fe8f-alt.m3u8
+#EXTINF:25, Kids Movie Club
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://r.mjh.nz/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
+#EXTINF:0, Nick Jr. Pluto TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://r.mjh.nz/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
+#EXTINF:0, Nickelodeon Pluto TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://r.mjh.nz/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
+#EXTINF:60, Non-Stop '90s
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65bd5a538314c24e11553543.m3u8
+#EXTINF:0, Toonami Aftermath (E)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:0, Toonami Aftermath (M)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:0, Toonami Aftermath (W)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:25, Totally Teen
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://r.mjh.nz/PlutoTV/6450209d939a5900084dba1d-alt.m3u8
+#EXTINF:64, Watch it Kid
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-621672612c2627c068e73ad6.m3u8
+#EXTINF:0,Adult Swim
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1883
+#EXTINF:36,ANIME x HIDIVE
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:0,Cartoon Network Canada
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://5.181.236.159:8484/stream/canada/cartoonnetworkphf/master.m3u8
+#EXTINF:0,Disney Junior Canada
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://5.181.236.159:8484/stream/canada/disneyjuniorcanada/master.m3u8
+#EXTINF:0,Disney XD Canada
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://5.181.236.159:8484/stream/canada/disneyxdcanada/master.m3u8
+#EXTINF:14,Disney Canada
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://5.181.236.159:8484/stream/canada/disneychannelcanada/master.m3u8
+#EXTINF:0,Family Canada
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://5.181.236.159:8484/stream/canada/familyeast/master.m3u8
+#EXTINF:0,Family Jr. Canada
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://5.181.236.159:8484/stream/canada/familyjrhd/master.m3u8
+#EXTINF:0,Pop +1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/d6cb2d769deb6b7f6afd49c3e68ad3dc
+#EXTINF:30,POP Max
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+#EXTINF:0,Pop Max +1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/81e8c23c5fdf0f63f32fd461d4374368
+#EXTINF:102,RetroCrush
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
+#EXTINF:0,Tooncast
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://45.232.176.17:8000/play/a00r
+#EXTINF:0,Treehouse Canada
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/57371
+#EXTINF:0,YTV Canada
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/63850
+#EXTINF:0,Boomerang United States
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/130
+#EXTINF:0,Cartoon Network United States
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/199
+#EXTINF:0,Discovery Family United States
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/183
+#EXTINF:0,Discovery Science United States
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/181
+#EXTINF:0,Disney Channel United States
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/180
+#EXTINF:0,Disney Jr United States
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/179
+#EXTINF:0,Disney XD United States
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/178
+#EXTINF:0,Nick United States
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/327
+#EXTINF:0,Nick Jr United States
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/351
+#EXTINF:0,Nicktoons United States
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1223
+#EXTINF:0,PBS KIDS United States
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/227
+#EXTINF:0,TeenNick United States
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1668
