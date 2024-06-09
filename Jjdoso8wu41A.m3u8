@@ -60,9 +60,6 @@ https://r.mjh.nz/PlutoTV/64d1867c6b1fdb0008c6c95b-alt.m3u8
 #EXTINF:0, Classic TV: Families
 #EXTVLCOPT:network-caching=1000
 https://r.mjh.nz/PlutoTV/61325d18f5166c00081b84e0-alt.m3u8
-#EXTINF:0, Comedy Central Animation
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5f99e24636d67d0007a94e6d-alt.m3u8
 #EXTINF:0, Comedy Central Pluto TV
 #EXTVLCOPT:network-caching=1000
 https://r.mjh.nz/PlutoTV/5ca671f215a62078d2ec0abf-alt.m3u8
