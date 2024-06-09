@@ -1,4 +1,28 @@
 #EXTM3U
+#EXTINF:0,Boomerang Canada
+#EXTVLCOPT:network-caching=1000
+http://5.181.236.159:8484/stream/canada/boomerang/master.m3u8
+#EXTINF:0,Cartoon Network Canada
+#EXTVLCOPT:network-caching=1000
+http://5.181.236.159:8484/stream/canada/cartoonnetworkphf/master.m3u8
+#EXTINF:0,Disney Channel Canada
+#EXTVLCOPT:network-caching=1000
+http://5.181.236.159:8484/stream/canada/disneychannelcanada/master.m3u8
+#EXTINF:0,Disney Junior Canada
+#EXTVLCOPT:network-caching=1000
+http://5.181.236.159:8484/stream/canada/disneyjuniorcanada/master.m3u8
+#EXTINF:0,Disney XD Canada
+#EXTVLCOPT:network-caching=1000
+http://5.181.236.159:8484/stream/canada/disneyxdcanada/master.m3u8
+#EXTINF:0,Family Canada
+#EXTVLCOPT:network-caching=1000
+http://5.181.236.159:8484/stream/canada/familyeast/master.m3u8
+#EXTINF:0,Family Jr. Canada
+#EXTVLCOPT:network-caching=1000
+http://5.181.236.159:8484/stream/canada/familyjrhd/master.m3u8
+#EXTINF:0,Nick Canada
+#EXTVLCOPT:network-caching=1000
+http://5.181.236.159:8484/stream/canada/nickelodeoncanada/master.m3u8
 #EXTINF:0,US Decades 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/nXmmT7/622090/20189
