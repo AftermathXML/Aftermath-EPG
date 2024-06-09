@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0, Cats 24/7
+https://r.mjh.nz/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
+#EXTINF:0, Dogs 24/7
+https://r.mjh.nz/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
 #EXTINF:0,POP
 #EXTVLCOPT:network-caching=1000
 http://327950044995807589.otjb0606.xyz:80/live/Javier0312H/Aymwawwyy122/807589.ts
