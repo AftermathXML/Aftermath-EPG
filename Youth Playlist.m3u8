@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0, Rainbow Squad
+#EXTVLCOPT:network-caching=1000
+https://r.mjh.nz/PlutoTV/60fb028c2e6a0c00075275a5-alt.m3u8
 #EXTINF:0,Boomerang UK
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/2944
