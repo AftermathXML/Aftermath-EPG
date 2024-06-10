@@ -80,10 +80,7 @@ http://vo01.mohdtv.com:8880/voby4846/59129684/30117
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://r.mjh.nz/PlutoTV/6452c814939a590008567a3b-alt.m3u8
-#EXTINF:25, Anime All day
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
+
 #EXTINF:0, Brat TV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -132,11 +129,7 @@ https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-621672612c2627c068e73ad6.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1883
-#EXTINF:36,ANIME x HIDIVE
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
+
 #EXTINF:0,Cartoon Network Canada
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57380
 #EXTINF:0,Disney Junior Canada
