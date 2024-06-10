@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:61, FilmRise Anime
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8
 #EXTINF:55, FilmRise Kids
 https://i.mjh.nz/Roku/067e6b6fa36352ad8984a8d97c9a39d4.m3u8
 #EXTINF:0, Cats 24/7
@@ -12,7 +10,10 @@ https://r.mjh.nz/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
 http://327950044995807589.otjb0606.xyz:80/live/Javier0312H/Aymwawwyy122/807589.ts
 #EXTINF:25, Christmas 365
 https://r.mjh.nz/PlutoTV/62fb6d4308f5ec0007453c09-alt.m3u8
-#EXTINF:0, Comedy Central Animation
+#EXTINF:0, Comedy Central #EXTM3U
+#EXTINF:32, OnDemandChina
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112b.m3u8
+ation
 https://r.mjh.nz/PlutoTV/64f8a949f5b5e4000862467c-alt.m3u8
 #EXTINF:0, Kid Quest
 https://r.mjh.nz/PlutoTV/62fb6aede6ff56000707085b-alt.m3u8
@@ -79,10 +80,6 @@ http://vo01.mohdtv.com:8880/voby4846/59129684/30117
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://r.mjh.nz/PlutoTV/6452c814939a590008567a3b-alt.m3u8
-#EXTINF:54, Animax
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/INBD13000043W.m3u8
 #EXTINF:25, Anime All day
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -122,21 +119,6 @@ https://r.mjh.nz/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
 #EXTINF:60, Non-Stop '90s
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65bd5a538314c24e11553543.m3u8
-#EXTINF:0, Toonami Aftermath (E)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:0, Toonami Aftermath (M)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:0, Toonami Aftermath (W)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:25, Totally Teen
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -183,10 +165,7 @@ https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://84.203.199.198:9981/stream/channel/81e8c23c5fdf0f63f32fd461d4374368
-#EXTINF:102,RetroCrush
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
+
 #EXTINF:0,Tooncast
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
