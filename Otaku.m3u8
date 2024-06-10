@@ -61,3 +61,12 @@ http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 https://r.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6475bfec536e0c0008858e9f" tvg-id="6475bfec536e0c0008858e9f" tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" tvg-chno="103" group-title="Spain" , Pluto TV K-Drama
 https://r.mjh.nz/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8
+#EXTINF:25, Anime All day
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
+#EXTINF:36,ANIME x HIDIVE
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
