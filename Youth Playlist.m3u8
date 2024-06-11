@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:102,RetroCrush
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
 #EXTINF:0, Toonami Aftermath (E)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
