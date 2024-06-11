@@ -38,10 +38,6 @@ https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112b.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/INBD13000043W.m3u8
-#EXTINF:102,RetroCrush
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
 #EXTINF:-1 channel-id="pluto-61560abb6ae4b60007300555" tvg-id="61560abb6ae4b60007300555" tvg-logo="https://images.pluto.tv/channels/61560abb6ae4b60007300555/colorLogoPNG.png" tvg-chno="858" group-title="Great Britain" , Pluto TV K-Pop
 https://r.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6475bfec536e0c0008858e9f" tvg-id="6475bfec536e0c0008858e9f" tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" tvg-chno="103" group-title="Spain" , Pluto TV K-Drama
