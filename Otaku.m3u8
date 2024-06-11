@@ -42,21 +42,6 @@ https://i.mjh.nz/SamsungTVPlus/INBD13000043W.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
-#EXTINF:0, Toonami Aftermath (E)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:0, Toonami Aftermath (M)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:0, Toonami Aftermath (W)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1 channel-id="pluto-61560abb6ae4b60007300555" tvg-id="61560abb6ae4b60007300555" tvg-logo="https://images.pluto.tv/channels/61560abb6ae4b60007300555/colorLogoPNG.png" tvg-chno="858" group-title="Great Britain" , Pluto TV K-Pop
 https://r.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6475bfec536e0c0008858e9f" tvg-id="6475bfec536e0c0008858e9f" tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" tvg-chno="103" group-title="Spain" , Pluto TV K-Drama
@@ -72,3 +57,5 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 #EXTINF:-1 channel-id="samsung-GBBD1100010UB" tvg-id="GBBD1100010UB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100010UB_20230712T021203SQUARE.png_20230712021204.png" tvg-chno="4621" group-title="United Kingdom" , Super Anime
 https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
+#EXTINF:0,Gaki no Tsukai (English Subs) (720p)
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
