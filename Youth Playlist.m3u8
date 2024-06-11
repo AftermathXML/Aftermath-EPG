@@ -5,9 +5,8 @@ https://i.mjh.nz/Roku/067e6b6fa36352ad8984a8d97c9a39d4.m3u8
 https://r.mjh.nz/PlutoTV/599375885ceaac3cabccbed7-alt.m3u8
 #EXTINF:0, Dogs 24/7
 https://r.mjh.nz/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
-#EXTINF:0,POP
-#EXTVLCOPT:network-caching=1000
-http://327950044995807589.otjb0606.xyz:80/live/Javier0312H/Aymwawwyy122/807589.ts
+#EXTINF:60, POP
+https://i.mjh.nz/SamsungTVPlus/GBBC430000128.m3u8
 #EXTINF:25, Christmas 365
 https://r.mjh.nz/PlutoTV/62fb6d4308f5ec0007453c09-alt.m3u8
 #EXTINF:0, Comedy Central #EXTM3U
