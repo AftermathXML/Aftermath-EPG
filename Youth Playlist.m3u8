@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:0, Toonami Aftermath (E)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:0, Toonami Aftermath (M)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:0, Toonami Aftermath (W)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:55, FilmRise Kids
 https://i.mjh.nz/Roku/067e6b6fa36352ad8984a8d97c9a39d4.m3u8
 #EXTINF:0, Cats 24/7
