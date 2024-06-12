@@ -32,9 +32,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBC430000128.m3u8
 #EXTINF:25, Christmas 365
 https://r.mjh.nz/PlutoTV/62fb6d4308f5ec0007453c09-alt.m3u8
 #EXTINF:0, Comedy Central #EXTM3U
-#EXTINF:32, OnDemandChina
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112b.m3u8
-ation
+Ation
 https://r.mjh.nz/PlutoTV/64f8a949f5b5e4000862467c-alt.m3u8
 #EXTINF:0, Kid Quest
 https://r.mjh.nz/PlutoTV/62fb6aede6ff56000707085b-alt.m3u8
@@ -52,8 +50,7 @@ https://r.mjh.nz/PlutoTV/6408b41b83f58900081d91ad-alt.m3u8
 https://r.mjh.nz/PlutoTV/62fb67cbb3af68000702db15-alt.m3u8
 #EXTINF:25, Preschool Play
 https://r.mjh.nz/PlutoTV/62fb68a5a6a2670007b7c5b8-alt.m3u8
-#EXTINF:53,FilmRise Family (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+
 #EXTINF:25,Pluto TV Family (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:36,Rakuten Family UK (720p)
@@ -73,15 +70,7 @@ http://84.203.199.198:9981/stream/service/4a10345a67f047e8a2935a54999996f1
 #EXTINF:0,CBBC 
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/2936
-#EXTINF:0,Disney Channel UK
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/2923
-#EXTINF:0,Disney Junior UK
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/2922
-#EXTINF:0,Disney XD UK
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/2921
+
 #EXTINF:0,CBEEBIES UK
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/28898
@@ -134,9 +123,7 @@ https://r.mjh.nz/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://r.mjh.nz/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
-#EXTINF:60, Non-Stop '90s
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65bd5a538314c24e11553543.m3u8
+
 #EXTINF:25, Totally Teen
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
