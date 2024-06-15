@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Animax.jp",Animax
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:1 tvg-id="AT-X.jp",AT-X
+https://neetball.net/live/neet3.m3u8
+#EXTINF:0, Crunchyroll
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/Roku/307b3b9ea321539b9688148fc97a8bfd.m3u8
 #EXTINF:61, FilmRise Anime
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8
 #EXTINF:57, Aliwko
