@@ -231,34 +231,30 @@ http://84.203.199.198:9981/stream/channel/ceb424dcb243b40d23ab16edb9d0bbde
 #EXTINF:0,Legend Xtra
 #EXTVLCOPT:network-caching=1000
 http://84.203.199.198:9981/stream/channel/9e1753e8c2ee845dc26a1a98bf05b34b
-#EXTINF:0, Top Movies - Rakuten TV
+#EXTINF:0,Rakuten TV Top Movies
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/GBBC90001660.m3u8
-#EXTINF:0, Action Movies - Rakuten TV
+#EXTINF:0,Rakuten TV Action Movies
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
-#EXTINF:36, Romance Movies - Rakuten TV
+#EXTINF:36,Rakuten TV Romance Movies
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/GBBA3300020DM.m3u8
-#EXTINF:0, Comedy Movies - Rakuten TV
+#EXTINF:0,Rakuten TV Comedy Movies
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
-#EXTINF:0, Drama Movies - Rakuten TV
+#EXTINF:0,Rakuten TV Drama Movies
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
-#EXTINF:0, 100% Christmas - Rakuten TV
+#EXTINF:0, Rakuten TV Christmas Movies
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
-#EXTINF:0, Real Series - Rakuten TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/GBBD1100006DS.m3u8
 #EXTINF:58,Redbox Faith & Family
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -350,29 +346,29 @@ http://143.244.60.30/TCM/index.m3u8
 #EXTINF:0,SKY HITS
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/35255
-#EXTINF:0,UK MOVIES: SKY CINEMA DRAMA
+#EXTINF:0,Sky Cinema Drama
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/35251
-#EXTINF:0,UK MOVIES: SKY COMEDY
+#EXTINF:0,Sky Cinema Comedy
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/35253
-#EXTINF:0,UK MOVIES: SKY CRIME THRILLER
+#EXTINF:0,Sky Cinema Thriller
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/35252
-#EXTINF:0,UK MOVIES: SKY GREATS
+#EXTINF:0,Sky Cinema Greats
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/35249
-#EXTINF:0,UK Sky Cinema Scifi & Horror FHD  
+#EXTINF:0,Sky Cinema Horror/Sci
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/6SHyY6/595088/35248
-#EXTINF:0,UK-Sky Cinema Animation
+#EXTINF:0,Sky Cinema Animation
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/53698
-#EXTINF:0,UK-Sky Cinema Family
+#EXTINF:0,Sky Cinema Family
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/53699
-#EXTINF:0,UK-Sky Cinema Premier
+#EXTINF:0,Sky Cinema Premier
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/35256
 #EXTINF:0,Showtime
