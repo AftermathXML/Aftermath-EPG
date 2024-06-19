@@ -7,30 +7,6 @@ https://i.mjh.nz/Roku/0455f88e83625b3c8c302db0c30fe01e.m3u8
 https://i.mjh.nz/Roku/04e5bbc5f478580dabee165ba747ea16.m3u8
 #EXTINF:0, Crimes Cults Killers
 https://i.mjh.nz/Roku/14fafce34e4d5af99db4141edb1db371.m3u8
-#EXTINF:56, FilmRise Action
-https://i.mjh.nz/Roku/0abef49cfd6759b18f2ce64290cbdda3.m3u8
-#EXTINF:0, FilmRise Black TV
-https://i.mjh.nz/Roku/885d5897052b53709a83c4947174cd09.m3u8
-#EXTINF:0, FilmRise British TV
-https://i.mjh.nz/Roku/dead0e7a46da533c94c61c8710ef3418.m3u8
-#EXTINF:0, FilmRise Classic TV
-https://i.mjh.nz/Roku/e2e10d08139b56aba73a448f5555b6fd.m3u8
-#EXTINF:0, FilmRise Food
-https://i.mjh.nz/Roku/22d9d1cb36e855a2b40ba752313a50d9.m3u8
-#EXTINF:0, FilmRise Free Movies
-https://i.mjh.nz/Roku/d6f71998860459eca1bed73db5988330.m3u8
-#EXTINF:60, FilmRise Horror
-https://i.mjh.nz/Roku/6a0629e467b5502c906136dadac290a0.m3u8
-#EXTINF:60, FilmRise Mysteries
-https://i.mjh.nz/Roku/16722bc43ef05012afa2297def830266.m3u8
-#EXTINF:0, FilmRise Sci-Fi
-https://i.mjh.nz/Roku/c423f0f050355a6fb8bcf7644af61852.m3u8
-#EXTINF:0, FilmRise True Crime
-https://i.mjh.nz/Roku/ebb810a8868251f18ac64056834c749a.m3u8
-#EXTINF:0, FilmRise Western
-https://i.mjh.nz/Roku/c5a72a598a355db4b1781ca075280773.m3u8
-#EXTINF:60, Miramax Movies
-https://i.mjh.nz/Roku/57c3b0c8270c5f839e55661af8b4c88d.m3u8
 #EXTINF:0, PBS Antiques Roadshow
 https://i.mjh.nz/Roku/856fca464da0544784204ba8f6161dac.m3u8
 #EXTINF:0, PBS Food
@@ -66,18 +42,7 @@ https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8
 #EXTINF:36, Best TV Ever
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60ef3b588e782f002c8b1d06.m3u8
-#EXTINF:0, Brat TV
-#EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d6f6c5a9e88ee909e7ee1f.m3u8
-#EXTINF:0, CINEVAULT
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/USAJ30000148W.m3u8
-#EXTINF:0, CINEVAULT: Classics
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/USBB3200015M8.m3u8
-#EXTINF:0, CINEVAULT: Westerns
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/USAK3508709A.m3u8
 #EXTINF:0, Classic Movies Channel
 #EXTVLCOPT:network-caching=1000
 https://r.mjh.nz/PlutoTV/561c5b0dada51f8004c4d855-alt.m3u8
@@ -131,119 +96,9 @@ https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65bd5a538314c24e11553543.m3u8
 #EXTINF:0, Nosey
 #EXTVLCOPT:network-caching=1000
 https://r.mjh.nz/PlutoTV/5aec96ec5126c2157123c657-alt.m3u8
-#EXTINF:0, Paramount Movie Channel
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5cb0cae7a461406ffe3f5213-alt.m3u8
-#EXTINF:0, Paramount+ Picks
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5ff8c708653d080007361b14-alt.m3u8
 #EXTINF:25, Pluto TV 00s Replay
 #EXTVLCOPT:network-caching=1000
 https://r.mjh.nz/PlutoTV/62ba60f059624e000781c436-alt.m3u8
-#EXTINF:0, Pluto TV 70s Cinema
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5f4d878d3d19b30007d2e782-alt.m3u8
-#EXTINF:0, Pluto TV 80s Rewind
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5ca525b650be2571e3943c63-alt.m3u8
-#EXTINF:0, Pluto TV 90s Throwback
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5f4d86f519358a00072b978e-alt.m3u8
-#EXTINF:0, Pluto TV Action
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5dbfeb961b411c00090b52b3-alt.m3u8
-#EXTINF:0, Pluto TV Action
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
-#EXTINF:0, Pluto TV Action Movies
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/62ea3c2e4823db00072788ed-alt.m3u8
-#EXTINF:0, Pluto TV Adventure
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
-#EXTINF:0, Pluto TV Comedy
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5a4d3a00ad95e4718ae8d8db-alt.m3u8
-#EXTINF:0, Pluto TV Comedy Movies
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/62ea3d24b8e02600071fa296-alt.m3u8
-#EXTINF:0, Pluto TV Crime Movies
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5f4d8594eb979c0007706de7-alt.m3u8
-#EXTINF:0, Pluto TV Cult Films
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
-#EXTINF:0, Pluto TV Cult Films
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5c5c31f2f21b553c1f673fb0-alt.m3u8
-#EXTINF:0, Pluto TV Drama
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5b4e92e4694c027be6ecece1-alt.m3u8
-#EXTINF:25, Pluto TV Drama Movies
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/62bdb0bcd707b9000739d2e5-alt.m3u8
-#EXTINF:0, Pluto TV Family Movie Club
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5dc3fc6b9133f500099c7d98-alt.m3u8
-#EXTINF:0, Pluto TV Fantastic
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5b64a245a202b3337f09e51d-alt.m3u8
-#EXTINF:0, Pluto TV Horror
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/612cda102f5f18000705e0bf-alt.m3u8
-#EXTINF:25, Pluto TV Horror
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/62ea3f8a38acc80007072d26-alt.m3u8
-#EXTINF:0, Pluto TV Horror
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
-#EXTINF:0, Pluto TV Paranormal
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5adf96e3e738977e2c31cb04-alt.m3u8
-#EXTINF:0, Pluto TV Romance
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5a66795ef91fef2c7031c599-alt.m3u8
-#EXTINF:0, Pluto TV Sci-Fi
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5dc02a44a9518600094273ac-alt.m3u8
-#EXTINF:0, Pluto TV Sci-Fi
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5b4fc274694c027be6ed3eea-alt.m3u8
-#EXTINF:0, Pluto TV Sci-fi Series
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/619247c34a270700077c8415-alt.m3u8
-#EXTINF:0, Pluto TV Science
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
-#EXTINF:25, Pluto TV Spotlight
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5ba3fb9c4b078e0f37ad34e8-alt.m3u8
-#EXTINF:0, Pluto TV Staff Picks
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5f4d863b98b41000076cd061-alt.m3u8
-#EXTINF:0, Pluto TV Suspense
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5f15e281b0b8840007324b55-alt.m3u8
-#EXTINF:0, Pluto TV Terror
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5c6dc88fcd232425a6e0f06e-alt.m3u8
-#EXTINF:0, Pluto TV Thrillers
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5b4e69e08291147bd04a9fd7-alt.m3u8
-#EXTINF:0, Pluto TV Westerns
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5b4e94282d4ec87bdcbb87cd-alt.m3u8
-#EXTINF:60, Scream Factory TV
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6351991cccee3e1547a8831e.m3u8
-#EXTINF:25, Universal Action
-https://r.mjh.nz/PlutoTV/654933e253fc970008390114-alt.m3u8
-#EXTINF:25, Universal Crime
-https://r.mjh.nz/PlutoTV/6549341853fc9700083901ac-alt.m3u8
-#EXTINF:25, Universal Monsters
-https://r.mjh.nz/PlutoTV/65a9b20f0c7ff50008d3a3b6-alt.m3u8
-#EXTINF:0, Watch it SCREAM
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-621671d05abdd3d5556a1baf.m3u8
 #EXTINF:0,Ace
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 #EXTINF:0,Adult Swim
@@ -268,57 +123,45 @@ http://170.254.18.106/BRAVO/index.m3u8
 #EXTINF:36,Britbox Mysteries
 #EXTVLCOPT:network-caching=1000
 https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
-#EXTINF:0,CA CBC NEWS NETWORK (E)
+#EXTINF:0,CBC NEWS NETWORK (E)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57304
-#EXTINF:0,CA CBC Toronto 
+#EXTINF:0,CBC Toronto 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57260
-#EXTINF:0,CA City TV Toronto (D)
+#EXTINF:0,City TV Toronto (D)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57394
-#EXTINF:0,CA CP24 News HD (E)
+#EXTINF:0,CP24 News HD (E)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57401
-#EXTINF:0,CA CTV Comedy Channel 
+#EXTINF:0,CTV Comedy Channel 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57408
-#EXTINF:0,CA CTV Drama Channel (R)
+#EXTINF:0,CTV Drama Channel (R)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57254
-#EXTINF:0,CA CTV SCI-FI 
+#EXTINF:0,CTV SCI-FI 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57464
-#EXTINF:0,CA CTV Toronto HD (R)
+#EXTINF:0,CTV Toronto HD (R)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/47296
-#EXTINF:0,CA Dejaview HD (B)
+#EXTINF:0,Dejaview HD (B)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/122001
-#EXTINF:0,CA Discovery Velocity HD 
+#EXTINF:0,Discovery Velocity HD 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/46212
-#EXTINF:0,CA FXX (R)
+#EXTINF:0,FXX (R)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57429
-#EXTINF:0,CA GLOBAL TORONTO
+#EXTINF:0,GLOBAL TORONTO
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57435
 #EXTINF:0,CA: ABC SPARK
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57375
-#EXTINF:0,CA: CRAVE 1 HD
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57309
-#EXTINF:0,CA: CRAVE 2 HD
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57310
-#EXTINF:0,CA: CRAVE 3
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57322
-#EXTINF:0,CA: CRAVE 4 HD
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57311
 #EXTINF:0,CA: Weather Network Toronto
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57470
@@ -328,41 +171,6 @@ https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/m
 #EXTINF:0,Charge!
 #EXTVLCOPT:network-caching=1000
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:0,Cinemax
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/196
-#EXTINF:0,Cinemax 5StarMAX
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1603
-#EXTINF:0,Cinemax ActionMax
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1604
-#EXTINF:0,Cinemax MoreMax
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1204
-#EXTINF:0,Cinemax MovieMax
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1605
-#EXTINF:0,Cinemax OuterMax
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1606
-#EXTINF:0,Cinemax ThrillerMax
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1607
 #EXTINF:0,CNN
 #EXTVLCOPT:network-caching=1000
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
@@ -596,44 +404,10 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/240
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/238
-#EXTINF:0,UK CBS Reality
+#EXTINF:0,CBS Reality
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/53752
-#EXTINF:0,UK MOVIES:  SKY HITS
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35255
-#EXTINF:0,UK MOVIES: SKY CINEMA DRAMA
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35251
-#EXTINF:0,UK MOVIES: SKY COMEDY
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35253
-#EXTINF:0,UK MOVIES: SKY CRIME THRILLER
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35252
-#EXTINF:0,UK MOVIES: SKY GREATS
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35249
-#EXTINF:0,UK Sky Cinema Scifi & Horror FHD  
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/35248
-#EXTINF:0,UK-Sky Cinema Animation
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/53698
-#EXTINF:0,UK-Sky Cinema Family
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/53699
-#EXTINF:0,UK-Sky Cinema Premier
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35256
-#EXTINF:0,UK: CBS JUSTICE
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/134942
-#EXTINF:0,UK: SKY NEWS
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/77166
-#EXTINF:51,US : FUSE
+#EXTINF:51,FUSE
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/a2903e36-7a71-4894-baa9-509fe803768a.m3u
 #EXTINF:0,US Antenna TV 
@@ -651,71 +425,23 @@ http://fortv.cc:8080/8bqC68/409069/46690
 #EXTINF:0,US TV One 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/20868
-#EXTINF:0,USA | A&E
+#EXTINF:0,A&E
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/212
-#EXTINF:0,USA | Comedy Central
+#EXTINF:0,Comedy Central
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/190
-#EXTINF:0,USA | Food Network
+#EXTINF:0,Food Network
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/171
-#EXTINF:0,USA | FOX New York
+#EXTINF:0,FOX New York
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/728
-#EXTINF:0,USA | Pop
+#EXTINF:0,Pop
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/226
-#EXTINF:0,USA | Showtime
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/223
-#EXTINF:0,USA | Showtime 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/222
-#EXTINF:0,USA | Showtime Beyond
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1619
-#EXTINF:0,USA | Showtime Extreme
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/385
-#EXTINF:0,USA | Showtime Family Zone
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1464
-#EXTINF:0,USA | Showtime Next
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1187
-#EXTINF:0,USA | Showtime Showcase
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1465
-#EXTINF:0,USA | Showtime Women
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1251
-#EXTINF:0,USA | TV Land
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/300
-#EXTINF:0,Virgin Media 1
-#EXTVLCOPT:network-caching=1000
-http://84.203.199.198:9981/stream/channel/bb7276016aa8015097f5fddf37496baf
-#EXTINF:0,Virgin Media 2
-#EXTVLCOPT:network-caching=1000
-http://84.203.199.198:9981/stream/channel/3b5a604c3631112913afad33baedd2b8
-#EXTINF:0,Virgin Media 3
-#EXTVLCOPT:network-caching=1000
-http://84.203.199.198:9981/stream/channel/85603f5d19ca518315823c3c012ac6ea
-#EXTINF:0,Virgin Media 4
-#EXTVLCOPT:network-caching=1000
-http://84.203.199.198:9981/stream/channel/27c05adc99ff8516c49dce318eb3b681
