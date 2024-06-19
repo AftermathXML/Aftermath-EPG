@@ -1,4 +1,64 @@
 #EXTM3U
+#EXTINF:0,Outdoor Channel
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/292
+#EXTINF:0,Outside TV
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/357
+#EXTINF:0,OWN
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/229
+#EXTINF:0,Oxygen
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/228
+#EXTINF:0,Nat Geo
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/141
+#EXTINF:0,Nat Geo Wild
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/140
+#EXTINF:0,MTV
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/142
+#EXTINF:0,MTV 2
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/354
+#EXTINF:0,Investigation Discovery
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/150
+#EXTINF:0,History 2
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1181
+#EXTINF:0,History
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/153
+#EXTINF:0,Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/184
+#EXTINF:0,Discovery Family
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/183
+#EXTINF:0,Discovery Life
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/182
+#EXTINF:0,Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/181
+#EXTINF:0,CMT
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/355
+#EXTINF:0,Bounce TV
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/743
+#EXTINF:0,AXS TV
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1314
+#EXTINF:0,Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/207
+#EXTINF:0,ABC
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/211
 #EXTINF:60, Comedy Dynamics
 https://i.mjh.nz/Roku/bc68164868385873a0f2b1c649fa2495.m3u8
 #EXTINF:0, Crime 360
@@ -237,7 +297,7 @@ http://fortv.cc:8080/nXmmT7/622090/20189
 #EXTINF:0,Fox News 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/135794
-#EXTINF:0,FX East 
+#EXTINF:0,FX (US) 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/46690
 #EXTINF:0,TV One 
