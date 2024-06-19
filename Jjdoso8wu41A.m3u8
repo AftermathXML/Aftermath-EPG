@@ -159,10 +159,9 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1602
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/206
-
-#EXTINF:20,Bravo
+#EXTINF:0,Bravo
 #EXTVLCOPT:network-caching=1000
-http://170.254.18.106/BRAVO/index.m3u8
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/200
 #EXTINF:36,Britbox Mysteries
 #EXTVLCOPT:network-caching=1000
 https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
