@@ -7,20 +7,12 @@ https://i.mjh.nz/Roku/0455f88e83625b3c8c302db0c30fe01e.m3u8
 https://i.mjh.nz/Roku/04e5bbc5f478580dabee165ba747ea16.m3u8
 #EXTINF:0, Crimes Cults Killers
 https://i.mjh.nz/Roku/14fafce34e4d5af99db4141edb1db371.m3u8
-#EXTINF:0, PBS Antiques Roadshow
-https://i.mjh.nz/Roku/856fca464da0544784204ba8f6161dac.m3u8
 #EXTINF:0, PBS Food
 https://i.mjh.nz/Roku/d8513011aa1c50aa9b08894f5576ad99.m3u8
 #EXTINF:60, PBS Retro
 https://i.mjh.nz/Roku/34335ef32c02519d897664a78767cc59.m3u8
-#EXTINF:55, Screambox TV
-https://i.mjh.nz/Roku/d79c47ebb9745dc4873f24d4c9fc68ce.m3u8
-#EXTINF:60, SPARK TV
-https://i.mjh.nz/Roku/eb1dbd690001553eacdf32d7b155b933.m3u8
 #EXTINF:0, UnXplained Zone
 https://i.mjh.nz/Roku/96d8548fc5765585b95b8138b4f9f2ef.m3u8
-#EXTINF:57,Horror Machine VPN
-https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:36, BBC Comedy
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643.m3u8
@@ -82,9 +74,6 @@ https://r.mjh.nz/PlutoTV/62cbf4964446e2000742073e-alt.m3u8
 #EXTINF:0, Haunt TV
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/USBC4400006BR.m3u8
-#EXTINF:0, Horror by ALTER
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/USBC100001175.m3u8
 #EXTINF:0, ION
 #EXTVLCOPT:network-caching=1000
 https://r.mjh.nz/PlutoTV/65453f30085df200085883d8-alt.m3u8
@@ -150,7 +139,7 @@ http://fortv.cc:8080/8bqC68/409069/122001
 #EXTINF:0,Discovery Velocity HD 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/46212
-#EXTINF:0,FXX (R)
+#EXTINF:0,FXX (US)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57429
 #EXTINF:0,Global Kingston
@@ -218,7 +207,6 @@ http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 #EXTINF:0,RetroTV
 #EXTVLCOPT:network-caching=1000
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
-
 #EXTINF:0,SyFy
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -229,9 +217,6 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/214
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/213
-#EXTINF:0,TCM
-#EXTVLCOPT:network-caching=1000
-http://143.244.60.30/TCM/index.m3u8
 #EXTINF:0,TLC
 #EXTVLCOPT:network-caching=1000
 http://thevdm.xyz:25461/Jennifer/Year!/39846
