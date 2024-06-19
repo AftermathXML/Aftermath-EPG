@@ -1,824 +1,421 @@
 #EXTM3U
-#EXTINF:0, 1 vs 100
-https://r.mjh.nz/PlutoTV/646f2af681844c00097d85a9-alt.m3u8
-#EXTINF:0, 16 & Pregnant
-https://r.mjh.nz/PlutoTV/62d556fe2888ce000764b3fa-alt.m3u8
-#EXTINF:58, 21 Jump Street
-https://i.mjh.nz/SamsungTVPlus/USBB320000397.m3u8
-#EXTINF:0, 48 Hours
-https://r.mjh.nz/PlutoTV/62e925bc68d18a00077bb990-alt.m3u8
-#EXTINF:25, 5 Cops
-https://i.mjh.nz/SamsungTVPlus/GBAK3504500A.m3u8
-#EXTINF:0, American Idol
-https://i.mjh.nz/SamsungTVPlus/GBBC2300001X5.m3u8
-#EXTINF:0, American Pickers by History
-https://i.mjh.nz/SamsungTVPlus/USBD3500041ZF.m3u8
-#EXTINF:0, Andromeda
-https://r.mjh.nz/PlutoTV/5e8db96bccae160007c71eec-alt.m3u8
-#EXTINF:0, Antiques Roadshow
-https://i.mjh.nz/SamsungTVPlus/USBC600018CF.m3u8
-#EXTINF:0, Arthur
-https://r.mjh.nz/PlutoTV/6482f27c17f5e10008c10ff0-alt.m3u8
-#EXTINF:0, Avatar
-https://r.mjh.nz/PlutoTV/656df599c0fc8800089c75ab-alt.m3u8
-#EXTINF:0, Ax Men
-https://i.mjh.nz/SamsungTVPlus/USBB5200020Z0.m3u8
-#EXTINF:0, Barney & Friends
-https://r.mjh.nz/PlutoTV/62ac405b3874370007419b7f-alt.m3u8
-#EXTINF:0, Baywatch
-https://i.mjh.nz/SamsungTVPlus/USBA2000001BR.m3u8
-#EXTINF:0, Best of Dr. Phil
-https://r.mjh.nz/PlutoTV/60f760bbdf090700075d7bfe-alt.m3u8
-#EXTINF:0, Best of The Drew Barrymore Show
-https://r.mjh.nz/PlutoTV/61858ac0491af10007f8ce4f-alt.m3u8
-#EXTINF:0, Beverly Hills 90210
-https://r.mjh.nz/PlutoTV/63565bdbb0d80d00078d3450-alt.m3u8
-#EXTINF:0, Beyond Belief: Fact or Fiction
-https://r.mjh.nz/PlutoTV/611f85396abc84000738417b-alt.m3u8
-#EXTINF:0, Blue Bloods
-https://r.mjh.nz/PlutoTV/61b3b8c645b45d0007a9bb8d-alt.m3u8
-#EXTINF:0, Bob the Builder
-https://i.mjh.nz/SamsungTVPlus/USBC4400013R7.m3u8
-#EXTINF:0, Busted at the Border
-https://r.mjh.nz/PlutoTV/62fb9c4539183b00076a3875-alt.m3u8
-#EXTINF:25, Catfish
-https://i.mjh.nz/SamsungTVPlus/GBBA330003941.m3u8
-#EXTINF:57, Caught on Tape
-https://i.mjh.nz/SamsungTVPlus/US700007CV.m3u8
-#EXTINF:0, Cheaters
-https://i.mjh.nz/SamsungTVPlus/USBD3500031F3.m3u8
-#EXTINF:0, Cold Case Files
-https://i.mjh.nz/SamsungTVPlus/USBC390002256.m3u8
-#EXTINF:0, Cops
-https://i.mjh.nz/SamsungTVPlus/CABC23000189A.m3u8
-#EXTINF:25, Criminal Minds
-https://r.mjh.nz/PlutoTV/65653817c917a5000844bc30-alt.m3u8
-#EXTINF:0, CSI: Crime Scene Investigation
-https://r.mjh.nz/PlutoTV/6304f8d5ffb61000071ab478-alt.m3u8
-#EXTINF:0, CSI: Miami
-https://r.mjh.nz/PlutoTV/62da7819be7a97000878eb92-alt.m3u8
-#EXTINF:0, CSI: New York
-https://r.mjh.nz/PlutoTV/62da778fad95670007f610c0-alt.m3u8
-#EXTINF:0, Dance Moms
-https://i.mjh.nz/SamsungTVPlus/USBC3900021HS.m3u8
-#EXTINF:0, Dateline 24/7
-https://i.mjh.nz/SamsungTVPlus/USBB5200007BY.m3u8
-#EXTINF:0, Deal or No Deal
-https://i.mjh.nz/SamsungTVPlus/USBB4400017N3.m3u8
-#EXTINF:0, Deal Zone
-https://i.mjh.nz/SamsungTVPlus/USBB52000246M.m3u8
-#EXTINF:25, Declassified
-https://r.mjh.nz/PlutoTV/62bdaf9cf1bdc500073a8bcb-alt.m3u8
-#EXTINF:0, Degrassi
-https://r.mjh.nz/PlutoTV/5c6eeb85c05dfc257e5a50c4-alt.m3u8
-#EXTINF:0, Desi Play TV
-https://r.mjh.nz/PlutoTV/63c7c122808b7400075c070f-alt.m3u8
-#EXTINF:0, Divorce Court
-https://i.mjh.nz/SamsungTVPlus/USBD300006A6.m3u8
-#EXTINF:0, Doctor Who Classic
-https://r.mjh.nz/PlutoTV/62bdad934d73d50007a82472-alt.m3u8
-#EXTINF:0, Dog the Bounty Hunter
-https://i.mjh.nz/SamsungTVPlus/US900002IH.m3u8
-#EXTINF:0, Dog Whisperer
-https://r.mjh.nz/PlutoTV/60e453641239a700071f53a1-alt.m3u8
-#EXTINF:0, Duck Dynasty
-https://i.mjh.nz/SamsungTVPlus/USBC4400002GF.m3u8
-#EXTINF:0, Dungeon TV
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6216723e2c2627c068e73ad4.m3u8
-#EXTINF:25, Evidence of Evil
-https://r.mjh.nz/PlutoTV/64c37e47dac71b000809abab-alt.m3u8
-#EXTINF:0, Family Ties
-https://i.mjh.nz/SamsungTVPlus/USBB3500003D6.m3u8
-#EXTINF:0, FBI Files
-https://r.mjh.nz/PlutoTV/5cb6f6f9a461406ffe4022cf-alt.m3u8
-#EXTINF:0, Fear Factor
-https://i.mjh.nz/SamsungTVPlus/USBB2300002Q6.m3u8
-#EXTINF:0, Forged In Fire
-https://i.mjh.nz/SamsungTVPlus/USBD2700014QW.m3u8
-#EXTINF:0, Frasier
-https://r.mjh.nz/PlutoTV/62f4f90e39183b000769f12b-alt.m3u8
-#EXTINF:0, Garfield & Friends
-https://r.mjh.nz/PlutoTV/62a069bfd88ef000073f6775-alt.m3u8
-#EXTINF:0, Ghost Hunters
-https://r.mjh.nz/PlutoTV/65cf8ace332fec00081e7ea2-alt.m3u8
-#EXTINF:60, Hardcore Pawn
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65847c56d60830ce4d4f303a.m3u8
-#EXTINF:0, Hawaii Five-0
-https://r.mjh.nz/PlutoTV/655f2977635c3c00085ce819-alt.m3u8
-#EXTINF:0, Heartland
-https://i.mjh.nz/SamsungTVPlus/USBB2900003O3.m3u8
-#EXTINF:0, Hell's Kitchen
-https://i.mjh.nz/SamsungTVPlus/USBB2900002Z7.m3u8
-#EXTINF:0, Highway to Heaven
-https://i.mjh.nz/SamsungTVPlus/USBB19000017U.m3u8
-#EXTINF:0, Hot Ones
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6582a1316b91be4547aa153c.m3u8
-#EXTINF:0, I Survived…
-https://i.mjh.nz/SamsungTVPlus/USBD1700008H9.m3u8
-#EXTINF:0, Ice Road Truckers
-https://i.mjh.nz/SamsungTVPlus/USBB520002173.m3u8
-#EXTINF:0, Ink Master
-https://r.mjh.nz/PlutoTV/655f2d713944b60008bc7e90-alt.m3u8
-#EXTINF:0, Iron Chef
-https://r.mjh.nz/PlutoTV/6582f8dadfed030008e5a93d-alt.m3u8
-#EXTINF:0, It’s Showtime at the Apollo
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-656e505bcb3f2a8efdbc1be0.m3u8
-#EXTINF:0, JAIL
-https://i.mjh.nz/Roku/645518dc5f92519688baed84d025b14e.m3u8
-#EXTINF:0, Jeopardy! hosted by Alex Trebek
-https://r.mjh.nz/PlutoTV/625f04253e5f6c000708f3b7-alt.m3u8
-#EXTINF:0, King of Queens
-https://r.mjh.nz/PlutoTV/62f4f414c2ba130007f8b24e-alt.m3u8
-#EXTINF:0, Kitchen Battles
-https://r.mjh.nz/PlutoTV/62fb66c867976d0007647e54-alt.m3u8
-#EXTINF:0, Lupin the 3rd
-https://r.mjh.nz/PlutoTV/63b5964d1bdba1000712521f-alt.m3u8
-#EXTINF:0, Mad About You
-https://r.mjh.nz/PlutoTV/64b52e907d9341000802f886-alt.m3u8
-#EXTINF:0, Matlock
-https://r.mjh.nz/PlutoTV/60f754f98185580007eb0754-alt.m3u8
-#EXTINF:0, Max & Ruby
-https://r.mjh.nz/PlutoTV/62fb6a4feb32e8000708f4d0-alt.m3u8
-#EXTINF:0, Midsomer Murders
-https://r.mjh.nz/PlutoTV/62e92447ea1e2a000735ed33-alt.m3u8
-#EXTINF:0, Mission Impossible
-https://r.mjh.nz/PlutoTV/62ea43aa0c43540007f2db96-alt.m3u8
-#EXTINF:0, Moesha
-https://r.mjh.nz/PlutoTV/620f6c60b994540007ddd74b-alt.m3u8
-#EXTINF:0, Monster Jam
-https://r.mjh.nz/PlutoTV/659fed24b228b7000889ddf7-alt.m3u8
-#EXTINF:0, Mythbusters
-https://r.mjh.nz/PlutoTV/5bd833b41843b56328bac189-alt.m3u8
-#EXTINF:0, Naruto
-https://r.mjh.nz/PlutoTV/5da0c85bd2c9c10009370984-alt.m3u8
-#EXTINF:0, NCIS
-https://r.mjh.nz/PlutoTV/62f4f5de1c100100075665ef-alt.m3u8
-#EXTINF:0, One Piece
-https://r.mjh.nz/PlutoTV/5f7790b3ed0c88000720b241-alt.m3u8
-#EXTINF:53, Operation Repo
-https://i.mjh.nz/SamsungTVPlus/USBC6000219D.m3u8
-#EXTINF:0, PBS Antiques Roadshow
-https://i.mjh.nz/SamsungTVPlus/CABD1700001QB.m3u8
-#EXTINF:60, Power Rangers
-https://i.mjh.nz/Roku/f66aa243a9465896ac3e7eaef7cba3fd.m3u8
-#EXTINF:0, Property Brothers
-https://i.mjh.nz/SamsungTVPlus/CA1400017PU.m3u8
-#EXTINF:0, Rawhide
-https://r.mjh.nz/PlutoTV/65660223635c3c00086c2578-alt.m3u8
-#EXTINF:54, Road Renegades
-https://i.mjh.nz/SamsungTVPlus/US700002ZB.m3u8
-#EXTINF:0, Robot Wars by Mech+
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6470477fe536e0faaf10be9d.m3u8
-#EXTINF:0, Rookie Blue
-https://r.mjh.nz/PlutoTV/63fe2ec4dff38e000835f786-alt.m3u8
-#EXTINF:0, Sailor Moon
-https://r.mjh.nz/PlutoTV/637e55347427a40007fac703-alt.m3u8
-#EXTINF:0, Scorpion
-https://r.mjh.nz/PlutoTV/63d000ef4e83e700086e0d6c-alt.m3u8
-#EXTINF:0, Sensing Murder
-https://r.mjh.nz/PlutoTV/5e9ed47c26ebb000074af566-alt.m3u8
-#EXTINF:0, Murder -  She Wrote
-https://r.mjh.nz/PlutoTV/6549337183595c000815ad05-alt.m3u8
-#EXTINF:0, Sonic The Hedgehog
-https://i.mjh.nz/SamsungTVPlus/USBD3300020PM.m3u8
-#EXTINF:68, Sonic TV
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-62ba4aaff663580a7238f327.m3u8
-#EXTINF:0, South Park
-https://r.mjh.nz/PlutoTV/62bdb1c5e25122000798ac79-alt.m3u8
-#EXTINF:25, Star Trek
-https://r.mjh.nz/PlutoTV/5efbd39f8c4ce900075d7698-alt.m3u8
-#EXTINF:0, Star Trek Deep Space Nine
-https://r.mjh.nz/PlutoTV/65c69bbfd77d450008c7ffee-alt.m3u8
-#EXTINF:0, Star Trek Voyager
-https://r.mjh.nz/PlutoTV/634dacf51d90320007fcd5fa-alt.m3u8
-#EXTINF:0, Stargate
-https://r.mjh.nz/PlutoTV/620bfa7df72827000703ddb1-alt.m3u8
-#EXTINF:0, Strawberry Shortcake
-https://i.mjh.nz/SamsungTVPlus/USBC4400012QS.m3u8
-#EXTINF:0, Strongman Champions League
-https://i.mjh.nz/SamsungTVPlus/GBBC90001089.m3u8
-#EXTINF:0, Super Mario Brothers
-https://i.mjh.nz/Roku/a3c405bfca9b525983054aa761b10dfb.m3u8
-#EXTINF:58, Survivor
-https://i.mjh.nz/SamsungTVPlus/GBBB3800007BN.m3u8
-#EXTINF:0, Survivorman
-https://r.mjh.nz/PlutoTV/63d91c65da7118000883df1f-alt.m3u8
-#EXTINF:0, Taxi
-https://r.mjh.nz/PlutoTV/62e9186f8b685d000773cf58-alt.m3u8
-#EXTINF:0, Teenage Mutant Ninja Turtles
-https://r.mjh.nz/PlutoTV/65a669ab2fac9c000835c443-alt.m3u8
-#EXTINF:0, The Addams Family
-https://r.mjh.nz/PlutoTV/5d81607ab737153ea3c1c80e-alt.m3u8
-#EXTINF:0, The Andy Griffith Show
-https://r.mjh.nz/PlutoTV/62e9145ec07f2a00070e68dc-alt.m3u8
-#EXTINF:0, The Beverly Hillbillies
-https://r.mjh.nz/PlutoTV/6565fefdc917a50008485cc6-alt.m3u8
-#EXTINF:0, The Bob Ross Channel
-https://i.mjh.nz/SamsungTVPlus/USBD700012OA.m3u8
-#EXTINF:0, The Curse of Oak Island
-https://i.mjh.nz/SamsungTVPlus/US300002BE.m3u8
-#EXTINF:0, The Dick Van Dyke Show
-https://r.mjh.nz/PlutoTV/62e91384210bec0007ba714c-alt.m3u8
-#EXTINF:0, The Dukes of Hazzard
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77158
-#EXTINF:0, The Ed Sullivan Show
-https://r.mjh.nz/PlutoTV/62e91da1f07afa0007ffccfc-alt.m3u8
-#EXTINF:0, The Facts of Life
-https://r.mjh.nz/PlutoTV/64b52df0bc3ab40008488f5c-alt.m3u8
-#EXTINF:0, The Judge Judy Channel
-https://r.mjh.nz/PlutoTV/62e92e536f28870007fa9b3a-alt.m3u8
-#EXTINF:0, The LEGO Channel
-https://i.mjh.nz/SamsungTVPlus/USBA2300001S8
-#EXTINF:0, The Lone Ranger
-https://r.mjh.nz/PlutoTV/65a6dafb7bdc8d0008473c85-alt.m3u8
-#EXTINF:0, The Love Boat
-https://r.mjh.nz/PlutoTV/62e91563ce7ce300076f917e-alt.m3u8
-#EXTINF:0, The New Detectives
-https://r.mjh.nz/PlutoTV/62bdabbc5611f2000761ca30-alt.m3u8
-#EXTINF:0, The Price is Right
-https://r.mjh.nz/PlutoTV/64c2214c2a7f2200089a0c4b-alt.m3u8
-#EXTINF:0, The Red Green Channel
-https://r.mjh.nz/PlutoTV/63565a6de3d057000783bb1c-alt.m3u8
-#EXTINF:0, The Walking Dead Universe
-https://i.mjh.nz/SamsungTVPlus/USBD1200004NS.m3u8
-#EXTINF:0, This Old House
-https://i.mjh.nz/SamsungTVPlus/USBC13000065U.m3u8
-#EXTINF:0, Tosh.0
-https://r.mjh.nz/PlutoTV/5dae084727c8af0009fe40a4-alt.m3u8
-#EXTINF:0, Transformers
-https://i.mjh.nz/Roku/9bd570b8bf145f73bba7532221e12666.m3u8
-#EXTINF:36, Ultimate Classic Wrestling
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-64e6eff227a915f9b5184e9e.m3u8
-#EXTINF:0, Unsolved Mysteries
-https://i.mjh.nz/SamsungTVPlus/USBB3200018Q6.m3u8
-#EXTINF:0, Walker Texas Ranger
-https://r.mjh.nz/PlutoTV/635659445b4c4700076d2ad1-alt.m3u8
-#EXTINF:0, Who's the Boss
-https://r.mjh.nz/PlutoTV/64b52ec24ea4800008370651-alt.m3u8
-#EXTINF:60, Yu-Gi-Oh
-https://i.mjh.nz/Roku/77946e082d8958f599087890aebf1623.m3u8
-#EXTINF:0,2 Broke Girls
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79071
-#EXTINF:0,24
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79089
-#EXTINF:0,24/7 Adventure Time
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/178879
-#EXTINF:0,24/7 American Crime Story
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/178876
-#EXTINF:0,24/7 Biography: WWE Legends
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/178860
-#EXTINF:0,24/7 Black Ink Crew Chicago
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/178859
-#EXTINF:0,24/7 Chuck
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/178845
-#EXTINF:0,24/7 DUCK TALES
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/125636
-#EXTINF:0,24/7 FAMILY GUY
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/66317
-#EXTINF:0,24/7 FAMILY MATTERS
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/125634
-#EXTINF:0,24/7 FRESH PRINCE OF BEL-AIR
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/79559
-#EXTINF:0,24/7 FRIENDS
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/66407
-#EXTINF:0,24/7 FULL HOUSE
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/66269
-#EXTINF:0,24/7 GUNSMOKE
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/140069
-#EXTINF:0,24/7 LOONEY TUNES
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/125638
-#EXTINF:0,24/7 PAW PATROL
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/66311
-#EXTINF:0,24/7 RICK AND MORTY
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/66302
-#EXTINF:0,24/7 RIDICULOUSNESS
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/66397
-#EXTINF:0,24/7 SAVED BY THE BELL
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/66344
-#EXTINF:0,24/7 SEX IN THE CITY
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/125972
-#EXTINF:0,24/7 THE FLINTSTONES
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/120949
-#EXTINF:0,24/7 THE GOLDEN GIRLS
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/120948
-#EXTINF:0,24/7 THE SOPRANOS
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/125971
-#EXTINF:0,24/7 TOM AND JERRY
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/125635
-#EXTINF:0,245:MIAMI VICE
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60061
-#EXTINF:0,A Haunting
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79174
-#EXTINF:0,Aaahh Real Monsters
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79101
-#EXTINF:0,Aladdin
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79176
-#EXTINF:0,Alvinnn And the Chipmunks
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79182
-#EXTINF:0,American Dad!
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79126
-#EXTINF:0,Angel
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79144
-#EXTINF:0,ARCHER
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60222
-#EXTINF:0,ARE YOU AFRAID OF THE DARK
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60220
-#EXTINF:0,ARRESTED DEVELOPMENT
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60218
-#EXTINF:0,Babylon
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79300
-#EXTINF:0,Babylon 5
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79301
-#EXTINF:0,Banshee
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79315
-#EXTINF:0,Bar Rescue
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79316
-#EXTINF:0,Batman Beyond
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79322
-#EXTINF:0,BATMAN THE ANIMATED SERIES
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60936
-#EXTINF:0,Battlestar Galactica
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79247
-#EXTINF:0,Bob's Burgers
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/78981
-#EXTINF:0,Boston Legal
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79281
-#EXTINF:0,Brooklyn Nine Nine
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79381
-#EXTINF:0,BUFFY THE VAMPIRE SLAYER
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60190
-#EXTINF:0,Camelot
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79470
-#EXTINF:0,CAPTAIN PLANET AND THE PLANETEERS
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60931
-#EXTINF:0,CatDog
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/78984
-#EXTINF:0,Chappelle's Show
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79410
-#EXTINF:0,CHARMED
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60187
-#EXTINF:0,Cheers
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77108
-#EXTINF:0,Coach
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77110
-#EXTINF:0,Cobra Kai
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79434
-#EXTINF:0,Community
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79502
-#EXTINF:0,Da Vincis Demons
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79577
-#EXTINF:0,Daria
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/78989
-#EXTINF:0,Dawson's Creek
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/78990
-#EXTINF:0,Deadwood
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79543
-#EXTINF:0,DEGRASSI JUNIOR HIGH
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60175
-#EXTINF:0,Dennis The Menace
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77113
-#EXTINF:0,Dexter
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79653
-#EXTINF:0,Dexters Laboratory
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79654
-#EXTINF:0,Doom Patrol
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79673
-#EXTINF:0,Doug
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79562
-#EXTINF:0,DRAGON BALL Z
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60924
-#EXTINF:0,Elf wo Karu Mono tachi
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79729
-#EXTINF:0,Elf wo Karu Mono tachi II
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79730
-#EXTINF:0,Everybody Loves Raymond
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77117
-#EXTINF:0,Finding Carter
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79751
-#EXTINF:0,From Dusk Till Dawn
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79763
-#EXTINF:0,Gargoyles
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79852
-#EXTINF:0,Gilmore Girls
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79923
-#EXTINF:0,GLOW
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79952
-#EXTINF:0,GOOSEBUMPS
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60111
-#EXTINF:0,Gravity Falls
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79936
-#EXTINF:0,Happy Tree Friends
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80024
-#EXTINF:0,HE-MAN MASTERS OF UNIVERSE
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60104
-#EXTINF:0,Hot in Cleveland
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80009
-#EXTINF:0,How I Met Your Mother
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80013
-#EXTINF:0,IN LIVING COLOR
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60087
-#EXTINF:0,INCREDIBLE HULK
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60086
-#EXTINF:0,INSPECTOR GADGET
-#EXTVLCOPT:network-caching=1000
-http://vp-txpro.com:80/N8BUe4SNk3Lk/NFZN5mpKRUrJ/44366
-#EXTINF:0,It's Always Sunny in Philadelphia
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77132
-#EXTINF:0,Johnny Bravo
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79005
-#EXTINF:0,Justice League
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80179
-#EXTINF:0,Justice League Unlimited
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80180
-#EXTINF:0,Kami no Tou
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80230
-#EXTINF:0,Kim Possible
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80238
-#EXTINF:0,King of the Hill
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79007
-#EXTINF:0,KING OF THE HILL
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60080
-#EXTINF:0,KNIGHT RIDER
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60078
-#EXTINF:0,Leave It to Beaver
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77135
-#EXTINF:0,Loonatics Unleashed
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80300
-#EXTINF:0,LOONEY TUNES
-#EXTVLCOPT:network-caching=1000
-http://vp-txpro.com:80/N8BUe4SNk3Lk/NFZN5mpKRUrJ/44387
-#EXTINF:0,LOONEY TUNES
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60914
-#EXTINF:0,Looney Tunes Cartoons
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79038
-#EXTINF:0,Lost
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80302
-#EXTINF:0,Lost In Space
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77137
-#EXTINF:0,Lost In Space (2018)
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80361
-#EXTINF:0,Luther
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80380
-#EXTINF:0,M*A*S*H*
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60070
-#EXTINF:0,MacGyver
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80381
-#EXTINF:0,Mad Men
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80510
-#EXTINF:0,MAMA'S FAMILY
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60068
-#EXTINF:0,Married... with Children
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77138
-#EXTINF:0,Marvel s Spider Man
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80584
-#EXTINF:0,MASTERCHEF
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60016
-#EXTINF:0,MELROSE PLACE
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60058
-#EXTINF:0,MIGHTY MORPHIN POWER RANGERS
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60901
-#EXTINF:0,Mike Tyson Mysteries
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80443
-#EXTINF:0,Modern Family
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80460
-#EXTINF:0,MOM
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60056
-#EXTINF:0,MURDOCH MYSTERIES
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60048
-#EXTINF:0,My Little Pony: Friendship Is Magic
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79010
-#EXTINF:0,My Name is Earl
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80570
-#EXTINF:0,ONE TREE HILL
-#EXTVLCOPT:network-caching=1000
-http://vp-txpro.com:80/N8BUe4SNk3Lk/NFZN5mpKRUrJ/44414
-#EXTINF:0,OUTER LIMITS
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60035
-#EXTINF:0,PINKY AND THE BRAIN
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60904
-#EXTINF:0,Pokemon
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80788
-#EXTINF:0,Prison Break
-#EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80749
-#EXTINF:0,Quantum Leap
+#EXTINF:0, CINEVAULT
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80825
-#EXTINF:0,Quanzhi Fashi
+https://i.mjh.nz/SamsungTVPlus/USAJ30000148W.m3u8
+#EXTINF:0, CINEVAULT: Classics
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80827
-#EXTINF:0,Reba
+https://i.mjh.nz/SamsungTVPlus/USBB3200015M8.m3u8
+#EXTINF:0, CINEVAULT: Westerns
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80833
-#EXTINF:0,RED GREEN SHOW
+https://i.mjh.nz/SamsungTVPlus/USAK3508709A.m3u8
+#EXTINF:0, Classic Movies Channel
 #EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60020
-#EXTINF:0,Riverdale
+https://r.mjh.nz/PlutoTV/561c5b0dada51f8004c4d855-alt.m3u8
+#EXTINF:56, FilmRise Action
+https://i.mjh.nz/Roku/0abef49cfd6759b18f2ce64290cbdda3.m3u8
+#EXTINF:0, FilmRise Black TV
+https://i.mjh.nz/Roku/885d5897052b53709a83c4947174cd09.m3u8
+#EXTINF:0, FilmRise British TV
+https://i.mjh.nz/Roku/dead0e7a46da533c94c61c8710ef3418.m3u8
+#EXTINF:0, FilmRise Free Movies
+https://i.mjh.nz/Roku/d6f71998860459eca1bed73db5988330.m3u8
+#EXTINF:60, FilmRise Horror
+https://i.mjh.nz/Roku/6a0629e467b5502c906136dadac290a0.m3u8
+#EXTINF:0, FilmRise Western
+https://i.mjh.nz/Roku/c5a72a598a355db4b1781ca075280773.m3u8
+#EXTINF:0, Horror by ALTER
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80904
-#EXTINF:0,Rome
+https://i.mjh.nz/SamsungTVPlus/USBC100001175.m3u8
+#EXTINF:0, Midnight Pulp
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80877
-#EXTINF:0,ROSEANNE
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4427.m3u8
+#EXTINF:60, Miramax Movies
+https://i.mjh.nz/Roku/57c3b0c8270c5f839e55661af8b4c88d.m3u8
+#EXTINF:0, Paramount Movie Channel
 #EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60017
-#EXTINF:0,Rugrats
+https://r.mjh.nz/PlutoTV/5cb0cae7a461406ffe3f5213-alt.m3u8
+#EXTINF:25, Pluto TV 00s Replay
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79023
-#EXTINF:0,Sanford & Son
+https://r.mjh.nz/PlutoTV/62ba60f059624e000781c436-alt.m3u8
+#EXTINF:0, Pluto TV 70s Cinema
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77149
-#EXTINF:0,Scooby Doo and Guess Who
+https://r.mjh.nz/PlutoTV/5f4d878d3d19b30007d2e782-alt.m3u8
+#EXTINF:0, Pluto TV 80s Rewind
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81104
-#EXTINF:0,SCOOBY-DOO
+https://r.mjh.nz/PlutoTV/5ca525b650be2571e3943c63-alt.m3u8
+#EXTINF:0, Pluto TV 90s Throwback
 #EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60897
-#EXTINF:0,SCOOBY-DOO CLASSIC
+https://r.mjh.nz/PlutoTV/5f4d86f519358a00072b978e-alt.m3u8
+#EXTINF:0, Pluto TV Action
 #EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60896
-#EXTINF:0,Scream
+https://r.mjh.nz/PlutoTV/5dbfeb961b411c00090b52b3-alt.m3u8
+#EXTINF:0, Pluto TV Action
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81108
-#EXTINF:0,Seinfeld
+https://r.mjh.nz/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
+#EXTINF:0, Pluto TV Action Movies
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77150
-#EXTINF:0,SIMPSONS
+https://r.mjh.nz/PlutoTV/62ea3c2e4823db00072788ed-alt.m3u8
+#EXTINF:0, Pluto TV Adventure
 #EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/30265
-#EXTINF:0,SIMPSONS TREEHOUSE OF HORROR
+https://r.mjh.nz/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
+#EXTINF:0, Pluto TV Comedy
 #EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60173
-#EXTINF:0,Sliders
+https://r.mjh.nz/PlutoTV/5a4d3a00ad95e4718ae8d8db-alt.m3u8
+#EXTINF:0, Pluto TV Comedy Movies
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/80999
-#EXTINF:0,Smallville
+https://r.mjh.nz/PlutoTV/62ea3d24b8e02600071fa296-alt.m3u8
+#EXTINF:0, Pluto TV Crime Movies
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81002
-#EXTINF:0,Spartacus Blood and Sand
+https://r.mjh.nz/PlutoTV/5f4d8594eb979c0007706de7-alt.m3u8
+#EXTINF:0, Pluto TV Cult Films
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81180
-#EXTINF:0,Spider-Man
+https://r.mjh.nz/PlutoTV/5c5c31f2f21b553c1f673fb0-alt.m3u8
+#EXTINF:0, Pluto TV Cult Films
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81024
-#EXTINF:0,SPONGEBOB SQUAREPANTS
+https://r.mjh.nz/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
+#EXTINF:0, Pluto TV Drama
 #EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60898
-#EXTINF:0,Star Trek Lower Decks
+https://r.mjh.nz/PlutoTV/5b4e92e4694c027be6ecece1-alt.m3u8
+#EXTINF:25, Pluto TV Drama Movies
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81184
-#EXTINF:0,Star Trek The Animated Series
+https://r.mjh.nz/PlutoTV/62bdb0bcd707b9000739d2e5-alt.m3u8
+#EXTINF:0, Pluto TV Family Movie Club
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81148
-#EXTINF:0,Star Trek The Next Generation
+https://r.mjh.nz/PlutoTV/5dc3fc6b9133f500099c7d98-alt.m3u8
+#EXTINF:0, Pluto TV Fantastic
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81035
-#EXTINF:0,Star Trek The Original Series
+https://r.mjh.nz/PlutoTV/5b64a245a202b3337f09e51d-alt.m3u8
+#EXTINF:0, Pluto TV Horror
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81185
-#EXTINF:0,Star Trek: Deep Space Nine
+https://r.mjh.nz/PlutoTV/612cda102f5f18000705e0bf-alt.m3u8
+#EXTINF:25, Pluto TV Horror
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81036
-#EXTINF:0,Star Trek: Discovery
+https://r.mjh.nz/PlutoTV/62ea3f8a38acc80007072d26-alt.m3u8
+#EXTINF:0, Pluto TV Horror
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81037
-#EXTINF:0,Star Trek: Enterprise
+https://r.mjh.nz/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
+#EXTINF:0, Pluto TV Paranormal
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81038
-#EXTINF:0,Star Trek: Picard
+https://r.mjh.nz/PlutoTV/5adf96e3e738977e2c31cb04-alt.m3u8
+#EXTINF:0, Pluto TV Romance
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81039
-#EXTINF:0,Star vs the Forces of Evil
+https://r.mjh.nz/PlutoTV/5a66795ef91fef2c7031c599-alt.m3u8
+#EXTINF:0, Pluto TV Sci-Fi
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81186
-#EXTINF:0,STARSKY & HUTCH
+https://r.mjh.nz/PlutoTV/5dc02a44a9518600094273ac-alt.m3u8
+#EXTINF:0, Pluto TV Sci-Fi
 #EXTVLCOPT:network-caching=1000
-http://vp-txpro.com:80/N8BUe4SNk3Lk/NFZN5mpKRUrJ/44463
-#EXTINF:0,Supernatural
+https://r.mjh.nz/PlutoTV/5b4fc274694c027be6ed3eea-alt.m3u8
+#EXTINF:0, Pluto TV Sci-fi Series
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81082
-#EXTINF:0,Tales from the Crypt
+https://r.mjh.nz/PlutoTV/619247c34a270700077c8415-alt.m3u8
+#EXTINF:0, Pluto TV Science
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77157
-#EXTINF:0,Teen Titans
+https://r.mjh.nz/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
+#EXTINF:25, Pluto TV Spotlight
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81211
-#EXTINF:0,Teen Titans Go
+https://r.mjh.nz/PlutoTV/5ba3fb9c4b078e0f37ad34e8-alt.m3u8
+#EXTINF:0, Pluto TV Staff Picks
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81231
-#EXTINF:0,Teen Wolf
+https://r.mjh.nz/PlutoTV/5f4d863b98b41000076cd061-alt.m3u8
+#EXTINF:0, Pluto TV Suspense
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81212
-#EXTINF:0,Teenage Mutant Ninja Turtles
+https://r.mjh.nz/PlutoTV/5f15e281b0b8840007324b55-alt.m3u8
+#EXTINF:0, Pluto TV Terror
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81232
-#EXTINF:0,That '70s Show
+https://r.mjh.nz/PlutoTV/5c6dc88fcd232425a6e0f06e-alt.m3u8
+#EXTINF:0, Pluto TV Thrillers
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77159
-#EXTINF:0,The Amazing World of Gumball
+https://r.mjh.nz/PlutoTV/5b4e69e08291147bd04a9fd7-alt.m3u8
+#EXTINF:0, Pluto TV Westerns
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81244
-#EXTINF:0,The Bible
+https://r.mjh.nz/PlutoTV/5b4e94282d4ec87bdcbb87cd-alt.m3u8
+#EXTINF:60, Scream Factory TV
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81573
-#EXTINF:0,The Big Bang Theory
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6351991cccee3e1547a8831e.m3u8
+#EXTINF:55, Screambox TV
+https://i.mjh.nz/Roku/d79c47ebb9745dc4873f24d4c9fc68ce.m3u8
+#EXTINF:25, Universal Action
+https://r.mjh.nz/PlutoTV/654933e253fc970008390114-alt.m3u8
+#EXTINF:25, Universal Crime
+https://r.mjh.nz/PlutoTV/6549341853fc9700083901ac-alt.m3u8
+#EXTINF:25, Universal Monsters
+https://r.mjh.nz/PlutoTV/65a9b20f0c7ff50008d3a3b6-alt.m3u8
+#EXTINF:0, Watch it SCREAM
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-621671d05abdd3d5556a1baf.m3u8
+#EXTINF:0,CRAVE 1 HD
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81253
-#EXTINF:0,The Borgias
+http://fortv.cc:8080/8bqC68/409069/57309
+#EXTINF:0,CRAVE 2 HD
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81506
-#EXTINF:0,The Crown
+http://fortv.cc:8080/8bqC68/409069/57310
+#EXTINF:0,CRAVE 3
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81279
-#EXTINF:0,The Fairly Oddparents
+http://fortv.cc:8080/8bqC68/409069/57322
+#EXTINF:0,CRAVE 4 HD
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81584
-#EXTINF:0,The Jeffersons
+http://fortv.cc:8080/8bqC68/409069/57311
+#EXTINF:0,Cinemax
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77164
-#EXTINF:0,The Jetsons
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/79028
-#EXTINF:0,The Looney Tunes Show
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81533
-#EXTINF:0,The Loud House
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/196
+#EXTINF:0,Cinemax 5StarMAX
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81372
-#EXTINF:0,The Nanny
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81387
-#EXTINF:0,The Originals
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81541
-#EXTINF:0,The Simpsons
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1603
+#EXTINF:0,Cinemax ActionMax
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77166
-#EXTINF:0,The Vampire Diaries
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81648
-#EXTINF:0,The Venture Bros
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81478
-#EXTINF:0,The X Files
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1604
+#EXTINF:0,Cinemax MoreMax
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81495
-#EXTINF:0,Three's Company
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/77169
-#EXTINF:0,Trailer Park Boys
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81718
-#EXTINF:0,True Blood
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1204
+#EXTINF:0,Cinemax MovieMax
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81672
-#EXTINF:0,True Detective
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81731
-#EXTINF:0,Twilight Zone
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/86103
-#EXTINF:0,Two And A Half Men
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1605
+#EXTINF:0,Cinemax OuterMax
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81739
-#EXTINF:0,Ultimate Spider-Man
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81747
-#EXTINF:0,Vikings
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81802
-#EXTINF:0,Warrior
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1606
+#EXTINF:0,Cinemax ThrillerMax
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81817
-#EXTINF:0,Weird Science
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81882
-#EXTINF:0,X Men Evolution
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81905
-#EXTINF:0,X-MEN CARTOONS
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1607
+#EXTINF:0,FXM
 #EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/60874
-#EXTINF:0,X-men The Animated Series
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81907
-#EXTINF:0,Young Justice
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/alfredcal/2224455662/81915
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/166
+#EXTINF:0,HBO
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/160
+#EXTINF:0,HBO 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1085
+#EXTINF:0,HBO Comedy
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1087
+#EXTINF:0,HBO Family
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/157
+#EXTINF:0,HBO Signature
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/156
+#EXTINF:0,HBO Zone
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/155
+#EXTINF:0,Legend UK
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/ceb424dcb243b40d23ab16edb9d0bbde
+#EXTINF:0,Legend Xtra
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/9e1753e8c2ee845dc26a1a98bf05b34b
+#EXTINF:0, Top Movies - Rakuten TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBBC90001660.m3u8
+#EXTINF:0, Action Movies - Rakuten TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
+#EXTINF:36, Romance Movies - Rakuten TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBBA3300020DM.m3u8
+#EXTINF:0, Comedy Movies - Rakuten TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
+#EXTINF:0, Drama Movies - Rakuten TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
+#EXTINF:0, 100% Christmas - Rakuten TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
+#EXTINF:0, Real Series - Rakuten TV
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBBD1100006DS.m3u8
+#EXTINF:58,Redbox Faith & Family
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://sci-fi-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-sci-fi/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=
+#EXTINF:58,Redbox Free Movies
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=Redbox
+#EXTINF:0,Redbox Romance
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://holiday-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-holiday/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=
+#EXTINF:0,Redbox War & Westerns
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
+#EXTINF:0,Starz
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/280
+#EXTINF:0,Starz Cinema
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1250
+#EXTINF:0,Starz Comedy
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1653
+#EXTINF:0,Starz Edge
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/444
+#EXTINF:0,Starz Encore
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1468
+#EXTINF:0,Starz Encore Action
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1469
+#EXTINF:0,Starz Encore Black
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1470
+#EXTINF:0,Starz Encore Classic
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1471
+#EXTINF:0,Starz Encore Family
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1472
+#EXTINF:0,Starz Encore Suspense
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1249
+#EXTINF:0,Starz Encore Western
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/649
+#EXTINF:0,Starz in Black
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/397
+#EXTINF:0,Starz Kids & Family
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1248
+#EXTINF:0,TCM
+#EXTVLCOPT:network-caching=1000
+http://143.244.60.30/TCM/index.m3u8
+#EXTINF:0,SKY HITS
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/35255
+#EXTINF:0,UK MOVIES: SKY CINEMA DRAMA
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/35251
+#EXTINF:0,UK MOVIES: SKY COMEDY
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/35253
+#EXTINF:0,UK MOVIES: SKY CRIME THRILLER
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/35252
+#EXTINF:0,UK MOVIES: SKY GREATS
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/35249
+#EXTINF:0,UK Sky Cinema Scifi & Horror FHD  
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/6SHyY6/595088/35248
+#EXTINF:0,UK-Sky Cinema Animation
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/53698
+#EXTINF:0,UK-Sky Cinema Family
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/53699
+#EXTINF:0,UK-Sky Cinema Premier
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/35256
+#EXTINF:0,Showtime
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/223
+#EXTINF:0,Showtime 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/222
+#EXTINF:0,Showtime Beyond
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1619
+#EXTINF:0,Showtime Extreme
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/385
+#EXTINF:0,Showtime Family Zone
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1464
+#EXTINF:0,Showtime Next
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1187
+#EXTINF:0,Showtime Showcase
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1465
+#EXTINF:0,Showtime Women
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1251
+#EXTINF:0,Virgin Media 1
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/bb7276016aa8015097f5fddf37496baf
+#EXTINF:0,Virgin Media 2
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/3b5a604c3631112913afad33baedd2b8
+#EXTINF:0,Virgin Media 3
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/85603f5d19ca518315823c3c012ac6ea
+#EXTINF:0,Virgin Media 4
+#EXTVLCOPT:network-caching=1000
+http://84.203.199.198:9981/stream/channel/27c05adc99ff8516c49dce318eb3b681
