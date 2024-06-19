@@ -243,31 +243,7 @@ https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/GBBD1100006DS.m3u8
-#EXTINF:58,Redbox Faith & Family
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://sci-fi-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-sci-fi/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=
-#EXTINF:58,Redbox Free Movies
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=Redbox
-#EXTINF:0,Redbox Rewind
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox
-#EXTINF:0,Redbox Romance
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://holiday-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-holiday/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=
-#EXTINF:0,Redbox War & Westerns
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
+
 #EXTINF:0,RetroTV
 #EXTVLCOPT:network-caching=1000
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
@@ -368,19 +344,19 @@ http://fortv.cc:8080/8bqC68/409069/53752
 #EXTINF:51,FUSE
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/a2903e36-7a71-4894-baa9-509fe803768a.m3u
-#EXTINF:0,US Antenna TV 
+#EXTINF:0,Antenna TV 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/20180
-#EXTINF:0,US Decades 
+#EXTINF:0,Decades 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/nXmmT7/622090/20189
-#EXTINF:0,US Fox News 
+#EXTINF:0,Fox News 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/135794
-#EXTINF:0,US FX East 
+#EXTINF:0,FX East 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/46690
-#EXTINF:0,US TV One 
+#EXTINF:0,TV One 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/20868
 #EXTINF:0,A&E
