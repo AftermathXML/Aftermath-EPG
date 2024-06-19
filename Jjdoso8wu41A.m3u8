@@ -96,9 +96,6 @@ https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65bd5a538314c24e11553543.m3u8
 #EXTINF:0, Nosey
 #EXTVLCOPT:network-caching=1000
 https://r.mjh.nz/PlutoTV/5aec96ec5126c2157123c657-alt.m3u8
-#EXTINF:25, Pluto TV 00s Replay
-#EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/62ba60f059624e000781c436-alt.m3u8
 #EXTINF:0,Ace
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 #EXTINF:0,Adult Swim
@@ -156,13 +153,13 @@ http://fortv.cc:8080/8bqC68/409069/46212
 #EXTINF:0,FXX (R)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57429
-#EXTINF:0,GLOBAL TORONTO
+#EXTINF:0,Global Kingston
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57435
-#EXTINF:0,CA: ABC SPARK
+#EXTINF:0,ABC SPARK
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57375
-#EXTINF:0,CA: Weather Network Toronto
+#EXTINF:0,Weather Network
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57470
 #EXTINF:0,CBS News
@@ -188,53 +185,14 @@ https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/170
-#EXTINF:0,FXM
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/166
 #EXTINF:0,FXX
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/165
-#EXTINF:0,GLOBAL KINGSTON
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://tkosportz.live:25461/robertweyandt/77135152/98237
 #EXTINF:0,Great! TV
 #EXTVLCOPT:network-caching=1000
 http://84.203.199.198:9981/stream/channel/a08f97ab4e11e6cd6b892c1c56980f3e
-#EXTINF:0,HBO
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/160
-#EXTINF:0,HBO 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1085
-#EXTINF:0,HBO Comedy
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1087
-#EXTINF:0,HBO Family
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/157
-#EXTINF:0,HBO Signature
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/156
-#EXTINF:0,HBO Zone
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/155
 #EXTINF:0,HGTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
