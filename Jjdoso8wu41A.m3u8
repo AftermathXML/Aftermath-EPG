@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:0,CMT (CA)
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57258
+#EXTINF:0,OLN
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57366
+#EXTINF:0,OMNI1 HD
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57365
+#EXTINF:0,OMNI2 HD
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57364
+#EXTINF:0,Showcase HD
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/47366
+#EXTINF:0,Vision
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57468
+#EXTINF:0,TVO HD
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57369
+#EXTINF:0,MUCH MUSIC
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/215268
+#EXTINF:0,DTOUR
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57250
 #EXTINF:0,FX HD
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57268
 #EXTINF:0,Outdoor Channel
@@ -144,7 +162,8 @@ https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65bd5a538314c24e11553543.m3u8
 #EXTINF:0, Nosey
 #EXTVLCOPT:network-caching=1000
 https://r.mjh.nz/PlutoTV/5aec96ec5126c2157123c657-alt.m3u8
-
+#EXTINF:0,APTN
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57320
 #EXTINF:0,Adult Swim
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
