@@ -215,103 +215,10 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/177
 #EXTINF:60,MeTV
 #EXTVLCOPT:network-caching=1000
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
-#EXTINF:0, Top Movies - Rakuten TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/GBBC90001660.m3u8
-#EXTINF:0, Action Movies - Rakuten TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
-#EXTINF:36, Romance Movies - Rakuten TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/GBBA3300020DM.m3u8
-#EXTINF:0, Comedy Movies - Rakuten TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
-#EXTINF:0, Drama Movies - Rakuten TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
-#EXTINF:0, 100% Christmas - Rakuten TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
-#EXTINF:0, Real Series - Rakuten TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/GBBD1100006DS.m3u8
-
 #EXTINF:0,RetroTV
 #EXTVLCOPT:network-caching=1000
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
-#EXTINF:0,Starz
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/280
-#EXTINF:0,Starz Cinema
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1250
-#EXTINF:0,Starz Comedy
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1653
-#EXTINF:0,Starz Edge
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/444
-#EXTINF:0,Starz Encore
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1468
-#EXTINF:0,Starz Encore Action
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1469
-#EXTINF:0,Starz Encore Black
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1470
-#EXTINF:0,Starz Encore Classic
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1471
-#EXTINF:0,Starz Encore Family
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1472
-#EXTINF:0,Starz Encore Suspense
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1249
-#EXTINF:0,Starz Encore Western
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/649
-#EXTINF:0,Starz in Black
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/397
-#EXTINF:0,Starz Kids & Family
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1248
+
 #EXTINF:0,SyFy
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
