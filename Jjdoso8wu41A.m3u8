@@ -31,10 +31,7 @@ https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:36, BBC Sci-Fi
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8
-#EXTINF:36, Best TV Ever
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60ef3b588e782f002c8b1d06.m3u8
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d6f6c5a9e88ee909e7ee1f.m3u8
+
 #EXTINF:0, Classic Movies Channel
 #EXTVLCOPT:network-caching=1000
 https://r.mjh.nz/PlutoTV/561c5b0dada51f8004c4d855-alt.m3u8
@@ -85,8 +82,7 @@ https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65bd5a538314c24e11553543.m3u8
 #EXTINF:0, Nosey
 #EXTVLCOPT:network-caching=1000
 https://r.mjh.nz/PlutoTV/5aec96ec5126c2157123c657-alt.m3u8
-#EXTINF:0,Ace
-https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+
 #EXTINF:0,Adult Swim
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -103,9 +99,7 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1602
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/206
-#EXTINF:54,BLDSTG
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-641db53c2f7a0fca29488c99.m3u8
+
 #EXTINF:20,Bravo
 #EXTVLCOPT:network-caching=1000
 http://170.254.18.106/BRAVO/index.m3u8
@@ -193,12 +187,7 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/154
 http://84.203.199.198:9981/stream/channel/5921999176d588325d768f3fc7bbcdce
 #EXTINF:0,Laff
 http://thevdm.xyz:25461/Jennifer/Year!/39792
-#EXTINF:0,Legend UK
-#EXTVLCOPT:network-caching=1000
-http://84.203.199.198:9981/stream/channel/ceb424dcb243b40d23ab16edb9d0bbde
-#EXTINF:0,Legend Xtra
-#EXTVLCOPT:network-caching=1000
-http://84.203.199.198:9981/stream/channel/9e1753e8c2ee845dc26a1a98bf05b34b
+
 #EXTINF:0,Magnolia Networks
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -270,7 +259,3 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/171
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/728
-#EXTINF:0,Pop
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/226
