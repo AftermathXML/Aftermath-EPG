@@ -383,3 +383,6 @@ http://441151962804868861.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/868861.ts
 http://441151962804821140.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/821140.ts
 #EXTINF:0,SYFY SD
 http://441151962804736403.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/736403.ts
+#EXTINF:0,Married... with Children
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/77138
