@@ -1,4 +1,55 @@
 #EXTM3U
+#EXTINF:0,24/7 Action Movie
+http://supersonictv.live:8080/770821/628442/40480
+#EXTINF:0,24/7 Action Movie 1
+http://supersonictv.live:8080/770821/628442/61935
+#EXTINF:0,24/7 Action Movie 2
+http://supersonictv.live:8080/770821/628442/61936
+#EXTINF:0,24/7 Action Movie 3
+http://supersonictv.live:8080/770821/628442/61937
+#EXTINF:0,24/7 Action Movie 4
+http://supersonictv.live:8080/770821/628442/61938
+#EXTINF:0,24/7 Action Movie 5
+http://supersonictv.live:8080/770821/628442/61939
+#EXTINF:0,24/7 Adventure Movie
+http://supersonictv.live:8080/770821/628442/40482
+#EXTINF:0,24/7 Alien Movie 1
+http://supersonictv.live:8080/770821/628442/47635
+#EXTINF:0,24/7 Alien Movie 2
+http://supersonictv.live:8080/770821/628442/47636
+#EXTINF:0,24/7 Alien Movie 3
+http://supersonictv.live:8080/770821/628442/47637
+#EXTINF:0,24/7 Alien Movie 4
+http://supersonictv.live:8080/770821/628442/47638
+#EXTINF:0,24/7 Alien Movie 5
+http://supersonictv.live:8080/770821/628442/47639
+#EXTINF:0,24/7 Animation Movie
+http://supersonictv.live:8080/770821/628442/40483
+#EXTINF:0,24/7 Comedy Movie
+http://supersonictv.live:8080/770821/628442/40484
+#EXTINF:0,24/7 Comedy Movie 2
+http://supersonictv.live:8080/770821/628442/40485
+#EXTINF:0,24/7 Drama Movie
+http://supersonictv.live:8080/770821/628442/40489
+#EXTINF:0,24/7 Horror Movie
+http://supersonictv.live:8080/770821/628442/40492
+#EXTINF:0,24/7 Horror Movie 2
+http://supersonictv.live:8080/770821/628442/40493
+#EXTINF:0,24/7 Mob Movie
+http://supersonictv.live:8080/770821/628442/40497
+#EXTINF:0,24/7 Mob Movie 2
+http://supersonictv.live:8080/770821/628442/40498
+#EXTINF:0,24/7 Mob Movie 3
+http://supersonictv.live:8080/770821/628442/40499
+#EXTINF:0,24/7 Mob Movie 4
+http://supersonictv.live:8080/770821/628442/40500
+#EXTINF:0,24/7 Mob Movie 5
+http://supersonictv.live:8080/770821/628442/40501
+#EXTINF:0,24/7 Music Movie
+http://supersonictv.live:8080/770821/628442/40502
+#EXTINF:0,27/7 Family Movie
+http://supersonictv.live:8080/770821/628442/40490
+
 #EXTINF:0,CINEBOX BLOCKBUSTER FHD
 http://441151962804821088.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/821088.ts
 #EXTINF:0,CINEBOX COMEDY FHD
