@@ -224,3 +224,172 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1668
 http://441151962804852414.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/852414.ts
 #EXTINF:0,TINY POP HD
 http://441151962804860103.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/860103.ts
+
+#EXTINF:0, Garfield & Friends
+https://r.mjh.nz/PlutoTV/62a069bfd88ef000073f6775-alt.m3u8
+#EXTINF:0, Max & Ruby
+https://r.mjh.nz/PlutoTV/62fb6a4feb32e8000708f4d0-alt.m3u8
+#EXTINF:60, Power Rangers
+https://i.mjh.nz/Roku/f66aa243a9465896ac3e7eaef7cba3fd.m3u8
+#EXTINF:0, Sonic The Hedgehog
+https://i.mjh.nz/SamsungTVPlus/USBD3300020PM.m3u8
+#EXTINF:68, Sonic TV
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-62ba4aaff663580a7238f327.m3u8
+#EXTINF:0, Strawberry Shortcake
+https://i.mjh.nz/SamsungTVPlus/USBC4400012QS.m3u8
+#EXTINF:0, Super Mario Brothers
+https://i.mjh.nz/Roku/a3c405bfca9b525983054aa761b10dfb.m3u8
+#EXTINF:25, Teenage Mutant Ninja Turtles
+https://r.mjh.nz/PlutoTV/65a669ab2fac9c000835c443-alt.m3u8
+#EXTINF:0, Transformers
+https://i.mjh.nz/Roku/9bd570b8bf145f73bba7532221e12666.m3u8
+#EXTINF:0,Adventure Time
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/6SHyY6/595088/178879
+#EXTINF:0,DUCK TALES
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/6SHyY6/595088/125636
+#EXTINF:0,FAMILY MATTERS
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/6SHyY6/595088/125634
+#EXTINF:0,FULL HOUSE
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/6SHyY6/595088/66269
+#EXTINF:0,LOONEY TUNES
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/6SHyY6/595088/125638
+#EXTINF:0,PAW PATROL
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/6SHyY6/595088/66311
+#EXTINF:0,SAVED BY THE BELL
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/6SHyY6/595088/66344
+#EXTINF:0,THE FLINTSTONES
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/6SHyY6/595088/120949
+#EXTINF:0,TOM AND JERRY
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/6SHyY6/595088/125635
+#EXTINF:0,Bob's Burgers
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/78981
+#EXTINF:0,CAPTAIN PLANET AND THE PLANETEERS
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/60931
+#EXTINF:0,Dennis The Menace
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/77113
+#EXTINF:0,Dexters Laboratory
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/79654
+#EXTINF:0,Doug
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/79562
+#EXTINF:0,Gargoyles
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/79852
+#EXTINF:0,Gravity Falls
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/79936
+#EXTINF:0,HE-MAN MASTERS OF UNIVERSE
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/60104
+#EXTINF:0,INSPECTOR GADGET
+#EXTVLCOPT:network-caching=1000
+http://vp-txpro.com:80/N8BUe4SNk3Lk/NFZN5mpKRUrJ/44366
+#EXTINF:0,Johnny Bravo
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/79005
+#EXTINF:0,Justice League
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/80179
+#EXTINF:0,Justice League Unlimited
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/80180
+#EXTINF:0,Kim Possible
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/80238
+#EXTINF:0,King of the Hill
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/79007
+#EXTINF:0,Leave It to Beaver
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/77135
+#EXTINF:0,Loonatics Unleashed
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/80300
+#EXTINF:0,LOONEY TUNES
+#EXTVLCOPT:network-caching=1000
+http://vp-txpro.com:80/N8BUe4SNk3Lk/NFZN5mpKRUrJ/44387
+#EXTINF:0,LOONEY TUNES
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/60914
+#EXTINF:0,Looney Tunes Cartoons
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/79038
+#EXTINF:0,Marvel s Spider Man
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/80584
+#EXTINF:0,Mike Tyson Mysteries
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/80443
+#EXTINF:0,My Little Pony: Friendship Is Magic
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/79010
+#EXTINF:0,PINKY AND THE BRAIN
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/60904
+#EXTINF:0,Rugrats
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/79023
+#EXTINF:0,Scooby Doo and Guess Who
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81104
+#EXTINF:0,SCOOBY-DOO
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/60897
+#EXTINF:0,SCOOBY-DOO CLASSIC
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/60896
+#EXTINF:0,SIMPSONS
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/30265
+#EXTINF:0,SIMPSONS TREEHOUSE OF HORROR
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/60173
+#EXTINF:0,Spider-Man
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81024
+#EXTINF:0,SPONGEBOB SQUAREPANTS
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/60898
+#EXTINF:0,Star vs the Forces of Evil
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81186
+#EXTINF:0,Teen Titans
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81211
+#EXTINF:0,Teen Titans Go
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81231
+#EXTINF:0,Teenage Mutant Ninja Turtles
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81232
+#EXTINF:0,The Amazing World of Gumball
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81244
+#EXTINF:0,The Fairly Oddparents
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81584
+#EXTINF:0,The Jetsons
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/79028
+#EXTINF:0,The Looney Tunes Show
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81533
+#EXTINF:0,The Loud House
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81372
+#EXTINF:0,Ultimate Spider-Man
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81747
