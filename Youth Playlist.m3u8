@@ -1,26 +1,38 @@
 #EXTM3U
+
+#EXTINF:0,Are You Afraid of the Dark?
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/60220
+
+#EXTINF:0,Goosebumps
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/60111
+
+#EXTINF:0,Batman: The Animated Series
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/60936
+
+#EXTINF:0,Batman Beyond
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/79322
+
+#EXTINF:0,X-Men Evolution
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81905
+
+#EXTINF:0,X-Men The Animated Series
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81907
+
+#EXTINF:0,Young Justice
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81915
+
+
 #EXTINF:0,US Universal Kids (A)
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/9235
 #EXTINF:-1,KidsCo
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/281501
-#EXTINF:102,RetroCrush
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
-#EXTINF:0, Toonami Aftermath (E)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:0, Toonami Aftermath (M)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:0, Toonami Aftermath (W)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:55, FilmRise Kids
 https://i.mjh.nz/Roku/067e6b6fa36352ad8984a8d97c9a39d4.m3u8
 #EXTINF:0, Cats 24/7
@@ -31,9 +43,6 @@ https://r.mjh.nz/PlutoTV/5b329e0a7b9d8872aeb49ceb-alt.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBC430000128.m3u8
 #EXTINF:25, Christmas 365
 https://r.mjh.nz/PlutoTV/62fb6d4308f5ec0007453c09-alt.m3u8
-#EXTINF:0, Comedy Central #EXTM3U
-Ation
-https://r.mjh.nz/PlutoTV/64f8a949f5b5e4000862467c-alt.m3u8
 #EXTINF:0, Kid Quest
 https://r.mjh.nz/PlutoTV/62fb6aede6ff56000707085b-alt.m3u8
 #EXTINF:0, Kid Squad
@@ -50,7 +59,10 @@ https://r.mjh.nz/PlutoTV/6408b41b83f58900081d91ad-alt.m3u8
 https://r.mjh.nz/PlutoTV/62fb67cbb3af68000702db15-alt.m3u8
 #EXTINF:25, Preschool Play
 https://r.mjh.nz/PlutoTV/62fb68a5a6a2670007b7c5b8-alt.m3u8
-
+#EXTINF:-1 channel-id="pluto-64f8a949f5b5e4000862467c" tvg-id="64f8a949f5b5e4000862467c" tvg-logo="https://images.pluto.tv/channels/64f8a949f5b5e4000862467c/colorLogoPNG.png" tvg-chno="120" group-title="Comedy Central" , Comedy Central Animation
+https://r.mjh.nz/PlutoTV/64f8a949f5b5e4000862467c-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5f99e24636d67d0007a94e6d" tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" tvg-chno="350" group-title="Comedy" , Comedy Central Animation
+https://r.mjh.nz/PlutoTV/5f99e24636d67d0007a94e6d-alt.m3u8
 #EXTINF:25,Pluto TV Family (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc3fc6b9133f500099c7d98/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:36,Rakuten Family UK (720p)
