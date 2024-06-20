@@ -81,3 +81,9 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
 #EXTINF:0,Gaki no Tsukai (English Subs) (720p)
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
+#EXTINF:0,Elf wo Karu Mono tachi
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/79729
+#EXTINF:0,Elf wo Karu Mono tachi II
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/79730
