@@ -87,3 +87,10 @@ http://supersonictv.live:8080/alfredcal/2224455662/79729
 #EXTINF:0,Elf wo Karu Mono tachi II
 #EXTVLCOPT:network-caching=1000
 http://supersonictv.live:8080/alfredcal/2224455662/79730
+#EXTINF:0,DRAGON BALL Z
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/60924
+#EXTINF:0, Avatar
+https://r.mjh.nz/PlutoTV/656df599c0fc8800089c75ab-alt.m3u8
+#EXTINF:0, Sailor Moon
+https://r.mjh.nz/PlutoTV/637e55347427a40007fac703-alt.m3u8
