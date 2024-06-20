@@ -94,3 +94,14 @@ http://vo01.mohdtv.com:8880/voby4846/59129684/60924
 https://r.mjh.nz/PlutoTV/656df599c0fc8800089c75ab-alt.m3u8
 #EXTINF:0, Sailor Moon
 https://r.mjh.nz/PlutoTV/637e55347427a40007fac703-alt.m3u8
+#EXTINF:0, Lupin the 3rd
+https://r.mjh.nz/PlutoTV/63b5964d1bdba1000712521f-alt.m3u8
+#EXTINF:0, Naruto
+https://r.mjh.nz/PlutoTV/5da0c85bd2c9c10009370984-alt.m3u8
+#EXTINF:0, One Piece
+https://r.mjh.nz/PlutoTV/5f7790b3ed0c88000720b241-alt.m3u8
+#EXTINF:60, Yu-Gi-Oh
+https://i.mjh.nz/Roku/77946e082d8958f599087890aebf1623.m3u8
+#EXTINF:0,Kami no Tou
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/80230
