@@ -351,3 +351,18 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422405/ei/p
 #EXTINF:0, Tokyo Night Drive Radio
 #EXTVLCOPT:network-caching=1000
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422406/ei/pjJOZovNItLD0u8P1-O6yAo/ip/94.19.92.16/id/Lcdi9O2XB4E.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMH3Phn0R0OZ0Z8hqYeIzsiQ7ghZMudUuu0z9f7q8MbRAiBPu_Vp2t5E4tTV0G8u5JWeHEIYtxtv-qUIrCgUKloaGg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg" tvg-id="", Spongeboy Lofi 1
+https://ythls-v3.onrender.com/video/Rm_AsflD2c0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg" tvg-id="", Spongeboy Lofi 2
+https://ythls-v3.onrender.com/video/IBKIzCxy55o.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg" tvg-id="", Spongeboy Lofi 3
+https://ythls-v3.onrender.com/video/p53rW6sMfqw.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg" tvg-id="", Spongeboy Lofi 4
+https://ythls-v3.onrender.com/video/VJY9ZdHnNr0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg" tvg-id="", Spongeboy Lofi 5
+https://ythls-v3.onrender.com/video/bGA1cU_qWMQ.m3u8
