@@ -16,6 +16,9 @@ https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-618ab2f275913b296fbe56dd.m3u8
 #EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f7f" tvg-id="647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f7f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d40e3d9-f044-4b32-bfa7-30b9b5387328/PW_Kids_1280x1080_white_trans.png" , PW Kids
 https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f7f.m3u8
 
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-63d9509f137315d10db2c80d" tvg-id="647f8d22a2fc3fadb4721685-63d9509f137315d10db2c80d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9c09c39a-48d1-45da-bb93-999227eabfcd/FreeTV_Family_Color_-_Ralph_Campillo.png" , FreeTV Family
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-63d9509f137315d10db2c80d.m3u8
+
 #EXTINF:0,24/7 Are You Afraid of the Dark?
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/60220
