@@ -338,3 +338,8 @@ https://ythls-v3.onrender.com/video/a_H3N-lpp-o.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tX2Kw01/channels4-profile.jpg" tvg-id="", Phonk Radio 4
 https://ythls-v3.onrender.com/video/EE8O9Zhm0ZI.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSvqCMC/channels4-profile.jpg" tvg-id="", Chillhop 1
+https://ythls-v3.onrender.com/video/8v_kKMaq5po.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSvqCMC/channels4-profile.jpg" tvg-id="", Chillhop 2
+https://ythls-v3.onrender.com/video/xMd64BGSBcE.m3u8
