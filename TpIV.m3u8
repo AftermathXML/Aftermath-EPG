@@ -273,84 +273,7 @@ https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:97,NatureStream.tv
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23037&ads.content_duration=18000&ads.episode_id=77808&ads.show_id=3074&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=NatureStream.tv&ads.episodetitle=NatureStream.tv&ads.keywords=Nature%20Stream%2CNature%2Cmoods%2Crelaxing&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
-#EXTINF:0,Planet LoFi
-#EXTVLCOPT:network-caching=1000
-http://198.245.60.88:8080/stream
-#EXTINF:60,Quietude 4K
-#EXTVLCOPT:network-caching=1000
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/quietude/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22930&ads.content_duration=18000&ads.episode_id=51848&ads.show_id=1685&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Quietude%204K&ads.episodetitle=Quietude%204K&ads.keywords=screen%20saver%2Cnature%2Cviews%2Ccalming%2Cchill%2Cbackground%20video%2CQuietude%204K&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=quietude&ads.islive=1&ads.streamtype=live
-#EXTINF:0,Qwest TV Jazz & Beyond (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
-#EXTINF:0,Qwest TV Mix (720p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
-#EXTINF:0,QwestTV
-#EXTVLCOPT:network-caching=1000
-https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
-#EXTINF:50,Real-Music
-#EXTVLCOPT:network-caching=1000
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/real-music/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87421&ads.show_id=3263&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music&ads.showRating=TV-G&ads.episodeRating=&ads.language=en&ads.showtitle=Real%20Music&ads.episodetitle=Real%20Music&ads.keywords=Music&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
-#EXTINF:0,Relax
-#EXTVLCOPT:network-caching=1000
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:100,Relaxing Rain
-#EXTVLCOPT:network-caching=1000
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-rain/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25089&ads.show_id=655&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Relaxing%20Rain&ads.episodetitle=Relaxing%20Rain&ads.keywords=rain%2Clounge%20videos&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
-#EXTINF:97,Relaxing WinterScapes
-#EXTVLCOPT:network-caching=1000
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/relaxing-winterscapes/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=82603&ads.show_id=3175&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Relaxing%20WinterScapes&ads.episodetitle=Relaxing%20WinterScapes&ads.keywords=Relax%2CRelaxing%20Winterscapes%2CWinterscapes%2CRelaxing&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
-#EXTINF:97,Spring Escape
-#EXTVLCOPT:network-caching=1000
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/spring-escape/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=82604&ads.show_id=3176&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Spring%20Escape&ads.episodetitle=Spring%20Escape&ads.keywords=Spring%20Escape%2CSptring%2CEscape%2CRelax&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
-#EXTINF:97,Study Lounge
-#EXTVLCOPT:network-caching=1000
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/study-lounge/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=82605&ads.show_id=3177&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Study%20Lounge&ads.episodetitle=Study%20Lounge&ads.keywords=Study%2CLounge%2CStudy%20Lounge%2CRelax&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
-#EXTINF:0,Toonami Aftermath Radio (480p)
-#EXTVLCOPT:network-caching=1000
-http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
-#EXTINF:0,Tranquil Thunderstorms
-#EXTVLCOPT:network-caching=1000
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tranquil-thunderstorms/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25455&ads.show_id=659&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Tranquil%20Thunderstorms&ads.episodetitle=Tranquil%20Thunderstorms&ads.keywords=ambiance%2Cmood%2Clounge%2Cthunderstorms&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
-#EXTINF:30,TV77.m3u8
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
-#EXTINF:30, Anime Song Radio
-#EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422411/ei/qzJOZvimOqG0v_IP28WrgAU/ip/94.19.92.16/id/4FBW3mkdKOs.12/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOYBH4H0RfLwWwnBkwxo4GadkrsqF7S362qTTpqb7aBWAiA36foG-dg31VaI92deaLC7nskV7n_fdnoXqHuoNj1Asg%3D%3D/file/index.m3u8
-#EXTINF:30, Chill Out Music Mixe
-#EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716423990/ei/1jhOZvHpBcy1kucPkJGJsAI/ip/40.76.106.51/id/m52ynxt1mOo.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177566/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANkCA_P7SUoiMgk5DIdTPNPTNRwz4ZIjwZ4w7wbMqBZQAiEA_fGVSmvSLk_UgxgzEdk9Png_IL4M62W8OCwBlDD7Yh8%3D/file/index.m3u8
-#EXTINF:30, Chillout Lounge
-#EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716423990/ei/1jhOZsXbJeGLkucPm4mIKA/ip/40.76.106.51/id/9UMxZofMNbA.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51177567/txs/51177561%2C51177562%2C51177563%2C51177564%2C51177565%2C51177566%2C51177567/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANDuYU7ocOKyPi7MZIAwSDmjbaRmdDoJ4zaRQ34whBDSAiEApY0WmAcSxmgCnZ8V6m-NwbXtti8yVl213AHv3XDekkg%3D/file/index.m3u8
-#EXTINF:30, Copyright Free Music Radio
-#EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422405/ei/pTJOZrTUHJOVv_IP9pSv0Ac/ip/94.19.92.16/id/7tNtU5XFwrU.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPBCBjUhpqcB3LLrVHTtL7W8IUWkhHZ6c2vqvDNXXTJiAiEAgX8IAoBsltMAsuwvs3G4Ocz_FEwSqrzBH4UMVBwa-yE%3D/file/index.m3u8
-#EXTINF:0, Elegant Blues
-#EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422410/ei/qjJOZo7HOfqTv_IPh4uAiA0/ip/94.19.92.16/id/gpT3hBRgG1U.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIZBFROzXgvuZjFgwY5JemLHbG7rtuleYPte241JipmhAiAlctMX5Jzjwhcjl5xJzEYpVCab_L1JaIVK06_qUUSurQ%3D%3D/file/index.m3u8
-#EXTINF:0, Hardstyle & Hardcore Music Radio
-#EXTVLCOPT:network-caching=1000
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
-#EXTINF:30, Lo-Fi Hip-Hop radio
-#EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422402/ei/ojJOZpWYO_asv_IPv_WNsAE/ip/94.19.92.16/id/jfKfPfyJRdk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAILSsNyF5NWfofdeqlJpirxVvkIR9sXmlSHIRQCJ7i4EAiBZwlVfmpP8rR9-TSuU247gfEFhID9Xy1fonrdQfYVVqQ%3D%3D/file/index.m3u8
-#EXTINF:30, Phonk Radio
-#EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422404/ei/pDJOZt_JA9qE0u8PiPmCOA/ip/94.19.92.16/id/8v_kKMaq5po.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51099272/txs/51099271%2C51099272/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgebQHuL2HySWHiu32tSJrBgjIs3dXlizCemwwYYV-ZigCIDn_I12RVnpSXUPZnB5fKPta3F5Nnolgzw2L6nLspx5C/file/index.m3u8
-#EXTINF:30, PostRock Radio
-#EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422412/ei/rDJOZvXJNK7jv_IPq4KQ-AM/ip/94.19.92.16/id/MRhplCpkPKE.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgI-dvs4VHtAMYUc_mo0A9SzmrNZYOXow0wy8ourUgHacCIQCDeBdzJcR8IBmZJ-SrokPgTgPTIGQn8Ea2e_ZYtOKL6A%3D%3D/file/index.m3u8
-#EXTINF:0, Relaxing Whiskey Blues Radio
-#EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422410/ei/qjJOZr0bq7m_8g_2sanIAw/ip/94.19.92.16/id/WnQsXCPufyM.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51103729/txs/51103729%2C51103730%2C51113346/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOe1DjZjYcLUuvNfMZlbmKWsys32OdXJkeCOtaZ3Qk7xAiBEuRKPvOuR8oLAiJdqGjoJYJXK_O12jNMxGu33s6Kqng%3D%3D/file/index.m3u8
-#EXTINF:30, Synthwave Radio
-#EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422405/ei/pTJOZuq8CYqrv_IPvsyJuAw/ip/94.19.92.16/id/4xDzrJKXOOY.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgO-RZn5bUAq_uyNB-XorFrdrQ2AAkuqY9otvOKPftOU0CIQCYRI3P2n_U5BoeCiqk59kwDG6kK_gGZfumyPBpeUetCA%3D%3D/file/index.m3u8
-#EXTINF:0, Tokyo Night Drive Radio
-#EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422406/ei/pjJOZovNItLD0u8P1-O6yAo/ip/94.19.92.16/id/Lcdi9O2XB4E.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066116/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAMH3Phn0R0OZ0Z8hqYeIzsiQ7ghZMudUuu0z9f7q8MbRAiBPu_Vp2t5E4tTV0G8u5JWeHEIYtxtv-qUIrCgUKloaGg%3D%3D/file/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg" tvg-id="", Spongeboy Lofi 1
 https://ythls-v3.onrender.com/video/Rm_AsflD2c0.m3u8
@@ -385,3 +308,20 @@ https://ythls-v3.onrender.com/video/4xDzrJKXOOY.m3u8
 #EXTINF:-1 tvg-logo="https://helios-i.mashable.com/imagery/articles/03YdX6DpDbpI8LRuVEOC4vp/hero-image.fill.size_1200x1200.v1681234650.png" tvg-id="", Synthwave Boy 2
 https://ythls-v3.onrender.com/video/S_MOd40zlYU.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1qF78C/Raint.jpg" tvg-id="", Rainy Days 1
+https://www.youtube.com/watch?v=JqoY_3QfU3s
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1qF78C/Raint.jpg" tvg-id="", Rainy Days 2
+https://www.youtube.com/watch?v=BCJnqijZpEE
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1qF78C/Raint.jpg" tvg-id="", Rainy Days 3
+https://www.youtube.com/watch?v=DHG8supGVV4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1qF78C/Raint.jpg" tvg-id="", Rainy Days 4
+https://www.youtube.com/watch?v=tCFhf-mE1vM
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1qF78C/Raint.jpg" tvg-id="", Rainy Days 5
+https://www.youtube.com/watch?v=KpBbjVbnSew
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n1qF78C/Raint.jpg" tvg-id="", Rainy Days 6
+https://www.youtube.com/watch?v=tBF1AJINXko
