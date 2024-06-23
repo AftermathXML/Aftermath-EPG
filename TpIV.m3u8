@@ -306,3 +306,15 @@ https://ythls-v3.onrender.com/video/8v_kKMaq5po.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RSvqCMC/channels4-profile.jpg" tvg-id="", Chillhop 2
 https://ythls-v3.onrender.com/video/xMd64BGSBcE.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/70J1nluV3vyND--DFxiATppVQe0=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-c" tvg-id="", Disney 1
+https://ythls-v3.onrender.com/video/d6xOWcEib_I.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/70J1nluV3vyND--DFxiATppVQe0=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-c" tvg-id="", Disney 2
+https://ythls-v3.onrender.com/video/6Z5qZwqh3QE.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/70J1nluV3vyND--DFxiATppVQe0=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-c" tvg-id="", Disney 3
+https://ythls-v3.onrender.com/video/kgD_U31vdHE.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/70J1nluV3vyND--DFxiATppVQe0=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-c" tvg-id="", Disney 4
+https://ythls-v3.onrender.com/video/_vPCJMOOsxk.m3u8
