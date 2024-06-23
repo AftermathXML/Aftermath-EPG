@@ -102,14 +102,59 @@ https://i.mjh.nz/SamsungTVPlus/USAK3508709A.m3u8
 #EXTINF:0, Classic Movies Channel
 #EXTVLCOPT:network-caching=1000
 https://r.mjh.nz/PlutoTV/561c5b0dada51f8004c4d855-alt.m3u8
-#EXTINF:56, FilmRise Action
-https://i.mjh.nz/Roku/0abef49cfd6759b18f2ce64290cbdda3.m3u8
-#EXTINF:0, FilmRise Free Movies
-https://i.mjh.nz/Roku/d6f71998860459eca1bed73db5988330.m3u8
-#EXTINF:60, FilmRise Horror
-https://i.mjh.nz/Roku/6a0629e467b5502c906136dadac290a0.m3u8
-#EXTINF:0, FilmRise Western
-https://i.mjh.nz/Roku/c5a72a598a355db4b1781ca075280773.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c4" tvg-id="647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ce869fe2-88c9-4d78-b594-02148e4755c3/Plex_FilmRise_ActionCA_Color_Logo.png" , FilmRise Action
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c4.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bc" tvg-id="647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cb0d5012-93d5-456b-8be4-3082df2a45c8/Plex_FilmRise_Canadien_Color_Logo.png" , FilmRise Canadien
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bc.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c874" tvg-id="647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c874" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/fff63fd69fce280ad874ccbb8dd92b81.png" , FilmRise Classic TV
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c874.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb" tvg-id="647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/78b07413-c779-4f4b-be63-f3e8d85e7a4c/Plex_FilmRise_FreeMoviesCA_Color_Logo.png" , FilmRise Free Movies
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3" tvg-id="647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e26ce12-4edf-4561-9adb-07b82bf9edfb/Plex_FilmRise_HorrorCA_Color_Logo.png" , FilmRise Horror
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873" tvg-id="647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/81ac20adc4165417eba0ae6a74cd337d.png" , FilmRise Made In Canada
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06" tvg-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06" tvg-logo="https://provider-static.plex.tv/epg/cms/production/8e655a15-91db-4157-bc9e-34198eec66c6/Plex_FilmRiseCA_SciFi_Color_Logo.png" , FilmRise Sci-Fi
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05" tvg-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a46d9c7e-5c41-47b6-aeba-c668e9d91a11/FilmRiseWestern_Logo_Color.png" , FilmRise Western
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-63d94c5f137315d10db2c808" tvg-id="647f8d22a2fc3fadb4721685-63d94c5f137315d10db2c808" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d31bf899-f1db-46d8-a1b8-bdc314a0497e/FreeTVCrime_Circle_1500x1000_-_Ralph_Campillo.png" , FreeTV Crime
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-63d94c5f137315d10db2c808.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-63d84f7715431f0798dd6b66" tvg-id="647f8d22a2fc3fadb4721685-63d84f7715431f0798dd6b66" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7c0f3931-048e-4a85-bc15-42eba55d6424/FreeTVDramaVault_Circle_1500x1000_-_Ralph_Campillo.png" , FreeTV Drama Vault
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-63d84f7715431f0798dd6b66.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-63d9509f137315d10db2c80d" tvg-id="647f8d22a2fc3fadb4721685-63d9509f137315d10db2c80d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9c09c39a-48d1-45da-bb93-999227eabfcd/FreeTV_Family_Color_-_Ralph_Campillo.png" , FreeTV Family
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-63d9509f137315d10db2c80d.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-63d9496e137315d10db2c806" tvg-id="647f8d22a2fc3fadb4721685-63d9496e137315d10db2c806" tvg-logo="https://provider-static.plex.tv/epg/cms/production/99b9023f-cfb9-46b7-bc6b-29970ba3ff04/FreeTV_Fantasy_Color_-_Ralph_CampilloRDX.png" , FreeTV Fantasy
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-63d9496e137315d10db2c806.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-63d954cc308687c7d9baa667" tvg-id="647f8d22a2fc3fadb4721685-63d954cc308687c7d9baa667" tvg-logo="https://provider-static.plex.tv/epg/cms/production/38736fa9-095c-47b6-82f6-b9585e9c5adb/FreeTVHorror_Circle_1500x1000_-_Ralph_Campillo.png" , FreeTV Horror
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-63d954cc308687c7d9baa667.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-629141f6a0ed9c2b6ae63bb0" tvg-id="647f8d22a2fc3fadb4721685-629141f6a0ed9c2b6ae63bb0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02499982-f91a-460f-9d22-3f2dd59018a2/Always_in_Season_Military_Logo_1500x1000.png" , Gravitas Adrenaline
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-629141f6a0ed9c2b6ae63bb0.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-6291409aa0ed9c2b6ae63bae" tvg-id="647f8d22a2fc3fadb4721685-6291409aa0ed9c2b6ae63bae" tvg-logo="https://provider-static.plex.tv/epg/cms/production/398a08f4-ef08-46a0-b293-ffb2fe273803/gravitas-documentaries-2.png" , Gravitas Documentaries
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6291409aa0ed9c2b6ae63bae.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e" tvg-id="647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eec165bc-3182-4d89-bb3d-dff5e7e00c95/1500x1000_Christmas_Channel_Logo_TRANSPARENT.png" , Gravitas Movies
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-6663510e7ce166787145c6a9" tvg-id="647f8d22a2fc3fadb4721685-6663510e7ce166787145c6a9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/769781bf-829b-4863-a199-2ca2b9692e63/MovieSphere_Plex_LogoDisplay_OnDark.png" , MOVIESPHERE
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6663510e7ce166787145c6a9.m3u8
+
+
 #EXTINF:0, Horror by ALTER
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/USBC100001175.m3u8
