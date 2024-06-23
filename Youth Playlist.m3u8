@@ -1,30 +1,46 @@
 #EXTM3U
 
-#EXTINF:0,Are You Afraid of the Dark?
+#EXTM3U x-tvg-url="https://i.mjh.nz/Plex/ca.xml"
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-63eecb32ac23d1ee072087cb" tvg-id="647f8d22a2fc3fadb4721685-63eecb32ac23d1ee072087cb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png" , 123GO!
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-63eecb32ac23d1ee072087cb.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-63894c1965b848bf2c8a7800" tvg-id="647f8d22a2fc3fadb4721685-63894c1965b848bf2c8a7800" tvg-logo="https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png" , 5-Minute Crafts
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-63894c1965b848bf2c8a7800.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-6365779dde08f8eec6c3f21f" tvg-id="647f8d22a2fc3fadb4721685-6365779dde08f8eec6c3f21f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png" , CraftsyTV
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6365779dde08f8eec6c3f21f.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-618ab2f275913b296fbe56dd" tvg-id="647f8d22a2fc3fadb4721685-618ab2f275913b296fbe56dd" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a27f5de6-ea10-48ad-ab05-6a5c3e63d46c/Eddies-Wonderland_logo_dark.png" , Eddie's Wonderland
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-618ab2f275913b296fbe56dd.m3u8
+
+#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f7f" tvg-id="647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f7f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d40e3d9-f044-4b32-bfa7-30b9b5387328/PW_Kids_1280x1080_white_trans.png" , PW Kids
+https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-5efe1de5e0b3f5003f5d9f7f.m3u8
+
+#EXTINF:0,24/7 Are You Afraid of the Dark?
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/60220
 
-#EXTINF:0,Goosebumps
+#EXTINF:0,24/7 Goosebumps
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/60111
 
-#EXTINF:0,Batman: The Animated Series
+#EXTINF:0,24/7 Batman: The Animated Series
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/60936
 
-#EXTINF:0,Batman Beyond
+#EXTINF:0,24/7 Batman Beyond
 #EXTVLCOPT:network-caching=1000
 http://supersonictv.live:8080/alfredcal/2224455662/79322
 
-#EXTINF:0,X-Men Evolution
+#EXTINF:0,24/7 X-Men Evolution
 #EXTVLCOPT:network-caching=1000
 http://supersonictv.live:8080/alfredcal/2224455662/81905
 
-#EXTINF:0,X-Men The Animated Series
+#EXTINF:0,24/7 X-Men The Animated Series
 #EXTVLCOPT:network-caching=1000
 http://supersonictv.live:8080/alfredcal/2224455662/81907
 
-#EXTINF:0,Young Justice
+#EXTINF:0,24/7 Young Justice
 #EXTVLCOPT:network-caching=1000
 http://supersonictv.live:8080/alfredcal/2224455662/81915
 
