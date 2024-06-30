@@ -1,5 +1,32 @@
 #EXTM3U
 
+#EXTINF:0, Toonami Aftermath (E)
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:0, Toonami Aftermath (M)
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:0, Toonami Aftermath (W)
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:0, Crunchyroll
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/Roku/307b3b9ea321539b9688148fc97a8bfd.m3u8
+#EXTINF:25, Anime All day
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
+#EXTINF:36,ANIME x HIDIVE
+#EXTVLCOPT:network-caching=1000
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 channel-id="samsung-GBBD1100010UB" tvg-id="GBBD1100010UB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100010UB_20230712T021203SQUARE.png_20230712021204.png" tvg-chno="4621" group-title="United Kingdom" , Super Anime
+https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
+#EXTINF:61, FilmRise Anime
+https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="MeTVToons.us",MeTV Toons
 https://live.realms.pub/live/01aec3bf-b9bb-4c3f-93e8-fc76542016f4/index.m3u8
 
