@@ -18,7 +18,7 @@ https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
 #EXTINF:36,ANIME x HIDIVE
 #EXTVLCOPT:network-caching=1000
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
-#EXTINF:-1 channel-id="samsung-GBBD1100010UB" tvg-id="GBBD1100010UB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100010UB_20230712T021203SQUARE.png_20230712021204.png" tvg-chno="4621" group-title="United Kingdom" , Super Anime
+#EXTINF:-1 channel-id="samsung-GBBD1100010UB" tvg-id="GBBD1100010UB" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100010UB_20230712T021203SQUARE.png_20230712021204.png" tvg-chno="4621", Super Anime
 https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
 #EXTINF:61, FilmRise Anime
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8
