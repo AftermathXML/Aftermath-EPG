@@ -22,7 +22,9 @@ https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
 #EXTINF:61, FilmRise Anime
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8
-
+#EXTINF:102,RetroCrush
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
 
 
 #EXTINF:-1,Adult Swim
