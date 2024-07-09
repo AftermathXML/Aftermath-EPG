@@ -44,16 +44,16 @@ https://i.mjh.nz/Roku/2deae9b4e83550f88f6776c45df08315.m3u8
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8
 #EXTINF:0, Godzilla
 #EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/6452c8cee1979c0008608e27-alt.m3u8
+https://jmp2.uk/PlutoTV/6452c8cee1979c0008608e27-alt.m3u8
 #EXTINF:0, Flicks of Fury
 #EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/58e55b14ad8e9c364d55f717-alt.m3u8
+https://jmp2.uk/PlutoTV/58e55b14ad8e9c364d55f717-alt.m3u8
 #EXTINF:25, K-Content by CJ ENM
 #EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/6176ff3ba00900000763710f-alt.m3u8
+https://jmp2.uk/PlutoTV/6176ff3ba00900000763710f-alt.m3u8
 #EXTINF:0, TokuSHOUTsu
 #EXTVLCOPT:network-caching=1000
-https://r.mjh.nz/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
+https://jmp2.uk/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
 #EXTINF:0, Rakuten Viki
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f.m3u8
@@ -67,9 +67,9 @@ https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112b.m3u8
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/INBD13000043W.m3u8
 #EXTINF:-1 channel-id="pluto-61560abb6ae4b60007300555" tvg-id="61560abb6ae4b60007300555" tvg-logo="https://images.pluto.tv/channels/61560abb6ae4b60007300555/colorLogoPNG.png" tvg-chno="858" group-title="Great Britain" , Pluto TV K-Pop
-https://r.mjh.nz/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
+https://jmp2.uk/PlutoTV/61560abb6ae4b60007300555-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6475bfec536e0c0008858e9f" tvg-id="6475bfec536e0c0008858e9f" tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" tvg-chno="103" group-title="Spain" , Pluto TV K-Drama
-https://r.mjh.nz/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8
+https://jmp2.uk/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8
 #EXTINF:25, Anime All day
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -93,15 +93,15 @@ http://supersonictv.live:8080/alfredcal/2224455662/79730
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/60924
 #EXTINF:0, Avatar
-https://r.mjh.nz/PlutoTV/656df599c0fc8800089c75ab-alt.m3u8
+https://jmp2.uk/PlutoTV/656df599c0fc8800089c75ab-alt.m3u8
 #EXTINF:0, Sailor Moon
-https://r.mjh.nz/PlutoTV/637e55347427a40007fac703-alt.m3u8
+https://jmp2.uk/PlutoTV/637e55347427a40007fac703-alt.m3u8
 #EXTINF:0, Lupin the 3rd
-https://r.mjh.nz/PlutoTV/63b5964d1bdba1000712521f-alt.m3u8
+https://jmp2.uk/PlutoTV/63b5964d1bdba1000712521f-alt.m3u8
 #EXTINF:0, Naruto
-https://r.mjh.nz/PlutoTV/5da0c85bd2c9c10009370984-alt.m3u8
+https://jmp2.uk/PlutoTV/5da0c85bd2c9c10009370984-alt.m3u8
 #EXTINF:0, One Piece
-https://r.mjh.nz/PlutoTV/5f7790b3ed0c88000720b241-alt.m3u8
+https://jmp2.uk/PlutoTV/5f7790b3ed0c88000720b241-alt.m3u8
 #EXTINF:60, Yu-Gi-Oh
 https://i.mjh.nz/Roku/77946e082d8958f599087890aebf1623.m3u8
 #EXTINF:0,Kami no Tou
