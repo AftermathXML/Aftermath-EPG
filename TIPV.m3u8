@@ -545,3 +545,38 @@ https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3.m3u8
 
 #EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb" tvg-id="647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/78b07413-c779-4f4b-be63-f3e8d85e7a4c/Plex_FilmRise_FreeMoviesCA_Color_Logo.png" , FilmRise Free Movies
 https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb.m3u8
+
+
+#EXTINF:57, Plex Aliwko
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64d4ee537b323f6abbd19e59.m3u8
+#EXTINF:0, Plex AsianCrush
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767.m3u8
+#EXTINF:50,Plex Asian Crush SBS
+https://newidco-sbs-1-eu.zeasn.wurl.tv/playlist.m3u8
+#EXTINF:0, Plex Hi-YAH!
+https://jmp2.uk/Roku/2deae9b4e83550f88f6776c45df08315.m3u8
+#EXTINF:0, Plex Wu Tang Collection
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8
+#EXTINF:0, Plex Kaijun
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/6452c8cee1979c0008608e27-alt.m3u8
+#EXTINF:0, Plex Flicks of Fury
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/58e55b14ad8e9c364d55f717-alt.m3u8
+#EXTINF:25, Plex K-Content by CJ ENM
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/6176ff3ba00900000763710f-alt.m3u8
+#EXTINF:0, Plex TokuSHOUTsu
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
+#EXTINF:0, Plex Viki
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f.m3u8
+#EXTINF:0, Plex K.MOVIES
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131.m3u8
+#EXTINF:32, Plex OnDemandChina
+https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112b.m3u8
