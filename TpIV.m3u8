@@ -1,156 +1,67 @@
 #EXTM3U
 
 
-#EXTINF:0,Music Choice: '70's
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551299
-#EXTINF:0,Music Choice: '80's
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551298
-#EXTINF:0,Music Choice: '90's
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551297
-#EXTINF:0,Music Choice: Adult Alternative
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551296
-#EXTINF:0,Music Choice: Alternative
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551295
-#EXTINF:0,Music Choice: Blues
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551294
-#EXTINF:0,Music Choice: Classic Country
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551293
-#EXTINF:0,Music Choice: Classic Rock
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551292
-#EXTINF:0,Music Choice: Classical Masterpieces
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551291
-#EXTINF:0,Music Choice: Contemporary Christian
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551290
-#EXTINF:0,Music Choice: Country Hits
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551289
-#EXTINF:0,Music Choice: Dance/EDM
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551288
-#EXTINF:0,Music Choice: Easy Listening
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551287
-#EXTINF:0,Music Choice: Gospel
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551286
-#EXTINF:0,Music Choice: Hip-Hop and R&B
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551285
-#EXTINF:0,Music Choice: Hip-Hop Classics
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551284
-#EXTINF:0,Music Choice: Hit List
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551283
-#EXTINF:0,Music Choice: Indie
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551282
-#EXTINF:0,Music Choice: Jazz
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551281
-#EXTINF:0,Music Choice: Kidz Only!
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551280
-#EXTINF:0,Music Choice: Light Classical
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551279
-#EXTINF:0,Music Choice: Love Songs
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551278
-#EXTINF:0,Music Choice: Max
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551277
-#EXTINF:0,Music Choice: Metal
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551276
-#EXTINF:0,Music Choice: Mexicana
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551275
-#EXTINF:0,Music Choice: Musica Urbana
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551274
-#EXTINF:0,Music Choice: Party Favorites
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551273
-#EXTINF:0,Music Choice: Pop & Country
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551272
-#EXTINF:0,Music Choice: Pop Hits
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551271
-#EXTINF:0,Music Choice: Pop Latino
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551270
-#EXTINF:0,Music Choice: R&B Classics
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551269
-#EXTINF:0,Music Choice: R&B Soul
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551268
-#EXTINF:0,Music Choice: Rap
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551267
-#EXTINF:0,Music Choice: Reggae
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551266
-#EXTINF:0,Music Choice: Rock
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551265
-#EXTINF:0,Music Choice: Rock Hits
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551264
-#EXTINF:0,Music Choice: Romances
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551263
-#EXTINF:0,Music Choice: Singers & Swing
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551262
-#EXTINF:0,Music Choice: Smooth Jazz
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551261
-#EXTINF:0,Music Choice: Soft Rock
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551260
-#EXTINF:0,Music Choice: Solid Gold Oldies
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551259
-#EXTINF:0,Music Choice: Sounds of the Seasons
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551258
-#EXTINF:0,Music Choice: Soundscapes
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551257
-#EXTINF:0,Music Choice: Stage & Screen
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551256
-#EXTINF:0,Music Choice: Teen Beats
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551255
-#EXTINF:0,Music Choice: Throwback Jams
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551254
-#EXTINF:0,Music Choice: Today's Country
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551253
-#EXTINF:0,Music Choice: Toddler Tunes
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551252
-#EXTINF:0,Music Choice: Tropicales
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551251
-#EXTINF:0,Music Choice: Y2K
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/normatv1/Yi9z3eDQ6z/551250
+#EXTINF:0,US: Music Choice 80s
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50290.ts
+#EXTINF:0,US: Music Choice 90s
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50291.ts
+#EXTINF:0,US: Music Choice Alternative
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50292.ts
+#EXTINF:0,US: Music Choice Classic Alternative
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50293.ts
+#EXTINF:0,US: Music Choice Dance EDM
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50294.ts
+#EXTINF:0,US: Music Choice Hip Hop & R&B
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50295.ts
+#EXTINF:0,US: Music Choice Hit List
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50296.ts
+#EXTINF:0,US: Music Choice Indie
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50297.ts
+#EXTINF:0,US: Music Choice Kidz Bop
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50298.ts
+#EXTINF:0,US: Music Choice Kidz Only
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50299.ts
+#EXTINF:0,US: Music Choice Max
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50300.ts
+#EXTINF:0,US: Music Choice METAL
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50301.ts
+#EXTINF:0,US: Music Choice Mexican
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50302.ts
+#EXTINF:0,US: Music Choice Musica URBANa
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50303.ts
+#EXTINF:0,US: Music Choice Pop & Country
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50304.ts
+#EXTINF:0,US: Music Choice Pop Hits
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50305.ts
+#EXTINF:0,US: Music Choice Pop Latino
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50306.ts
+#EXTINF:0,US: Music Choice R&B Soul
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50307.ts
+#EXTINF:0,US: Music Choice Rap
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50308.ts
+#EXTINF:0,US: Music Choice Rock
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50309.ts
+#EXTINF:0,US: Music Choice Soft Rock
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50310.ts
+#EXTINF:0,US: Music Choice Teen Beats
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50311.ts
+#EXTINF:0,US: Music Choice Throwback Jamz
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50312.ts
+#EXTINF:0,US: Music Choice Todays Country
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50313.ts
+#EXTINF:0,US: Music choice Toddler Tunes
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50314.ts
+#EXTINF:0,US: Music Choice Tropicales
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50315.ts
+#EXTINF:0,US: Music Choice Urbana
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50316.ts
+#EXTINF:0,US: Music Choice Y2K
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50317.ts
+#EXTINF:0,US: Music Choice Youth Hits
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50318.ts
+#EXTINF:0,US: Music Choice ​Country Hits
+http://cloudy.hdstreams.site:8000/d0:d0:03:48:9e:6e./Alinlupascu/50319.ts
+
 
 
 
