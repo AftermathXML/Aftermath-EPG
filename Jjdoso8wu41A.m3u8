@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:0,9 GEM
-http://iptvtree.net:8080/NJEGOSLAV/9358/81783
+http://iptvtree.net:8080/F19236/516c41c7/81783
 #EXTINF:0,9 Go!
-http://iptvtree.net:8080/NJEGOSLAV/9358/81798
+http://iptvtree.net:8080/F19236/516c41c7/81798
 #EXTINF:0,9 Life
-http://iptvtree.net:8080/NJEGOSLAV/9358/81807
+http://iptvtree.net:8080/F19236/516c41c7/81807
 #EXTINF:0,7 Flix
-http://iptvtree.net:8080/NJEGOSLAV/9358/144773
+http://iptvtree.net:8080/F19236/516c41c7/144773
 #EXTINF:0,7 mate
-http://iptvtree.net:8080/NJEGOSLAV/9358/144774
+http://iptvtree.net:8080/F19236/516c41c7/144774
 #EXTINF:0,7 Two
-http://iptvtree.net:8080/NJEGOSLAV/9358/144760
+http://iptvtree.net:8080/F19236/516c41c7/144760
 #EXTINF:0,9 Rush 
-http://iptvtree.net:8080/NJEGOSLAV/9358/182411
+http://iptvtree.net:8080/F19236/516c41c7/182411
 #EXTINF:0,Seven Network
-http://iptvtree.net:8080/NJEGOSLAV/9358/295037
+http://iptvtree.net:8080/F19236/516c41c7/295037
 
 #EXTINF:0,CMT (CA)
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57258
@@ -182,7 +182,7 @@ https://jmp2.uk/PlutoTV/5aec96ec5126c2157123c657-alt.m3u8
 #EXTINF:0,APTN
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57320
 #EXTINF:0,Adult Swim
-http://iptvtree.net:8080/NJEGOSLAV/9358/9218
+http://iptvtree.net:F19236/516c41c7/9358/9218
 #EXTINF:0,AMC
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/209
@@ -413,9 +413,9 @@ https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06.m3u8
 
 
 #EXTINF:-1,GEM
-http://iptvtree.net:8080/one-day-test-89fc/54CbToqS2c/298533
+http://iptvtree.net:8080/F19236/516c41c7/298533
 #EXTINF:-1,ONE
-http://iptvtree.net:8080/one-day-test-89fc/54CbToqS2c/298563
+http://iptvtree.net:8080/F19236/516c41c7/298563
 
 
 #EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05" tvg-id="647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a46d9c7e-5c41-47b6-aeba-c668e9d91a11/FilmRiseWestern_Logo_Color.png" , FilmRise Western
