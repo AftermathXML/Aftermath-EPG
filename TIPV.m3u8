@@ -1,93 +1,12 @@
 #EXTM3U
-#EXTINF:0,24/7 Action Movie
-http://supersonictv.live:8080/770821/628442/40480
-#EXTINF:0,24/7 Action Movie 1
-http://supersonictv.live:8080/770821/628442/61935
-#EXTINF:0,24/7 Action Movie 2
-http://supersonictv.live:8080/770821/628442/61936
-#EXTINF:0,24/7 Action Movie 3
-http://supersonictv.live:8080/770821/628442/61937
-#EXTINF:0,24/7 Action Movie 4
-http://supersonictv.live:8080/770821/628442/61938
-#EXTINF:0,24/7 Action Movie 5
-http://supersonictv.live:8080/770821/628442/61939
-#EXTINF:0,24/7 Adventure Movie
-http://supersonictv.live:8080/770821/628442/40482
-#EXTINF:0,24/7 Alien Movie 1
-http://supersonictv.live:8080/770821/628442/47635
-#EXTINF:0,24/7 Alien Movie 2
-http://supersonictv.live:8080/770821/628442/47636
-#EXTINF:0,24/7 Alien Movie 3
-http://supersonictv.live:8080/770821/628442/47637
-#EXTINF:0,24/7 Alien Movie 4
-http://supersonictv.live:8080/770821/628442/47638
-#EXTINF:0,24/7 Alien Movie 5
-http://supersonictv.live:8080/770821/628442/47639
-#EXTINF:0,24/7 Animation Movie
-http://supersonictv.live:8080/770821/628442/40483
-#EXTINF:0,24/7 Comedy Movie
-http://supersonictv.live:8080/770821/628442/40484
-#EXTINF:0,24/7 Comedy Movie 2
-http://supersonictv.live:8080/770821/628442/40485
-#EXTINF:0,24/7 Drama Movie
-http://supersonictv.live:8080/770821/628442/40489
-#EXTINF:0,24/7 Horror Movie
-http://supersonictv.live:8080/770821/628442/40492
-#EXTINF:0,24/7 Horror Movie 2
-http://supersonictv.live:8080/770821/628442/40493
-#EXTINF:0,24/7 Mob Movie
-http://supersonictv.live:8080/770821/628442/40497
-#EXTINF:0,24/7 Mob Movie 2
-http://supersonictv.live:8080/770821/628442/40498
-#EXTINF:0,24/7 Mob Movie 3
-http://supersonictv.live:8080/770821/628442/40499
-#EXTINF:0,24/7 Mob Movie 4
-http://supersonictv.live:8080/770821/628442/40500
-#EXTINF:0,24/7 Mob Movie 5
-http://supersonictv.live:8080/770821/628442/40501
-#EXTINF:0,24/7 Music Movie
-http://supersonictv.live:8080/770821/628442/40502
-#EXTINF:0,27/7 Family Movie
-http://supersonictv.live:8080/770821/628442/40490
-
-#EXTINF:0,24/7 Horror Movie 3
-http://vp-txpro.com:80/whatthephil56/d5Rx59pdXqme/44252
-
-
-#EXTINF:0,24/7 Horror Movie 4
-http://vp-txpro.com:80/whatthephil56/d5Rx59pdXqme/44329
-
-
-#EXTINF:0,24/7 Horror Movie 5
-http://vp-txpro.com:80/whatthephil56/d5Rx59pdXqme/44346
-
-
-#EXTINF:0,24/7 Horror Movie 6
-http://vp-txpro.com:80/whatthephil56/d5Rx59pdXqme/44441
-
-
-#EXTINF:0,CINEBOX BLOCKBUSTER FHD
-http://441151962804821088.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/821088.ts
-#EXTINF:0,CINEBOX COMEDY FHD
-http://441151962804855136.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/855136.ts
-#EXTINF:0,CINEBOX CULT FHD
-http://441151962804821091.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/821091.ts
-#EXTINF:0,CINEBOX FAMILY FHD
-http://441151962804821092.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/821092.ts
-#EXTINF:0,CINEBOX HITS FH FHD
-http://441151962804827667.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/827667.ts
-#EXTINF:0,CINEBOX MUSICAL FHD
-http://441151962804821094.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/821094.ts
-#EXTINF:0,CINEBOX PREMIERE FHD
-http://441151962804827668.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/827668.ts
-#EXTINF:0,CINEBOX ROMANCE FHD
-http://441151962804863393.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/863393.ts
-#EXTINF:0,CINEBOX SCI-FI FHD
-http://441151962804858984.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/858984.ts
-#EXTINF:0,CINEBOX THRILLER FHD
-http://441151962804858985.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/858985.ts
-#EXTINF:0,CINEBOX WESTERN FHD
-http://441151962804858986.otjb0606.xyz:80/live/vi811934/mySa9VmhEHm6/858986.ts
+#EXTINF:-1,LA | HBO+
+http://168.181.122.234:8000/play/a02x/index.m3u8
+#EXTINF:-1,LA | HBO Xtreme
+http://168.181.122.234:8000/play/a02s/index.m3u8
+#EXTINF:-1,LA | HBO Family
+http://168.181.122.234:8000/play/a02r/index.m3u8
+#EXTINF:-1,LA | HBO
+http://168.181.122.234:8000/play/a02o/index.m3u8
 #EXTINF:0,MGM+
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/174
