@@ -2999,3 +2999,12 @@ http://mains.services/live/pmf0423/1aku0jt%40/f2b2404c-4abb-470a-99aa-83680f96a8
 #EXTINF:0,Zorro
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/81c730c4-6eeb-47be-95d2-6528c05c8bf6.m3u
+#EXTINF:0,Goosebumps
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/60111
+#EXTINF:0,Scooby Doo and Guess Who
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/81104
+#EXTINF:0,SCOOBY-DOO
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/60897
