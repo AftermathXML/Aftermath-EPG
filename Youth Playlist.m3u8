@@ -1,8 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Animax_logo.svg" group-title="Anime",Animax
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.rwlBYxzgKt2dexn5I1_zpQHaFj?pid=ImgDetMain",DreamWorks
+https://ln.run/Dreamworks
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/Animax_logo.svg",Animax
 https://ln.run/AniBaCK
-#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WrysdkWqi6r763mRD8GO2o7Xn854zCml" group-title="Anime",Anime All Day
+#EXTINF:-1 tvg-logo="https://drive.google.com/uc?export=view&id=1WrysdkWqi6r763mRD8GO2o7Xn854zCml"Anime All Day
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 
@@ -11,7 +14,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b7d32
 #EXTVLCOPT:network-caching=1000
 https://live.realms.pub/live/e9187070-04b5-422e-85c7-817615f616f6/index.m3u8
 
-#EXTINF:-1 channel-id="mjh-10-adultanimation" tvg-id="mjh-10-adultanimation" tvg-logo="https://10play.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png" group-title="Au" , Adult Animation
+#EXTINF:-1 channel-id="mjh-10-adultanimation" tvg-id="mjh-10-adultanimaton" tvg-logo="https://10play.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png" group-title="Au" , Adult Animation
 https://i.mjh.nz/10-adultanimation.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
 #EXTINF:0, Animax
