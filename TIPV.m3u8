@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:0,Carib: HBO Carib
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/609529
+#EXTINF:0,Carib: HBO Mundi
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/609532
+#EXTINF:0,Carib: HBO Munla
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/609533
+#EXTINF:0,Carib: HBO Pop
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/609535
 #EXTINF:0,CA HBO 2 (R)
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57438
 #EXTINF:0,CA: HBO 1 
