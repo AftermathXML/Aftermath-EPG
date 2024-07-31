@@ -1,4 +1,11 @@
 #EXTM3U
+
+#EXTINF:0,Married... with Children
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/alfredcal/2224455662/77138
+
+
+
 #EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-62f5303cb2258cb00041732d" tvg-id="647f8d22a2fc3fadb4721685-62f5303cb2258cb00041732d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6dfdcb84-b2fd-4f15-8da7-74a84ccad732/TV_Asia_channel_logo_1500x1000_copyrdx.png" , TV Asia Comedy Powered by Shemaroo
 https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-62f5303cb2258cb00041732d.m3u8
 #EXTINF:102,RetroCrush
