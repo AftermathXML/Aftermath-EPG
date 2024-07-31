@@ -177,12 +177,8 @@ http://vo01.mohdtv.com:8880/voby4846/59129684/28891
 #EXTINF:0,Nick Jr UK
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/28890
-#EXTINF:0,Family
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/30184
-#EXTINF:0,Teletoon Canada
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/30117
+
+
 #EXTINF:25, 90's Kids
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -237,16 +233,6 @@ http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57380
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57349
 #EXTINF:0,Disney XD Canada
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57420
-#EXTINF:0,Disney Channel Canada
-http://vo01.mohdtv.com:8880/voby4846/59129684/3046
-#EXTINF:0,Family Canada
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://5.181.236.159:8484/stream/canada/familyeast/master.m3u8
-#EXTINF:0,Family Jr. Canada
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://5.181.236.159:8484/stream/canada/familyjrhd/master.m3u8
 #EXTINF:0,Pop +1
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -504,3 +490,18 @@ http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/566958
 http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/566959
 #EXTINF:0,ANIME 09 ᴴᴰ
 http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/566960
+
+
+#EXTINF:0,Teletoon
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418518
+#EXTINF:0,Disney Channel (E)
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/423762
+#EXTINF:0,Family Channel
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/423763
+#EXTINF:0,Family JR.
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418464
+
