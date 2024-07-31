@@ -162,8 +162,6 @@ http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551250
 
 #EXTINF:60, WMX Hip Hop
 https://jmp2.uk/Roku/df14db5ffb64531ea5132b8345be4914.m3u8
-#EXTINF:0, WMX Pop
-https://jmp2.uk/Roku/e2ba2f7fcfe85153ba70c5af66fa22ff.m3u8
 #EXTINF:0, WMX Rock
 https://jmp2.uk/Roku/5941b88c38ab50ad8b09b0d920abbae5.m3u8
 #EXTINF:60,Now 70's
@@ -194,9 +192,6 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54.m3u8
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199.m3u8
 #EXTINF:60, Qwest TV
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8
-#EXTINF:30, Relaxing Nature in 4k
-#EXTVLCOPT:network-caching=1000
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1702955123/ei/E7SAZaXJDOm8sfIP2fKQ2A4/ip/20.171.78.152/id/i7U9ThH3ZzU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9_xYzCEBqyZrZi-75q-myj9JwdI39xMwdkhNg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJbrg-vIJyxCw6GgqW6VDFtb0JQ0FW4iY3iEOkclwgGhAiEA4wVOLfNzl1ATXUSHo_UU25aKqEuUuePZeIJdssBCbcs%3D/file/index.m3u8
 #EXTINF:0, Remember the ‘80s
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb.m3u8
 #EXTINF:0, Soul Storm
@@ -319,15 +314,9 @@ https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
 #EXTINF:0,Bridge Шлягер (1080p) [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
-#EXTINF:60,Escapes
-#EXTVLCOPT:network-caching=1000
-https://d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991280
 #EXTINF:58,Escapes alt
 #EXTVLCOPT:network-caching=1000
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991280
-#EXTINF:0,FastCast4u.com AutoDJ
-#EXTVLCOPT:network-caching=1000
-http://192.95.39.65:5607/stream
 #EXTINF:0,Fireplace Lounge
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25045&ads.show_id=653&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Fireplace%20Lounge&ads.episodetitle=Fireplace%20Lounge&ads.keywords=fireplace%2Clounge%20videos&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
@@ -343,12 +332,6 @@ https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:0,iHeart Alt Radio
 #EXTVLCOPT:network-caching=1000
 https://iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:0,Iheart Christmas
-#EXTVLCOPT:network-caching=1000
-https://dbrb49pjoymg4.cloudfront.net/10001/99951199/hls/playlist.m3u8?ads.xumo_channelId=99951199
-#EXTINF:0,Iheart Christmas Jazz
-#EXTVLCOPT:network-caching=1000
-https://dbrb49pjoymg4.cloudfront.net/10001/99951200/hls/playlist.m3u8?ads.xumo_channelId=99951200
 #EXTINF:0,iHeart Country 
 #EXTVLCOPT:network-caching=1000
 https://iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8
