@@ -1,4 +1,19 @@
 #EXTM3U
+
+#EXTINF:0,Hollywood 00s
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418633
+#EXTINF:0,Hollywood 70s
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418630
+#EXTINF:0,Hollywood 80s
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418631
+#EXTINF:0,Hollywood 90s
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418632
+
+
 #EXTINF:0,Carib: HBO Carib
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/609529
