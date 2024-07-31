@@ -1,4 +1,91 @@
 #EXTM3U
+
+#EXTINF:0,UK: Comedy Central Extra
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507909
+#EXTINF:0,UK: CBS Drama
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/516952
+#EXTINF:0,UK: CBS Reality
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507896
+#EXTINF:0,UK: CBS Reality +1
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507897
+#EXTINF:0,UK: ITV 1
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507935
+#EXTINF:0,UK: ITV 1 +1
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507936
+#EXTINF:0,UK: ITV 2
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507938
+#EXTINF:0,UK: ITV 2 +1
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507939
+#EXTINF:0,UK: ITV 3
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507941
+#EXTINF:0,UK: ITV 3 +1
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507942
+#EXTINF:0,UK: ITV 4
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507944
+#EXTINF:0,UK: ITV 4 +1
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507945
+#EXTINF:0,UK: ITV Be
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507947
+#EXTINF:0,UK: Sky Arts
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507978
+#EXTINF:0,UK: Sky Atlantic
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507980
+#EXTINF:0,UK: Sky Crime
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507982
+#EXTINF:0,UK: Sky Max
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507984
+#EXTINF:0,UK: Sky News
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508065
+#EXTINF:0,UK: Sky Showcase
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507986
+#EXTINF:0,UK: Sky Witness
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507988
+#EXTINF:0,UK: Crime & Investigation
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508078
+#EXTINF:0,UK: Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508080
+#EXTINF:0,UK: Discovery History
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508082
+#EXTINF:0,UK: Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508084
+#EXTINF:0,UK: Discovery Turbo
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508086
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0,9 GEM
 http://iptvtree.net:8080/F19236/516c41c7/81783
 #EXTINF:0,9 Go!
