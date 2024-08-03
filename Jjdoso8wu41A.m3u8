@@ -1,63 +1,6 @@
 #EXTM3U
-#EXTINF:0,Classic Movies Channel
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/561c5b0dada51f8004c4d855-alt.m3u8
-#EXTINF:0,Classic TV Comedy
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/5f15e32b297f96000768f928-alt.m3u8
-#EXTINF:0,Classic TV Crime Drama
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/61325c4f982acd000723287e-alt.m3u8
-#EXTINF:0,Classic TV Drama
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/5f15e3cccf49290007053c67-alt.m3u8
-#EXTINF:0,Classic TV Variety
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/64d1867c6b1fdb0008c6c95b-alt.m3u8
-#EXTINF:0,Classic TV: Families
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/61325d18f5166c00081b84e0-alt.m3u8
-#EXTINF:0,Comedy Central Pluto TV
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/5ca671f215a62078d2ec0abf-alt.m3u8
 #EXTINF:60, Comedy Dynamics
 https://jmp2.uk/Roku/bc68164868385873a0f2b1c649fa2495.m3u8
-#EXTINF:0,Confess by Nosey
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/634ee8f95aa9870007248333-alt.m3u8
-#EXTINF:58,Crackle
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5fd2759bc8634d002d9ff9bc.m3u8
-#EXTINF:0,Crime 360
-https://jmp2.uk/Roku/0455f88e83625b3c8c302db0c30fe01e.m3u8
-#EXTINF:0,Crime ThrillHer
-https://jmp2.uk/Roku/04e5bbc5f478580dabee165ba747ea16.m3u8
-#EXTINF:0,Crimes Cults Killers
-https://jmp2.uk/Roku/14fafce34e4d5af99db4141edb1db371.m3u8
-#EXTINF:0,Game Show Central
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/5e54187aae660e00093561d6-alt.m3u8
-#EXTINF:25,Global News Kingston
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/62cbf4964446e2000742073e-alt.m3u8
-#EXTINF:0,Haunt TV
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/SamsungTVPlus/USBC4400006BR.m3u8
-#EXTINF:0,ION
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/65453f30085df200085883d8-alt.m3u8
-#EXTINF:0,Midnight Pulp
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4427.m3u8
-#EXTINF:60,Non-Stop '90s (US VPN)
-https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-65bd5a538314c24e11553543.m3u8
-#EXTINF:0,Nosey
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/5aec96ec5126c2157123c657-alt.m3u8
-#EXTINF:60,PBS Retro
-https://jmp2.uk/Roku/34335ef32c02519d897664a78767cc59.m3u8
-#EXTINF:0,UnXplained Zone
-https://jmp2.uk/Roku/96d8548fc5765585b95b8138b4f9f2ef.m3u8
 #EXTINF:0,A&E (US VPN)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -123,9 +66,6 @@ https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
 #EXTINF:0,CBC News (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57304
-#EXTINF:0,CBC News (US VPN)
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57304
 #EXTINF:0,CBC Toronto (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57260
@@ -139,10 +79,10 @@ http://defaultgen.com:3050/odette99/Z2BQQrHhj3/516952
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:0,CBS Reality (US VPN)
 #EXTVLCOPT:network-caching=1000
-http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507896
+http://fortv.cc:8080/8bqC68/409069/53752
 #EXTINF:0,CBS Reality (US VPN)
 #EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/53752
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507896
 #EXTINF:0,CBS Reality +1 (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507897
@@ -152,21 +92,34 @@ https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e
 #EXTINF:0,City TV (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57394
+#EXTINF:0,Classic Movies Channel
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/561c5b0dada51f8004c4d855-alt.m3u8
+#EXTINF:0,Classic TV Comedy
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/5f15e32b297f96000768f928-alt.m3u8
+#EXTINF:0,Classic TV Crime Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/61325c4f982acd000723287e-alt.m3u8
+#EXTINF:0,Classic TV Drama
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/5f15e3cccf49290007053c67-alt.m3u8
+#EXTINF:0,Classic TV Variety
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/64d1867c6b1fdb0008c6c95b-alt.m3u8
+#EXTINF:0,Classic TV: Families
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/61325d18f5166c00081b84e0-alt.m3u8
+#EXTINF:0,CMT (CA) (US VPN)
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57258
 #EXTINF:0,CMT (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/355
-#EXTINF:0,CMT (CA) (US VPN)
-http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57258
 #EXTINF:0,CNBC (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/192
 #EXTINF:0,CNN (US VPN)
 #EXTVLCOPT:network-caching=1000
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:0,CNN (US VPN)
-#EXTVLCOPT:network-caching=1000
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:0,CNN (US VPN)
-http://streamsy.online:2999/Jaley1990/L6KomjzBxv/191
 #EXTINF:0,Comedy Central (US VPN)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -174,9 +127,15 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/190
 #EXTINF:0,Comedy Central Extra (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507909
+#EXTINF:0,Comedy Central Pluto TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/5ca671f215a62078d2ec0abf-alt.m3u8
 #EXTINF:0,Comet 
 #EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+#EXTINF:0,Confess by Nosey
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/634ee8f95aa9870007248333-alt.m3u8
 #EXTINF:0,Cooking Channel (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/189
 #EXTINF:32,CourtTV (US VPN)
@@ -187,9 +146,18 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1460
 #EXTINF:0,CP24 News HD (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57401
+#EXTINF:58,Crackle
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5fd2759bc8634d002d9ff9bc.m3u8
 #EXTINF:0,Crime & Investigation (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508078
+#EXTINF:0,Crime 360
+https://jmp2.uk/Roku/0455f88e83625b3c8c302db0c30fe01e.m3u8
+#EXTINF:0,Crime ThrillHer
+https://jmp2.uk/Roku/04e5bbc5f478580dabee165ba747ea16.m3u8
+#EXTINF:0,Crimes Cults Killers
+https://jmp2.uk/Roku/14fafce34e4d5af99db4141edb1db371.m3u8
 #EXTINF:0,CTV Comedy Channel (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57408
@@ -239,11 +207,11 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/170
 #EXTINF:51,FUSE (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/a2903e36-7a71-4894-baa9-509fe803768a.m3u
+#EXTINF:0,FX (CA) (US VPN)
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57268
 #EXTINF:0,FX (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/46690
-#EXTINF:0,FX (CA) (US VPN)
-http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57268
 #EXTINF:0,FXX (CA) (US VPN)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -254,12 +222,15 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/165
 http://fortv.cc:8080/8bqC68/409069/57429
 #EXTINF:0,FYI (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/164
-#EXTINF:0,Global Kingston
+#EXTINF:0,Game Show Central
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/5e54187aae660e00093561d6-alt.m3u8
+#EXTINF:0,Global Kingston (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57435
-#EXTINF:0,Global Kingston (CA VPN)
+#EXTINF:25,Global News Kingston
 #EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57435
+https://jmp2.uk/PlutoTV/62cbf4964446e2000742073e-alt.m3u8
 #EXTINF:0,Great American Family (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1474
 #EXTINF:0,Great! TV (US VPN)
@@ -275,6 +246,9 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/162
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/356
 #EXTINF:0,Hallmark Movies & Mysteries (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/161
+#EXTINF:0,Haunt TV
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/SamsungTVPlus/USBC4400006BR.m3u8
 #EXTINF:0,HGTV (US VPN)
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -294,6 +268,9 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/151
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/895
 #EXTINF:0,Investigation Discovery (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/150
+#EXTINF:0,ION
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/65453f30085df200085883d8-alt.m3u8
 #EXTINF:0,ION TV (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/809
 #EXTINF:0,ITV 1 (US VPN)
@@ -325,8 +302,6 @@ http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507945
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507947
 #EXTINF:0,Laff (US VPN)
 http://thevdm.xyz:25461/Jennifer/Year!/39792
-#EXTINF:0,Laff (US VPN)
-http://thevdm.xyz:25461/Jennifer/Year!/39792
 #EXTINF:0,Lifetime (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/148
 #EXTINF:0,Logo (US VPN)
@@ -334,15 +309,13 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/952
 #EXTINF:0,Love Nature (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1659
 #EXTINF:0,Magnolia Networks (US VPN)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/177
-#EXTINF:0,Magnolia Networks (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/177
 #EXTINF:60,MeTV (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
+#EXTINF:0,Midnight Pulp
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4427.m3u8
 #EXTINF:0,Motor Trend (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/250
 #EXTINF:0,MSNBC (US VPN)
@@ -371,6 +344,11 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/140
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/729
 #EXTINF:0,NewsMax (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/864
+#EXTINF:60,Non-Stop '90s (US VPN)
+https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-65bd5a538314c24e11553543.m3u8
+#EXTINF:0,Nosey
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/5aec96ec5126c2157123c657-alt.m3u8
 #EXTINF:0,OLN (US VPN)
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57366
 #EXTINF:0,ONE (US VPN)
@@ -387,6 +365,8 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/229
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/228
 #EXTINF:0,Paramount (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/221
+#EXTINF:60,PBS Retro
+https://jmp2.uk/Roku/34335ef32c02519d897664a78767cc59.m3u8
 #EXTINF:0,PixL (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1665
 #EXTINF:0,Pop (US VPN)
@@ -398,16 +378,11 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1463
 #EXTINF:0,RetroTV (US VPN)
 #EXTVLCOPT:network-caching=1000
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
-#EXTINF:0,RetroTV (US VPN)
-#EXTVLCOPT:network-caching=1000
-https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
 #EXTINF:0,Revolt (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1006
 #EXTINF:0,Seven Network (US VPN)
 http://iptvtree.net:8080/F19236/516c41c7/295037
 #EXTINF:0,Showcase (US VPN)
-http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/47366
-#EXTINF:0,Showcase HD (US VPN)
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/47366
 #EXTINF:0,Sky Arts (US VPN)
 #EXTVLCOPT:network-caching=1000
@@ -480,6 +455,8 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/300
 http://fortv.cc:8080/8bqC68/409069/20868
 #EXTINF:0,TVO HD (US VPN)
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57369
+#EXTINF:0,UnXplained Zone
+https://jmp2.uk/Roku/96d8548fc5765585b95b8138b4f9f2ef.m3u8
 #EXTINF:0,USA Network (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/251
 #EXTINF:0,VH1 (US VPN)
