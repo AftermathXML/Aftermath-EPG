@@ -466,3 +466,62 @@ https://ln.run/WarnerTV
 #EXTINF:0,Weather Network 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57470
+#EXTM3U
+#EXTINF:54, 80's Sitcom Flashback (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8
+#EXTINF:0, Court TV Legendary Trials (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-648095ad190e97d15c3470e9.m3u8
+#EXTINF:0, FilmRise British TV (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5808.m3u8
+#EXTINF:0, FilmRise Sci-Fi (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580d.m3u8
+#EXTINF:0, FilmRise True Crime (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325.m3u8
+#EXTINF:0, FilmRise Western (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd.m3u8
+#EXTINF:0, FreeTV Action (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d94f1e137315d10db2c80b.m3u8
+#EXTINF:0, FreeTV Crime (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d94c5f137315d10db2c808.m3u8
+#EXTINF:0, FreeTV Drama (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60240f57676235002df19f47.m3u8
+#EXTINF:0, FreeTV Family (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d9509f137315d10db2c80d.m3u8
+#EXTINF:0, FreeTV Fantasy (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d9496e137315d10db2c806.m3u8
+#EXTINF:0, FreeTV Hits (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b284191.m3u8
+#EXTINF:58, FreeTV Horror (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d954cc308687c7d9baa667.m3u8
+#EXTINF:0, FreeTV Live (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8
+#EXTINF:0, FrightFlix (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8
+#EXTINF:0, ION (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-624c37af6281708eabbbe26b.m3u8
+#EXTINF:0, ION Plus (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9.m3u8
+#EXTINF:36, Maximum Effort Channel (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-644bbd7d4272f4a2692cc676.m3u8
+#EXTINF:0, Non-Stop '90s (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-65bd5a538314c24e11553543.m3u8
+#EXTINF:0, Scares by Shudder (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9.m3u8
+#EXTINF:0, Scream Factory TV (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6351991cccee3e1547a8831e.m3u8
+#EXTINF:0, Screambox TV (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-641db53c2f7a0fca29488c99.m3u8
+#EXTINF:36, Spark TV Light & Love (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-614a11bfa6f839154ee3306d.m3u8
+#EXTINF:0, UnXplained Zone (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63c9773e187b3c9f3581fdf8.m3u8
+#EXTINF:0, Watch it Kid (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6.m3u8
+#EXTINF:0, Watch it SCREAM (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8
+#EXTINF:0, Bigtime - Free Movies (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6348a4f190b96ef5e0eb3286.m3u8
+#EXTINF:36, ARTFLIX - Movie Classics (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6348a10d1159f6a5ce819b7f.m3u8
+#EXTINF:0, Grjngo - Western Movies (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63489a771159f6a5ce819b7b.m3u8
