@@ -37,9 +37,6 @@ http://84.203.199.198:9981/stream/service/4a10345a67f047e8a2935a54999996f1
 https://jmp2.uk/Roku/307b3b9ea321539b9688148fc97a8bfd.m3u8
 #EXTINF:0,Discovery Family (US)
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:0,Discovery Family (US)
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/183
 #EXTINF:0,Disney Channel (CA)
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/3046
@@ -154,3 +151,10 @@ http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/9235
 #EXTINF:0,YTV (CA)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/63850
+#EXTINF:0,Teletoon East (CA)
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57372
+#EXTINF:0,Nickelodeon (CA)
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/47349
+#EXTINF:0,Nicktoons (CA)
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/30105
