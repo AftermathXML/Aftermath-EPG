@@ -158,3 +158,7 @@ http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/47349
 #EXTINF:0,Nicktoons (CA)
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/30105
+#EXTINF:-1 channel-id="samsung-US400002PS" tvg-id="US400002PS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20240625T011357SQUARE.png" tvg-chno="2605" group-title="Comedy" ,Animation+ (US)
+https://jmp2.uk/SamsungTVPlus/US400002PS.m3u8
+#EXTINF:-1 channel-id="mjh-10-adultanimation" tvg-id="mjh-10-adultanimation" tvg-logo="https://10play.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png" group-title="Au" ,Adult Animation (AU VPN)
+https://i.mjh.nz/10-adultanimation.m3u8
