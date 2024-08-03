@@ -162,3 +162,7 @@ http://vo01.mohdtv.com:8880/voby4846/59129684/30105
 https://jmp2.uk/SamsungTVPlus/US400002PS.m3u8
 #EXTINF:-1 channel-id="mjh-10-adultanimation" tvg-id="mjh-10-adultanimation" tvg-logo="https://10play.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png" group-title="Au" ,Adult Animation (AU VPN)
 https://i.mjh.nz/10-adultanimation.m3u8
+#EXTINF:-1 channel-id="pluto-5f99e24636d67d0007a94e6d" tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" tvg-chno="350" group-title="Comedy" ,Comedy Animation (US)
+https://jmp2.uk/PlutoTV/5f99e24636d67d0007a94e6d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64f8a949f5b5e4000862467c" tvg-id="64f8a949f5b5e4000862467c" tvg-logo="https://images.pluto.tv/channels/64f8a949f5b5e4000862467c/colorLogoPNG.png" tvg-chno="116" group-title="Comedy" ,Comedy Animation (CA)
+https://jmp2.uk/PlutoTV/64f8a949f5b5e4000862467c-alt.m3u8
