@@ -29,8 +29,6 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/355
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/192
 #EXTINF:0,CNN (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/191
-#EXTINF:0,Comedy Central (US VPN)
-http://streamsy.online:2999/Jaley1990/L6KomjzBxv/190
 #EXTINF:0,Cooking Channel (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/189
 #EXTINF:0,Cowboy Channel (US VPN)
@@ -93,12 +91,8 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/150
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/809
 #EXTINF:0,Lifetime (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/148
-#EXTINF:0,LMN (US VPN)
-http://streamsy.online:2999/Jaley1990/L6KomjzBxv/147
 #EXTINF:0,Logo (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/952
-#EXTINF:0,LongHorn Network (US VPN)
-http://streamsy.online:2999/Jaley1990/L6KomjzBxv/146
 #EXTINF:0,Love Nature (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1659
 #EXTINF:0,Magnolia Networks (US VPN)
@@ -183,9 +177,6 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/251
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/395
 #EXTINF:0,Viceland (US VPN)
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/307
-#EXTINF:0,WE TV (US VPN)
-http://streamsy.online:2999/Jaley1990/L6KomjzBxv/247
-#EXTM3U
 #EXTINF:36,BBC Comedy (US VPN)
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643.m3u8
@@ -241,9 +232,6 @@ https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e
 #EXTINF:0,City TV (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57394
-#EXTINF:0,CMT (US VPN)
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/355
 #EXTINF:0,CMT (CA) (US VPN)
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57258
 #EXTINF:0,CNN (US VPN)
@@ -329,24 +317,8 @@ http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507947
 http://thevdm.xyz:25461/Jennifer/Year!/39792
 #EXTINF:0,MUCH MUSIC (US VPN)
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/215268
-#EXTINF:0,Nat Geo (US VPN)
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/141
-#EXTINF:0,Nat Geo Wild (US VPN)
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/140
 #EXTINF:0,OLN (US VPN)
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57366
-#EXTINF:0,OMNI1 HD (US VPN)
-http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57365
-#EXTINF:0,OMNI2 HD (US VPN)
-http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57364
-#EXTINF:0,Outdoor Channel (US VPN)
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/292
-#EXTINF:0,Outside TV (US VPN)
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/357
 #EXTINF:0,RetroTV (US VPN)
 #EXTVLCOPT:network-caching=1000
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
@@ -381,11 +353,6 @@ http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507986
 #EXTINF:0,Sky Witness (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507988
-#EXTINF:0,SyFy (US VPN)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/214
 #EXTINF:0,Vision (US VPN)
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57468
 #EXTINF:0,Warner TV (US VPN)
