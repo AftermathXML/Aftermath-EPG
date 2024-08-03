@@ -1,114 +1,4 @@
 #EXTM3U
-
-#EXTINF:0,Hollywood 00s
-#EXTVLCOPT:network-caching=1000
-http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418633
-#EXTINF:0,Hollywood 70s
-#EXTVLCOPT:network-caching=1000
-http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418630
-#EXTINF:0,Hollywood 80s
-#EXTVLCOPT:network-caching=1000
-http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418631
-#EXTINF:0,Hollywood 90s
-#EXTVLCOPT:network-caching=1000
-http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418632
-
-
-#EXTINF:0,Carib: HBO Carib
-#EXTVLCOPT:network-caching=1000
-http://defaultgen.com:3050/odette99/Z2BQQrHhj3/609529
-#EXTINF:0,Carib: HBO Mundi
-#EXTVLCOPT:network-caching=1000
-http://defaultgen.com:3050/odette99/Z2BQQrHhj3/609532
-#EXTINF:0,Carib: HBO Munla
-#EXTVLCOPT:network-caching=1000
-http://defaultgen.com:3050/odette99/Z2BQQrHhj3/609533
-#EXTINF:0,Carib: HBO Pop
-#EXTVLCOPT:network-caching=1000
-http://defaultgen.com:3050/odette99/Z2BQQrHhj3/609535
-#EXTINF:0,CA HBO 2 (R)
-http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57438
-#EXTINF:0,CA: HBO 1 
-http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57437
-#EXTINF:-1,LA | HBO+
-http://168.181.122.234:8000/play/a02x/index.m3u8
-#EXTINF:-1,LA | HBO Xtreme
-http://168.181.122.234:8000/play/a02s/index.m3u8
-#EXTINF:-1,LA | HBO Family
-http://168.181.122.234:8000/play/a02r/index.m3u8
-#EXTINF:-1,LA | HBO
-http://168.181.122.234:8000/play/a02o/index.m3u8
-#EXTINF:0,MGM+
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/174
-#EXTINF:0,MGM+ Drive-In
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1461
-#EXTINF:0,MGM+ Hits
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/388
-#EXTINF:0,MGM+ marquee
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/132
-#EXTINF:0,Legend UK
-#EXTVLCOPT:network-caching=1000
-http://84.203.199.198:9981/stream/channel/ceb424dcb243b40d23ab16edb9d0bbde
-#EXTINF:0,Legend Xtra
-#EXTVLCOPT:network-caching=1000
-http://84.203.199.198:9981/stream/channel/9e1753e8c2ee845dc26a1a98bf05b34b
-#EXTINF:0, CINEVAULT
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/USAJ30000148W.m3u8
-#EXTINF:0, CINEVAULT: Classics
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/USBB3200015M8.m3u8
-#EXTINF:0, CINEVAULT: Westerns
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/USAK3508709A.m3u8
-#EXTINF:0, Classic Movies Channel
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/561c5b0dada51f8004c4d855-alt.m3u8
-
-
-#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-63d94c5f137315d10db2c808" tvg-id="647f8d22a2fc3fadb4721685-63d94c5f137315d10db2c808" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d31bf899-f1db-46d8-a1b8-bdc314a0497e/FreeTVCrime_Circle_1500x1000_-_Ralph_Campillo.png" , FreeTV Crime
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-63d94c5f137315d10db2c808.m3u8
-
-#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-63d84f7715431f0798dd6b66" tvg-id="647f8d22a2fc3fadb4721685-63d84f7715431f0798dd6b66" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7c0f3931-048e-4a85-bc15-42eba55d6424/FreeTVDramaVault_Circle_1500x1000_-_Ralph_Campillo.png" , FreeTV Drama Vault
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-63d84f7715431f0798dd6b66.m3u8
-
-#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-63d9509f137315d10db2c80d" tvg-id="647f8d22a2fc3fadb4721685-63d9509f137315d10db2c80d" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9c09c39a-48d1-45da-bb93-999227eabfcd/FreeTV_Family_Color_-_Ralph_Campillo.png" , FreeTV Family
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-63d9509f137315d10db2c80d.m3u8
-
-#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-63d9496e137315d10db2c806" tvg-id="647f8d22a2fc3fadb4721685-63d9496e137315d10db2c806" tvg-logo="https://provider-static.plex.tv/epg/cms/production/99b9023f-cfb9-46b7-bc6b-29970ba3ff04/FreeTV_Fantasy_Color_-_Ralph_CampilloRDX.png" , FreeTV Fantasy
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-63d9496e137315d10db2c806.m3u8
-
-#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-63d954cc308687c7d9baa667" tvg-id="647f8d22a2fc3fadb4721685-63d954cc308687c7d9baa667" tvg-logo="https://provider-static.plex.tv/epg/cms/production/38736fa9-095c-47b6-82f6-b9585e9c5adb/FreeTVHorror_Circle_1500x1000_-_Ralph_Campillo.png" , FreeTV Horror
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-63d954cc308687c7d9baa667.m3u8
-
-#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-629141f6a0ed9c2b6ae63bb0" tvg-id="647f8d22a2fc3fadb4721685-629141f6a0ed9c2b6ae63bb0" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02499982-f91a-460f-9d22-3f2dd59018a2/Always_in_Season_Military_Logo_1500x1000.png" , Gravitas Adrenaline
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-629141f6a0ed9c2b6ae63bb0.m3u8
-
-#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-6291409aa0ed9c2b6ae63bae" tvg-id="647f8d22a2fc3fadb4721685-6291409aa0ed9c2b6ae63bae" tvg-logo="https://provider-static.plex.tv/epg/cms/production/398a08f4-ef08-46a0-b293-ffb2fe273803/gravitas-documentaries-2.png" , Gravitas Documentaries
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6291409aa0ed9c2b6ae63bae.m3u8
-
-#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e" tvg-id="647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e" tvg-logo="https://provider-static.plex.tv/epg/cms/production/eec165bc-3182-4d89-bb3d-dff5e7e00c95/1500x1000_Christmas_Channel_Logo_TRANSPARENT.png" , Gravitas Movies
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-5efe1de7e0b3f5003f5d9f8e.m3u8
-
-#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-6663510e7ce166787145c6a9" tvg-id="647f8d22a2fc3fadb4721685-6663510e7ce166787145c6a9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/769781bf-829b-4863-a199-2ca2b9692e63/MovieSphere_Plex_LogoDisplay_OnDark.png" , MOVIESPHERE
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6663510e7ce166787145c6a9.m3u8
-
-
-#EXTINF:0, Horror by ALTER
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/USBC100001175.m3u8
-#EXTINF:0, Midnight Pulp
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4427.m3u8
-#EXTINF:60, Miramax Movies
-https://i.mjh.nz/Roku/57c3b0c8270c5f839e55661af8b4c88d.m3u8
-#EXTINF:0, Paramount Movie Channel
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/5cb0cae7a461406ffe3f5213-alt.m3u8
 #EXTINF:25, Pluto TV 00s Replay
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/62ba60f059624e000781c436-alt.m3u8
@@ -123,10 +13,10 @@ https://jmp2.uk/PlutoTV/5ca525b650be2571e3943c63-alt.m3u8
 https://jmp2.uk/PlutoTV/5f4d86f519358a00072b978e-alt.m3u8
 #EXTINF:0, Pluto TV Action
 #EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/5dbfeb961b411c00090b52b3-alt.m3u8
+https://jmp2.uk/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
 #EXTINF:0, Pluto TV Action
 #EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
+https://jmp2.uk/PlutoTV/5dbfeb961b411c00090b52b3-alt.m3u8
 #EXTINF:0, Pluto TV Action Movies
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/62ea3c2e4823db00072788ed-alt.m3u8
@@ -144,10 +34,10 @@ https://jmp2.uk/PlutoTV/62ea3d24b8e02600071fa296-alt.m3u8
 https://jmp2.uk/PlutoTV/5f4d8594eb979c0007706de7-alt.m3u8
 #EXTINF:0, Pluto TV Cult Films
 #EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/5c5c31f2f21b553c1f673fb0-alt.m3u8
+https://jmp2.uk/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
 #EXTINF:0, Pluto TV Cult Films
 #EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
+https://jmp2.uk/PlutoTV/5c5c31f2f21b553c1f673fb0-alt.m3u8
 #EXTINF:0, Pluto TV Drama
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/5b4e92e4694c027be6ecece1-alt.m3u8
@@ -160,12 +50,12 @@ https://jmp2.uk/PlutoTV/5dc3fc6b9133f500099c7d98-alt.m3u8
 #EXTINF:0, Pluto TV Fantastic
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/5b64a245a202b3337f09e51d-alt.m3u8
-#EXTINF:0, Pluto TV Horror
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/612cda102f5f18000705e0bf-alt.m3u8
 #EXTINF:25, Pluto TV Horror
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/62ea3f8a38acc80007072d26-alt.m3u8
+#EXTINF:0, Pluto TV Horror
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/612cda102f5f18000705e0bf-alt.m3u8
 #EXTINF:0, Pluto TV Horror
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
@@ -177,10 +67,10 @@ https://jmp2.uk/PlutoTV/5adf96e3e738977e2c31cb04-alt.m3u8
 https://jmp2.uk/PlutoTV/5a66795ef91fef2c7031c599-alt.m3u8
 #EXTINF:0, Pluto TV Sci-Fi
 #EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/5dc02a44a9518600094273ac-alt.m3u8
+https://jmp2.uk/PlutoTV/5b4fc274694c027be6ed3eea-alt.m3u8
 #EXTINF:0, Pluto TV Sci-Fi
 #EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/5b4fc274694c027be6ed3eea-alt.m3u8
+https://jmp2.uk/PlutoTV/5dc02a44a9518600094273ac-alt.m3u8
 #EXTINF:0, Pluto TV Sci-fi Series
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/619247c34a270700077c8415-alt.m3u8
@@ -205,31 +95,28 @@ https://jmp2.uk/PlutoTV/5b4e69e08291147bd04a9fd7-alt.m3u8
 #EXTINF:0, Pluto TV Westerns
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/5b4e94282d4ec87bdcbb87cd-alt.m3u8
-#EXTINF:60, Scream Factory TV
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6351991cccee3e1547a8831e.m3u8
-#EXTINF:55, Screambox TV
-https://i.mjh.nz/Roku/d79c47ebb9745dc4873f24d4c9fc68ce.m3u8
 #EXTINF:25, Universal Action
 https://jmp2.uk/PlutoTV/654933e253fc970008390114-alt.m3u8
 #EXTINF:25, Universal Crime
 https://jmp2.uk/PlutoTV/6549341853fc9700083901ac-alt.m3u8
 #EXTINF:25, Universal Monsters
 https://jmp2.uk/PlutoTV/65a9b20f0c7ff50008d3a3b6-alt.m3u8
-#EXTINF:0, Watch it SCREAM
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-621671d05abdd3d5556a1baf.m3u8
-#EXTINF:0,CRAVE 1 HD
+#EXTINF:0,CA HBO 2 (R)
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57438
+#EXTINF:0,CA: HBO 1 
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57437
+#EXTINF:0,Carib: HBO Carib
 #EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57309
-#EXTINF:0,CRAVE 2 HD
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/609529
+#EXTINF:0,Carib: HBO Mundi
 #EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57310
-#EXTINF:0,CRAVE 3
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/609532
+#EXTINF:0,Carib: HBO Munla
 #EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57322
-#EXTINF:0,CRAVE 4 HD
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/609533
+#EXTINF:0,Carib: HBO Pop
 #EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57311
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/609535
 #EXTINF:0,Cinemax
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -265,6 +152,18 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1606
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1607
+#EXTINF:0,CRAVE 1 HD
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/57309
+#EXTINF:0,CRAVE 2 HD
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/57310
+#EXTINF:0,CRAVE 3
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/57322
+#EXTINF:0,CRAVE 4 HD
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/57311
 #EXTINF:0,FXM
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -300,24 +199,44 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/156
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/155
-#EXTINF:0,Legend UK
+#EXTINF:0,Hollywood 00s
 #EXTVLCOPT:network-caching=1000
-http://84.203.199.198:9981/stream/channel/ceb424dcb243b40d23ab16edb9d0bbde
-#EXTINF:0,Legend Xtra
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418633
+#EXTINF:0,Hollywood 70s
 #EXTVLCOPT:network-caching=1000
-http://84.203.199.198:9981/stream/channel/9e1753e8c2ee845dc26a1a98bf05b34b
-#EXTINF:0,Rakuten TV Top Movies
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418630
+#EXTINF:0,Hollywood 80s
 #EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418631
+#EXTINF:0,Hollywood 90s
 #EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/GBBC90001660.m3u8
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418632
+#EXTINF:0,LA | HBO
+http://168.181.122.234:8000/play/a02o/index.m3u8
+#EXTINF:0,LA | HBO Family
+http://168.181.122.234:8000/play/a02r/index.m3u8
+#EXTINF:0,LA | HBO Xtreme
+http://168.181.122.234:8000/play/a02s/index.m3u8
+#EXTINF:0,LA | HBO+
+http://168.181.122.234:8000/play/a02x/index.m3u8
+#EXTINF:0,MGM+
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/174
+#EXTINF:0,MGM+ Drive-In
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1461
+#EXTINF:0,MGM+ Hits
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/388
+#EXTINF:0,MGM+ marquee
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/132
+#EXTINF:50,Plex Asian Crush SBS
+https://newidco-sbs-1-eu.zeasn.wurl.tv/playlist.m3u8
 #EXTINF:0,Rakuten TV Action Movies
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
-#EXTINF:36,Rakuten TV Romance Movies
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/GBBA3300020DM.m3u8
 #EXTINF:0,Rakuten TV Comedy Movies
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -326,10 +245,14 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
-#EXTINF:0, Rakuten TV Christmas Movies
+#EXTINF:36,Rakuten TV Romance Movies
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
-https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
+https://i.mjh.nz/SamsungTVPlus/GBBA3300020DM.m3u8
+#EXTINF:0,Rakuten TV Top Movies
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://i.mjh.nz/SamsungTVPlus/GBBC90001660.m3u8
 #EXTINF:58,Redbox Faith & Family
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -350,6 +273,62 @@ https://holiday-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-holiday/CDN/playlis
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
+#EXTINF:0,Showtime
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/223
+#EXTINF:0,Showtime 2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/222
+#EXTINF:0,Showtime Extreme
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/385
+#EXTINF:0,Showtime Family Zone
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1464
+#EXTINF:0,Showtime Next
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1187
+#EXTINF:0,Showtime Showcase
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1465
+#EXTINF:0,Showtime Women
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1251
+#EXTINF:0,Sky Cinema Animation
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/53698
+#EXTINF:0,Sky Cinema Comedy
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/35253
+#EXTINF:0,Sky Cinema Drama
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/35251
+#EXTINF:0,Sky Cinema Family
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/53699
+#EXTINF:0,Sky Cinema Greats
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/35249
+#EXTINF:0,Sky Cinema Horror/Sci
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/6SHyY6/595088/35248
+#EXTINF:0,Sky Cinema Premier
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/35256
+#EXTINF:0,Sky Cinema Thriller
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/35252
+#EXTINF:0,SKY HITS
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/35255
 #EXTINF:0,Starz
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -415,118 +394,333 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/397
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1248
-#EXTINF:0,TCM
-#EXTVLCOPT:network-caching=1000
-http://143.244.60.30/TCM/index.m3u8
-#EXTINF:0,SKY HITS
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35255
-#EXTINF:0,Sky Cinema Drama
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35251
-#EXTINF:0,Sky Cinema Comedy
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35253
-#EXTINF:0,Sky Cinema Thriller
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35252
-#EXTINF:0,Sky Cinema Greats
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35249
-#EXTINF:0,Sky Cinema Horror/Sci
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/6SHyY6/595088/35248
-#EXTINF:0,Sky Cinema Animation
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/53698
-#EXTINF:0,Sky Cinema Family
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/53699
-#EXTINF:0,Sky Cinema Premier
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/35256
-#EXTINF:0,Showtime
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/223
-#EXTINF:0,Showtime 2
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/222
-#EXTINF:0,Showtime Extreme
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/385
-#EXTINF:0,Showtime Family Zone
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1464
-#EXTINF:0,Showtime Next
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1187
-#EXTINF:0,Showtime Showcase
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1465
-#EXTINF:0,Showtime Women
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1251
-#EXTINF:0,Virgin Media 1
-#EXTVLCOPT:network-caching=1000
-http://84.203.199.198:9981/stream/channel/bb7276016aa8015097f5fddf37496baf
-#EXTINF:0,Virgin Media 2
-#EXTVLCOPT:network-caching=1000
-http://84.203.199.198:9981/stream/channel/3b5a604c3631112913afad33baedd2b8
-#EXTINF:0,Virgin Media 3
-#EXTVLCOPT:network-caching=1000
-http://84.203.199.198:9981/stream/channel/85603f5d19ca518315823c3c012ac6ea
-#EXTINF:0,Virgin Media 4
-#EXTVLCOPT:network-caching=1000
-http://84.203.199.198:9981/stream/channel/27c05adc99ff8516c49dce318eb3b681
-
-#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c4" tvg-id="647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ce869fe2-88c9-4d78-b594-02148e4755c3/Plex_FilmRise_ActionCA_Color_Logo.png" , FilmRise Action
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c4.m3u8
-
-#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3" tvg-id="647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9e26ce12-4edf-4561-9adb-07b82bf9edfb/Plex_FilmRise_HorrorCA_Color_Logo.png" , FilmRise Horror
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65ddf33acf4a43f7017f31c3.m3u8
-
-#EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb" tvg-id="647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb" tvg-logo="https://provider-static.plex.tv/epg/cms/production/78b07413-c779-4f4b-be63-f3e8d85e7a4c/Plex_FilmRise_FreeMoviesCA_Color_Logo.png" , FilmRise Free Movies
-https://i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65ddf33c7e7be0a1106cd1bb.m3u8
-
-
-#EXTINF:57, Plex Aliwko
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64d4ee537b323f6abbd19e59.m3u8
-#EXTINF:0, Plex AsianCrush
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767.m3u8
-#EXTINF:50,Plex Asian Crush SBS
-https://newidco-sbs-1-eu.zeasn.wurl.tv/playlist.m3u8
-#EXTINF:0, Plex Hi-YAH!
-https://jmp2.uk/Roku/2deae9b4e83550f88f6776c45df08315.m3u8
-#EXTINF:0, Plex Wu Tang Collection
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8
-#EXTINF:0, Plex Kaijun
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/6452c8cee1979c0008608e27-alt.m3u8
-#EXTINF:0, Plex Flicks of Fury
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/58e55b14ad8e9c364d55f717-alt.m3u8
-#EXTINF:25, Plex K-Content by CJ ENM
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/6176ff3ba00900000763710f-alt.m3u8
-#EXTINF:0, Plex TokuSHOUTsu
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
-#EXTINF:0, Plex Viki
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f.m3u8
-#EXTINF:0, Plex K.MOVIES
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131.m3u8
-#EXTINF:32, Plex OnDemandChina
-https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-60d4edd7b2fdec002c14112b.m3u8
+#EXTINF:0,M4: Action
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215269
+#EXTINF:0,M4: Adventure
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215270
+#EXTINF:0,M4: Alien
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215271
+#EXTINF:0,M4: Animation
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215272
+#EXTINF:0,M4: Avengers
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215273
+#EXTINF:0,M4: Batman
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215274
+#EXTINF:0,M4: Biography
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215275
+#EXTINF:0,M4: Blade
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215276
+#EXTINF:0,M4: Blade Runner
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215277
+#EXTINF:0,M4: Comedy
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215278
+#EXTINF:0,M4: Creature
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215279
+#EXTINF:0,M4: Crime
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215280
+#EXTINF:0,M4: Deadpool
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215281
+#EXTINF:0,M4: Die Hard
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215282
+#EXTINF:0,M4: Drama
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215283
+#EXTINF:0,M4: Epic
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215284
+#EXTINF:0,M4: Family
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215285
+#EXTINF:0,M4: Fantasy
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215286
+#EXTINF:0,M4: Fast and the Furious
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215287
+#EXTINF:0,M4: Final Destination
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215288
+#EXTINF:0,M4: Ghostbusters
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215289
+#EXTINF:0,M4: Hangover
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215290
+#EXTINF:0,M4: Harry Potter
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215291
+#EXTINF:0,M4: History
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215292
+#EXTINF:0,M4: Horror
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215293
+#EXTINF:0,M4: Ice Age
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215294
+#EXTINF:0,M4: Indiana Jones
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215295
+#EXTINF:0,M4: James Bond (007)
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215296
+#EXTINF:0,M4: John Wick
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215297
+#EXTINF:0,M4: Jurassic Park
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215298
+#EXTINF:0,M4: Kingsman
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215299
+#EXTINF:0,M4: Legendary
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215300
+#EXTINF:0,M4: Mad Max
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215301
+#EXTINF:0,M4: Maze Runner
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215302
+#EXTINF:0,M4: Men in Black
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215303
+#EXTINF:0,M4: Mission Impossible
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215304
+#EXTINF:0,M4: Musical
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215305
+#EXTINF:0,M4: Mystery
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215306
+#EXTINF:0,M4: Mythological
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215307
+#EXTINF:0,M4: Oceans Eleven
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215308
+#EXTINF:0,M4: Pirates of the Caribbean
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215309
+#EXTINF:0,M4: Planet of Apes
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215310
+#EXTINF:0,M4: Post-Apocalyptic
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215311
+#EXTINF:0,M4: Resident Evil
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215312
+#EXTINF:0,M4: Robot
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215313
+#EXTINF:0,M4: Rocky
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215314
+#EXTINF:0,M4: Romantic
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215315
+#EXTINF:0,M4: Saw
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215316
+#EXTINF:0,M4: Science Fiction
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215317
+#EXTINF:0,M4: Sherlock Holmes
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215318
+#EXTINF:0,M4: Shrek
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215319
+#EXTINF:0,M4: Space
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215320
+#EXTINF:0,M4: Spiderman
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215321
+#EXTINF:0,M4: Sports
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215322
+#EXTINF:0,M4: Spy
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215323
+#EXTINF:0,M4: Star Wars
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215324
+#EXTINF:0,M4: Superhero
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215325
+#EXTINF:0,M4: Survival
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215326
+#EXTINF:0,M4: The Bourne
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215327
+#EXTINF:0,M4: The Conjuring
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215328
+#EXTINF:0,M4: The Expendables
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215329
+#EXTINF:0,M4: The Godfather
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215330
+#EXTINF:0,M4: The Hobbit
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215331
+#EXTINF:0,M4: The Hunger Games
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215332
+#EXTINF:0,M4: The Karete Kid
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215333
+#EXTINF:0,M4: The Lord of The Rings
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215334
+#EXTINF:0,M4: The Matrix
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215335
+#EXTINF:0,M4: The Mummy
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215336
+#EXTINF:0,M4: The Purge
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215337
+#EXTINF:0,M4: The Terminator
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215338
+#EXTINF:0,M4: Three Flavours Cornetto
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215339
+#EXTINF:0,M4: Thriller
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215340
+#EXTINF:0,M4: Toy Story
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215341
+#EXTINF:0,M4: Transformers
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215342
+#EXTINF:0,M4: Transporter
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215343
+#EXTINF:0,M4: Twilight Saga
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215344
+#EXTINF:0,M4: War
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215345
+#EXTINF:0,M4: Western
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215346
+#EXTINF:0,M4: X-Men
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215347
+#EXTINF:0,M4: Zombie
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215348
+#EXTINF:0,M4: Benedict Cumberbatch
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215349
+#EXTINF:0,M4: Bradley Cooper
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215350
+#EXTINF:0,M4: Christian Bale
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215351
+#EXTINF:0,M4: Cillian Murphy
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215352
+#EXTINF:0,M4: Edward Norton
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215353
+#EXTINF:0,M4: Hugh Jackman
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215354
+#EXTINF:0,M4: Jack Nicholson
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215355
+#EXTINF:0,M4: Jake Gyllenhaal
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215356
+#EXTINF:0,M4: Jamie Foxx
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215357
+#EXTINF:0,M4: Jeff Bridges
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215358
+#EXTINF:0,M4: Jim Carrey
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215359
+#EXTINF:0,M4: Johnny Depp
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215360
+#EXTINF:0,M4: Keanu Reeves
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215361
+#EXTINF:0,M4: Liam Neeson
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215362
+#EXTINF:0,M4: Mark Wahlberg
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215363
+#EXTINF:0,M4: Matt Damon
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215364
+#EXTINF:0,M4: Micheal Caine
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215365
+#EXTINF:0,M4: Morgan Freeman
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215366
+#EXTINF:0,M4: Russell Crowe
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215367
+#EXTINF:0,M4: Ryan Reynolds
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215368
+#EXTINF:0,M4: Samuel L. Jakson
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215369
+#EXTINF:0,M4: Tom Cruise
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215370
+#EXTINF:0,M4: Tom Hanks
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215371
+#EXTINF:0,M4: Will Smith
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215372
+#EXTINF:0,M4: Adam Sandler
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215373
+#EXTINF:0,M4: Arnold Schwarzenegger
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215374
+#EXTINF:0,M4: Daniel Craig
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215375
+#EXTINF:0,M4: Dwayne Johnson
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215376
+#EXTINF:0,M4: Gerard Butler
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215377
+#EXTINF:0,M4: Jackie Chan
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215378
+#EXTINF:0,M4: Jason Statham
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215379
+#EXTINF:0,M4: Kevin Hart
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215380
+#EXTINF:0,M4: Orlando Bloom
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215381
+#EXTINF:0,M4: Sylvester Stallone
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215382
+#EXTINF:0,M4: Tom Hardy
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215383
+#EXTINF:0,M4: Amy Adams
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215384
+#EXTINF:0,M4: Anne Hathaway
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215385
+#EXTINF:0,M4: Brie Larson
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215386
+#EXTINF:0,M4: Cate Blanchett
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215387
+#EXTINF:0,M4: Charlize Theron
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215388
+#EXTINF:0,M4: Halle Berry
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215389
+#EXTINF:0,M4: Helen Mirren
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215390
+#EXTINF:0,M4: Brad Pitt
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215391
+#EXTINF:0,M4: Al Pacino
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215392
+#EXTINF:0,M4: Denzel Washington
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215393
+#EXTINF:0,M4: Vin Diesel
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215394
+#EXTINF:0,M4: Bruce Willis
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215395
+#EXTINF:0,M4: Robert Downey Jr
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215396
+#EXTINF:0,M4: Leonardo DiCaprio
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215397
+#EXTINF:0,M4: Angelina Jolie
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215398
+#EXTINF:0,M4: Alicia Vikander
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215399
+#EXTINF:0,M4: Emma Stone
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215400
+#EXTINF:0,M4: Emma Watson
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215401
+#EXTINF:0,M4: Jennifer Lawrence
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215402
+#EXTINF:0,M4: Julia Roberts
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215403
+#EXTINF:0,M4: Julianne Moore
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215404
+#EXTINF:0,M4: Kate Winslet
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215405
+#EXTINF:0,M4: Keira Knightley
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215406
+#EXTINF:0,M4: Kristen Stewart
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215407
+#EXTINF:0,M4: Lupita Nyong` o
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215408
+#EXTINF:0,M4: Margot Robbie
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215409
+#EXTINF:0,M4: Meryl Streep
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215410
+#EXTINF:0,M4: Michelle Pfeiffer
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215411
+#EXTINF:0,M4: Natalie Portman
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215412
+#EXTINF:0,M4: Nicole Kidman
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215413
+#EXTINF:0,M4: Rachel McAdams
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215414
+#EXTINF:0,M4: Reese Witherspoon
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215415
+#EXTINF:0,M4: Salma Hayek
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215416
+#EXTINF:0,M4: Sandra Bullock
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215417
+#EXTINF:0,M4: Saoirse Ronan
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215418
+#EXTINF:0,M4: Scarlett Johansson
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215419
+#EXTINF:0,M4: Viola Davis
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215420
+#EXTINF:0,M4: Cameron Diaz
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215421
+#EXTINF:0,M4: Catherine Zeta-Jones
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215422
+#EXTINF:0,M4: Drew Barrymore
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215423
+#EXTINF:0,M4: Eva Green
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215424
+#EXTINF:0,M4: Jennifer Aniston
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215425
+#EXTINF:0,M4: Jessica Alba
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215426
+#EXTINF:0,M4: Lucy Liu
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215427
+#EXTINF:0,M4: Megan Fox
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215428
+#EXTINF:0,M4: Melissa McCarthy
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215429
+#EXTINF:0,M4: Mila Kunis
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215430
+#EXTINF:0,M4: Penope Cruz
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215431
+#EXTINF:0,M4: Sigourney Weaver
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215432
+#EXTINF:0,M4: Zoe Saldana
+http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215433
