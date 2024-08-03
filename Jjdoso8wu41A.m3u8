@@ -342,8 +342,6 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/140
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/729
 #EXTINF:0,NewsMax 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/864
-#EXTINF:60,Non-Stop '90s 
-https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-65bd5a538314c24e11553543.m3u8
 #EXTINF:0,Nosey
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/5aec96ec5126c2157123c657-alt.m3u8
@@ -451,8 +449,6 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/300
 http://fortv.cc:8080/8bqC68/409069/20868
 #EXTINF:0,TVO HD 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57369
-#EXTINF:0,UnXplained Zone
-https://jmp2.uk/Roku/96d8548fc5765585b95b8138b4f9f2ef.m3u8
 #EXTINF:0,USA Network 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/251
 #EXTINF:0,VH1 
@@ -484,7 +480,7 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d94f1e137315d10db2c80b.m3u8
 #EXTINF:0, FreeTV Crime (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d94c5f137315d10db2c808.m3u8
 #EXTINF:0, FreeTV Drama (US VPN)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60240f57676235002df19f47.m3u8
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d84f7715431f0798dd6b66.m3u8
 #EXTINF:0, FreeTV Family (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d9509f137315d10db2c80d.m3u8
 #EXTINF:0, FreeTV Fantasy (US VPN)
@@ -493,8 +489,6 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d9496e137315d10db2c806.m3u8
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b284191.m3u8
 #EXTINF:58, FreeTV Horror (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d954cc308687c7d9baa667.m3u8
-#EXTINF:0, FreeTV Live (US VPN)
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b28418f.m3u8
 #EXTINF:0, FrightFlix (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8
 #EXTINF:0, ION (US VPN)
