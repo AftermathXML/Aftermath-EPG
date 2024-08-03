@@ -81,8 +81,6 @@ http://181.78.4.186:8000/play/a0hk/index.m3u8
 http://thevdm.xyz:25461/Jennifer/Year!/20874
 #EXTINF:0,Nick Jr. Pluto TV (US VPN)
 https://jmp2.uk/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
-#EXTINF:0,Nickelodeon (AU)
-http://124.180.16.122:9981/stream/channel/141703a60c762dde15e0da8abc84c3b7
 #EXTINF:0,Nickelodeon (LA)
 http://45.177.53.7:8000/play/a0kz/index.m3u8
 #EXTINF:0,Nickelodeon (US VPN)
@@ -95,10 +93,6 @@ https://i.mjh.nz/10-nick-classics.m3u8%7Cuser-agent=Mozilla/5.0%20%28Windows%20N
 https://jmp2.uk/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
 #EXTINF:25,NickRewind (US VPN)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a3b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,NickTeen (AU)
-http://124.180.16.122:9981/stream/channel/ef8379e947537671927dfc8f93496484
-#EXTINF:0,NickToons (AU)
-http://124.180.16.122:9981/stream/channel/4a169c307c0adfc226d3355c78e91703
 #EXTINF:0,Nicktoons (US VPN)
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/28891
