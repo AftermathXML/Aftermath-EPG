@@ -119,7 +119,7 @@ https://tvheadend.tannerserver.homedns.org/stream/channel/3969090f2366dd19e8beb4
 https://jmp2.uk/PlutoTV/60fb028c2e6a0c00075275a5-alt.m3u8
 #EXTINF:0,RetroCrush (US)
 https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c442a.m3u8
-#EXTINF:0,Super Anime (US)
+#EXTINF:0,Super Anime (US VPN)
 https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
 #EXTINF:0,TeenNick (LA)
 http://45.186.106.207:8000/play/a07s/index.m3u8
