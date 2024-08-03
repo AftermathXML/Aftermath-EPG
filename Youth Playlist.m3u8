@@ -1,46 +1,15 @@
 #EXTM3U
-#EXTINF:0,Animax (US VPN)
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/SamsungTVPlus/INBD13000043W.m3u8
-#EXTINF:25,Anime All Day (US)
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/SamsungTVPlus/USAJ3504502A.m3u8
-#EXTINF:60,Crunchyroll (US)
-https://jmp2.uk/Roku/307b3b9ea321539b9688148fc97a8bfd.m3u8
-#EXTINF:25,Forever Kids (US)
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
-#EXTINF:25,Kartoon Channel! (US)
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/60fb040d4795a6000762fe8f-alt.m3u8
-#EXTINF:25,Kids Movie Club (US)
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
-#EXTINF:0,MeTV Toons (US)
-#EXTVLCOPT:network-caching=1000
-https://live.realms.pub/live/e9187070-04b5-422e-85c7-817615f616f6/index.m3u8
-#EXTINF:0,Rainbow Squad (US)
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/60fb028c2e6a0c00075275a5-alt.m3u8
-#EXTINF:0,RetroCrush (US)
-https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c442a.m3u8
-#EXTINF:0,Super Anime (US)
-https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
-#EXTINF:0,Toonami Aftermath (E) (US)
-#EXTVLCOPT:network-caching=1000
-http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:0,Toonami Aftermath (W) (US)
-#EXTVLCOPT:network-caching=1000
-http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
-#EXTINF:25,Totally Teen (US)
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/PlutoTV/6450209d939a5900084dba1d-alt.m3u8
 #EXTINF:0,Adult Swim (CA)
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1883
-#EXTINF:0,Animax (US)
-https://ln.run/AniBaCK
+#EXTINF:0,Animax (US VPN)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/SamsungTVPlus/INBD13000043W.m3u8
+#EXTINF:0,Anime All Day (UK)
+https://jmp2.uk/PlutoTV/667195b3efa2a10008bb631e-alt.m3u8
+#EXTINF:25,Anime All Day (US)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/SamsungTVPlus/USAJ3504502A.m3u8
 #EXTINF:36,ANIME x HIDIVE
 #EXTVLCOPT:network-caching=1000
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
@@ -50,19 +19,40 @@ http://vo01.mohdtv.com:8880/voby4846/59129684/2944
 #EXTINF:0,Boomerang (US)
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/130
+#EXTINF:58,Brat TV (CA)
+https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-63d6f6c5a9e88ee909e7ee1f.m3u8
 #EXTINF:0,Cartoon Network (CA)
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57380
+#EXTINF:8,Cartoon Network (LA)
+http://45.186.106.207:8000/play/a07l/index.m3u8
 #EXTINF:0,Cartoon Network (UK)
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/2938
-#EXTINF:0,Cartoon Network (UK)
-http://84.203.199.198:9981/stream/service/4a10345a67f047e8a2935a54999996f1
 #EXTINF:0,Cartoon Network (US)
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/199
+#EXTINF:0,Cartoon Network +1 (UK)
+http://84.203.199.198:9981/stream/service/4a10345a67f047e8a2935a54999996f1
+#EXTINF:60,Crunchyroll (US)
+https://jmp2.uk/Roku/307b3b9ea321539b9688148fc97a8bfd.m3u8
+#EXTINF:0,Discovery Family (US)
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:0,Discovery Family (US)
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/183
+#EXTINF:0,Disney Channel (CA)
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/3046
+#EXTINF:24,Disney Channel (US)
+http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
+#EXTINF:0,Disney Junior (CA)
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57349
+#EXTINF:0,Disney Junior (US)
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:0,Disney XD (CA)
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57420
+#EXTINF:0,Disney XD (US)
+http://212.102.60.231/DISNEY_XD/index.m3u8
 #EXTINF:0,DreamWorks (LA)
 https://ln.run/Dreamworks
 #EXTINF:0,Family Channel (CA)
@@ -71,99 +61,96 @@ http://defaultgen.com:3050/odette99/Z2BQQrHhj3/423763
 #EXTINF:0,Family JR (CA)
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418464
-#EXTINF:0,Tooncast (LA)
+#EXTINF:0,Forever Kids (US)
+https://jmp2.uk/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
+#EXTINF:25,Kartoon Channel! (US)
 #EXTVLCOPT:network-caching=1000
-http://45.232.176.17:8000/play/a00r
-#EXTINF:0,Treehouse (CA)
+https://jmp2.uk/PlutoTV/60fb040d4795a6000762fe8f-alt.m3u8
+#EXTINF:25,Kids Movie Club (US)
 #EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/57371
-#EXTINF:0,US Universal Kids (US)
-http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/9235
-#EXTINF:0,YTV (CA)
 #EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/8bqC68/409069/63850
-#EXTINF:0,Cartoon Network (CA)
-http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57380
-#EXTINF:0,Disney Junior (CA)
-http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57349
-#EXTINF:0,Disney XD (CA)
-http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57420
-#EXTINF:0,Disney Channel (CA)
+https://jmp2.uk/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
+#EXTINF:113,Kidz Bop TV (CA)
+https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-656fb124cb7e8e6a9bc3f36a.m3u8
+#EXTINF:0,MeTV Toons (US)
 #EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/3046
+https://live.realms.pub/live/e9187070-04b5-422e-85c7-817615f616f6/index.m3u8
+#EXTINF:0,Nick Jr UK (UK)
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/28890
+#EXTINF:0,Nick Jr. (LA)
+http://181.78.4.186:8000/play/a0hk/index.m3u8
+#EXTINF:0,Nick Jr. (US)
+http://thevdm.xyz:25461/Jennifer/Year!/20874
+#EXTINF:0,Nick Jr. Pluto TV (US)
+https://jmp2.uk/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
 #EXTINF:0,Nickelodeon (AU)
 http://124.180.16.122:9981/stream/channel/141703a60c762dde15e0da8abc84c3b7
+#EXTINF:0,Nickelodeon (LA)
+http://45.177.53.7:8000/play/a0kz/index.m3u8
+#EXTINF:0,Nickelodeon (UK)
+http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
+#EXTINF:0,Nickelodeon (US)
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:0,Nickelodeon Classics (AU VPN)
+https://i.mjh.nz/10-nick-classics.m3u8%7Cuser-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+#EXTINF:0,Nickelodeon Pluto TV (US)
+https://jmp2.uk/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
+#EXTINF:25,NickRewind (US)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a3b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,NickTeen (AU)
 http://124.180.16.122:9981/stream/channel/ef8379e947537671927dfc8f93496484
 #EXTINF:0,NickToons (AU)
 http://124.180.16.122:9981/stream/channel/4a169c307c0adfc226d3355c78e91703
-#EXTINF:0,TVO (CA)
-http://104.194.41.183:9981/stream/channel/1d4249864c7c430aa1685cd0c9d2e363
-#EXTINF:8,Cartoon Network (LA)
-http://45.186.106.207:8000/play/a07l/index.m3u8
-#EXTINF:0,Nick Jr. (LA)
-http://181.78.4.186:8000/play/a0hk/index.m3u8
-#EXTINF:0,Nickelodeon (LA)
-http://45.177.53.7:8000/play/a0kz/index.m3u8
-#EXTINF:0,TeenNick (LA)
-http://45.186.106.207:8000/play/a07s/index.m3u8
-#EXTINF:0,Nickelodeon (UK)
-http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
+#EXTINF:0,Nicktoons (UK)
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/28891
+#EXTINF:0,NickToons (US)
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:0,NickToons 00s (AU VPN)
+https://i.mjh.nz/10-nicktoons00s.m3u8%7Cuser-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+#EXTINF:0,NickToons 90s (AU VPN)
+https://i.mjh.nz/10-nicktoons-90s.m3u8%7Cuser-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+#EXTINF:33,Ninja Kidz TV (CA)
+https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-627ec46a92d8e6a705784bd1.m3u8
 #EXTINF:0,Pop (UK)
 https://tvheadend.tannerserver.homedns.org/stream/channel/9a008b69d82cfdff38a6cac7c263f85d?profile=webtv-vp8-vorbis-webm
 #EXTINF:0,Pop Max (UK)
 https://tvheadend.tannerserver.homedns.org/stream/channel/3969090f2366dd19e8beb4e917e621ec?profile=webtv-vp8-vorbis-webm
-#EXTINF:0,Discovery Family (US)
-http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:24,Disney Channel (US)
-http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
-#EXTINF:0,Disney Junior (US)
-http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:0,Disney XD (US)
-http://212.102.60.231/DISNEY_XD/index.m3u8
-#EXTINF:0,Nick Jr. (US)
-http://thevdm.xyz:25461/Jennifer/Year!/20874
-#EXTINF:0,Nickelodeon (US)
-http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:25,NickRewind (US)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a3b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0,NickToons (US)
-http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:0,Rainbow Squad (US)
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/60fb028c2e6a0c00075275a5-alt.m3u8
+#EXTINF:0,RetroCrush (US)
+https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c442a.m3u8
+#EXTINF:0,Super Anime (US)
+https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
+#EXTINF:0,TeenNick (LA)
+http://45.186.106.207:8000/play/a07s/index.m3u8
 #EXTINF:0,TeenNick (US)
 http://thevdm.xyz:25461/Jennifer/Year!/20880
-#EXTINF:58,Brat TV (CA)
-https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-63d6f6c5a9e88ee909e7ee1f.m3u8
-#EXTINF:113,Kidz Bop TV (CA)
-https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-656fb124cb7e8e6a9bc3f36a.m3u8
-#EXTINF:33,Ninja Kidz TV (CA)
-https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-627ec46a92d8e6a705784bd1.m3u8
 #EXTINF:0,Toon Goggles (CA)
 https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-5eea605574085f0040ddc794.m3u8
+#EXTINF:0,Toonami Aftermath (E) (US)
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:0,Toonami Aftermath (W) (US)
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:0,Tooncast (LA)
+#EXTVLCOPT:network-caching=1000
+http://45.232.176.17:8000/play/a00r
 #EXTINF:0,Toony Planet (CA)
 https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-60d4eddfb2fdec002c141139.m3u8
-#EXTINF:-1 channel-id="mjh-10-nicktoons-90s" tvg-id="mjh-10-nicktoons-90s" tvg-logo="https://10play.com.au/ip/s3/2024/06/07/a1aaf63737e7d2076759dd850b58471a-1319376.png",NickToons 90s (AU VPN)
-https://i.mjh.nz/10-nicktoons-90s.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 channel-id="mjh-10-nick-classics" tvg-id="mjh-10-nick-classics" tvg-logo="https://10play.com.au/ip/s3/2024/06/04/3f46d5c140a732b34e27d93d7336e619-1318508.png",Nickelodeon Classics (AU VPN)
-https://i.mjh.nz/10-nick-classics.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 channel-id="mjh-10-nicktoons00s" tvg-id="mjh-10-nicktoons00s" tvg-logo="https://10play.com.au/ip/s3/2024/06/18/fe5a6f7ad20a109805b0fd1fc88bc40c-1320890.png",NickToons 00s (AU VPN)
-https://i.mjh.nz/10-nicktoons00s.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:0,Cartoon Network (UK)
+#EXTINF:25,Totally Teen (US)
 #EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/2938
-#EXTINF:-1,Cartoon Network +1 (UK)
-http://84.203.199.198:9981/stream/service/4a10345a67f047e8a2935a54999996f1
-#EXTINF:-1 tvg-id="biggs.pt",Biggs
-#EXTINF:0,Nicktoons (UK)
+https://jmp2.uk/PlutoTV/6450209d939a5900084dba1d-alt.m3u8
+#EXTINF:0,Treehouse (CA)
 #EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/28891
-#EXTINF:0,Nick Jr UK (UK)
+http://fortv.cc:8080/8bqC68/409069/57371
+#EXTINF:0,TVO (CA)
+http://104.194.41.183:9981/stream/channel/1d4249864c7c430aa1685cd0c9d2e363
+#EXTINF:0,Universal Kids (US)
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/9235
+#EXTINF:0,YTV (CA)
 #EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/28890
-#EXTINF:0,Forever Kids (US)
-https://jmp2.uk/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
-#EXTINF:0,Nick Jr. Pluto TV (US)
-https://jmp2.uk/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
-#EXTINF:0,Nickelodeon Pluto TV (US)
-https://jmp2.uk/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
-#EXTINF:0, Anime All Day (UK)
-https://jmp2.uk/PlutoTV/667195b3efa2a10008bb631e-alt.m3u8
+http://fortv.cc:8080/8bqC68/409069/63850
