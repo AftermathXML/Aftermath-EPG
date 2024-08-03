@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:60, Comedy Dynamics
+#EXTINF:60,Comedy Dynamics
 https://jmp2.uk/Roku/bc68164868385873a0f2b1c649fa2495.m3u8
 #EXTINF:0,A&E 
 #EXTVLCOPT:network-caching=1000
@@ -380,8 +380,6 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1463
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
 #EXTINF:0,Revolt 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1006
-#EXTINF:0,Seven Network 
-http://iptvtree.net:8080/F19236/516c41c7/295037
 #EXTINF:0,Showcase 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/47366
 #EXTINF:0,Sky Arts 
