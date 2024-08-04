@@ -2121,27 +2121,27 @@ http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/47349
 #EXTINF:-1 group-title="Kids" tvg-logo=",Nicktoons 
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/30105
-#EXTINF:-1 channel-id="samsung-US400002PS" tvg-id="US400002PS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20240625T011357SQUARE.png" tvg-chno="2605" group-title="Comedy" ,Animation+ 
+#EXTINF:-1 channel-id="samsung-US400002PS" tvg-id="US400002PS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20240625T011357SQUARE.png" tvg-chno="2605" group-title="Kids" ,Animation+ 
 https://jmp2.uk/SamsungTVPlus/US400002PS.m3u8
-#EXTINF:-1 channel-id="mjh-10-adultanimation" tvg-id="mjh-10-adultanimation" tvg-logo="https://10play.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png" group-title="Au" ,Adult Animation (AU VPN)
+#EXTINF:-1 channel-id="mjh-10-adultanimation" tvg-id="mjh-10-adultanimation" tvg-logo="https://10play.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png" group-title="Kids" ,Adult Animation (AU VPN)
 https://i.mjh.nz/10-adultanimation.m3u8
-#EXTINF:-1 channel-id="pluto-5f99e24636d67d0007a94e6d" tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" tvg-chno="350" group-title="Comedy" ,Comedy Animation 
+#EXTINF:-1 channel-id="pluto-5f99e24636d67d0007a94e6d" tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" tvg-chno="350" group-title="Kids" ,Comedy Animation 
 https://jmp2.uk/PlutoTV/5f99e24636d67d0007a94e6d-alt.m3u8
-#EXTINF:-1 channel-id="pluto-64f8a949f5b5e4000862467c" tvg-id="64f8a949f5b5e4000862467c" tvg-logo="https://images.pluto.tv/channels/64f8a949f5b5e4000862467c/colorLogoPNG.png" tvg-chno="116" group-title="Comedy" ,Comedy Animation 
+#EXTINF:-1 channel-id="pluto-64f8a949f5b5e4000862467c" tvg-id="64f8a949f5b5e4000862467c" tvg-logo="https://images.pluto.tv/channels/64f8a949f5b5e4000862467c/colorLogoPNG.png" tvg-chno="116" group-title="Kids" ,Comedy Animation 
 https://jmp2.uk/PlutoTV/64f8a949f5b5e4000862467c-alt.m3u8
-#EXTINF:-1,Cartoonito 
+#EXTINF:-1 group-title="Kids" tvg-logo=",Cartoonito 
 http://iptvtree.net:8080/F19236/516c41c7/1546
-#EXTINF:-1,Disney Channel 
+#EXTINF:-1 group-title="Kids" tvg-logo=",Disney Channel 
 http://iptvtree.net:8080/F19236/516c41c7/1113
-#EXTINF:-1,Disney Junior 
+#EXTINF:-1 group-title="Kids" tvg-logo=",Disney Junior 
 http://iptvtree.net:8080/F19236/516c41c7/1112
-#EXTINF:-1,Disney XD 
+#EXTINF:-1 group-title="Kids" tvg-logo=",Disney XD 
 http://iptvtree.net:8080/F19236/516c41c7/1111
-#EXTINF:-1,Pop +1 
+#EXTINF:-1 group-title="Kids" tvg-logo=",Pop +1 
 http://iptvtree.net:8080/F19236/516c41c7/165932
-#EXTINF:-1,POP Max +1 
+#EXTINF:-1 group-title="Kids" tvg-logo=",POP Max +1 
 http://iptvtree.net:8080/F19236/516c41c7/299750
-#EXTINF:-1,Tiny Pop 
+#EXTINF:-1 group-title="Kids" tvg-logo=",Tiny Pop 
 http://iptvtree.net:8080/F19236/516c41c7/264542
 #EXTINF:-1 group-title="Kids" tvg-logo=", FilmRise Anime (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8
