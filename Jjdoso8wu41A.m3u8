@@ -1,203 +1,203 @@
 #EXTM3U
-#EXTINF:60,Comedy Dynamics
+#EXTINF:-1 group-title="Cable" tvg-logo=",Comedy Dynamics
 https://jmp2.uk/Roku/bc68164868385873a0f2b1c649fa2495.m3u8
-#EXTINF:0,A&E 
+#EXTINF:-1 group-title="Cable" tvg-logo=",A&E 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/212
-#EXTINF:0,ABC 
+#EXTINF:-1 group-title="Cable" tvg-logo=",ABC 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/211
-#EXTINF:0,ABC SPARK 
+#EXTINF:-1 group-title="Cable" tvg-logo=",ABC SPARK 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57375
-#EXTINF:0,AMC 
+#EXTINF:-1 group-title="Cable" tvg-logo=",AMC 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/209
-#EXTINF:0,AMC + 
+#EXTINF:-1 group-title="Cable" tvg-logo=",AMC + 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1602
-#EXTINF:0,American Heroes Channel 
+#EXTINF:-1 group-title="Cable" tvg-logo=",American Heroes Channel 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/208
-#EXTINF:0,Animal Planet 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Animal Planet 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/207
-#EXTINF:0,Antenna TV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Antenna TV 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/20180
-#EXTINF:0,APTN 
+#EXTINF:-1 group-title="Cable" tvg-logo=",APTN 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57320
-#EXTINF:0,Aspire TV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Aspire TV 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/2156
-#EXTINF:0,AXS TV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",AXS TV 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1314
-#EXTINF:0,BBC America 
+#EXTINF:-1 group-title="Cable" tvg-logo=",BBC America 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/206
 #EXTINF:36,BBC Comedy 
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-65622fb65dbccec83a87b643.m3u8
-#EXTINF:0,BBC Earth 
+#EXTINF:-1 group-title="Cable" tvg-logo=",BBC Earth 
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/SamsungTVPlus/USBD1700001RW.m3u8
-#EXTINF:0,BBC Food 
+#EXTINF:-1 group-title="Cable" tvg-logo=",BBC Food 
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/SamsungTVPlus/USBC6000108Z.m3u8
-#EXTINF:0,BBC Home & Garden 
+#EXTINF:-1 group-title="Cable" tvg-logo=",BBC Home & Garden 
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/SamsungTVPlus/USBC600017FG.m3u8
-#EXTINF:0,BBC News 
+#EXTINF:-1 group-title="Cable" tvg-logo=",BBC News 
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:36,BBC Sci-Fi 
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8
-#EXTINF:0,BET 
+#EXTINF:-1 group-title="Cable" tvg-logo=",BET 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/204
-#EXTINF:0,Bounce TV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Bounce TV 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/743
-#EXTINF:0,Bravo 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Bravo 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/200
 #EXTINF:36,Britbox Mysteries 
 #EXTVLCOPT:network-caching=1000
 https://lnc-bbc-britbox-mysteries.tubi.video/playlist.m3u8
-#EXTINF:0,CBC News 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CBC News 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57304
-#EXTINF:0,CBC Toronto 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CBC Toronto 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57260
-#EXTINF:0,CBS 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CBS 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/198
-#EXTINF:0,CBS Drama 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CBS Drama 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/516952
-#EXTINF:0,CBS News 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CBS News 
 #EXTVLCOPT:network-caching=1000
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:0,CBS Reality 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CBS Reality 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/53752
-#EXTINF:0,CBS Reality 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CBS Reality 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507896
-#EXTINF:0,CBS Reality +1 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CBS Reality +1 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507897
-#EXTINF:0,Charge!
+#EXTINF:-1 group-title="Cable" tvg-logo=",Charge!
 #EXTVLCOPT:network-caching=1000
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:0,City TV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",City TV 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57394
-#EXTINF:0,Classic Movies Channel
+#EXTINF:-1 group-title="Cable" tvg-logo=",Classic Movies Channel
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/561c5b0dada51f8004c4d855-alt.m3u8
-#EXTINF:0,Classic TV Comedy
+#EXTINF:-1 group-title="Cable" tvg-logo=",Classic TV Comedy
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/5f15e32b297f96000768f928-alt.m3u8
-#EXTINF:0,Classic TV Crime Drama
+#EXTINF:-1 group-title="Cable" tvg-logo=",Classic TV Crime Drama
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/61325c4f982acd000723287e-alt.m3u8
-#EXTINF:0,Classic TV Drama
+#EXTINF:-1 group-title="Cable" tvg-logo=",Classic TV Drama
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/5f15e3cccf49290007053c67-alt.m3u8
-#EXTINF:0,Classic TV Variety
+#EXTINF:-1 group-title="Cable" tvg-logo=",Classic TV Variety
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/64d1867c6b1fdb0008c6c95b-alt.m3u8
-#EXTINF:0,Classic TV: Families
+#EXTINF:-1 group-title="Cable" tvg-logo=",Classic TV: Families
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/61325d18f5166c00081b84e0-alt.m3u8
-#EXTINF:0,CMT (CA) 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CMT (CA) 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57258
-#EXTINF:0,CMT 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CMT 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/355
-#EXTINF:0,CNBC 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CNBC 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/192
-#EXTINF:0,CNN 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CNN 
 #EXTVLCOPT:network-caching=1000
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:0,Comedy Central 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Comedy Central 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/190
-#EXTINF:0,Comedy Central Extra 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Comedy Central Extra 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507909
-#EXTINF:0,Comedy Central Pluto TV
+#EXTINF:-1 group-title="Cable" tvg-logo=",Comedy Central Pluto TV
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/5ca671f215a62078d2ec0abf-alt.m3u8
-#EXTINF:0,Comet 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Comet 
 #EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:0,Confess by Nosey
+#EXTINF:-1 group-title="Cable" tvg-logo=",Confess by Nosey
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/634ee8f95aa9870007248333-alt.m3u8
-#EXTINF:0,Cooking Channel 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Cooking Channel 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/189
 #EXTINF:32,CourtTV 
 #EXTVLCOPT:network-caching=1000
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
-#EXTINF:0,Cowboy Channel 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Cowboy Channel 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1460
-#EXTINF:0,CP24 News HD 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CP24 News HD 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57401
 #EXTINF:58,Crackle
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5fd2759bc8634d002d9ff9bc.m3u8
-#EXTINF:0,Crime & Investigation 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Crime & Investigation 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508078
-#EXTINF:0,Crime 360
+#EXTINF:-1 group-title="Cable" tvg-logo=",Crime 360
 https://jmp2.uk/Roku/0455f88e83625b3c8c302db0c30fe01e.m3u8
-#EXTINF:0,Crime ThrillHer
+#EXTINF:-1 group-title="Cable" tvg-logo=",Crime ThrillHer
 https://jmp2.uk/Roku/04e5bbc5f478580dabee165ba747ea16.m3u8
-#EXTINF:0,Crimes Cults Killers
+#EXTINF:-1 group-title="Cable" tvg-logo=",Crimes Cults Killers
 https://jmp2.uk/Roku/14fafce34e4d5af99db4141edb1db371.m3u8
-#EXTINF:0,CTV Comedy Channel 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CTV Comedy Channel 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57408
-#EXTINF:0,CTV Drama Channel 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CTV Drama Channel 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57254
-#EXTINF:0,CTV SCI-FI 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CTV SCI-FI 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57464
-#EXTINF:0,CTV Toronto HD 
+#EXTINF:-1 group-title="Cable" tvg-logo=",CTV Toronto HD 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/47296
-#EXTINF:0,Decades 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Decades 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/nXmmT7/622090/20189
-#EXTINF:0,Dejaview HD 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Dejaview HD 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/122001
-#EXTINF:0,Destination America 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Destination America 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/185
-#EXTINF:0,Discovery Channel 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Discovery Channel 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/184
-#EXTINF:0,Discovery Life 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Discovery Life 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/182
-#EXTINF:0,Discovery Science 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Discovery Science 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/181
-#EXTINF:54,Dove Channel 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Dove Channel 
 #EXTVLCOPT:network-caching=1000
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
-#EXTINF:0,DTOUR 
+#EXTINF:-1 group-title="Cable" tvg-logo=",DTOUR 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57250
-#EXTINF:0,E! 
+#EXTINF:-1 group-title="Cable" tvg-logo=",E! 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/176
-#EXTINF:0,Food Network 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Food Network 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/171
-#EXTINF:0,FOX New York 
+#EXTINF:-1 group-title="Cable" tvg-logo=",FOX New York 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/728
-#EXTINF:0,Fox News 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Fox News 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/267
-#EXTINF:0,FreeForm 
+#EXTINF:-1 group-title="Cable" tvg-logo=",FreeForm 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
@@ -205,321 +205,318 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/170
 #EXTINF:51,FUSE 
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/a2903e36-7a71-4894-baa9-509fe803768a.m3u
-#EXTINF:0,FX (CA) 
+#EXTINF:-1 group-title="Cable" tvg-logo=",FX (CA) 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57268
-#EXTINF:0,FX 
+#EXTINF:-1 group-title="Cable" tvg-logo=",FX 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/46690
-#EXTINF:0,FXX (CA) 
+#EXTINF:-1 group-title="Cable" tvg-logo=",FXX (CA) 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/165
-#EXTINF:0,FXX (US) 
+#EXTINF:-1 group-title="Cable" tvg-logo=",FXX (US) 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57429
-#EXTINF:0,FYI 
+#EXTINF:-1 group-title="Cable" tvg-logo=",FYI 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/164
-#EXTINF:0,Game Show Central
+#EXTINF:-1 group-title="Cable" tvg-logo=",Game Show Central
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/5e54187aae660e00093561d6-alt.m3u8
-#EXTINF:0,Global Kingston 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Global Kingston 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57435
 #EXTINF:25,Global News Kingston
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/62cbf4964446e2000742073e-alt.m3u8
-#EXTINF:0,Great American Family 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Great American Family 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1474
-#EXTINF:0,Great! TV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Great! TV 
 #EXTVLCOPT:network-caching=1000
 http://84.203.199.198:9981/stream/channel/a08f97ab4e11e6cd6b892c1c56980f3e
-#EXTINF:0,Grit TV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Grit TV 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/734
-#EXTINF:0,GSN 
+#EXTINF:-1 group-title="Cable" tvg-logo=",GSN 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/358
-#EXTINF:0,Hallmark 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Hallmark 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/162
-#EXTINF:0,Hallmark Drama 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Hallmark Drama 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/356
-#EXTINF:0,Hallmark Movies & Mysteries 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Hallmark Movies & Mysteries 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/161
-#EXTINF:0,Haunt TV
+#EXTINF:-1 group-title="Cable" tvg-logo=",Haunt TV
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/SamsungTVPlus/USBC4400006BR.m3u8
-#EXTINF:0,HGTV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",HGTV 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/154
-#EXTINF:0,History 
+#EXTINF:-1 group-title="Cable" tvg-logo=",History 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/153
-#EXTINF:0,History 2 
+#EXTINF:-1 group-title="Cable" tvg-logo=",History 2 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1181
-#EXTINF:0,HLN 
+#EXTINF:-1 group-title="Cable" tvg-logo=",HLN 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/152
-#EXTINF:0,IFC 
+#EXTINF:-1 group-title="Cable" tvg-logo=",IFC 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/151
-#EXTINF:0,INSP 
+#EXTINF:-1 group-title="Cable" tvg-logo=",INSP 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/895
-#EXTINF:0,Investigation Discovery 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Investigation Discovery 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/150
-#EXTINF:0,ION
+#EXTINF:-1 group-title="Cable" tvg-logo=",ION
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/65453f30085df200085883d8-alt.m3u8
-#EXTINF:0,ION TV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",ION TV 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/809
-#EXTINF:0,ITV 1 
+#EXTINF:-1 group-title="Cable" tvg-logo=",ITV 1 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507935
-#EXTINF:0,ITV 1 +1 
+#EXTINF:-1 group-title="Cable" tvg-logo=",ITV 1 +1 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507936
-#EXTINF:0,ITV 2 
+#EXTINF:-1 group-title="Cable" tvg-logo=",ITV 2 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507938
-#EXTINF:0,ITV 2 +1 
+#EXTINF:-1 group-title="Cable" tvg-logo=",ITV 2 +1 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507939
-#EXTINF:0,ITV 3 
+#EXTINF:-1 group-title="Cable" tvg-logo=",ITV 3 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507941
-#EXTINF:0,ITV 3 +1 
+#EXTINF:-1 group-title="Cable" tvg-logo=",ITV 3 +1 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507942
-#EXTINF:0,ITV 4 
+#EXTINF:-1 group-title="Cable" tvg-logo=",ITV 4 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507944
-#EXTINF:0,ITV 4 +1 
+#EXTINF:-1 group-title="Cable" tvg-logo=",ITV 4 +1 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507945
-#EXTINF:0,ITV Be 
+#EXTINF:-1 group-title="Cable" tvg-logo=",ITV Be 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507947
-#EXTINF:0,Laff 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Laff 
 http://thevdm.xyz:25461/Jennifer/Year!/39792
-#EXTINF:0,Lifetime 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Lifetime 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/148
-#EXTINF:0,Logo 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Logo 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/952
-#EXTINF:0,Love Nature 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Love Nature 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1659
-#EXTINF:0,Magnolia Networks 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Magnolia Networks 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/177
-#EXTINF:60,MeTV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",MeTV 
 #EXTVLCOPT:network-caching=1000
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
-#EXTINF:0,Midnight Pulp
+#EXTINF:-1 group-title="Cable" tvg-logo=",Midnight Pulp
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4427.m3u8
-#EXTINF:0,Motor Trend 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Motor Trend 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/250
-#EXTINF:0,MSNBC 
+#EXTINF:-1 group-title="Cable" tvg-logo=",MSNBC 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/143
-#EXTINF:0,MTV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",MTV 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/142
-#EXTINF:0,MTV 2 
+#EXTINF:-1 group-title="Cable" tvg-logo=",MTV 2 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/354
-#EXTINF:0,MTV Classics 
+#EXTINF:-1 group-title="Cable" tvg-logo=",MTV Classics 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1194
-#EXTINF:0,MTV Live 
+#EXTINF:-1 group-title="Cable" tvg-logo=",MTV Live 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1193
-#EXTINF:0,MUCH MUSIC 
+#EXTINF:-1 group-title="Cable" tvg-logo=",MUCH MUSIC 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/215268
-#EXTINF:0,MY 9 
+#EXTINF:-1 group-title="Cable" tvg-logo=",MY 9 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/135
-#EXTINF:0,NASA 
+#EXTINF:-1 group-title="Cable" tvg-logo=",NASA 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1610
-#EXTINF:0,Nat Geo 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Nat Geo 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/141
-#EXTINF:0,Nat Geo Wild 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Nat Geo Wild 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/140
-#EXTINF:0,NBC New York 
+#EXTINF:-1 group-title="Cable" tvg-logo=",NBC New York 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/729
-#EXTINF:0,NewsMax 
+#EXTINF:-1 group-title="Cable" tvg-logo=",NewsMax 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/864
-#EXTINF:0,Nosey
+#EXTINF:-1 group-title="Cable" tvg-logo=",Nosey
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/5aec96ec5126c2157123c657-alt.m3u8
-#EXTINF:0,OLN 
+#EXTINF:-1 group-title="Cable" tvg-logo=",OLN 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57366
-#EXTINF:0,ONE 
+#EXTINF:-1 group-title="Cable" tvg-logo=",ONE 
 http://iptvtree.net:8080/F19236/516c41c7/298563
-#EXTINF:0,One America News 
+#EXTINF:-1 group-title="Cable" tvg-logo=",One America News 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1183
-#EXTINF:0,Outdoor Channel 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Outdoor Channel 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/292
-#EXTINF:0,Outside TV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Outside TV 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/357
-#EXTINF:0,OWN 
+#EXTINF:-1 group-title="Cable" tvg-logo=",OWN 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/229
-#EXTINF:0,Oxygen 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Oxygen 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/228
-#EXTINF:0,Paramount 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Paramount 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/221
-#EXTINF:60,PBS Retro
+#EXTINF:-1 group-title="Cable" tvg-logo=",PBS Retro
 https://jmp2.uk/Roku/34335ef32c02519d897664a78767cc59.m3u8
-#EXTINF:0,PixL 
+#EXTINF:-1 group-title="Cable" tvg-logo=",PixL 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1665
-#EXTINF:0,Pop 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Pop 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/226
-#EXTINF:0,Red Bull TV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Red Bull TV 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1585
-#EXTINF:0,Reelz Channel 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Reelz Channel 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1463
-#EXTINF:0,RetroTV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",RetroTV 
 #EXTVLCOPT:network-caching=1000
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
-#EXTINF:0,Revolt 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Revolt 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1006
-#EXTINF:0,Showcase 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Showcase 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/47366
-#EXTINF:0,Sky Arts 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Sky Arts 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507978
-#EXTINF:0,Sky Atlantic 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Sky Atlantic 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507980
-#EXTINF:0,Sky Comedy 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Sky Comedy 
 http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/16725.ts
-#EXTINF:0,Sky Crime 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Sky Crime 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507982
-#EXTINF:0,Sky History 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Sky History 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508089
-#EXTINF:0,Sky Max 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Sky Max 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507984
-#EXTINF:0,Sky News 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Sky News 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508065
-#EXTINF:0,Sky Sci-Fi 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Sky Sci-Fi 
 #EXTVLCOPT:network-caching=1000
 http://clientportal.link/live/eGiQDv9yNn3753/YYmZsQ1288/16727.ts
-#EXTINF:0,Sky Showcase 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Sky Showcase 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507986
-#EXTINF:0,Sky Witness 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Sky Witness 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507988
-#EXTINF:0,Smithsonian 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Smithsonian 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/518
-#EXTINF:0,Start TV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Start TV 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1467
-#EXTINF:0,Sundance 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Sundance 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/215
-#EXTINF:0,SyFy 
+#EXTINF:-1 group-title="Cable" tvg-logo=",SyFy 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/214
-#EXTINF:0,TBS 
+#EXTINF:-1 group-title="Cable" tvg-logo=",TBS 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/213
-#EXTINF:0,TCM 
+#EXTINF:-1 group-title="Cable" tvg-logo=",TCM 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/352
-#EXTINF:0,The CW Network 
+#EXTINF:-1 group-title="Cable" tvg-logo=",The CW Network 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1086
-#EXTINF:0,TLC 
+#EXTINF:-1 group-title="Cable" tvg-logo=",TLC 
 #EXTVLCOPT:network-caching=1000
 http://thevdm.xyz:25461/Jennifer/Year!/39846
-#EXTINF:0,TNT 
+#EXTINF:-1 group-title="Cable" tvg-logo=",TNT 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/240
-#EXTINF:0,Travel Channel 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Travel Channel 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/239
-#EXTINF:0,TruTV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",TruTV 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/238
-#EXTINF:0,TV Land 
+#EXTINF:-1 group-title="Cable" tvg-logo=",TV Land 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/300
-#EXTINF:0,TV One 
+#EXTINF:-1 group-title="Cable" tvg-logo=",TV One 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/20868
-#EXTINF:0,TVO HD 
+#EXTINF:-1 group-title="Cable" tvg-logo=",TVO HD 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57369
-#EXTINF:0,USA Network 
+#EXTINF:-1 group-title="Cable" tvg-logo=",USA Network 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/251
-#EXTINF:0,VH1 
+#EXTINF:-1 group-title="Cable" tvg-logo=",VH1 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/395
-#EXTINF:0,Viceland 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Viceland 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/307
-#EXTINF:0,Vision 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Vision 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57468
-#EXTINF:0,Warner TV 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Warner TV 
 https://ln.run/WarnerTV
-#EXTINF:0,Weather Network 
+#EXTINF:-1 group-title="Cable" tvg-logo=",Weather Network 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57470
-#EXTM3U
-#EXTINF:54, 80's Sitcom Flashback (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", 80's Sitcom Flashback (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8
-#EXTINF:0, Court TV Legendary Trials (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", Court TV Legendary Trials (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-648095ad190e97d15c3470e9.m3u8
-#EXTINF:0, FilmRise British TV (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", FilmRise British TV (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5808.m3u8
-#EXTINF:0, FilmRise Sci-Fi (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", FilmRise Sci-Fi (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae580d.m3u8
-#EXTINF:0, FilmRise True Crime (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", FilmRise True Crime (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-646e489b58898bf3be94b325.m3u8
-#EXTINF:0, FilmRise Western (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", FilmRise Western (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57fd.m3u8
-#EXTINF:0, FreeTV Action (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", FreeTV Action (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d94f1e137315d10db2c80b.m3u8
-#EXTINF:0, FreeTV Crime (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", FreeTV Crime (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d94c5f137315d10db2c808.m3u8
-#EXTINF:0, FreeTV Drama (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", FreeTV Drama (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d84f7715431f0798dd6b66.m3u8
-#EXTINF:0, FreeTV Family (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", FreeTV Family (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d9509f137315d10db2c80d.m3u8
-#EXTINF:0, FreeTV Fantasy (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", FreeTV Fantasy (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d9496e137315d10db2c806.m3u8
-#EXTINF:0, FreeTV Hits (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", FreeTV Hits (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b284191.m3u8
 #EXTINF:58, FreeTV Horror (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d954cc308687c7d9baa667.m3u8
-#EXTINF:0, FrightFlix (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", FrightFlix (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8
-#EXTINF:0, ION (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", ION (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-624c37af6281708eabbbe26b.m3u8
-#EXTINF:0, ION Plus (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", ION Plus (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-627e347795b0f50af26d78f9.m3u8
 #EXTINF:36, Maximum Effort Channel (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-644bbd7d4272f4a2692cc676.m3u8
-#EXTINF:0, Non-Stop '90s (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", Non-Stop '90s (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-65bd5a538314c24e11553543.m3u8
-#EXTINF:0, Scares by Shudder (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", Scares by Shudder (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9.m3u8
-#EXTINF:0, Scream Factory TV (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", Scream Factory TV (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6351991cccee3e1547a8831e.m3u8
-#EXTINF:0, Screambox TV (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", Screambox TV (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-641db53c2f7a0fca29488c99.m3u8
 #EXTINF:36, Spark TV Light & Love (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-614a11bfa6f839154ee3306d.m3u8
-#EXTINF:0, UnXplained Zone (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", UnXplained Zone (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63c9773e187b3c9f3581fdf8.m3u8
-#EXTINF:0, Watch it SCREAM (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", Watch it SCREAM (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621671d05abdd3d5556a1baf.m3u8
-#EXTINF:0, Bigtime - Free Movies (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", Bigtime - Free Movies (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6348a4f190b96ef5e0eb3286.m3u8
 #EXTINF:36, ARTFLIX - Movie Classics (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6348a10d1159f6a5ce819b7f.m3u8
-#EXTINF:0, Grjngo - Western Movies (US VPN)
+#EXTINF:-1 group-title="Cable" tvg-logo=", Grjngo - Western Movies (US VPN)
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63489a771159f6a5ce819b7b.m3u8
 #EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-63d6f84e7c3070b6e06e0aab" tvg-id="647f8d22a2fc3fadb4721685-63d6f84e7c3070b6e06e0aab" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6956f5c-b392-49c3-afcc-50044b2d8051/Alien-Nation_logo_blue_1500x1000.png" ,DUST
 https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-63d6f84e7c3070b6e06e0aab.m3u8
 #EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-6685c10e2deb7f424133b08b" tvg-id="647f8d22a2fc3fadb4721685-6685c10e2deb7f424133b08b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1d593896-c59a-4b0a-bfe5-5dcba381e4b8/CTVLaughs_Logo_ForDarkBackgrounds_1500x1000.png" , CTV Laughs
 https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-6685c10e2deb7f424133b08b.m3u8
-#EXTINF:-1,WWE Channel
-http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/11645
