@@ -1407,3 +1407,562 @@ http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215431
 http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215432
 #EXTINF:-1 group-title="Movies" tvg-logo=",Z4: Zoe Saldana
 http://tvmate.icu:8080/lenmacpei@gmail.com/QhcHNKirvz/215433
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Nick Music
+#EXTVLCOPT:network-caching=1000
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: '70's
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551299
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: '80's
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551298
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: '90's
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551297
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Adult Alternative
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551296
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Alternative
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551295
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Blues
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551294
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Classic Country
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551293
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Classic Rock
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551292
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Classical Masterpieces
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551291
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Contemporary Christian
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551290
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Country Hits
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551289
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Dance/EDM
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551288
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Easy Listening
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551287
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Gospel
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551286
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Hip-Hop and R&B
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551285
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Hip-Hop Classics
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551284
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Hit List
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551283
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Indie
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551282
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Jazz
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551281
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Kidz Only!
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551280
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Light Classical
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551279
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Love Songs
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551278
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Max
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551277
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Metal
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551276
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Mexicana
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551275
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Musica Urbana
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551274
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Party Favorites
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551273
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Pop & Country
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551272
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Pop Hits
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551271
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Pop Latino
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551270
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: R&B Classics
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551269
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: R&B Soul
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551268
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Rap
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551267
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Reggae
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551266
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Rock
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551265
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Rock Hits
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551264
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Romances
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551263
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Singers & Swing
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551262
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Smooth Jazz
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551261
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Soft Rock
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551260
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Solid Gold Oldies
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551259
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Sounds of the Seasons
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551258
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Soundscapes
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551257
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Stage & Screen
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551256
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Teen Beats
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551255
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Throwback Jams
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551254
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Today's Country
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551253
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Toddler Tunes
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551252
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Tropicales
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551251
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Music Choice: Y2K
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/551250
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", WMX Hip Hop
+https://jmp2.uk/Roku/df14db5ffb64531ea5132b8345be4914.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", WMX Rock
+https://jmp2.uk/Roku/5941b88c38ab50ad8b09b0d920abbae5.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Now 70's
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Now 80's
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",NOW Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716422654/ei/njNOZqKkJZzZsfIPh_-ziAk/ip/20.172.0.32/id/wBgSH-CGPzg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgeMoo9cZADnfjv9M9c9LazbUAf1-TO5PSfHRgltvUvlYCIQCJfbNSN3itI49LQ0vB3hXc-mC4pChKPKpVEgSpZYEj-w%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Alternative
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Classic Rock
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Easy Listening
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62ee76b5271f393d2d9f709a.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Euro Hits
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62ee74af52f7d73061eec491.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Flashback 70s
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62f15810a3ffe928ef806c75.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Hip-Hop/R&B
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62ee7ae2271f393d2d9f709e.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Hit List
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-61aaa014784a2161d3caf7fd.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Nothin' But 90s
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62f13eeded056a1db9ef3d54.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Qello Concerts
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5fe27da28c198b002d179199.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Qwest TV
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a75.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Remember the ‘80s
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Soul Storm
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Stingray Classica Stream
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62d7f68fb19cbf65dc7bef7d.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Stingray CMusic
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62fbf197c67d52bddf74cc87.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Stingray DJAZZ
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62fc0150c67d52bddf74cc89.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Stingray Holidayscapes
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Stingray Karaoke
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5fc705daa2236e002d69f108.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Stingray Naturescape
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", The Spa
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62f11395586633e88e3a3274.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Today's K-Pop
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62ee6eae271f393d2d9f7096.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", TRACE Brazuca
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6329474265c8569187176338.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", TRACE Latina
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63226c03e67cf9cd9011fcdf.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", TRACE Urban
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6322658be67cf9cd9011fcda.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vevo '70s
+https://jmp2.uk/SamsungTVPlus/USBD300011KQ.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vevo '70s & '80s
+https://jmp2.uk/SamsungTVPlus/GBBD1900009UD.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vevo '80s
+https://jmp2.uk/SamsungTVPlus/USBD300012YC.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vevo '90s
+https://jmp2.uk/SamsungTVPlus/USBD3000133M.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vevo '90s & '00s
+https://jmp2.uk/SamsungTVPlus/GBBC2100002HP.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vevo 2010s
+https://jmp2.uk/SamsungTVPlus/USBD120002431.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vevo 2K
+https://jmp2.uk/SamsungTVPlus/USBB4400015F5.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vevo Country
+https://jmp2.uk/SamsungTVPlus/USBC3600001RQ.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vevo Hip-Hop
+https://jmp2.uk/SamsungTVPlus/USBC3600002EK.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vevo Holiday
+https://jmp2.uk/SamsungTVPlus/USBD1200008GL.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vevo Latino
+https://jmp2.uk/SamsungTVPlus/USBC3600015GF.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vevo Pop
+https://jmp2.uk/SamsungTVPlus/USBC3600008WY.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vevo R&B
+https://jmp2.uk/SamsungTVPlus/USBC3900009K5.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vevo Retro Rock
+https://jmp2.uk/SamsungTVPlus/USBD3000145P.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Vivaldi
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-61bb9a63e0b39cfe304c9a8a.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", XITE 80s Flashback
+https://jmp2.uk/SamsungTVPlus/USBB320000647.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", XITE 90s Throwback
+https://jmp2.uk/SamsungTVPlus/USBB3200007AK.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", XITE Celebrates
+https://jmp2.uk/SamsungTVPlus/USBD350003932.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", XITE Country Today
+https://jmp2.uk/SamsungTVPlus/USBD3300006O3.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", XITE Country's Finest
+https://jmp2.uk/SamsungTVPlus/USBD3300011UT.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", XITE Hits
+https://jmp2.uk/SamsungTVPlus/USBD3300004RH.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", XITE Icons
+https://jmp2.uk/SamsungTVPlus/USBD3300005EX.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", XITE Just Chill
+https://jmp2.uk/SamsungTVPlus/USBB2300003JZ.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", XITE Nuevo Latino
+https://jmp2.uk/SamsungTVPlus/USBD3300007PB.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", XITE Only Love
+https://jmp2.uk/SamsungTVPlus/USBD3300008DG.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", XITE R&B Classic Jams
+https://jmp2.uk/SamsungTVPlus/USBD330000948.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", XITE Rock On
+https://jmp2.uk/SamsungTVPlus/USBB2300004KV.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", XITE Siempre Latino
+https://jmp2.uk/SamsungTVPlus/USBD3300010L9.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Y2K
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62ee72cc271f393d2d9f7098.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=", Éxitos del Momento
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Autumn Escape
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/autumn-escape/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=82588&ads.show_id=3174&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Autumn%20Escape&ads.episodetitle=Autumn%20Escape&ads.keywords=Autumn%2CEscape%2CRelax%2CMoods%2CAutum%20Escape&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:30,Baraza TV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Baraza TV Deep House (720p)
+#EXTVLCOPT:network-caching=1000
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Baraza TV Greek Music Hits (1080p)
+#EXTVLCOPT:network-caching=1000
+https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:24,Bridge
+#EXTVLCOPT:network-caching=1000
+http://moobl.ru/hls/Bridge_tv.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Bridge Classic (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Bridge Deluxe (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Bridge Hits (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Bridge Rock (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Bridge Русский хит (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Bridge Шлягер (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:58,Escapes alt
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991280
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Fireplace Lounge
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fireplace-lounge/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25045&ads.show_id=653&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Fireplace%20Lounge&ads.episodetitle=Fireplace%20Lounge&ads.keywords=fireplace%2Clounge%20videos&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:100,Fish Tank
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25073&ads.show_id=654&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Fish%20Tank&ads.episodetitle=Fish%20Tank&ads.keywords=fish%20tank%2Clounge%20video&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",iHeart 80s
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",iHeart 90s
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",iHeart Alt Radio
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",iHeart Country 
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Iheart Hip Hop Beats
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/9995103/hls/playlist.m3u8?ads.xumo_channelId=9995103
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",iHeart Hit Nation 
+#EXTVLCOPT:network-caching=1000
+https://iheart-ihearthitnation-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",iHeart Latino Hits 
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheartlatinohits-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Iheart Radio Beso
+#EXTVLCOPT:network-caching=1000
+https://dbrb49pjoymg4.cloudfront.net/10001/9995104/hls/playlist.m3u8?ads.xumo_channelId=9995104
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",iHeart The Beat 
+#EXTVLCOPT:network-caching=1000
+https://iheart-iheartthebeat-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Island Escape
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/island-escape/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25102&ads.show_id=656&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Island%20Escape&ads.episodetitle=Island%20Escape&ads.keywords=island%2Cisland%20vibes%2Clounge&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",MUZZIK (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Muzzik ELECTRO (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Muzzik FLASHBACK (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Muzzik MOBA (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Muzzik POP STAR (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Muzzik SENSE (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Muzzik TIKTAK (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo=",Muzzik ZZ TV (720p)
+#EXTVLCOPT:network-caching=1000
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:97,NatureStream.tv
+#EXTVLCOPT:network-caching=1000
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23037&ads.content_duration=18000&ads.episode_id=77808&ads.show_id=3074&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=NatureStream.tv&ads.episodetitle=NatureStream.tv&ads.keywords=Nature%20Stream%2CNature%2Cmoods%2Crelaxing&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
+
+
+#EXTINF:-1 group-title="Music" group-title="Music" tvg-logo="https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg" tvg-id="", Spongeboy Lofi 1
+https://ythls-v3.onrender.com/video/Rm_AsflD2c0.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg" tvg-id="", Spongeboy Lofi 2
+https://ythls-v3.onrender.com/video/IBKIzCxy55o.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg" tvg-id="", Spongeboy Lofi 3
+https://ythls-v3.onrender.com/video/p53rW6sMfqw.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg" tvg-id="", Spongeboy Lofi 4
+https://ythls-v3.onrender.com/video/VJY9ZdHnNr0.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg" tvg-id="", Spongeboy Lofi 5
+https://ythls-v3.onrender.com/video/bGA1cU_qWMQ.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg" tvg-id="", Lofi Girl 1
+https://ythls-v3.onrender.com/video/Na0w3Mz46GA.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg" tvg-id="", Lofi Girl 2
+https://ythls-v3.onrender.com/video/jfKfPfyJRdk.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg" tvg-id="", Lofi Girl 3
+https://ythls-v3.onrender.com/video/rUxyKA_-grg.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg" tvg-id="", Lofi Girl 4
+https://ythls-v3.onrender.com/video/4oStw0r33so.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://helios-i.mashable.com/imagery/articles/03YdX6DpDbpI8LRuVEOC4vp/hero-image.fill.size_1200x1200.v1681234650.png" tvg-id="", Synthwave Boy 1
+https://ythls-v3.onrender.com/video/4xDzrJKXOOY.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://helios-i.mashable.com/imagery/articles/03YdX6DpDbpI8LRuVEOC4vp/hero-image.fill.size_1200x1200.v1681234650.png" tvg-id="", Synthwave Boy 2
+https://ythls-v3.onrender.com/video/S_MOd40zlYU.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/n1qF78C/Raint.jpg" tvg-id="", Rainy Days 1
+https://ythls-v3.onrender.com/video/JqoY_3QfU3s.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/n1qF78C/Raint.jpg" tvg-id="", Rainy Days 2
+https://ythls-v3.onrender.com/video/BCJnqijZpEE.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/n1qF78C/Raint.jpg" tvg-id="", Rainy Days 3
+https://ythls-v3.onrender.com/video/DHG8supGVV4.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/n1qF78C/Raint.jpg" tvg-id="", Rainy Days 4
+https://ythls-v3.onrender.com/video/tCFhf-mE1vM.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/n1qF78C/Raint.jpg" tvg-id="", Rainy Days 5
+https://ythls-v3.onrender.com/video/KpBbjVbnSew.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/tX2Kw01/channels4-profile.jpg" tvg-id="", Phonk Radio 1
+https://ythls-v3.onrender.com/video/8v_kKMaq5po.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/tX2Kw01/channels4-profile.jpg" tvg-id="", Phonk Radio 3
+https://ythls-v3.onrender.com/video/a_H3N-lpp-o.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/RSvqCMC/channels4-profile.jpg" tvg-id="", Chillhop 1
+https://ythls-v3.onrender.com/video/7NOSDKb0HlU.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/RSvqCMC/channels4-profile.jpg" tvg-id="", Chillhop 2
+https://ythls-v3.onrender.com/video/5yx6BWlEVcY.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/6wXb8z9/Kino.jpg" tvg-id="", Kino 1
+https://ythls-v3.onrender.com/video/JU8qWkTkLLE.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/6wXb8z9/Kino.jpg" tvg-id="", Kino 2
+https://ythls-v3.onrender.com/video/jIp4J62aRvY.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/6wXb8z9/Kino.jpg" tvg-id="", Kino 3
+https://ythls-v3.onrender.com/video/N240AX6JkzM.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/6wXb8z9/Kino.jpg" tvg-id="", Kino 4
+https://ythls-v3.onrender.com/video/zaXULnWg2C4.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/6wXb8z9/Kino.jpg" tvg-id="", Kino 5
+https://ythls-v3.onrender.com/video/zSuC9irWnWY.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/6wXb8z9/Kino.jpg" tvg-id="", Kino 6
+https://ythls-v3.onrender.com/video/c7PkiiXH9sI.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/6wXb8z9/Kino.jpg" tvg-id="", Kino 7
+https://ythls-v3.onrender.com/video/5Cqn2qg0OBo.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/4NczKnD/Abo.jpg" tvg-id="", Abo Lofi
+https://ythls-v3.onrender.com/video/tGfQYbArQhc.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://s1.piq.land/2016/02/13/xsxz1TKTFC0AlLjGXT4IrmKZ_400x400.png" tvg-id="", Video Game Lofi
+https://ythls-v3.onrender.com/video/akW7qWS_p-g.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/originals/80/5b/49/805b490a98ba4396c335ee732e6e67b9.jpg" tvg-id="", Anime Radio
+https://ythls-v3.onrender.com/video/4FBW3mkdKOs.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/9n6X7MN/Little-Soul.jpg" tvg-id="", Little Soul 1
+https://ythls-v3.onrender.com/video/XstikgbeTPI.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/9n6X7MN/Little-Soul.jpg" tvg-id="", Little Soul 2
+https://ythls-v3.onrender.com/video/WCGML6SLQD4.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/9n6X7MN/Little-Soul.jpg" tvg-id="", Little Soul 3
+https://ythls-v3.onrender.com/video/eo7aX0QWagU.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/8Yb0K7c/Coffee-Music.jpg" tvg-id="", Coffee Music 1
+https://ythls-v3.onrender.com/video/Vq0Dt70oCxM.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/8Yb0K7c/Coffee-Music.jpg" tvg-id="", Coffee Music 2
+https://ythls-v3.onrender.com/video/XFdTycvQMQo.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/8Yb0K7c/Coffee-Music.jpg" tvg-id="", Coffee Music 3
+https://ythls-v3.onrender.com/video/xXasRrplkNQ.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/8Yb0K7c/Coffee-Music.jpg" tvg-id="", Coffee Music 4
+https://ythls-v3.onrender.com/video/Ix6emY1LHQE.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/S6Bx7dd/unnamed.jpg" tvg-id="", Good Life 1
+https://ythls-v3.onrender.com/video/9UMxZofMNbA.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/S6Bx7dd/unnamed.jpg" tvg-id="", Good Life 2
+https://ythls-v3.onrender.com/video/NJyCwdWT80c.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/S6Bx7dd/unnamed.jpg" tvg-id="", Good Life 3
+https://ythls-v3.onrender.com/video/36YnV9STBqc.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/q1KKyzw/channels4-profile.jpg" tvg-id="", Chill Vibes Tuesday Mood
+https://ythls-v3.onrender.com/video/O92JISrlNu0.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/q1KKyzw/channels4-profile.jpg" tvg-id="", Chill Vibes Night
+https://ythls-v3.onrender.com/video/iodZup_KH90.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/q1KKyzw/channels4-profile.jpg" tvg-id="", Chill Vibes Twilight
+https://ythls-v3.onrender.com/video/ozYNQnih0Bg.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/q1KKyzw/channels4-profile.jpg" tvg-id="", Chill Vibes Monday Mood
+https://ythls-v3.onrender.com/video/c_p5Cx3KG80.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/q1KKyzw/channels4-profile.jpg" tvg-id="", Chill Vibes Wenesday Mood
+https://ythls-v3.onrender.com/video/s6L3OUxixW0.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/q1KKyzw/channels4-profile.jpg" tvg-id="", Chill Vibes Dawn
+https://ythls-v3.onrender.com/video/eOzrMjp5NJ4.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/q1KKyzw/channels4-profile.jpg" tvg-id="", Chill Vibes Thursday Mood
+https://ythls-v3.onrender.com/video/qT9rvHS3pEc.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/q1KKyzw/channels4-profile.jpg" tvg-id="", Chill Vibes Friday Mood
+https://ythls-v3.onrender.com/video/qT9rvHS3pEc.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/q1KKyzw/channels4-profile.jpg" tvg-id="", Chill Vibes Saturday Mood
+https://ythls-v3.onrender.com/video/cErS-M6i8mc.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/q1KKyzw/channels4-profile.jpg" tvg-id="", Chill Vibes Sunday Mood
+https://ythls-v3.onrender.com/video/feWK8IBUDKk.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/q1KKyzw/channels4-profile.jpg" tvg-id="", Chill Vibes Dusk
+https://ythls-v3.onrender.com/video/feWK8IBUDKk.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/z27SbWg/swug.jpg" tvg-id="", Open Heart 1
+https://ythls-v3.onrender.com/video/fSaXIAFLQYw.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/z27SbWg/swug.jpg" tvg-id="", Open Heart 2
+https://ythls-v3.onrender.com/video/fHPMlCLHxwE.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/z27SbWg/swug.jpg" tvg-id="", Open Heart 3
+https://ythls-v3.onrender.com/video/WQPDgSvakhg.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/z27SbWg/swug.jpg" tvg-id="", Open Heart 4
+https://ythls-v3.onrender.com/video/QY-h7yddE7I.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/z27SbWg/swug.jpg" tvg-id="", Open Heart 5
+https://ythls-v3.onrender.com/video/OAEh8WSNXSk.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/z27SbWg/swug.jpg" tvg-id="", Open Heart 6
+https://ythls-v3.onrender.com/video/jGVRr1AXJWs.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/z27SbWg/swug.jpg" tvg-id="", Open Heart 7
+https://ythls-v3.onrender.com/video/-QG2gHuL4uw.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://img.icons8.com/ios7/600w/000000/disney-plus.png" tvg-id="", Disney Songs
+http://vo01.mohdtv.com:8880/voby4846/59129684/60927
