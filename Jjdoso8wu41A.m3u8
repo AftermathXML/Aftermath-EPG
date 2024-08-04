@@ -1966,3 +1966,186 @@ https://ythls-v3.onrender.com/video/-QG2gHuL4uw.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://img.icons8.com/ios7/600w/000000/disney-plus.png" tvg-id="", Disney Songs
 http://vo01.mohdtv.com:8880/voby4846/59129684/60927
+
+#EXTM3U
+#EXTINF:-1 group-title="Kids" tvg-logo=",Adult Swim 
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1883
+#EXTINF:-1 group-title="Kids" tvg-logo=",Animax 
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/SamsungTVPlus/INBD13000043W.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Anime All Day 
+https://jmp2.uk/PlutoTV/667195b3efa2a10008bb631e-alt.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Anime All Day 
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/SamsungTVPlus/USAJ3504502A.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",ANIME x HIDIVE
+#EXTVLCOPT:network-caching=1000
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Boomerang 
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/2944
+#EXTINF:-1 group-title="Kids" tvg-logo=",Boomerang 
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/130
+#EXTINF:58,Brat TV 
+https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-63d6f6c5a9e88ee909e7ee1f.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Cartoon Network 
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57380
+#EXTINF:8,Cartoon Network (LA)
+http://45.186.106.207:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Cartoon Network 
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/2938
+#EXTINF:-1 group-title="Kids" tvg-logo=",Cartoon Network 
+#EXTVLCOPT:network-caching=1000
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/199
+#EXTINF:-1 group-title="Kids" tvg-logo=",Cartoon Network +1 
+http://84.203.199.198:9981/stream/service/4a10345a67f047e8a2935a54999996f1
+#EXTINF:60,Crunchyroll 
+https://jmp2.uk/Roku/307b3b9ea321539b9688148fc97a8bfd.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Discovery Family 
+http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Disney Channel 
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/3046
+#EXTINF:24,Disney Channel 
+http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Disney Junior 
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57349
+#EXTINF:-1 group-title="Kids" tvg-logo=",Disney Junior 
+http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Disney XD 
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57420
+#EXTINF:-1 group-title="Kids" tvg-logo=",Disney XD 
+http://212.102.60.231/DISNEY_XD/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",DreamWorks (LA)
+https://ln.run/Dreamworks
+#EXTINF:-1 group-title="Kids" tvg-logo=",Family Channel 
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/423763
+#EXTINF:-1 group-title="Kids" tvg-logo=",Family JR 
+#EXTVLCOPT:network-caching=1000
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418464
+#EXTINF:-1 group-title="Kids" tvg-logo=",Forever Kids 
+https://jmp2.uk/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Kartoon Channel! 
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/60fb040d4795a6000762fe8f-alt.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Kids Movie Club 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
+#EXTINF:113,Kidz Bop TV 
+https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-656fb124cb7e8e6a9bc3f36a.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",MeTV Toons 
+#EXTVLCOPT:network-caching=1000
+https://live.realms.pub/live/e9187070-04b5-422e-85c7-817615f616f6/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Nick Jr UK 
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/28890
+#EXTINF:-1 group-title="Kids" tvg-logo=",Nick Jr. (LA)
+http://181.78.4.186:8000/play/a0hk/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Nick Jr. 
+http://thevdm.xyz:25461/Jennifer/Year!/20874
+#EXTINF:-1 group-title="Kids" tvg-logo=",Nick Jr. Pluto TV 
+https://jmp2.uk/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Nickelodeon (LA)
+http://45.177.53.7:8000/play/a0kz/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Nickelodeon 
+http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
+#EXTINF:-1 group-title="Kids" tvg-logo=",Nickelodeon 
+http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Nickelodeon Classics (AU VPN)
+https://i.mjh.nz/10-nick-classics.m3u8%7Cuser-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+#EXTINF:-1 group-title="Kids" tvg-logo=",Nickelodeon Pluto TV 
+https://jmp2.uk/PlutoTV/5ca673e0d0bd6c2689c94ce3-alt.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",NickRewind 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a3b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 group-title="Kids" tvg-logo=",Nicktoons 
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/28891
+#EXTINF:-1 group-title="Kids" tvg-logo=",NickToons 
+http://143.244.60.30/NICKTOONS/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",NickToons 00s (AU VPN)
+https://i.mjh.nz/10-nicktoons00s.m3u8%7Cuser-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+#EXTINF:-1 group-title="Kids" tvg-logo=",NickToons 90s (AU VPN)
+https://i.mjh.nz/10-nicktoons-90s.m3u8%7Cuser-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+#EXTINF:33,Ninja Kidz TV 
+https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-627ec46a92d8e6a705784bd1.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Pop 
+https://tvheadend.tannerserver.homedns.org/stream/channel/9a008b69d82cfdff38a6cac7c263f85d?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 group-title="Kids" tvg-logo=",Pop Max 
+https://tvheadend.tannerserver.homedns.org/stream/channel/3969090f2366dd19e8beb4e917e621ec?profile=webtv-vp8-vorbis-webm
+#EXTINF:-1 group-title="Kids" tvg-logo=",Rainbow Squad 
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/60fb028c2e6a0c00075275a5-alt.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",RetroCrush 
+https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-5ef4e1b40d9ad000423c442a.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Super Anime 
+https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",TeenNick (LA)
+http://45.186.106.207:8000/play/a07s/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",TeenNick 
+http://thevdm.xyz:25461/Jennifer/Year!/20880
+#EXTINF:-1 group-title="Kids" tvg-logo=",Toon Goggles 
+https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-5eea605574085f0040ddc794.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Toonami Aftermath (E) 
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Toonami Aftermath (W) 
+#EXTVLCOPT:network-caching=1000
+http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Tooncast (LA)
+#EXTVLCOPT:network-caching=1000
+http://45.232.176.17:8000/play/a00r
+#EXTINF:-1 group-title="Kids" tvg-logo=",Toony Planet 
+https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-60d4eddfb2fdec002c141139.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Totally Teen 
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/PlutoTV/6450209d939a5900084dba1d-alt.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=",Treehouse 
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/57371
+#EXTINF:-1 group-title="Kids" tvg-logo=",TVO 
+http://104.194.41.183:9981/stream/channel/1d4249864c7c430aa1685cd0c9d2e363
+#EXTINF:-1 group-title="Kids" tvg-logo=",Universal Kids 
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/9235
+#EXTINF:-1 group-title="Kids" tvg-logo=",YTV 
+#EXTVLCOPT:network-caching=1000
+http://fortv.cc:8080/8bqC68/409069/63850
+#EXTINF:-1 group-title="Kids" tvg-logo=",Teletoon East 
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57372
+#EXTINF:-1 group-title="Kids" tvg-logo=",Nickelodeon 
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/47349
+#EXTINF:-1 group-title="Kids" tvg-logo=",Nicktoons 
+#EXTVLCOPT:network-caching=1000
+http://vo01.mohdtv.com:8880/voby4846/59129684/30105
+#EXTINF:-1 channel-id="samsung-US400002PS" tvg-id="US400002PS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400002PS_20240625T011357SQUARE.png" tvg-chno="2605" group-title="Comedy" ,Animation+ 
+https://jmp2.uk/SamsungTVPlus/US400002PS.m3u8
+#EXTINF:-1 channel-id="mjh-10-adultanimation" tvg-id="mjh-10-adultanimation" tvg-logo="https://10play.com.au/ip/s3/2024/03/21/fb3a87d8a0126b81727106f43c2a2aef-1304705.png" group-title="Au" ,Adult Animation (AU VPN)
+https://i.mjh.nz/10-adultanimation.m3u8
+#EXTINF:-1 channel-id="pluto-5f99e24636d67d0007a94e6d" tvg-id="5f99e24636d67d0007a94e6d" tvg-logo="https://images.pluto.tv/channels/5f99e24636d67d0007a94e6d/colorLogoPNG.png" tvg-chno="350" group-title="Comedy" ,Comedy Animation 
+https://jmp2.uk/PlutoTV/5f99e24636d67d0007a94e6d-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64f8a949f5b5e4000862467c" tvg-id="64f8a949f5b5e4000862467c" tvg-logo="https://images.pluto.tv/channels/64f8a949f5b5e4000862467c/colorLogoPNG.png" tvg-chno="116" group-title="Comedy" ,Comedy Animation 
+https://jmp2.uk/PlutoTV/64f8a949f5b5e4000862467c-alt.m3u8
+#EXTINF:-1,Cartoonito 
+http://iptvtree.net:8080/F19236/516c41c7/1546
+#EXTINF:-1,Disney Channel 
+http://iptvtree.net:8080/F19236/516c41c7/1113
+#EXTINF:-1,Disney Junior 
+http://iptvtree.net:8080/F19236/516c41c7/1112
+#EXTINF:-1,Disney XD 
+http://iptvtree.net:8080/F19236/516c41c7/1111
+#EXTINF:-1,Pop +1 
+http://iptvtree.net:8080/F19236/516c41c7/165932
+#EXTINF:-1,POP Max +1 
+http://iptvtree.net:8080/F19236/516c41c7/299750
+#EXTINF:-1,Tiny Pop 
+http://iptvtree.net:8080/F19236/516c41c7/264542
+#EXTINF:-1 group-title="Kids" tvg-logo=", FilmRise Anime (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=", FilmRise Kids (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae57ff.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo=", Watch it Kid (US VPN)
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621672612c2627c068e73ad6.m3u8
