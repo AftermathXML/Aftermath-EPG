@@ -520,3 +520,161 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63489a771159f6a5ce819b7b.m3u8
 https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-63d6f84e7c3070b6e06e0aab.m3u8
 #EXTINF:-1 channel-id="plex-647f8d22a2fc3fadb4721685-6685c10e2deb7f424133b08b" tvg-id="647f8d22a2fc3fadb4721685-6685c10e2deb7f424133b08b" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1d593896-c59a-4b0a-bfe5-5dcba381e4b8/CTVLaughs_Logo_ForDarkBackgrounds_1500x1000.png" , CTV Laughs
 https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-6685c10e2deb7f424133b08b.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports Arizona
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/186
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports Detroit
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/317
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports Florida
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1622
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports Great Lakes
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1253
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports Indiana
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1458
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports Kansas City
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1667
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports Midwest
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/324
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports New Orleans
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1614
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports North
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/320
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports Ohio
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1207
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports Oklahoma
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1611
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports San Diego
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/316
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports SoCal
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/665
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports South
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/319
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports Southeast
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/872
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports Southeast Georgia
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1623
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports SouthWest
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1189
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports Sun
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/322
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports West
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1633
+#EXTINF:-1 group-title="Sports" tvg-logo=",Bally Sports Wisconsin
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1621
+#EXTINF:-1 group-title="Sports" tvg-logo=",Sportsnet 360
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/2044
+#EXTINF:-1 group-title="Sports" tvg-logo=",Sportsnet East
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/2045
+#EXTINF:-1 group-title="Sports" tvg-logo=",Sportsnet One
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/2046
+#EXTINF:-1 group-title="Sports" tvg-logo=",Sportsnet Ontario
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/2047
+#EXTINF:-1 group-title="Sports" tvg-logo=",Sportsnet Pacific
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/2048
+#EXTINF:-1 group-title="Sports" tvg-logo=",Sportsnet West
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/2049
+#EXTINF:-1 group-title="Sports" tvg-logo=",Sportsnet World
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/2050
+#EXTINF:-1 group-title="Sports" tvg-logo=",TSN 1
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1195
+#EXTINF:-1 group-title="Sports" tvg-logo=",TSN 2
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/175
+#EXTINF:-1 group-title="Sports" tvg-logo=",TSN 3
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/188
+#EXTINF:-1 group-title="Sports" tvg-logo=",TSN 4
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1586
+#EXTINF:-1 group-title="Sports" tvg-logo=",TSN 5
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/977
+#EXTINF:-1 group-title="Sports" tvg-logo=",Altitude Sports
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1521
+#EXTINF:-1 group-title="Sports" tvg-logo=",AT&T Sportsnet Pittsburgh
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1486
+#EXTINF:-1 group-title="Sports" tvg-logo=",Big Ten Network
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/202
+#EXTINF:-1 group-title="Sports" tvg-logo=",CBS Sports Network
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/197
+#EXTINF:-1 group-title="Sports" tvg-logo=",ESPN
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/133
+#EXTINF:-1 group-title="Sports" tvg-logo=",ESPN 2
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/173
+#EXTINF:-1 group-title="Sports" tvg-logo=",ESPN News
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/134
+#EXTINF:-1 group-title="Sports" tvg-logo=",ESPN U
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/172
+#EXTINF:-1 group-title="Sports" tvg-logo=",Fight Network
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/331
+#EXTINF:-1 group-title="Sports" tvg-logo=",Fox Soccer Plus
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/265
+#EXTINF:-1 group-title="Sports" tvg-logo=",Fox Sports 1
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/263
+#EXTINF:-1 group-title="Sports" tvg-logo=",Fox Sports 2
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/264
+#EXTINF:-1 group-title="Sports" tvg-logo=",Fox Sports Racing
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/8430
+#EXTINF:-1 group-title="Sports" tvg-logo=",Golf Channel
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/138
+#EXTINF:-1 group-title="Sports" tvg-logo=",Marquee Sports Network
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1045
+#EXTINF:-1 group-title="Sports" tvg-logo=",MASN
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1615
+#EXTINF:-1 group-title="Sports" tvg-logo=",MASN 2
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1616
+#EXTINF:-1 group-title="Sports" tvg-logo=",MAV TV
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/965
+#EXTINF:-1 group-title="Sports" tvg-logo=",NBA TV
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/136
+#EXTINF:-1 group-title="Sports" tvg-logo=",NBC Sports Bay Area
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/591
+#EXTINF:-1 group-title="Sports" tvg-logo=",NBC Sports Boston
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/590
+#EXTINF:-1 group-title="Sports" tvg-logo=",NBC Sports California
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/589
+#EXTINF:-1 group-title="Sports" tvg-logo=",NBC Sports Chicago
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/588
+#EXTINF:-1 group-title="Sports" tvg-logo=",NBC Sports Philadelphia
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/586
+#EXTINF:-1 group-title="Sports" tvg-logo=",NBC Sports Washington
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/585
+#EXTINF:-1 group-title="Sports" tvg-logo=",NESN
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/890
+#EXTINF:-1 group-title="Sports" tvg-logo=",NFL Network
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/234
+#EXTINF:-1 group-title="Sports" tvg-logo=",NHL Network
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/299
+#EXTINF:-1 group-title="Sports" tvg-logo=",PAC-12 Arizona
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/892
+#EXTINF:-1 group-title="Sports" tvg-logo=",PAC-12 Network
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/353
+#EXTINF:-1 group-title="Sports" tvg-logo=",Red Bull TV
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1585
+#EXTINF:-1 group-title="Sports" tvg-logo=",Root Sports Northwest
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1613
+#EXTINF:-1 group-title="Sports" tvg-logo=",Sec Network
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/295
+#EXTINF:-1 group-title="Sports" tvg-logo=",SNY
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/330
+#EXTINF:-1 group-title="Sports" tvg-logo=",Spectrum Sportsnet
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/873
+#EXTINF:-1 group-title="Sports" tvg-logo=",Spectrum Sportsnet LA
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1609
+#EXTINF:-1 group-title="Sports" tvg-logo=",Stadium Network
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1466
+#EXTINF:-1 group-title="Sports" tvg-logo=",Tennis Channel
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/244
+#EXTINF:-1 group-title="Sports" tvg-logo=",World Fishing Network
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/382
+#EXTINF:-1 group-title="Sports" tvg-logo=",Yes Network
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/245
+#EXTINF:-1 group-title="Sports" tvg-logo=",USA| Olympic Channel
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/14309
+#EXTINF:-1 group-title="Sports" tvg-logo=", UFC  (HD)
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/146293
+#EXTINF:-1 group-title="Sports" tvg-logo=", Willow Cricket (X)
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/41979
+#EXTINF:-1 group-title="Sports" tvg-logo=", World Poker Tour 
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/140815
+#EXTINF:-1 group-title="Sports" tvg-logo=", YES Network
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57972
+#EXTINF:-1 group-title="Sports" tvg-logo=", WWE Network
+http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/11645
