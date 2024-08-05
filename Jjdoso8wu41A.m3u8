@@ -780,7 +780,17 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/352
 #EXTINF:-1 group-title="Cable" tvg-logo=",WWE Network
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/11645
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/roxiMusic.webp",Best of The 80s
+https://linear-759.frequency.stream/mt/studio/759/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/roxiMusic.webp",Best of The 90s
+https://linear-762.frequency.stream/mt/studio/762/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/roxiMusic.webp",Best of The 00s
+https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://d30itml3t0pwpf.cloudfront.net/api/v3/medias/16439218/image/opt/1600x1290%3E/1692696442-e5a7e55e",Trace UK
+https://d2u040elo6umri.cloudfront.net/trace_urban_gb.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo=", Alternative
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8
