@@ -147,7 +147,7 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5819.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/21092
-#EXTINF:-1 group-title="Cable" tvg-logo=",A&E 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png",A&E 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/212
