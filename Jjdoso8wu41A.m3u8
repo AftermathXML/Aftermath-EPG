@@ -296,27 +296,27 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/170
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fuse-us.png",FUSE
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/a2903e36-7a71-4894-baa9-509fe803768a.m3u
-#EXTINF:-1 group-title="Cable" tvg-logo=",FX 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png",FX 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/46690
-#EXTINF:-1 group-title="Cable" tvg-logo=",FX (CA) 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fx-us.png",FX (CA) 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57268
-#EXTINF:-1 group-title="Cable" tvg-logo=",FXM
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxm-movie-channel-us.png",FXM
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/166
-#EXTINF:-1 group-title="Cable" tvg-logo=",FXX (CA) 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png",FXX (CA) 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/165
-#EXTINF:-1 group-title="Cable" tvg-logo=",FXX (US) 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fxx-us.png",FXX (US) 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57429
-#EXTINF:-1 group-title="Cable" tvg-logo=",FYI 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fyi-us.png",FYI 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/164
-#EXTINF:-1 group-title="Cable" tvg-logo=",Global Kingston 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/global-ca.png",Global Kingston 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57435
 #EXTINF:-1 group-title="Cable" tvg-logo=",Global News Kingston
@@ -324,28 +324,28 @@ http://fortv.cc:8080/8bqC68/409069/57435
 https://jmp2.uk/PlutoTV/62cbf4964446e2000742073e-alt.m3u8
 #EXTINF:-1 group-title="Cable" tvg-logo=",Great American Family 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1474
-#EXTINF:-1 group-title="Cable" tvg-logo=",Great! TV 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/great-american-family-us.png",Great! TV 
 #EXTVLCOPT:network-caching=1000
 http://84.203.199.198:9981/stream/channel/a08f97ab4e11e6cd6b892c1c56980f3e
-#EXTINF:-1 group-title="Cable" tvg-logo=",Grit TV 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/grit-us.png",Grit TV 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/734
-#EXTINF:-1 group-title="Cable" tvg-logo=",GSN 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/game-show-network-us.png",GSN 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/358
-#EXTINF:-1 group-title="Cable" tvg-logo=",Hallmark 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-tv-us.png",Hallmark 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/162
-#EXTINF:-1 group-title="Cable" tvg-logo=",Hallmark Drama 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-tv-us.png",Hallmark Drama 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/356
-#EXTINF:-1 group-title="Cable" tvg-logo=",Hallmark Movies & Mysteries 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-tv-us.png",Hallmark Movies & Mysteries 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/161
-#EXTINF:-1 group-title="Cable" tvg-logo=",HGTV 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/hgtv-ca.png",HGTV 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/154
-#EXTINF:-1 group-title="Cable" tvg-logo=",History 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/historia-ca.png",History 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/153
-#EXTINF:-1 group-title="Cable" tvg-logo=",History 2 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-2-ca.png",History 2 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1181
 #EXTINF:-1 group-title="Cable" tvg-logo=",HLN 
