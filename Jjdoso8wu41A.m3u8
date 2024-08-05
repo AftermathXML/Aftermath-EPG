@@ -322,9 +322,9 @@ http://fortv.cc:8080/8bqC68/409069/57435
 #EXTINF:-1 group-title="Cable" tvg-logo=",Global News Kingston
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/62cbf4964446e2000742073e-alt.m3u8
-#EXTINF:-1 group-title="Cable" tvg-logo=",Great American Family 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/great-american-family-us.png",Great American Family 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1474
-#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/great-american-family-us.png",Great! TV 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-tv-uk.png",Great! TV 
 #EXTVLCOPT:network-caching=1000
 http://84.203.199.198:9981/stream/channel/a08f97ab4e11e6cd6b892c1c56980f3e
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/grit-us.png",Grit TV 
