@@ -97,21 +97,19 @@ https://jmp2.uk/PlutoTV/5f99e24636d67d0007a94e6d-alt.m3u8
 https://jmp2.uk/PlutoTV/64f8a949f5b5e4000862467c-alt.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo=",Cartoonito 
 http://iptvtree.net:8080/F19236/516c41c7/1546
-#EXTINF:-1 group-title="Kids" tvg-logo=",Cartoon Network +1 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",Cartoon Network +1 
 http://84.203.199.198:9981/stream/service/4a10345a67f047e8a2935a54999996f1
-#EXTINF:8,Cartoon Network (LA)
-http://45.186.106.207:8000/play/a07l/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo=",Cartoon Network 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",Cartoon Network 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57380
-#EXTINF:-1 group-title="Kids" tvg-logo=",Cartoon Network 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png",Cartoon Network 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/199
 #EXTINF:58,Brat TV 
 https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-63d6f6c5a9e88ee909e7ee1f.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo=",Boomerang 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png",Boomerang 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/130
-#EXTINF:-1 group-title="Kids" tvg-logo=",Boomerang 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png",Boomerang 
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/2944
 #EXTINF:36,ANIME x HIDIVE
@@ -127,7 +125,7 @@ https://jmp2.uk/PlutoTV/667195b3efa2a10008bb631e-alt.m3u8
 https://jmp2.uk/SamsungTVPlus/INBD13000043W.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo=",Animation+ 
 https://jmp2.uk/SamsungTVPlus/US400002PS.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo=",Adult Swim 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/adult-swim-ca.png",Adult Swim 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/1883
 #EXTINF:-1 group-title="Kids" tvg-logo=",Adult Animation (AU VPN)
