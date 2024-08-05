@@ -480,53 +480,51 @@ http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507988
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/518
 #EXTINF:-1 group-title="Cable" tvg-logo=",Start TV 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1467
-#EXTINF:-1 group-title="Cable" tvg-logo=",Sundance 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/sundance-tv-es.png",Sundance 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/215
-#EXTINF:-1 group-title="Cable" tvg-logo=",SyFy 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/syfy-es.png",SyFy 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/214
-#EXTINF:-1 group-title="Cable" tvg-logo=",TBS 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png",TBS 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/213
-#EXTINF:-1 group-title="Cable" tvg-logo=",TCM 
-http://streamsy.online:2999/Jaley1990/L6KomjzBxv/352
-#EXTINF:-1 group-title="Cable" tvg-logo=",The CW Network 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cw-ca.png",The CW Network 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1086
-#EXTINF:-1 group-title="Cable" tvg-logo=",TLC 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tlc-ca.png",TLC 
 #EXTVLCOPT:network-caching=1000
 http://thevdm.xyz:25461/Jennifer/Year!/39846
-#EXTINF:-1 group-title="Cable" tvg-logo=",TNT 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png",TNT 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/240
-#EXTINF:-1 group-title="Cable" tvg-logo=",Travel Channel 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/travel-channel-uk.png",Travel Channel 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/239
-#EXTINF:-1 group-title="Cable" tvg-logo=",TruTV 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tru-tv-uk.png",TruTV 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/238
-#EXTINF:-1 group-title="Cable" tvg-logo=",TV Land 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tv-land-us.png",TV Land 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/300
-#EXTINF:-1 group-title="Cable" tvg-logo=",TV One 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png",TV One 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/20868
-#EXTINF:-1 group-title="Cable" tvg-logo=",USA Network 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/usa-network-lam.png",USA Network 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/251
-#EXTINF:-1 group-title="Cable" tvg-logo=",VH1 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png",VH1 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/395
-#EXTINF:-1 group-title="Cable" tvg-logo=",Viceland 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/viceland-us.png",Viceland 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/307
-#EXTINF:-1 group-title="Cable" tvg-logo=",Vision 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/v-ca.png",Vision 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57468
-#EXTINF:-1 group-title="Cable" tvg-logo=",Warner TV 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/warner-tv-es.png",Warner TV 
 https://ln.run/WarnerTV
-#EXTINF:-1 group-title="Cable" tvg-logo=",Weather Network 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/the-weather-network-ca.png",Weather Network 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57470
 
