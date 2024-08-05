@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 group-title="Kids" tvg-logo=",YTV 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ytv-ca.png",YTV 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/63850
-#EXTINF:-1 group-title="Kids" tvg-logo=",Universal Kids 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/universal-kids-us.png",Universal Kids 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/9235
-#EXTINF:-1 group-title="Kids" tvg-logo=",TVO 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tvo-ca.png",TVO 
 http://104.194.41.183:9981/stream/channel/1d4249864c7c430aa1685cd0c9d2e363
-#EXTINF:-1 group-title="Kids" tvg-logo=",Treehouse 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/treehouse-ca.png",Treehouse 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57371
 #EXTINF:-1 group-title="Kids" tvg-logo=",Totally Teen 
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/6450209d939a5900084dba1d-alt.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo=",Tooncast (LA)
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tooncast-lam.png",Tooncast (LA)
 #EXTVLCOPT:network-caching=1000
 http://45.232.176.17:8000/play/a00r
 #EXTINF:-1 group-title="Kids" tvg-id="Toonami Est",Toonami Aftermath Est
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Toonami Pst",Toonami Aftermath Pst
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo=",Teletoon East 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/teletoon-ca.png",Teletoon East 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57372
-#EXTINF:-1 group-title="Kids" tvg-logo=",TeenNick 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png",TeenNick 
 http://thevdm.xyz:25461/Jennifer/Year!/20880
 #EXTINF:-1 group-title="Kids" tvg-logo=",Super Anime 
 https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
@@ -38,23 +38,21 @@ https://tvheadend.tannerserver.homedns.org/stream/channel/3969090f2366dd19e8beb4
 https://i.mjh.nz/10-nicktoons-90s.m3u8%7Cuser-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 group-title="Kids" tvg-logo=",NickToons 00s (AU VPN)
 https://i.mjh.nz/10-nicktoons00s.m3u8%7Cuser-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 group-title="Kids" tvg-logo=",NickToons 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png",NickToons 
 http://143.244.60.30/NICKTOONS/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo=",NickRewind 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a3b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 group-title="Kids" tvg-logo=",Nickelodeon Classics (AU VPN)
 https://i.mjh.nz/10-nick-classics.m3u8%7Cuser-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-#EXTINF:-1 group-title="Kids" tvg-logo=",Nickelodeon 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png",Nickelodeon 
 http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
-#EXTINF:24,Nickelodeon 
-http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo=",Nick Jr. Pluto TV 
 https://jmp2.uk/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo=",Nick Jr. (LA)
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",Nick Jr. (LA)
 http://181.78.4.186:8000/play/a0hk/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo=",Nick Jr. 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",Nick Jr. 
 http://thevdm.xyz:25461/Jennifer/Year!/20874
-#EXTINF:-1 group-title="Kids" tvg-logo=",Nick Jr UK 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",Nick Jr UK 
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/28890
 #EXTINF:-1 group-title="Kids" tvg-logo=",MeTV Toons 
