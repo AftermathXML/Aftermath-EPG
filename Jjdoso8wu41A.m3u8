@@ -191,7 +191,7 @@ https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:36,BBC Sci-Fi 
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-65622ac05dbccec83a87b641.m3u8
-#EXTINF:-1 group-title="Cable" tvg-logo=",BET 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bet-uk.png",BET 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/204
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bounce-us.png",Bounce TV 
 #EXTVLCOPT:network-caching=1000
@@ -270,32 +270,30 @@ http://fortv.cc:8080/nXmmT7/622090/20189
 http://fortv.cc:8080/8bqC68/409069/122001
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/destination-america-us.png",Destination America 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/185
-#EXTINF:-1 group-title="Cable" tvg-logo=",Discovery Channel 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/discovery-channel-uk.png",Discovery Channel 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/184
-#EXTINF:-1 group-title="Cable" tvg-logo=",Discovery Family 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png",Discovery Family 
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Cable" tvg-logo=",Discovery Life 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-life-us.png",Discovery Life 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/182
-#EXTINF:-1 group-title="Cable" tvg-logo=",Discovery Science 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png",Discovery Science 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/181
-#EXTINF:-1 group-title="Cable" tvg-logo=",DTOUR 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/dtour-ca.png",DTOUR 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57250
-#EXTINF:-1 group-title="Cable" tvg-logo=",E! 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e-entertainment-us.png",E! 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/176
-#EXTINF:-1 group-title="Cable" tvg-logo=",Food Network 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/food-network-us.png",Food Network 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/171
-#EXTINF:-1 group-title="Cable" tvg-logo=",FOX New York 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png",FOX New York 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/728
-#EXTINF:-1 group-title="Cable" tvg-logo=",Fox News 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png",Fox News 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/267
-#EXTINF:-1 group-title="Cable" tvg-logo=",FreeForm 
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png",FreeForm 
 #EXTVLCOPT:network-caching=1000
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/170
-#EXTINF:51,FUSE 
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fuse-us.png",FUSE
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/a2903e36-7a71-4894-baa9-509fe803768a.m3u
 #EXTINF:-1 group-title="Cable" tvg-logo=",FX 
