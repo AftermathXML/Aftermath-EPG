@@ -69,27 +69,25 @@ https://jmp2.uk/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
 https://jmp2.uk/PlutoTV/60fb040d4795a6000762fe8f-alt.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo=",Forever Kids 
 https://jmp2.uk/PlutoTV/56171fafada51f8004c4b40f-alt.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo=",Family JR 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-jr-ca.png",Family JR 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/418464
-#EXTINF:-1 group-title="Kids" tvg-logo=",Family Channel 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/family-ca.png",Family Channel 
 #EXTVLCOPT:network-caching=1000
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/423763
-#EXTINF:-1 group-title="Kids" tvg-logo=",DreamWorks (LA)
+#EXTINF:-1 group-title="Kids" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo-700x394.png",DreamWorks (LA)
 https://ln.run/Dreamworks
-#EXTINF:-1 group-title="Kids" tvg-logo=",Disney XD 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png",Disney XD 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57420
-#EXTINF:21,Disney XD 
-http://212.102.60.231/DISNEY_XD/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo=",Disney Junior 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png",Disney Junior 
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57349
-#EXTINF:-1 group-title="Kids" tvg-logo=",Disney Junior 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png",Disney Junior 
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo=",Disney Channel 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png",Disney Channel 
 http://212.102.60.231/DISNEY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo=",Disney Channel 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-channel-us.png",Disney Channel 
 http://iptvtree.net:8080/F19236/516c41c7/1113
-#EXTINF:-1 group-title="Kids" tvg-logo=",Discovery Family 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png",Discovery Family 
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:60,Crunchyroll 
 https://jmp2.uk/Roku/307b3b9ea321539b9688148fc97a8bfd.m3u8
