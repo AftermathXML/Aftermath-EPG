@@ -792,6 +792,11 @@ https://linear-763.frequency.stream/mt/studio/763/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://d30itml3t0pwpf.cloudfront.net/api/v3/medias/16439218/image/opt/1600x1290%3E/1692696442-e5a7e55e",Trace UK
 https://d2u040elo6umri.cloudfront.net/trace_urban_gb.m3u8
 
+#EXTM3U
+#EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/toonami/images/0/0f/Toonami_aftermath_logo.png/", Aftermath Radio
+http://api.toonamiaftermath.com:3000/radio/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Music" tvg-logo=", Alternative
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-62efbb8652f7d73061eec498.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo=", Classic Rock
