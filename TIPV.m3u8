@@ -358,16 +358,7 @@ https://jmp2.uk/PlutoTV/6670a7f222acab00088dcd0a-alt.m3u8
 https://jmp2.uk/PlutoTV/5b4e94282d4ec87bdcbb87cd-alt.m3u8
 #EXTINF:0, Sitcom Legends
 https://jmp2.uk/PlutoTV/633354b63df9700007f6a1b7-alt.m3u8
-#EXTINF:0, Star Trek
-https://jmp2.uk/PlutoTV/5efbd39f8c4ce900075d7698-alt.m3u8
-#EXTINF:0, Star Trek Deep Space Nine
-https://jmp2.uk/PlutoTV/65c69bbfd77d450008c7ffee-alt.m3u8
-#EXTINF:0, Star Trek Voyager
-https://jmp2.uk/PlutoTV/634dacf51d90320007fcd5fa-alt.m3u8
-#EXTINF:0, Star Trek: The Motion Pictures
-https://jmp2.uk/PlutoTV/6695a2e4fe11e50008341303-alt.m3u8
-#EXTINF:0, Star Trek: The Motion Pictures
-https://jmp2.uk/PlutoTV/6675c88da1d7ad00084762cb-alt.m3u8
+
 #EXTINF:0, Stories by AMC
 https://jmp2.uk/PlutoTV/62f2ce24f328e00007e7f55a-alt.m3u8
 #EXTINF:0, TokuSHOUTsu
@@ -539,3 +530,33 @@ https://jmp2.uk/Roku/ed1ad60fa9a05f34bf5d4e8b09460d6b.m3u8
 https://jmp2.uk/Roku/0e9a0d968d225a3eb93784404f7edadf.m3u8
 #EXTINF:57, Rakuten Viki
 https://jmp2.uk/Roku/c4bdfe6fd751590e9d096b5de264bba1.m3u8
+
+
+#EXTM3U
+#EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",TVS Cipher Network (360p)
+https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+#EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",TVS Classic Movies (288p)
+https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:28,TVS Hollywood History (582p)
+https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",TVS Mainstreet (360p) [Not 24/7]
+https://bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+#EXTINF:23,TVS Nostalgia (472p)
+https://bozztv.com/gusa/gusa-nostalgia/index.m3u8
+#EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",TVS Nostalgia Movies (480p)
+https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",TVS Pet Parade Network (360p)
+https://bozztv.com/gusa/gusa-petparadenetwork/index.m3u8
+#EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",TVS Quiz Show Network (720p)
+https://bozztv.com/gusa/gusa-tvsgameshow/index.m3u8
+#EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",TVS Retro (720p)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",TVS Talk Network (360p)
+https://bozztv.com/gusa/gusa-TVStalk/index.m3u8
+#EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",TVS Tally Ho (360p)
+https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8
+#EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",TVS Tavern (480p)
+https://bozztv.com/gusa/gusa-tavern/index.m3u8
+#EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",TVS Western Movie (270p)
+https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+
