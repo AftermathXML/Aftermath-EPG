@@ -531,6 +531,10 @@ https://ln.run/WarnerTV
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/the-weather-network-ca.png",Weather Network 
 #EXTVLCOPT:network-caching=1000
 http://fortv.cc:8080/8bqC68/409069/57470
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/out-tv-es.png",OUT TV
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/423733
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/daystar-us.png",DAYSTAR TV
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/418456
 
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",HBO 2
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57438
