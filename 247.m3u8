@@ -3677,12 +3677,16 @@ https://jmp2.uk/SamsungTVPlus/USBD3300020PM.m3u8
 https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-62ba4aaff663580a7238f327.m3u8
 #EXTINF:-1 group-title="24/7" , South Park
 https://jmp2.uk/PlutoTV/62bdb1c5e25122000798ac79-alt.m3u8
-#EXTINF:-1 group-title="24/7" , Star Trek
+#EXTINF:-1 group-title="24/7" , Star Trek (CA)
 https://jmp2.uk/PlutoTV/5efbd39f8c4ce900075d7698-alt.m3u8
-#EXTINF:-1 group-title="24/7" , Star Trek Deep Space Nine
+#EXTINF:-1 group-title="24/7" , Star Trek Deep Space Nine (CA)
 https://jmp2.uk/PlutoTV/65c69bbfd77d450008c7ffee-alt.m3u8
-#EXTINF:-1 group-title="24/7" , Star Trek Voyager
+#EXTINF:-1 group-title="24/7" , Star Trek Voyager (CA)
 https://jmp2.uk/PlutoTV/634dacf51d90320007fcd5fa-alt.m3u8
+#EXTINF:0, Star Trek: The Next Generation (CA)
+https://jmp2.uk/PlutoTV/66601d838ce3110008a9d7bf-alt.m3u8
+#EXTINF:0, Star Trek: The Original Series (CA)
+https://jmp2.uk/PlutoTV/66601e338ea5560008f7820e-alt.m3u8
 #EXTINF:-1 group-title="24/7" , Stargate
 https://jmp2.uk/PlutoTV/620bfa7df72827000703ddb1-alt.m3u8
 #EXTINF:-1 group-title="24/7" , Strawberry Shortcake
