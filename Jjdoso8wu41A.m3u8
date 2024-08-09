@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ytv-ca.png", Retro Kid
+#EXTINF:-1 group-title="Kids" tvg-logo="", Retro Kid
 https://jmp2.uk/PlutoTV/6408b41b83f58900081d91ad-alt.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ytv-ca.png",YTV 
 #EXTVLCOPT:network-caching=1000
