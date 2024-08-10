@@ -554,3 +554,13 @@ https://bozztv.com/gusa/gusa-tavern/index.m3u8
 #EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",TVS Western Movie (270p)
 https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
 
+
+
+#EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",Snickelodeon EST
+http://api.toonamiaftermath.com:3000/snick-est/playlist.m3u8
+
+#EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",Snickelodeon PST
+http://api.toonamiaftermath.com:3000/snick-pst/playlist.m3u8
+
+#EXTINF:-1 group-title="Retro" tvg-logo="https://cdn-icons-png.flaticon.com/512/72/72743.png",MTV 97
+http://api.toonamiaftermath.com:3000/mtv97/playlist.m3u8
