@@ -5,7 +5,7 @@ https://rewindtv.site/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/retro-toons-vod.png",Classic Cube
 https://s3.us-east-005.backblazeb2.com/tvcube/hls/3/stream.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/5LxsZV1/download.png",CNClassic
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/8DGQX1t/Swug.webp",CNClassic
 https://stream-cdn-iad.vaughnsoft.net/play/live_cnclassic.flv
 
 #EXTINF:-1 group-title="Kids" tvg-logo="", Retro Kid
