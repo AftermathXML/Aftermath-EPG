@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240811">
 <channel id="CNClassic.us"><display-name>CNClassic</display-name><icon src="https://i.ibb.co/8DGQX1t/Swug.webp"/><url>https://vaughn.live/cnclassic</url></channel>
+
+  
 <programme start="20240811100000 +0000" stop="20240811103000 +0000" channel="CNClassic.us"><title lang="en">Spiderman</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20240811103000 +0000" stop="20240811110000 +0000" channel="CNClassic.us"><title lang="en">Fantastic 4</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
 <programme start="20240811110000 +0000" stop="20240811113000 +0000" channel="CNClassic.us"><title lang="en">Hulk</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20240811113000 +0000" stop="20240811120000 +0000" channel="CNClassic.us"><title lang="en">Iron Man</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
+<programme start="20240811113000 +0000" stop="20240811120000 +0000" channel="CNClassic.us"><title lang="en">Iron Man</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
+
+<programme start="20240811120000 +0000" stop="20240811123000 +0000" channel="CNClassic.us"><title lang="en">Spiderman</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20240811123000 +0000" stop="20240811130000 +0000" channel="CNClassic.us"><title lang="en">Fantastic 4</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
+<programme start="20240811130000 +0000" stop="20240811133000 +0000" channel="CNClassic.us"><title lang="en">Hulk</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20240811133000 +0000" stop="20240811140000 +0000" channel="CNClassic.us"><title lang="en">Iron Man</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
+
+<programme start="20240811140000 +0000" stop="20240811143000 +0000" channel="CNClassic.us"><title lang="en">Spiderman</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20240811143000 +0000" stop="20240811150000 +0000" channel="CNClassic.us"><title lang="en">Fantastic 4</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
+<programme start="20240811150000 +0000" stop="20240811153000 +0000" channel="CNClassic.us"><title lang="en">Hulk</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20240811153000 +0000" stop="20240811160000 +0000" channel="CNClassic.us"><title lang="en">Iron Man</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
+
+<programme start="20240811160000 +0000" stop="20240811163000 +0000" channel="CNClassic.us"><title lang="en">Spiderman</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20240811163000 +0000" stop="20240811170000 +0000" channel="CNClassic.us"><title lang="en">Fantastic 4</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
+<programme start="20240811170000 +0000" stop="20240811173000 +0000" channel="CNClassic.us"><title lang="en">Hulk</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20240811173000 +0000" stop="20240811180000 +0000" channel="CNClassic.us"><title lang="en">Iron Man</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
+
+<programme start="20240811180000 +0000" stop="20240811183000 +0000" channel="CNClassic.us"><title lang="en">Spiderman</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20240811183000 +0000" stop="20240811190000 +0000" channel="CNClassic.us"><title lang="en">Fantastic 4</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
+<programme start="20240811190000 +0000" stop="20240811193000 +0000" channel="CNClassic.us"><title lang="en">Hulk</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20240811193000 +0000" stop="20240811200000 +0000" channel="CNClassic.us"><title lang="en">Iron Man</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
+
+
 </tv>
