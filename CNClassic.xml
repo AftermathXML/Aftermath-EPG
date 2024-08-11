@@ -37,14 +37,13 @@
 <programme start="20240811230000 +0000" stop="20240811233000 +0000" channel="CNClassic.us"><title lang="en">Voltron</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20240811233000 +0000" stop="20240811240000 +0000" channel="CNClassic.us"><title lang="en">Dragonball GT</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
 
-<programme start="20240811240000 +0000" stop="20240812003000 +0000" channel="CNClassic.us"><title lang="en">Swag1</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20240812010000 +0000" stop="20240812013000 +0000" channel="CNClassic.us"><title lang="en">.Swag2</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20240812013000 +0000" stop="20240812020000 +0000" channel="CNClassic.us"><title lang="en">Swag3</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20240812020000 +0000" stop="20240812023000 +0000" channel="CNClassic.us"><title lang="en">Swag4</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
+<programme start="20240811240000 +0000" stop="20240811243000 +0000" channel="CNClassic.us"><title lang="en">Swag1</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20240811243000 +0000" stop="20240811250000 +0000" channel="CNClassic.us"><title lang="en">Swag2</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20240811250000 +0000" stop="20240811253000 +0000" channel="CNClassic.us"><title lang="en">Swag3</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20240811253000 +0000" stop="20240811260000 +0000" channel="CNClassic.us"><title lang="en">Swag4</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20240811260000 +0000" stop="20240811263000 +0000" channel="CNClassic.us"><title lang="en">Swag5</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20240811263000 +0000" stop="20240811270000 +0000" channel="CNClassic.us"><title lang="en">Swag6</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 
-<programme start="20240812023000 +0000" stop="20240812040000 +0000" channel="CNClassic.us"><title lang="en">Swag1</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20240812040000 +0000" stop="20240812043000 +0000" channel="CNClassic.us"><title lang="en">.Swag2</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20240812043000 +0000" stop="20240812044000 +0000" channel="CNClassic.us"><title lang="en">Swag3</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20240812044000 +0000" stop="20240812050000 +0000" channel="CNClassic.us"><title lang="en">Swag4</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
+
 
 </tv>
