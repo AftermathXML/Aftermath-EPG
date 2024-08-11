@@ -27,9 +27,9 @@
 <programme start="20240811220000 +0000" stop="20240811223000 +0000" channel="CNClassic.us"><title lang="en">Tenchi Universe</title></programme>
 <programme start="20240811223000 +0000" stop="20240811230000 +0000" channel="CNClassic.us"><title lang="en">.Hack//SIGN</title></programme>  
 <programme start="20240811230000 +0000" stop="20240811233000 +0000" channel="CNClassic.us"><title lang="en">Voltron</title></programme>
-<programme start="20240811233000 +0000" stop="20240811240000 +0000" channel="CNClassic.us"><title lang="en">Dragonball GT</title></programme> 
-<programme start="20240811240000 +0000" stop="20240811243000 +0000" channel="CNClassic.us"><title lang="en">Open</title></programme> 
-<programme start="20240811243000 +0000" stop="20240811250000 +0000" channel="CNClassic.us"><title lang="en">Spot</title></programme> 
-<programme start="20240811250000 +0000" stop="20240811253000 +0000" channel="CNClassic.us"><title lang="en">FOR</title></programme> 
-<programme start="20240811253000 +0000" stop="20240811260000 +0000" channel="CNClassic.us"><title lang="en">EPG</title></programme> 
+<programme start="20240811233000 +0000" stop="20240812000000 +0000" channel="CNClassic.us"><title lang="en">Dragonball GT</title></programme> 
+<programme start="20240812000000 +0000" stop="20240812003000 +0000" channel="CNClassic.us"><title lang="en">Open</title></programme> 
+<programme start="20240812003000 +0000" stop="20240812010000 +0000" channel="CNClassic.us"><title lang="en">Spot</title></programme> 
+<programme start="20240812010000 +0000" stop="20240812013000 +0000" channel="CNClassic.us"><title lang="en">FOR</title></programme> 
+<programme start="20240812013000 +0000" stop="20240812020000 +0000" channel="CNClassic.us"><title lang="en">EPG</title></programme> 
 </tv>
