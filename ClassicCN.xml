@@ -27,9 +27,17 @@
 <programme start="20240811220000 +0000" stop="20240811223000 +0000" channel="CNClassic.us"><title lang="en">Tenchi Universe</title></programme>
 <programme start="20240811223000 +0000" stop="20240811230000 +0000" channel="CNClassic.us"><title lang="en">.Hack//SIGN</title></programme>  
 <programme start="20240811230000 +0000" stop="20240811233000 +0000" channel="CNClassic.us"><title lang="en">Voltron</title></programme>
-<programme start="20240811233000 +0000" stop="20240812000000 +0000" channel="CNClassic.us"><title lang="en">Dragonball GT</title></programme> 
-<programme start="20240812000000 +0000" stop="20240812003000 +0000" channel="CNClassic.us"><title lang="en">Open</title></programme> 
-<programme start="20240812003000 +0000" stop="20240812010000 +0000" channel="CNClassic.us"><title lang="en">Spot</title></programme> 
-<programme start="20240812010000 +0000" stop="20240812013000 +0000" channel="CNClassic.us"><title lang="en">FOR</title></programme> 
-<programme start="20240812013000 +0000" stop="20240812020000 +0000" channel="CNClassic.us"><title lang="en">EPG</title></programme> 
+<programme start="20240811233000 +0000" stop="20240812000000 +0000" channel="CNClassic.us"><title lang="en">Dragon Ball GT</title></programme> 
+<programme start="20240812000000 +0000" stop="20240812003000 +0000" channel="CNClassic.us"><title lang="en">Dragon Ball</title></programme> 
+<programme start="20240812003000 +0000" stop="20240812010000 +0000" channel="CNClassic.us"><title lang="en">Naruto</title></programme> 
+<programme start="20240812010000 +0000" stop="20240812013000 +0000" channel="CNClassic.us"><title lang="en">Fire Force</title></programme> 
+<programme start="20240812013000 +0000" stop="20240812020000 +0000" channel="CNClassic.us"><title lang="en">One Piece</title></programme> 
+
+<programme start="20240812020000 +0000" stop="20240812023000 +0000" channel="CNClassic.us"><title lang="en">Nerima Daikon Brothers</title></programme> 
+<programme start="20240812023000 +0000" stop="20240812024000 +0000" channel="CNClassic.us"><title lang="en">Is This a Zombie?</title></programme> 
+<programme start="20240812024000 +0000" stop="20240812025000 +0000" channel="CNClassic.us"><title lang="en">That Time I Got Reincarnated as a Slime</title></programme> 
+<programme start="20240812025000 +0000" stop="20240812026000 +0000" channel="CNClassic.us"><title lang="en">Gonna be the Twin Tail!</title></programme> 
+
+
+  
 </tv>
