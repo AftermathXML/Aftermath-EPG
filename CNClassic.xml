@@ -37,7 +37,10 @@
 <programme start="20240811230000 +0000" stop="20240811233000 +0000" channel="CNClassic.us"><title lang="en">Voltron</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20240811233000 +0000" stop="20240811240000 +0000" channel="CNClassic.us"><title lang="en">Dragonball GT</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
 
-
+<programme start="20240811240000 +0000" stop="20240811243000 +0000" channel="CNClassic.us"><title lang="en">Open</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
+<programme start="20240811243000 +0000" stop="20240811250000 +0000" channel="CNClassic.us"><title lang="en">Spot</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
+<programme start="20240811250000 +0000" stop="20240811253000 +0000" channel="CNClassic.us"><title lang="en">FOR</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
+<programme start="20240811253000 +0000" stop="20240811260000 +0000" channel="CNClassic.us"><title lang="en">EPG</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
 
 
 
