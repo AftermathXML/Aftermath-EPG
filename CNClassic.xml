@@ -2,4 +2,6 @@
 <channel id="CNClassic.us"><display-name>CNClassic</display-name><icon src="https://i.ibb.co/8DGQX1t/Swug.webp"/><url>https://vaughn.live/cnclassic</url></channel>
 <programme start="20240811100000 +0000" stop="20240811103000 +0000" channel="CNClassic.us"><title lang="en">Spiderman</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
 <programme start="20240811103000 +0000" stop="20240811110000 +0000" channel="CNClassic.us"><title lang="en">Fantastic 4</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
+<programme start="20240811110000 +0000" stop="20240811113000 +0000" channel="CNClassic.us"><title lang="en">Hulk</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
+<programme start="20240811113000 +0000" stop="20240811120000 +0000" channel="CNClassic.us"><title lang="en">Iron Man</title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
 </tv>
