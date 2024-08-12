@@ -2,6 +2,9 @@
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/anime-network-us.png",Retro TV
 https://rewindtv.site/hls/0/stream.m3u8
 
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/anime-accion-vod.png",Belle Anime
+https://stream-cdn-iad.vaughnsoft.net/play/live_bellpeppersandbeef.flv
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/retro-toons-vod.png",Classic Cube
 https://s3.us-east-005.backblazeb2.com/tvcube/hls/3/stream.m3u8
 
