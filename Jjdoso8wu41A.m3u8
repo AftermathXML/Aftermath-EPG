@@ -935,6 +935,10 @@ http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/508333
 #EXTVLCOPT:network-caching=1000
 http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/609431
 
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/south-africa/m-net-movies-za.png", Net Movies
+#EXTVLCOPT:network-caching=1000
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/418062
+
 
 #EXTINF:-1 group-title="Cable" tvg-logo=",WWE Network
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/11645
