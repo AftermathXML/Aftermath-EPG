@@ -956,7 +956,9 @@ https://d2u040elo6umri.cloudfront.net/trace_urban_gb.m3u8
 http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/605318
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Music" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/showcase-movies-my.png",Showcase Movies
+#EXTVLCOPT:network-caching=1000
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/605340
 
 
 #EXTM3U
