@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Cable" tvg-logo=",WWE Network
-http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/11645
-#EXTINF:-1 group-title="Cable" tvg-logo=",Court TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
-http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/21092
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png",A&E 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:network-caching=1000
