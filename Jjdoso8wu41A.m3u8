@@ -1255,7 +1255,7 @@ http://vo01.mohdtv.com:8880/voby4846/59129684/3059
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsy-us.png",Newsy
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/29692
-#EXTINF:-1 channel-id="pluto-5e46fba0c43b0d00096e5ac1" tvg-id="5e46fba0c43b0d00096e5ac1" tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" tvg-chno="2680" group-title="News",Blaze
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" tvg-chno="2680" group-title="News",Blaze
 https://jmp2.uk/PlutoTV/5e46fba0c43b0d00096e5ac1-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5e46fba0c43b0d00096e5ac1" tvg-id="5e46fba0c43b0d00096e5ac1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/info-wars-us.pngg" tvg-chno="2680" group-title="News",Info Wars
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/info-wars-us.pngg" tvg-chno="2680" group-title="News",Info Wars
 https://freespeech.akamaized.net/hls/live/2016873/live3/video_1/video_1.m3u8
