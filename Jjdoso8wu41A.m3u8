@@ -1286,4 +1286,5 @@ https://jmp2.uk/PlutoTV/5c01df1759ee03633e7b272c-alt.m3u8
 #EXTVLCOPT:network-caching=1000https://jmp2.uk/PlutoTV/5812b0f2237a6ff45d16c3f9-alt.m3u8
 #EXTINF:-1 group-title="Combat" tvg-logo="",Fite
 https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-62c8a2d2d774648bcc76a116.m3u8
-
+#EXTINF:-1 group-title="Combat" tvg-logo="",Ultimate Classic Wrestling
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64e6eff227a915f9b5184e9e.m3u8
