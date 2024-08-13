@@ -1256,37 +1256,37 @@ https://freespeech.akamaized.net/hls/live/2016873/live3/video_1/video_1.m3u8
 
 
 
-#EXTINF:-1 group-title="Combat" tvg-logo=",WWE Network
+#EXTINF:-1 group-title="Wrestling" tvg-logo=",WWE Network
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/11645
-#EXTINF:-1 group-title="Combat" tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1556241508679950337/img/Wwyg6VOSbP06YGSZ.jpg",Monday Night Wars!
+#EXTINF:-1 group-title="Wrestling" tvg-logo="https://pbs.twimg.com/amplify_video_thumb/1556241508679950337/img/Wwyg6VOSbP06YGSZ.jpg",Monday Night Wars!
 https://stream-cdn-iad.vaughnsoft.net/play/live_jetmetalman.flv
-#EXTINF:-1 group-title="Combat" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/ECW_logo_2001.svg",ECW
+#EXTINF:-1 group-title="Wrestling" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/ECW_logo_2001.svg",ECW
 https://stream-cdn-iad.vaughnsoft.net/play/live_ecwfn.flv
-#EXTINF:-1 group-title="Combat" tvg-logo="",MXC
+#EXTINF:-1 group-title="Wrestling" tvg-logo="",MXC
 https://stream-cdn-iad.vaughnsoft.net/play/live_mxc.flv
-#EXTINF:-1 group-title="Combat" tvg-logo="",Lucha Underground
+#EXTINF:-1 group-title="Wrestling" tvg-logo="",Lucha Underground
 https://stream-cdn-iad.vaughnsoft.net/play/live_fanatichd29.flv
-#EXTINF:-1 group-title="Combat" tvg-logo="",1996-2011 Wrestling
+#EXTINF:-1 group-title="Wrestling" tvg-logo="",1996-2011 Wrestling
 https://stream-cdn-iad.vaughnsoft.net/play/live_xpported.flv
-#EXTINF:-1 group-title="Combat" tvg-logo="",Spike TV
+#EXTINF:-1 group-title="Wrestling" tvg-logo="",Spike TV
 https://stream-cdn-iad.vaughnsoft.net/play/live_jakeh3kc4life.flv
-#EXTINF:-1 group-title="Combat" tvg-logo="",UFC Fight Pass
+#EXTINF:-1 group-title="Wrestling" tvg-logo="",UFC Fight Pass
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/31050
-#EXTINF:-1 group-title="Combat" tvg-logo="",Fight Network
+#EXTINF:-1 group-title="Wrestling" tvg-logo="",Fight Network
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/3004
-#EXTINF:-1 group-title="Combat" tvg-logo="",TNA Wrestling
+#EXTINF:-1 group-title="Wrestling" tvg-logo="",TNA Wrestling
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/59b722526996084038c01e1b-alt.m3u8
-#EXTINF:-1 group-title="Combat" tvg-logo="",Lucha Libre AAA
+#EXTINF:-1 group-title="Wrestling" tvg-logo="",Lucha Libre AAA
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/PlutoTV/5c01df1759ee03633e7b272c-alt.m3u8
-#EXTINF:-1 group-title="Combat" tvg-logo="",Fight
+#EXTINF:-1 group-title="Wrestling" tvg-logo="",Fight
 #EXTVLCOPT:network-caching=1000https://jmp2.uk/PlutoTV/5812b0f2237a6ff45d16c3f9-alt.m3u8
-#EXTINF:-1 group-title="Combat" tvg-logo="",Fite
+#EXTINF:-1 group-title="Wrestling" tvg-logo="",Fite
 https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-62c8a2d2d774648bcc76a116.m3u8
-#EXTINF:-1 group-title="Combat" tvg-logo="",Ultimate Classic Wrestling
+#EXTINF:-1 group-title="Wrestling" tvg-logo="",Ultimate Classic Wrestling
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64e6eff227a915f9b5184e9e.m3u8
 #EXTINF:-1 group-title="Wrestling" tvg-logo="https://i.ibb.co/Qc28JM5/24.png",WWE Money in the Bank
 #EXTVLCOPT:network-caching=1000
