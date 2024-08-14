@@ -1396,3 +1396,15 @@ http://kstv.us:8080/live/ks9jzHwZce/8251731225/28739.m3u8
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/28738.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-sports-us.png",NBC Sports Network
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/22499.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pac-12-network-icon-white-us.png?raw=true",PAC-12 Arizona HD
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15978.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pac-12-network-icon-white-us.png?raw=true",PAC-12 Bay Area HD
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15977.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pac-12-network-icon-white-us.png?raw=true",PAC-12 Los Angeles HD
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15976.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pac-12-network-icon-white-us.png?raw=true",PAC-12 Mountain HD
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15975.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pac-12-network-icon-white-us.png?raw=true",PAC-12 Oregon HD
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15974.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pac-12-network-icon-white-us.png?raw=true",PAC-12 Washington HD
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15973.m3u8
