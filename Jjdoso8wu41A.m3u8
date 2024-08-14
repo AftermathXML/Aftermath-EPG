@@ -1419,3 +1419,23 @@ http://kstv.us:8080/live/ks9jzHwZce/8251731225/22500.m3u8
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/22491.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png",NHL Network HD
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/15941.m3u8
+#EXTINF:-1 channel-id="pluto-5616f9c0ada51f8004c4b091" tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG-1664295222280.png" tvg-chno="2930" group-title="Sports" , World Poker Tour
+https://jmp2.uk/PlutoTV/5616f9c0ada51f8004c4b091-alt.m3u8
+#EXTINF:-1 channel-id="pluto-64d160f53c785e0008df525e" tvg-id="64d160f53c785e0008df525e" tvg-logo="https://images.pluto.tv/channels/64d160f53c785e0008df525e/colorLogoPNG.png" tvg-chno="2862" group-title="Sports" , Top Rank Classics
+https://jmp2.uk/PlutoTV/64d160f53c785e0008df525e-alt.m3u8
+#EXTINF:-1 channel-id="pluto-649b6898f2ec0000081a9460" tvg-id="649b6898f2ec0000081a9460" tvg-logo="https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png" tvg-chno="2864" group-title="Sports" , DAZN Ringside
+https://jmp2.uk/PlutoTV/649b6898f2ec0000081a9460-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5ebc8688f3697d00072f7cf8" tvg-id="5ebc8688f3697d00072f7cf8" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" tvg-chno="2870" group-title="Sports" , Bellator MMA
+https://jmp2.uk/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6334a574605f140007e233c4" tvg-id="6334a574605f140007e233c4" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png" tvg-chno="2880" group-title="Sports" , PFL MMA
+https://jmp2.uk/PlutoTV/6334a574605f140007e233c4-alt.m3u8
+#EXTINF:-1 channel-id="pluto-59b722526996084038c01e1b" tvg-id="59b722526996084038c01e1b" tvg-logo="https://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" tvg-chno="2890" group-title="Sports" , TNA Wrestling
+https://jmp2.uk/PlutoTV/59b722526996084038c01e1b-alt.m3u8
+#EXTINF:-1 channel-id="pluto-65c69b683ba51e00084534a3" tvg-id="65c69b683ba51e00084534a3" tvg-logo="https://images.pluto.tv/channels/65c69b683ba51e00084534a3/colorLogoPNG.png" tvg-chno="2970" group-title="Sports" , Monster Jam
+https://jmp2.uk/PlutoTV/65c69b683ba51e00084534a3-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6400f731d200410008f9b339" tvg-id="6400f731d200410008f9b339" tvg-logo="https://images.pluto.tv/channels/6400f731d200410008f9b339/colorLogoPNG.png" tvg-chno="2980" group-title="Sports" , MotorTrend FAST TV
+https://jmp2.uk/PlutoTV/6400f731d200410008f9b339-alt.m3u8
+#EXTINF:-1 channel-id="pluto-63b48016d9dd51000828fa37" tvg-id="63b48016d9dd51000828fa37" tvg-logo="https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png" tvg-chno="2990" group-title="Sports" , POWERNATION
+https://jmp2.uk/PlutoTV/63b48016d9dd51000828fa37-alt.m3u8
+#EXTINF:-1 channel-id="pluto-650b68bc2ce8e40008ac9c14" tvg-id="650b68bc2ce8e40008ac9c14" tvg-logo="https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/colorLogoPNG.png" tvg-chno="3003" group-title="Sports" , FanDuel TV Extra
+https://jmp2.uk/PlutoTV/650b68bc2ce8e40008ac9c14-alt.m3u8
