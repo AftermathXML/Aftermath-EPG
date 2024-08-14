@@ -1380,32 +1380,6 @@ http://kstv.us:8080/live/ks9jzHwZce/8251731225/22536.m3u8
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/22526.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",Fox Sports 2
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/22525.m3u8
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SPORTY STUFF
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300433.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SUPERSPORT ACTION
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201151.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SUPERSPORT CRICKET
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201154.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SUPERSPORT FOOTBALL
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201152.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SUPERSPORT GOLF
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201159.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SUPERSPORT GRANDSTAND
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201145.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SUPERSPORT LALIGA
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/493016.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SUPERSPORT MAXIMO 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201157.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SUPERSPORT MOTORSPORT
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201146.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SUPERSPORT PLAY 1
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201160.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SUPERSPORT PREMIER LEAGUE
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201144.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SUPERSPORT PSL
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201143.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SUPERSPORT RUGBY
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201153.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SKY SPORTS ARENA FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366439.m3u8
@@ -1429,3 +1403,19 @@ http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366424.m3u8
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366436.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SKY SPORTS RACING FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366418.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/big-ten-network-us.png",BIG TEN NETWORK
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/23355.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-us.png",CBS Sports Network HD
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15944.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/mav-tv-select-vod.png",MAV TV
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/25946.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png",MLB Network
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/22507.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/nba-tv-ca.png",NBA TV
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/22501.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png",NBC Golf
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/22500.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/sports/leagues/nfl-us.png",NFL Network HD
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/22491.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png",NHL Network HD
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15941.m3u8
