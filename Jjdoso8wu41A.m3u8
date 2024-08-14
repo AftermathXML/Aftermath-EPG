@@ -1258,27 +1258,6 @@ https://jmp2.uk/PlutoTV/5e46fba0c43b0d00096e5ac1-alt.m3u8
 https://freespeech.akamaized.net/hls/live/2016873/live3/video_1/video_1.m3u8
 
 
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-us.png",Bally Sports Wisconsin
-http://ultrapremium.cloud:8080/974955095tv2/92wvhcz/23715
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-us.png",Bally Sports West
-http://ultrapremium.cloud:8080/974955095tv2/92wvhcz/23716
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-us.png",Bally Sports Sun
-http://ultrapremium.cloud:8080/974955095tv2/92wvhcz/23717
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-us.png",Bally Sports South
-http://ultrapremium.cloud:8080/974955095tv2/92wvhcz/23718
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-us.png",Bally Sports San Diego
-http://ultrapremium.cloud:8080/974955095tv2/92wvhcz/23719
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-us.png",Bally Sports San Ohio
-http://ultrapremium.cloud:8080/974955095tv2/92wvhcz/23722
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-us.png",Bally Sports North
-http://ultrapremium.cloud:8080/974955095tv2/92wvhcz/23723
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-us.png",Bally Sports Midwest
-http://ultrapremium.cloud:8080/974955095tv2/92wvhcz/23724
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-us.png",Bally Sports Detroit
-http://ultrapremium.cloud:8080/974955095tv2/92wvhcz/23725
-#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bally-sports-us.png",Bally Sports Arizona
-http://ultrapremium.cloud:8080/974955095tv2/92wvhcz/23726
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/wwe-us.png",WWE Network
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/11645
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/ExtremeChampionshipWrestlingHD.jpg",ECW
