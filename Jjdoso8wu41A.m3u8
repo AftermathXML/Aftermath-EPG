@@ -1366,3 +1366,55 @@ http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7341/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-box-office-uk.png",Sky Sports Darts
 https://feenyx.xyz:443/WHcaWgXzQ1/kz4sYro5wK/1135
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-ca.png",TSN 1
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15929.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-ca.png",TSN 2
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15928.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-ca.png",TSN 3
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15927.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-ca.png",TSN 4
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15926.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-ca.png",TSN 5
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15925.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ca.png",Sports Net 360
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15938.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ca.png",Sports Net One
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15930.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ca.png",Sports Net Ontario
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15937.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ca.png",Sports Net West
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15903.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ca.png",Sports Net World
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/15936.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png",TNT SPORT 1
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300445.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png",TNT SPORT 2
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300449.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png",TNT SPORT 3
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300453.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png",TNT SPORT 4
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/300457.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-es.png",DAZN  Event 01
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339614.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-es.png",DAZN  Event 02
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339615.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-es.png",DAZN  Event 03
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339616.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-es.png",DAZN  Event 04
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339617.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-es.png",DAZN  Event 05
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339618.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-es.png",DAZN  Event 06
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339619.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-es.png",DAZN  Event 07
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339620.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-es.png",DAZN  Event 08
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339621.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-es.png",DAZN  Event 09
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339622.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-es.png",DAZN  Event 10
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339623.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-es.png",DAZN  Event 11
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339624.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-es.png",DAZN  Event 12
+http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339625.m3u8
