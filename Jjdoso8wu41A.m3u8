@@ -1461,3 +1461,209 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/swerve-sports/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23018&ads.content_duration=18000&ads.episode_id=71932&ads.show_id=2842&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Swerve%20Sports&ads.episodetitle=Swerve%20Sports&ads.keywords=Swerve%20Sports&ads.contenturl=__PAGEURL_ESC__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live
 
 
+#EXTINF:-1 group-title="Streams", Rakuten TV - Reality 
+https://jmp2.uk/SamsungTVPlus/GBBD1100006DS.m3u8
+#EXTINF:-1 group-title="Streams", Rakuten TV - Action Movies
+https://jmp2.uk/SamsungTVPlus/GBAJ4900006TU.m3u8
+#EXTINF:-1 group-title="Streams", Rakuten TV - Comedy Movies
+https://jmp2.uk/SamsungTVPlus/GBAJ4900007I2.m3u8
+#EXTINF:-1 group-title="Streams", Rakuten TV - Romance Movies
+https://jmp2.uk/SamsungTVPlus/GBBA3300020DM.m3u8
+#EXTINF:-1 group-title="Streams", Rakuten TV - Family
+https://jmp2.uk/SamsungTVPlus/GBBA3300024F7.m3u8
+#EXTINF:-1 group-title="Streams", Rakuten TV - Top Movies
+https://jmp2.uk/SamsungTVPlus/GBBC90001660.m3u8
+#EXTINF:-1 group-title="Streams", Rakuten TV - Drama Movies
+https://jmp2.uk/SamsungTVPlus/GBAJ49000081B.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Action (UK)
+https://jmp2.uk/PlutoTV/5dbfeb961b411c00090b52b3-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Adventure (UK)
+https://jmp2.uk/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Alien Invasion (UK)
+https://jmp2.uk/PlutoTV/6462190b7cb4b1000862dd60-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Animals (UK)
+https://jmp2.uk/PlutoTV/5ddf8ea0d000120009bcad83-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Animation (UK)
+https://jmp2.uk/PlutoTV/612f761008a9e50007984ba0-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Big Builds (UK)
+https://jmp2.uk/PlutoTV/63d91cf54e83e7000881ca1c-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Britain at War (UK)
+https://jmp2.uk/PlutoTV/625e8cb585ef320007806caf-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Christmas in Summer (UK)
+https://jmp2.uk/PlutoTV/62cbdc45d3cb9f0007128df4-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Classic TV (UK)
+https://jmp2.uk/PlutoTV/5d134a74ca91eedee1630faa-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Comedy Movies (UK)
+https://jmp2.uk/PlutoTV/5c363c2411c5ca053f198f97-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Conspiracy (UK)
+https://jmp2.uk/PlutoTV/5d4ae94ef1a1bbb350ca41bb-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Cops & Convicts (UK)
+https://jmp2.uk/PlutoTV/63e23143a8b22700082b0a65-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Crime (UK)
+https://jmp2.uk/PlutoTV/5d767790d0438aceb41d03ae-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Crime Drama (UK)
+https://jmp2.uk/PlutoTV/65a6a7a00c7ff50008cba07b-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Cult Films (UK)
+https://jmp2.uk/PlutoTV/5c5c31f2f21b553c1f673fb0-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Disaster Movies (UK)
+https://jmp2.uk/PlutoTV/63e2316e4e83e70008953158-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Extreme Health (UK)
+https://jmp2.uk/PlutoTV/65ddee608b24c80008eb232b-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Family Movie Club (UK)
+https://jmp2.uk/PlutoTV/5dc3fc6b9133f500099c7d98-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Fishing (UK)
+https://jmp2.uk/PlutoTV/5d4af39510fd17b31a528eda-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Food (UK)
+https://jmp2.uk/PlutoTV/5ddf930548ff9b00090d5686-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV History (UK)
+https://jmp2.uk/PlutoTV/5d4af1803e7983b391d73b13-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Horror (UK)
+https://jmp2.uk/PlutoTV/612cda102f5f18000705e0bf-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Hot Summer Nights (UK)
+https://jmp2.uk/PlutoTV/6487148edc7a7600089e92d3-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Investigation (UK)
+https://jmp2.uk/PlutoTV/63808dc806aa4700075f319a-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Kids (UK)
+https://jmp2.uk/PlutoTV/5ad8d54be738977e2c310940-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Motor (UK)
+https://jmp2.uk/PlutoTV/5db0510962948d000961d3c6-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Movies (UK)
+https://jmp2.uk/PlutoTV/5ad8d3a31b95267e225e4e09-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Nature (UK)
+https://jmp2.uk/PlutoTV/5db050444f3c52000984c72a-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Paranormal (UK)
+https://jmp2.uk/PlutoTV/5d4af2ffa9506ab29cf38c38-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Royalty (UK)
+https://jmp2.uk/PlutoTV/620f6e0d620c6100073940e5-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Sci-Fi (UK)
+https://jmp2.uk/PlutoTV/5dc02a44a9518600094273ac-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Sci-fi Series (UK)
+https://jmp2.uk/PlutoTV/619247c34a270700077c8415-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Science (UK)
+https://jmp2.uk/PlutoTV/5d9492c77ea6f99188738ff1-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Sherlock (UK)
+https://jmp2.uk/PlutoTV/5dc2c00abfed110009d97243-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Sitcoms (UK)
+https://jmp2.uk/PlutoTV/62f53dc6ee9a0400071dc22b-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Space (UK)
+https://jmp2.uk/PlutoTV/5dbc2f98777f2e0009934ae7-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Stand Up (UK)
+https://jmp2.uk/PlutoTV/5d135e29a52c94dfe543c5d3-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Thrillers (UK)
+https://jmp2.uk/PlutoTV/5dbfedccc563080009b60f4a-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Tough Jobs (UK)
+https://jmp2.uk/PlutoTV/600acaff5f2d6e000745effb-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Westerns (UK)
+https://jmp2.uk/PlutoTV/5d4bdb635ce813b38639e6a3-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Action
+https://jmp2.uk/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Animals
+https://jmp2.uk/PlutoTV/56b27f85ff3037045055037e-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Backcountry
+https://jmp2.uk/PlutoTV/5cabdf1437b88b26947346b2-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Cars
+https://jmp2.uk/PlutoTV/5812b3a4249444e05d09cc46-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Celebrity
+https://jmp2.uk/PlutoTV/5d8bf1472907815f66a866dd-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Christmas
+https://jmp2.uk/PlutoTV/63335df531a7590007c226b9-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Comedy
+https://jmp2.uk/PlutoTV/5a4d3a00ad95e4718ae8d8db-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Competition
+https://jmp2.uk/PlutoTV/603fde9026ecbf0007752c2c-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Crime Drama
+https://jmp2.uk/PlutoTV/5f31fd1b4c510e00071c3103-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Crime Movies
+https://jmp2.uk/PlutoTV/5f4d8594eb979c0007706de7-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Cult Films
+https://jmp2.uk/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Documentaries
+https://jmp2.uk/PlutoTV/5b85a7582921777994caea63-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Drama
+https://jmp2.uk/PlutoTV/5b4e92e4694c027be6ecece1-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Fantastic
+https://jmp2.uk/PlutoTV/5b64a245a202b3337f09e51d-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Food
+https://jmp2.uk/PlutoTV/5877ac8cb791f4eb4a140d81-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Game Shows
+https://jmp2.uk/PlutoTV/6036e7c385749f00075dbd3b-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV History
+https://jmp2.uk/PlutoTV/5a4d35dfa5c02e717a234f86-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Home
+https://jmp2.uk/PlutoTV/6022bd17849c620007f43ae0-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Horror
+https://jmp2.uk/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Icons
+https://jmp2.uk/PlutoTV/64b585f84ea480000838e446-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Lives
+https://jmp2.uk/PlutoTV/5d8beeb39b5d5d5f8c672530-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Military
+https://jmp2.uk/PlutoTV/5bb3fea0f711fd76340eebff-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV News
+https://jmp2.uk/PlutoTV/5268abcd0ce20a8472000114-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Paranormal
+https://jmp2.uk/PlutoTV/5adf96e3e738977e2c31cb04-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Pranks
+https://jmp2.uk/PlutoTV/60f86f539f03cd00070c503a-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Reaction
+https://jmp2.uk/PlutoTV/617b37b361e0fd0008cfd8c5-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Reality
+https://jmp2.uk/PlutoTV/5d8bf0b06d2d855ee15115e3-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Romance
+https://jmp2.uk/PlutoTV/5a66795ef91fef2c7031c599-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Sci-Fi
+https://jmp2.uk/PlutoTV/5b4fc274694c027be6ed3eea-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Science
+https://jmp2.uk/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Soaps
+https://jmp2.uk/PlutoTV/610c5f80f71f660007a2ad8e-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Sports
+https://jmp2.uk/PlutoTV/56340779a738201b4ccfeac9-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Spotlight
+https://jmp2.uk/PlutoTV/5ba3fb9c4b078e0f37ad34e8-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Staff Picks
+https://jmp2.uk/PlutoTV/5f4d863b98b41000076cd061-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Suspense
+https://jmp2.uk/PlutoTV/5f15e281b0b8840007324b55-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Terror
+https://jmp2.uk/PlutoTV/5c6dc88fcd232425a6e0f06e-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Thrillers
+https://jmp2.uk/PlutoTV/5b4e69e08291147bd04a9fd7-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Travel
+https://jmp2.uk/PlutoTV/59c01b1953680139c6ae9d4d-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV True Crime
+https://jmp2.uk/PlutoTV/5812be1c249444e05d09cc50-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Weddings
+https://jmp2.uk/PlutoTV/5877acecb16bb1e042ee453f-alt.m3u8
+#EXTINF:-1 group-title="Streams", Pluto TV Westerns
+https://jmp2.uk/PlutoTV/6670a7f222acab00088dcd0a-alt.m3u8
+#EXTINF:-1 group-title="Streams", FreeTV Action
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d94f1e137315d10db2c80b.m3u8
+#EXTINF:-1 group-title="Streams", FreeTV Crime
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d94c5f137315d10db2c808.m3u8
+#EXTINF:-1 group-title="Streams", FreeTV Drama Vault
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d84f7715431f0798dd6b66.m3u8
+#EXTINF:-1 group-title="Streams", FreeTV Family
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d9509f137315d10db2c80d.m3u8
+#EXTINF:-1 group-title="Streams", FreeTV Fantasy
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d9496e137315d10db2c806.m3u8
+#EXTINF:-1 group-title="Streams", FreeTV Hits
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6018913ea15130002b284191.m3u8
+#EXTINF:-1 group-title="Streams", FreeTV Horror
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d954cc308687c7d9baa667.m3u8
+#EXTINF:-1 group-title="Streams",AsianCrush
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767.m3u8
+#EXTINF:-1 group-title="Streams",NEW K.MOVIES
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131.m3u8
+#EXTINF:-1 group-title="Streams",Godzilla
+https://jmp2.uk/PlutoTV/6452c8cee1979c0008608e27-alt.m3u8
+#EXTINF:-1 group-title="Streams",Wu Tang Collection
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8
+#EXTINF:-1 group-title="Streams",Hi-YAH!
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30.m3u8
+#EXTINF:-1 group-title="Streams",Rakuten Viki
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f.m3u8
+#EXTINF:-1 group-title="Streams", Aliwko
+https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-64d4ee537b323f6abbd19e59.m3u8
+#EXTINF:-1 group-title="Streams",OnDemandChina
+https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112b.m3u8
