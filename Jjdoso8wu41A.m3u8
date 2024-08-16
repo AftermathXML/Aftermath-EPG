@@ -1261,9 +1261,6 @@ http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508065
 #EXTINF:-1 group-title="News" tvg-logo=",Cheddar News
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Cheddar.m3u8
 http://vo01.mohdtv.com:8880/voby4846/59129684/3048
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cbc-news-network-ca.png",CBC News Network HD
-#EXTVLCOPT:network-caching=1000
-http://vo01.mohdtv.com:8880/voby4846/59129684/3059
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/newsy-us.png",Newsy
 #EXTVLCOPT:network-caching=1000
 http://vo01.mohdtv.com:8880/voby4846/59129684/29692
