@@ -1710,3 +1710,13 @@ https://jmp2.uk/PlutoTV/64d1867c6b1fdb0008c6c95b-alt.m3u8
 https://jmp2.uk/PlutoTV/61325d18f5166c00081b84e0-alt.m3u8
 #EXTINF:-1 group-title="Streams",Haunt (Canada)
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,HauntTV-Canada.m3u8
+#EXTINF:-1 group-title="Streams", TokuSHOUTsu
+https://jmp2.uk/PlutoTV/5c3f8f12a93c2d61b9990a4e-alt.m3u8
+#EXTINF:-1 group-title="Streams", Universal Action
+https://jmp2.uk/PlutoTV/654933e253fc970008390114-alt.m3u8
+#EXTINF:-1 group-title="Streams", Universal Crime
+https://jmp2.uk/PlutoTV/6549341853fc9700083901ac-alt.m3u8
+#EXTINF:-1 group-title="Streams", Universal Monsters
+https://jmp2.uk/PlutoTV/65a9b20f0c7ff50008d3a3b6-alt.m3u8
+#EXTINF:-1 group-title="Streams", UnXplained Zone
+https://jmp2.uk/PlutoTV/656538f8954b020008d389db-alt.m3u8
