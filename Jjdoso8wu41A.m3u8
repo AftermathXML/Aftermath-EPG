@@ -1650,6 +1650,14 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5f64c4ef35f612003f6ffe30.m3u8
 #EXTINF:-1 group-title="Streams",Rakuten Viki
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d4edd8b2fdec002c14112f.m3u8
+#EXTINF:-1 group-title="Streams", 00s Replay
+https://jmp2.uk/PlutoTV/62ba60f059624e000781c436-alt.m3u8
+#EXTINF:-1 group-title="Streams", 70s Cinema
+https://jmp2.uk/PlutoTV/5f4d878d3d19b30007d2e782-alt.m3u8
+#EXTINF:-1 group-title="Streams", 80s Rewind
+https://jmp2.uk/PlutoTV/5ca525b650be2571e3943c63-alt.m3u8
+#EXTINF:-1 group-title="Streams", 90s Throwback
+https://jmp2.uk/PlutoTV/5f4d86f519358a00072b978e-alt.m3u8
 #EXTINF:-1 group-title="Streams", Aliwko
 https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-64d4ee537b323f6abbd19e59.m3u8
 #EXTINF:-1 group-title="Streams",OnDemandChina
@@ -1658,8 +1666,6 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-60d4edd7b2fdec002c14112b.m3u8
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8
 #EXTINF:-1 group-title="Streams", Alien Nation by DUST
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d6f799a9e88ee909e7ee21.m3u8
-#EXTINF:-1 group-title="Streams", Cold Case Files by A&E
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63f693a3fff2b53dc9ddc8f4.m3u8
 #EXTINF:-1 group-title="Streams", Court TV Legendary Trials
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-648095ad190e97d15c3470e9.m3u8
 #EXTINF:-1 group-title="Streams", Crime & Justice
