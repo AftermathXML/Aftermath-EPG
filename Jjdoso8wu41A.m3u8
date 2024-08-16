@@ -1556,8 +1556,6 @@ https://jmp2.uk/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
 https://jmp2.uk/PlutoTV/5cabdf1437b88b26947346b2-alt.m3u8
 #EXTINF:-1 group-title="Streams", Pluto TV Cars
 https://jmp2.uk/PlutoTV/5812b3a4249444e05d09cc46-alt.m3u8
-#EXTINF:-1 group-title="Streams", Pluto TV Celebrity
-https://jmp2.uk/PlutoTV/5d8bf1472907815f66a866dd-alt.m3u8
 #EXTINF:-1 group-title="Streams", Pluto TV Christmas
 https://jmp2.uk/PlutoTV/63335df531a7590007c226b9-alt.m3u8
 #EXTINF:-1 group-title="Streams", Pluto TV Comedy
@@ -1660,8 +1658,6 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d6f799a9e88ee909e7ee21.m3u8
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63f693a3fff2b53dc9ddc8f4.m3u8
 #EXTINF:-1 group-title="Streams", Court TV Legendary Trials
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-648095ad190e97d15c3470e9.m3u8
-#EXTINF:-1 group-title="Streams", Crackle
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5fd2759bc8634d002d9ff9bc.m3u8
 #EXTINF:-1 group-title="Streams", Crime & Justice
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64224b7a7e28069f56b5d894.m3u8
 #EXTINF:-1 group-title="Streams", Crime 360
@@ -1684,3 +1680,21 @@ https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4427.m3u8
 #EXTINF:-1 group-title="Streams", Non-Stop '90s
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-65bd5a538314c24e11553543.m3u8
+#EXTINF:-1 group-title="Streams", About K-Content by CJ ENM
+https://jmp2.uk/Roku/ed1ad60fa9a05f34bf5d4e8b09460d6b.m3u8
+#EXTINF:-1 group-title="Streams", Court TV
+https://jmp2.uk/PlutoTV/5dae0b4841a7d0000938ddbd-alt.m3u8
+#EXTINF:-1 group-title="Streams", Classic Movie Westerns
+https://jmp2.uk/PlutoTV/6661f3fb3d173b0008458726-alt.m3u8
+#EXTINF:-1 group-title="Streams", Classic Movies Channel
+https://jmp2.uk/PlutoTV/561c5b0dada51f8004c4d855-alt.m3u8
+#EXTINF:-1 group-title="Streams", Classic TV Comedy
+https://jmp2.uk/PlutoTV/5f15e32b297f96000768f928-alt.m3u8
+#EXTINF:-1 group-title="Streams", Classic TV Crime Drama
+https://jmp2.uk/PlutoTV/61325c4f982acd000723287e-alt.m3u8
+#EXTINF:-1 group-title="Streams", Classic TV Drama
+https://jmp2.uk/PlutoTV/5f15e3cccf49290007053c67-alt.m3u8
+#EXTINF:-1 group-title="Streams", Classic TV Variety
+https://jmp2.uk/PlutoTV/64d1867c6b1fdb0008c6c95b-alt.m3u8
+#EXTINF:-1 group-title="Streams", Classic TV Families
+https://jmp2.uk/PlutoTV/61325d18f5166c00081b84e0-alt.m3u8
