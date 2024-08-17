@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png",AMC Thrillers
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/amc-thrillers-vod.png",AMC Thrillers
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png",A&E 
 #EXTVLCOPT:network-caching=1000
@@ -1363,7 +1363,11 @@ http://fortv.cc:8080/8bqC68/409069/11649
 http://fortv.cc:8080/8bqC68/409069/20975
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ca.png",Sports Net World
 http://fortv.cc:8080/8bqC68/409069/75675
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tennis-channel-us.png",Tennis Channel
+#EXTVLCOPT:network-caching=1000
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/613320
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/golf-channel-ar.png",Golf Channel 
+http://fortv.cc:8080/8bqC68/409069/46728
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-es.png",DAZN  Event 01
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/339614.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-es.png",DAZN  Event 02
