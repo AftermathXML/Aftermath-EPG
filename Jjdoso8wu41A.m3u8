@@ -1,4 +1,4 @@
-#EXTM3U
+FF#EXTM3U
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/amc-thrillers-vod.png",AMC Thrillers
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png",A&E 
@@ -1140,7 +1140,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6452c814939a590008567a
 #EXTINF:-1 group-title="Kids" tvg-logo=",Nickelodeon Classics (AU VPN)
 https://i.mjh.nz/10-nick-classics.m3u8%7Cuser-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png",Nickelodeon 
-http://kstv.us:8080/live/tH300gvHff/8606073792/47798.ts
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/327
 #EXTINF:-1 group-title="Kids" tvg-logo=",Nick Jr. Pluto TV 
 https://jmp2.uk/PlutoTV/5ca6748a37b88b269472dad9-alt.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png",Nick Jr. (LA)
@@ -1401,10 +1401,9 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/134
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/espn-hd-au.png",ESPN U
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/172
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",Fox Sports 1
-http://kstv.us:8080/live/ks9jzHwZce/8251731225/22526.m3u8
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/263
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fox-sports-ar.png",Fox Sports 2
-http://kstv.us:8080/live/ks9jzHwZce/8251731225/22525.m3u8
-http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/201153.m3u8
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/264
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SKY SPORTS ARENA FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366439.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SKY SPORTS CRICKET FHD
@@ -1428,21 +1427,21 @@ http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366436.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-hz-uk.png",SKY SPORTS RACING FHD
 http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/366418.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/big-ten-network-us.png",BIG TEN NETWORK
-http://kstv.us:8080/live/ks9jzHwZce/8251731225/23355.m3u8
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/202
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-us.png",CBS Sports Network HD
-http://kstv.us:8080/live/ks9jzHwZce/8251731225/15944.m3u8
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/197
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/mav-tv-select-vod.png",MAV TV
-http://kstv.us:8080/live/ks9jzHwZce/8251731225/25946.m3u8
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/965
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png",MLB Network
-http://kstv.us:8080/live/ks9jzHwZce/8251731225/22507.m3u8
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/145
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/nba-tv-ca.png",NBA TV
-http://kstv.us:8080/live/ks9jzHwZce/8251731225/22501.m3u8
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/136
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-us.png",NBC Golf
-http://kstv.us:8080/live/ks9jzHwZce/8251731225/22500.m3u8
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/138
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/sports/leagues/nfl-us.png",NFL Network HD
-http://kstv.us:8080/live/ks9jzHwZce/8251731225/22491.m3u8
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/234
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png",NHL Network HD
-http://kstv.us:8080/live/ks9jzHwZce/8251731225/15941.m3u8
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/299
 #EXTINF:-1 channel-id="pluto-5616f9c0ada51f8004c4b091" tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG-1664295222280.png" tvg-chno="2930" group-title="Sports" , World Poker Tour
 https://jmp2.uk/PlutoTV/5616f9c0ada51f8004c4b091-alt.m3u8
 #EXTINF:-1 channel-id="pluto-64d160f53c785e0008df525e" tvg-id="64d160f53c785e0008df525e" tvg-logo="https://images.pluto.tv/channels/64d160f53c785e0008df525e/colorLogoPNG.png" tvg-chno="2862" group-title="Sports" , Top Rank Classics
