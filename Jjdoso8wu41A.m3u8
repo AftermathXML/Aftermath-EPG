@@ -145,8 +145,6 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/358
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/162
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-tv-us.png",Hallmark Drama 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/356
-#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-tv-us.png",Hallmark Movies & Mysteries 
-http://streamsy.online:2999/Jaley1990/L6KomjzBxv/161
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/hgtv-ca.png",HGTV 
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/40695.ts
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/historia-ca.png",History 
@@ -377,8 +375,14 @@ hhttp://kstv.us:8080/live/ks9jzHwZce/8251731225/40654.ts
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/40653.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hungary/film4-hu.png",Film 4
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/47774.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-uk.png",Great Movies
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/47778.ts
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/great-movies-plus-uk.png",Great Movies +1
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/47779.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-movies-now-us.png",Hallmark Movies & Mysteries 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/161
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/movies-24-uk.png",Movies 24 
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/47791.ts
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",HBO
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/160
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png",HBO 2
