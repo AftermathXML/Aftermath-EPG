@@ -1135,8 +1135,11 @@ https://jmp2.uk/PlutoTV/64e87ce528cec700088cec55-alt.m3u8
 
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/anime-network-us.png",KIDDO+
-https://jmp2.uk/Stirr/5748.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png",ABC Kids
+#EXTVLCOPT:network-caching=1000
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/605448
+
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/anime-network-us.png",Retro TV
 https://rewindtv.site/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/anime-accion-vod.png",Belle Anime
@@ -1298,7 +1301,8 @@ https://jmp2.uk/PlutoTV/5e46fba0c43b0d00096e5ac1-alt.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/info-wars-us.pngg" tvg-chno="2680" group-title="News",Info Wars
 https://freespeech.akamaized.net/hls/live/2016873/live3/video_1/video_1.m3u8
 
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-au.png",SBS
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/605548
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png",TNT Sports 4
 http://kstv.us:8080/live/PHXtb5E44x/904883366212/47853.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png",TNT Sports 3
