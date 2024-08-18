@@ -1,6 +1,4 @@
-FF#EXTM3U
-#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/amc-thrillers-vod.png",AMC Thrillers
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTM3U
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png",A&E 
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/212
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/abc-spark-ca.png",ABC SPARK 
@@ -67,6 +65,8 @@ http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507909
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cooking-channel-us.png",Cooking Channel 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/189
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/cottage-life-ca.png",Cottage Life 
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/40741.ts
 #EXTINF:-1 group-title="Cable" tvg-logo=",Cowboy Channel 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1460
 #EXTINF:-1 group-title="Cable" tvg-logo=",Crime & Investigation 
@@ -77,6 +77,8 @@ http://kstv.us:8080/live/ks9jzHwZce/8251731225/40746.ts
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/40766.ts
 #EXTINF:-1 group-title="Cable" tvg-logo=",CTV Laughs
 https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-6685c10e2deb7f424133b08b.m3u8
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-life-channel-ca.png",CTV Life
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/40699.ts
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI 
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/40620.ts
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-hd-ca.png",CTV Toronto HD 
@@ -97,6 +99,8 @@ http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/182
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-us.png",Discovery Science 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/181
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/diy-network-ca.png",DIY Network 
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/40722.ts
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/dtour-ca.png",DTOUR 
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/40720.ts
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e-entertainment-us.png",E! 
@@ -165,6 +169,8 @@ http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507944
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507945
 #EXTINF:-1 group-title="Cable" tvg-logo=",ITV Be 
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507947
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cw/cw-5-ktla-us.png",KTLA
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/40686.ts
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/laff-us.png",Laff 
 http://thevdm.xyz:25461/Jennifer/Year!/39792
 #EXTINF:-1 group-title="Cable" tvg-logo=",Legend UK
@@ -179,6 +185,8 @@ http://streamsy.online:2999/Jaley1990/L6KomjzBxv/952
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1659
 #EXTINF:-1 group-title="Cable" tvg-logo=",Magnolia Networks 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/177
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/makeful-ca.png",Makeful 
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/40597.ts
 #EXTINF:-1 group-title="Cable" tvg-logo=",MeTV 
 http://thevdm.xyz:25461/live/Jennifer/Year!/39798.m3u8
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/mtv-ca.png",MTV 
@@ -189,14 +197,16 @@ http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/354
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1194
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/mtv-ca.png",MTV Live 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1193
-#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/mtv-ca.png",Much 
-https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/much-ca.png
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/much-ca.png",Much 
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/40676.ts
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nasa-tv-us.png",NASA 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/1610
 #EXTINF:-1 group-title="Cable" tvg-logo=",Nat Geo 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/141
 #EXTINF:-1 group-title="Cable" tvg-logo=",Nat Geo Wild 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/140
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/ntv-tr.png",NTV
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/40643.ts
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/oln-ca.png",OLN 
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/40637.ts
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/one-tv-us.png",ONE 
@@ -285,12 +295,11 @@ http://kstv.us:8080/live/ks9jzHwZce/8251731225/40670.ts
 https://ln.run/WarnerTV
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/the-weather-network-ca.png",Weather Network 
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/40658.ts
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/wild-tv-ca.png",Wild TV 
+http://kstv.us:8080/live/ks9jzHwZce/8251731225/40667.ts
 
-
-
-
-
-
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/vod/amc-thrillers-vod.png",AMC Thrillers
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/movietime-ca.png",Movietime
 http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/418491
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-movies-us.png",Lifetime Movie
