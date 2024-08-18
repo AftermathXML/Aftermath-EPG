@@ -315,6 +315,8 @@ http://kstv.us:8080/live/ks9jzHwZce/8251731225/40670.ts
 https://ln.run/WarnerTV
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/watch-free-uk-uk.png",Watch 
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/47846.ts
+#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/we-tv-us.png",We TV 
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/417924
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/the-weather-network-ca.png",Weather Network 
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/40658.ts
 #EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/wild-tv-ca.png",Wild TV 
@@ -545,6 +547,21 @@ http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/609431
 http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/418062
 #EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/zee-tv-in.png", Showcase Movies
 http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/605340
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/plex-indieplex-us.png", Indie Plex
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/418063
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/plex-movieplex-us.png", Movie Plex
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/418093
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/movies/movies1.png", Movies!
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/540664
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/plex-retroplex-us.png", Retro Plex
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/418102
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/the-movie-channel-us.png", The Movie Channel
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/418097
+#EXTINF:-1 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/the-movie-channel-us.png", The Movie Channel Extra
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/419317
+
+
+
 
 
 
@@ -1135,9 +1152,8 @@ https://jmp2.uk/PlutoTV/64e87ce528cec700088cec55-alt.m3u8
 
 
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png",ABC Kids
-#EXTVLCOPT:network-caching=1000
-http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/605448
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/abc-kids-au.png",PBS Kids
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/418040
 
 #EXTINF:-1 group-title="Cable" tvg-logo="https://user-content.static.wf/avidwiki/9/9e/SpikeTV2003WhiteBack.png",Retro Spike
 https://stream-cdn-iad.vaughnsoft.net/play/live_pulpforrest.flv
@@ -1300,7 +1316,7 @@ http://vo01.mohdtv.com:8880/voby4846/59129684/29692
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png" tvg-chno="2680" group-title="News",Blaze
 https://jmp2.uk/PlutoTV/5e46fba0c43b0d00096e5ac1-alt.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/info-wars-us.pngg" tvg-chno="2680" group-title="News",Info Wars
-https://freespeech.akamaized.net/hls/live/2016873/live3/video_1/video_1.m3u8
+http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/418128
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/sbs-au.png",SBS
 http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/605548
