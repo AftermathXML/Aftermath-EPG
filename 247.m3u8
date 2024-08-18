@@ -1,7 +1,16 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 group-title="Live Cam" tvg-logo="https://icons.veryicon.com/png/o/application/outline-1/video-camera-27.png",Dublin
+https://video2archives.earthcam.com/archives/_definst_/MP4:network/24322/2024/08/18/1400.mp4/media_w1467660417_7.ts
+#EXTINF:-1 group-title="Live Cam" tvg-logo="https://icons.veryicon.com/png/o/application/outline-1/video-camera-27.png",Dublin Pub Cam
+https://videos-3.earthcam.com/fecnetwork/14320.flv/chunklist_w46162451.m3u8
+#EXTINF:-1 group-title="Live Cam" tvg-logo="https://icons.veryicon.com/png/o/application/outline-1/video-camera-27.png",Las Vegas
+https://videos-3.earthcam.com/fecnetwork/3916.flv/media_w1530271451_107410.ts?t=WHjF%2FVTcRlQ3Mh4Qco7ulOaxaZCUGiFHttf4YYxGU1TMGmqiKOjPp3eK6KtB3T8W
+#EXTINF:-1 group-title="Live Cam" tvg-logo="https://icons.veryicon.com/png/o/application/outline-1/video-camera-27.png",Myrtle Beach
+https://videos-3.earthcam.com/fecnetwork/17016.flv/chunklist_w1359555314.m3u8?t=HRbKQd4LYQcJyubUOA%2BMy9R9G6xKT6YGRUUartJ4FMwRNFwv05Ux9JJk3NptClIN
+#EXTINF:-1 group-title="Live Cam" tvg-logo="https://icons.veryicon.com/png/o/application/outline-1/video-camera-27.png",Panama Path
+https://5ed7b8fd7bf40.streamlock.net:444/sandpiper27/sp27/chunklist_w1256367179.m3u8
 
 
 
