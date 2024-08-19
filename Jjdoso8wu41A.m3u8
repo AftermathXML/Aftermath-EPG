@@ -673,8 +673,6 @@ http://kstv.us:8080/live/ks9jzHwZce/8251731225/40605.ts
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Toonami Pst",Toonami Aftermath Pst
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo=", Toonami Aftermath Movies
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/tooncast-lam.png",Tooncast
 http://45.232.176.17:8000/play/a00r
 #EXTINF:-1 group-title="Kids" tvg-logo=",Totally Teen 
