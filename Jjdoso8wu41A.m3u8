@@ -15,8 +15,6 @@ https://jmp2.uk/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
 https://jmp2.uk/PlutoTV/63335df531a7590007c226b9-alt.m3u8
 #EXTINF:0, Pluto TV Comedy
 https://jmp2.uk/PlutoTV/5a4d3a00ad95e4718ae8d8db-alt.m3u8
-#EXTINF:0, Pluto TV Competition
-https://jmp2.uk/PlutoTV/603fde9026ecbf0007752c2c-alt.m3u8
 #EXTINF:0, Pluto TV Crime Drama
 https://jmp2.uk/PlutoTV/5f31fd1b4c510e00071c3103-alt.m3u8
 #EXTINF:0, Pluto TV Crime Movies
@@ -27,8 +25,6 @@ https://jmp2.uk/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
 https://jmp2.uk/PlutoTV/5b4e92e4694c027be6ecece1-alt.m3u8
 #EXTINF:0, Pluto TV Fantastic
 https://jmp2.uk/PlutoTV/5b64a245a202b3337f09e51d-alt.m3u8
-#EXTINF:0, Pluto TV Food
-https://jmp2.uk/PlutoTV/5877ac8cb791f4eb4a140d81-alt.m3u8
 #EXTINF:0, Pluto TV Game Shows
 https://jmp2.uk/PlutoTV/6036e7c385749f00075dbd3b-alt.m3u8
 #EXTINF:0, Pluto TV History
@@ -83,12 +79,8 @@ https://jmp2.uk/SamsungTVPlus/USBC3900009K5.m3u8
 https://jmp2.uk/SamsungTVPlus/USBD3000145P.m3u8
 #EXTINF:0,A&E 
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/212
-#EXTINF:0,ABC SPARK 
-http://kstv.us:8080/live/ks9jzHwZce/8251731225/40781.ts
 #EXTINF:0,AMC 
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/209
-#EXTINF:0,Animal Planet 
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/207
 #EXTINF:0,Cartoon Network (US)
 http://fortv.cc:8080/lynnricky47@yahoo.com/xzFQWYZR00/57380
 #EXTINF:0,Cartoonito 
