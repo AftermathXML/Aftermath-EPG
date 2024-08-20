@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:25, 00s Replay
+#EXTINF:0, 00s Replay
 https://jmp2.uk/PlutoTV/62ba60f059624e000781c436-alt.m3u8
 #EXTINF:0, 70s Cinema
 https://jmp2.uk/PlutoTV/5f4d878d3d19b30007d2e782-alt.m3u8
@@ -7,10 +7,6 @@ https://jmp2.uk/PlutoTV/5f4d878d3d19b30007d2e782-alt.m3u8
 https://jmp2.uk/PlutoTV/5ca525b650be2571e3943c63-alt.m3u8
 #EXTINF:0, 90s Throwback
 https://jmp2.uk/PlutoTV/5f4d86f519358a00072b978e-alt.m3u8
-#EXTINF:0, Alien Nation by DUST
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63d6f799a9e88ee909e7ee21.m3u8
-#EXTINF:0, Bellator MMA
-https://jmp2.uk/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8
 #EXTINF:0, Classic Movie Westerns
 https://jmp2.uk/PlutoTV/6661f3fb3d173b0008458726-alt.m3u8
 #EXTINF:0, Classic Movies Channel
@@ -27,186 +23,78 @@ https://jmp2.uk/PlutoTV/61325d18f5166c00081b84e0-alt.m3u8
 https://jmp2.uk/PlutoTV/64d1867c6b1fdb0008c6c95b-alt.m3u8
 #EXTINF:0, Court TV
 https://jmp2.uk/PlutoTV/5dae0b4841a7d0000938ddbd-alt.m3u8
-#EXTINF:0, Court TV Legendary Trials
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-648095ad190e97d15c3470e9.m3u8
-#EXTINF:0, Crime & Justice
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64224b7a7e28069f56b5d894.m3u8
-#EXTINF:0, Crime 360
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41.m3u8
-#EXTINF:0, Crime Scene TV
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099c.m3u8
-#EXTINF:0, Crime ThrillHer
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63c97b45187b3c9f3581fdfb.m3u8
-#EXTINF:0, Crimes Cults Killers
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-63c97410187b3c9f3581fdf4.m3u8
 #EXTINF:0, FrightFlix
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-621674502c2627c068e73ada.m3u8
 #EXTINF:0, Midnight Pulp
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4427.m3u8
 #EXTINF:0, Pluto TV Action
 https://jmp2.uk/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
-#EXTINF:0, Pluto TV Action (UK)
-https://jmp2.uk/PlutoTV/5dbfeb961b411c00090b52b3-alt.m3u8
-#EXTINF:0, Pluto TV Action Movies (CA)
-https://jmp2.uk/PlutoTV/62ea3c2e4823db00072788ed-alt.m3u8
-#EXTINF:0, Pluto TV Adventure (CA)
-https://jmp2.uk/PlutoTV/653bdb0fbdf3cf00089cc395-alt.m3u8
-#EXTINF:0, Pluto TV Adventure (UK)
-https://jmp2.uk/PlutoTV/623464d7185bef0007e337c0-alt.m3u8
-#EXTINF:0, Pluto TV Alien Invasion (UK)
-https://jmp2.uk/PlutoTV/6462190b7cb4b1000862dd60-alt.m3u8
-#EXTINF:0, Pluto TV Animation (UK)
-https://jmp2.uk/PlutoTV/612f761008a9e50007984ba0-alt.m3u8
 #EXTINF:0, Pluto TV Backcountry
 https://jmp2.uk/PlutoTV/5cabdf1437b88b26947346b2-alt.m3u8
-#EXTINF:0, Pluto TV Big Builds (UK)
-https://jmp2.uk/PlutoTV/63d91cf54e83e7000881ca1c-alt.m3u8
-#EXTINF:0, Pluto TV Britain at War (UK)
-https://jmp2.uk/PlutoTV/625e8cb585ef320007806caf-alt.m3u8
-#EXTINF:0, Pluto TV Cars
-https://jmp2.uk/PlutoTV/5812b3a4249444e05d09cc46-alt.m3u8
 #EXTINF:0, Pluto TV Christmas
 https://jmp2.uk/PlutoTV/63335df531a7590007c226b9-alt.m3u8
-#EXTINF:0, Pluto TV Christmas in Summer (UK)
-https://jmp2.uk/PlutoTV/62cbdc45d3cb9f0007128df4-alt.m3u8
-#EXTINF:0, Pluto TV Classic TV (UK)
-https://jmp2.uk/PlutoTV/5d134a74ca91eedee1630faa-alt.m3u8
 #EXTINF:0, Pluto TV Comedy
 https://jmp2.uk/PlutoTV/5a4d3a00ad95e4718ae8d8db-alt.m3u8
-#EXTINF:0, Pluto TV Comedy (CA)
-https://jmp2.uk/PlutoTV/62e92178946c8000079a3160-alt.m3u8
-#EXTINF:0, Pluto TV Comedy Movies (UK)
-https://jmp2.uk/PlutoTV/5c363c2411c5ca053f198f97-alt.m3u8
 #EXTINF:0, Pluto TV Competition
 https://jmp2.uk/PlutoTV/603fde9026ecbf0007752c2c-alt.m3u8
-#EXTINF:0, Pluto TV Conspiracy (UK)
-https://jmp2.uk/PlutoTV/5d4ae94ef1a1bbb350ca41bb-alt.m3u8
-#EXTINF:0, Pluto TV Cops & Convicts (UK)
-https://jmp2.uk/PlutoTV/63e23143a8b22700082b0a65-alt.m3u8
-#EXTINF:0, Pluto TV Crime (UK)
-https://jmp2.uk/PlutoTV/5d767790d0438aceb41d03ae-alt.m3u8
 #EXTINF:0, Pluto TV Crime Drama
 https://jmp2.uk/PlutoTV/5f31fd1b4c510e00071c3103-alt.m3u8
-#EXTINF:0, Pluto TV Crime Drama (CA)
-https://jmp2.uk/PlutoTV/62e92708a7ce600007b2676a-alt.m3u8
-#EXTINF:0, Pluto TV Crime Drama (UK)
-https://jmp2.uk/PlutoTV/65a6a7a00c7ff50008cba07b-alt.m3u8
 #EXTINF:0, Pluto TV Crime Movies
 https://jmp2.uk/PlutoTV/5f4d8594eb979c0007706de7-alt.m3u8
 #EXTINF:0, Pluto TV Cult Films
 https://jmp2.uk/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
-#EXTINF:0, Pluto TV Cult Films (UK)
-https://jmp2.uk/PlutoTV/5c5c31f2f21b553c1f673fb0-alt.m3u8
-#EXTINF:0, Pluto TV Disaster Movies (UK)
-https://jmp2.uk/PlutoTV/63e2316e4e83e70008953158-alt.m3u8
 #EXTINF:0, Pluto TV Documentaries
 https://jmp2.uk/PlutoTV/5b85a7582921777994caea63-alt.m3u8
 #EXTINF:0, Pluto TV Drama
 https://jmp2.uk/PlutoTV/5b4e92e4694c027be6ecece1-alt.m3u8
-#EXTINF:0, Pluto TV Drama Movies (CA)
-https://jmp2.uk/PlutoTV/62bdb0bcd707b9000739d2e5-alt.m3u8
-#EXTINF:0, Pluto TV Family Movie Club (UK)
-https://jmp2.uk/PlutoTV/5dc3fc6b9133f500099c7d98-alt.m3u8
 #EXTINF:0, Pluto TV Fantastic
 https://jmp2.uk/PlutoTV/5b64a245a202b3337f09e51d-alt.m3u8
-#EXTINF:0, Pluto TV Fishing (UK)
-https://jmp2.uk/PlutoTV/5d4af39510fd17b31a528eda-alt.m3u8
 #EXTINF:0, Pluto TV Food
 https://jmp2.uk/PlutoTV/5877ac8cb791f4eb4a140d81-alt.m3u8
-#EXTINF:0, Pluto TV Food (UK)
-https://jmp2.uk/PlutoTV/5ddf930548ff9b00090d5686-alt.m3u8
 #EXTINF:0, Pluto TV Game Shows
 https://jmp2.uk/PlutoTV/6036e7c385749f00075dbd3b-alt.m3u8
 #EXTINF:0, Pluto TV History
 https://jmp2.uk/PlutoTV/5a4d35dfa5c02e717a234f86-alt.m3u8
-#EXTINF:0, Pluto TV History (UK)
-https://jmp2.uk/PlutoTV/5d4af1803e7983b391d73b13-alt.m3u8
 #EXTINF:0, Pluto TV Home
 https://jmp2.uk/PlutoTV/6022bd17849c620007f43ae0-alt.m3u8
 #EXTINF:0, Pluto TV Horror
 https://jmp2.uk/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
-#EXTINF:0, Pluto TV Horror (CA)
-https://jmp2.uk/PlutoTV/62ea3f8a38acc80007072d26-alt.m3u8
-#EXTINF:0, Pluto TV Horror (UK)
-https://jmp2.uk/PlutoTV/612cda102f5f18000705e0bf-alt.m3u8
-#EXTINF:0, Pluto TV Hot Summer Nights (UK)
-https://jmp2.uk/PlutoTV/6487148edc7a7600089e92d3-alt.m3u8
 #EXTINF:0, Pluto TV Icons
 https://jmp2.uk/PlutoTV/64b585f84ea480000838e446-alt.m3u8
-#EXTINF:0, Pluto TV Investigation (UK)
-https://jmp2.uk/PlutoTV/63808dc806aa4700075f319a-alt.m3u8
-#EXTINF:0, Pluto TV Kids (UK)
-https://jmp2.uk/PlutoTV/5ad8d54be738977e2c310940-alt.m3u8
 #EXTINF:0, Pluto TV Lives
 https://jmp2.uk/PlutoTV/5d8beeb39b5d5d5f8c672530-alt.m3u8
 #EXTINF:0, Pluto TV Military
 https://jmp2.uk/PlutoTV/5bb3fea0f711fd76340eebff-alt.m3u8
-#EXTINF:0, Pluto TV Motor (UK)
-https://jmp2.uk/PlutoTV/5db0510962948d000961d3c6-alt.m3u8
-#EXTINF:0, Pluto TV Movies (UK)
-https://jmp2.uk/PlutoTV/5ad8d3a31b95267e225e4e09-alt.m3u8
-#EXTINF:0, Pluto TV Nature (UK)
-https://jmp2.uk/PlutoTV/5db050444f3c52000984c72a-alt.m3u8
 #EXTINF:0, Pluto TV News
 https://jmp2.uk/PlutoTV/5268abcd0ce20a8472000114-alt.m3u8
 #EXTINF:0, Pluto TV Paranormal
 https://jmp2.uk/PlutoTV/5adf96e3e738977e2c31cb04-alt.m3u8
-#EXTINF:0, Pluto TV Paranormal (CA)
-https://jmp2.uk/PlutoTV/62e92a58f3e4290007290c96-alt.m3u8
-#EXTINF:0, Pluto TV Paranormal (UK)
-https://jmp2.uk/PlutoTV/5d4af2ffa9506ab29cf38c38-alt.m3u8
 #EXTINF:0, Pluto TV Pranks
 https://jmp2.uk/PlutoTV/60f86f539f03cd00070c503a-alt.m3u8
 #EXTINF:0, Pluto TV Reaction
 https://jmp2.uk/PlutoTV/617b37b361e0fd0008cfd8c5-alt.m3u8
 #EXTINF:0, Pluto TV Reality
 https://jmp2.uk/PlutoTV/5d8bf0b06d2d855ee15115e3-alt.m3u8
-#EXTINF:0, Pluto TV Retro Crime Drama (CA)
-https://jmp2.uk/PlutoTV/630f1e6073bd1800082107f0-alt.m3u8
 #EXTINF:0, Pluto TV Romance
 https://jmp2.uk/PlutoTV/5a66795ef91fef2c7031c599-alt.m3u8
 #EXTINF:0, Pluto TV Sci-Fi
 https://jmp2.uk/PlutoTV/5b4fc274694c027be6ed3eea-alt.m3u8
-#EXTINF:0, Pluto TV Sci-Fi (UK)
-https://jmp2.uk/PlutoTV/5dc02a44a9518600094273ac-alt.m3u8
-#EXTINF:0, Pluto TV Sci-fi Series (UK)
-https://jmp2.uk/PlutoTV/619247c34a270700077c8415-alt.m3u8
 #EXTINF:0, Pluto TV Science
 https://jmp2.uk/PlutoTV/563a970aa1a1f7fe7c9daad7-alt.m3u8
-#EXTINF:0, Pluto TV Science (UK)
-https://jmp2.uk/PlutoTV/5d9492c77ea6f99188738ff1-alt.m3u8
-#EXTINF:0, Pluto TV Sherlock (UK)
-https://jmp2.uk/PlutoTV/5dc2c00abfed110009d97243-alt.m3u8
-#EXTINF:0, Pluto TV Sitcoms (UK)
-https://jmp2.uk/PlutoTV/62f53dc6ee9a0400071dc22b-alt.m3u8
-#EXTINF:0, Pluto TV Space (UK)
-https://jmp2.uk/PlutoTV/5dbc2f98777f2e0009934ae7-alt.m3u8
 #EXTINF:0, Pluto TV Spotlight
 https://jmp2.uk/PlutoTV/5ba3fb9c4b078e0f37ad34e8-alt.m3u8
 #EXTINF:0, Pluto TV Staff Picks
 https://jmp2.uk/PlutoTV/5f4d863b98b41000076cd061-alt.m3u8
-#EXTINF:0, Pluto TV Stand Up (UK)
-https://jmp2.uk/PlutoTV/5d135e29a52c94dfe543c5d3-alt.m3u8
 #EXTINF:0, Pluto TV Terror
 https://jmp2.uk/PlutoTV/5c6dc88fcd232425a6e0f06e-alt.m3u8
 #EXTINF:0, Pluto TV Thrillers
 https://jmp2.uk/PlutoTV/5b4e69e08291147bd04a9fd7-alt.m3u8
-#EXTINF:0, Pluto TV Thrillers (UK)
-https://jmp2.uk/PlutoTV/5dbfedccc563080009b60f4a-alt.m3u8
-#EXTINF:0, Pluto TV Tough Jobs (UK)
-https://jmp2.uk/PlutoTV/600acaff5f2d6e000745effb-alt.m3u8
 #EXTINF:0, Pluto TV Travel
 https://jmp2.uk/PlutoTV/59c01b1953680139c6ae9d4d-alt.m3u8
 #EXTINF:0, Pluto TV True Crime
 https://jmp2.uk/PlutoTV/5812be1c249444e05d09cc50-alt.m3u8
-#EXTINF:0, Pluto TV True Crime (CA)
-https://jmp2.uk/PlutoTV/62e9289f8d467f0007fbc701-alt.m3u8
-#EXTINF:0, Pluto TV Truly Canadian (CA)
-https://jmp2.uk/PlutoTV/6479c171536e0c0008942590-alt.m3u8
 #EXTINF:0, Pluto TV Westerns
 https://jmp2.uk/PlutoTV/6670a7f222acab00088dcd0a-alt.m3u8
-#EXTINF:0, Pluto TV Westerns (UK)
-https://jmp2.uk/PlutoTV/5d4bdb635ce813b38639e6a3-alt.m3u8
 #EXTINF:0, Reno & Flip (CA)
 https://jmp2.uk/PlutoTV/62fb5f68741416000755b0a1-alt.m3u8
 #EXTINF:0, Reno Duo (CA)
@@ -225,18 +113,6 @@ https://jmp2.uk/PlutoTV/62e926429cb58900088f951f-alt.m3u8
 https://jmp2.uk/PlutoTV/64ff1d7111054500083f01ee-alt.m3u8
 #EXTINF:0, Reno Rehab (CA)
 https://jmp2.uk/PlutoTV/62fb6057f923fb0007eafb24-alt.m3u8
-#EXTINF:0, Reno Tiny House Nation
-https://jmp2.uk/PlutoTV/601a0342dcf4370007566891-alt.m3u8
-#EXTINF:0, Retro Kid
-https://jmp2.uk/PlutoTV/6408b41b83f58900081d91ad-alt.m3u8
-#EXTINF:0, Universal Action
-https://jmp2.uk/PlutoTV/654933e253fc970008390114-alt.m3u8
-#EXTINF:0, Universal Crime
-https://jmp2.uk/PlutoTV/6549341853fc9700083901ac-alt.m3u8
-#EXTINF:0, Universal Monsters
-https://jmp2.uk/PlutoTV/65a9b20f0c7ff50008d3a3b6-alt.m3u8
-#EXTINF:0, UnXplained Zone
-https://jmp2.uk/PlutoTV/656538f8954b020008d389db-alt.m3u8
 #EXTINF:0, Vevo '70s
 https://jmp2.uk/SamsungTVPlus/USBD300011KQ.m3u8
 #EXTINF:0, Vevo '80s
@@ -267,8 +143,6 @@ http://kstv.us:8080/live/ks9jzHwZce/8251731225/40781.ts
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/209
 #EXTINF:0,Animal Planet 
 http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/207
-#EXTINF:0,Brat TV 
-https://jmp2.uk/Plex/647f8d22a2fc3fadb4721685-63d6f6c5a9e88ee909e7ee1f.m3u8
 #EXTINF:0,Bravo 
 http://streamsy.online:2999/Jaley1990/L6KomjzBxv/200
 #EXTINF:0,Cartoon Network (US)
@@ -281,8 +155,6 @@ http://kstv.us:8080/live/ks9jzHwZce/8251731225/40758.ts
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:0,Comet 
 https://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:0,Cooking Channel 
-http://streamsy.online:2999/Jaley1990/L6KomjzBxv/189
 #EXTINF:0,CP24 News HD 
 http://elitestreamz.xyz:3050/powellmachining@gmail.com/aFEj8k2LAh/418440
 #EXTINF:0,CTV Comedy Channel 
@@ -311,8 +183,6 @@ http://kstv.us:8080/live/ks9jzHwZce/8251731225/48378.ts
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/48379.ts
 #EXTINF:0,MeTV 
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/44205.ts
-#EXTINF:0,FUSE
-http://mains.services/live/pmf0423/1aku0jt%40/a2903e36-7a71-4894-baa9-509fe803768a.m3u
 #EXTINF:0,MeTV Toons 
 http://kstv.us:8080/live/ks9jzHwZce/8251731225/48753.ts
 #EXTINF:0,MGM+
