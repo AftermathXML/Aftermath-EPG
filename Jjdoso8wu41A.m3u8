@@ -1,4 +1,193 @@
 #EXTM3U
-#EXTINF:-1 group-title="Cable" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png",CLOSED STREAM 
-http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/211121
 
+#EXTINF:-1 group-title="Streams", Pluto TV Cars
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c12ba66eae03059cbdc77f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4de52-608f-11ef-8cb5-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96b0f2-3d24-4bfb-88ba-566ac1a87bd3&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Spotlight
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4e1fe-608f-11ef-b81b-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3f906233-929d-4d22-a797-79b2ef5aec42&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Icons
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b585f84ea480000838e446/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4e2c6-608f-11ef-bc75-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b7758d48-9090-4809-9562-1a7f9ade1b10&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Action
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4e456-608f-11ef-bd77-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c483b280-d53d-4a08-bc7f-10ea6030c131&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Reaction
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/617b37b361e0fd0008cfd8c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4e4ec-608f-11ef-8116-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=14910c95-9a87-417f-b916-aaa3ad42fc1a&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Comedy
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4e578-608f-11ef-ae7a-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fbafc027-d53f-42be-b4c0-ab59a6b14066&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Drama
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4e604-608f-11ef-b94b-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fe1750bf-c624-4117-aa42-df7d72855df1&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Fantastic
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4e960-608f-11ef-8cf9-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c9f3823f-6b93-41da-81b4-223326a149f8&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Romance
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4ea14-608f-11ef-881a-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e3381d70-9090-44a5-b988-7e66eb31a9d4&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Crime Movies
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4eaa0-608f-11ef-a866-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6601d663-1c67-45a3-9f02-a4cd3b0aaef7&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Thrillers
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4eb2c-608f-11ef-9e12-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e34ce3f6-df87-41b2-867e-1ff7a4a51639&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Horror
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4ebcc-608f-11ef-9ef6-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5564d0e8-ba4d-4bae-9454-14528ed5b503&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Terror
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4ecda-608f-11ef-b7c3-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f8b787a8-0ecf-4979-88c2-2dd80877f4b8&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Black Cinema
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4ed70-608f-11ef-a79b-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6d44794d-1ed4-4b34-853b-573a9f05d529&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Black Visionaries
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/663946c1b18d700008d9c168/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4ee2e-608f-11ef-a590-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dbb11261-0900-4de4-86fe-c1e5419d0675&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", MovieSphere by Lionsgate
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645e7828e1979c00087b75b4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4ef14-608f-11ef-a209-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a7bb1ef-7663-42cb-886d-1d4a2b0fd5e7&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Staff Picks
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d863b98b41000076cd061/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4efaa-608f-11ef-8cf4-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=23a487b1-277b-4aae-89b4-3860eeeeae89&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Documentaries
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b85a7582921777994caea63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f036-608f-11ef-a032-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=625f385b-29ac-4407-9a5e-4b63bb56e772&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", 00s Replay
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f0cc-608f-11ef-b2c2-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=09f2c977-beec-496f-a4f3-24ffb316b002&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", 90s Throwback
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f158-608f-11ef-8d7f-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=365cfced-8331-4130-9e26-88e197b307b3&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", 80s Rewind
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f1ee-608f-11ef-bec4-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3eec80d1-ddf6-4146-b6de-3ecdcfc3aaab&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", 70s Cinema
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f27a-608f-11ef-a45e-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a158c5ba-5385-49ea-af87-ff03b02e0315&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Paramount Movie Channel
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f306-608f-11ef-a947-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=560abd46-22c4-41a3-b493-223f87d4bf36&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Westerns
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f392-608f-11ef-b31d-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=aa3bc36a-27cc-4874-826f-d9ccd1fc8fb9&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Classic Movie Westerns
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61f33318210549000806a530/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f482-608f-11ef-b354-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4787d84-a5e6-40c0-8eeb-29c5f5f28be9&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Classic Movies Channel
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f518-608f-11ef-84e6-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=37bca1a4-d784-4ae2-9aab-553fe2d02209&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Cult Films
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c665db3e6c01b72c4977bc2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f5a4-608f-11ef-827b-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=da0db0aa-e190-4607-85ec-f1c8dfa9d144&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Universal Monsters
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a9b20f0c7ff50008d3a3b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f630-608f-11ef-be97-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=67a31e9c-48a5-4f74-a49f-ca3f1d2b3c1f&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Flicks of Fury
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f6c6-608f-11ef-883c-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2288e341-5a44-43a7-b22c-3ff97edb39dd&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Movies for Gamers
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6008ddf24ef92b00079d61cf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f806-608f-11ef-9e80-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7f483b0f-694c-4eea-b9d3-3ff807be7e97&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", TV Land Sitcoms 2
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f778a052360b30007fa5e32/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f8b0-608f-11ef-9d09-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9f28020b-08e4-4d24-947b-d78eb4c321e4&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Sitcom Legends
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/633354b63df9700007f6a1b7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4f93c-608f-11ef-83dc-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f2559207-9d7d-418c-81cf-738dc0b6984d&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", TV Land Sitcoms
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4fa0e-608f-11ef-8a62-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9fe8fe08-acdd-439e-a887-bbf4f8218995&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", More TV Sitcoms
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6132619f9ddaa50007e7dd86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4fa9a-608f-11ef-bfa1-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e33f8b8-a312-45c5-900d-c3b1fc828566&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Black Throwbacks
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61326275b3c86a00078e4833/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4fb26-608f-11ef-b954-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=63cd0d1d-95b4-4f76-b086-249b8b3a7c02&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", BET x Tyler Perry Comedy
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/666b265722acab000885c6aa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4fbb2-608f-11ef-ada5-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=48a31d69-b51b-4c20-9682-d33bbeaaf7a9&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Funny AF
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4fc48-608f-11ef-8458-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2888c487-cde3-473f-85d8-bae9b7e6109c&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Comedy Central Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4fcde-608f-11ef-9ac3-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc66ab35-1e0a-434a-8447-92467057af09&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Comedy Central Animation
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f99e24636d67d0007a94e6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4fd60-608f-11ef-9467-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a6a57e14-556a-4e01-b3a1-96b09aeff660&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Pranks
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f86f539f03cd00070c503a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc4fdec-608f-11ef-887a-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4ad22578-8464-4886-9011-c5abdb15a8d3&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Kevin Hart’s LOL! Network
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5af09e645126c2157123f9eb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc5009e-608f-11ef-b3c5-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=819c2536-c53c-47c6-a944-60f5c5b3a351&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Stand-Up TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc50134-608f-11ef-83ed-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=623cfcac-7b8f-4ad8-9bec-94a27bcfea9d&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Slightly Off IFC
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e82547b6b3df60007fec2b5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc501c0-608f-11ef-9a7e-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=837b660a-f5f9-4b6d-b495-465a330d6347&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", British Comedy
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f870184865da00074210ee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc50256-608f-11ef-b8d2-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2b27fe8-7d15-466e-a3f2-fb416d99649e&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Classic TV Comedy
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f15e32b297f96000768f928/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc5051c-608f-11ef-b303-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a992a71c-1b7b-40b6-b9af-cc4de04986d2&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Classic TV: Families
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61325d18f5166c00081b84e0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc505b2-608f-11ef-a905-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=84791c00-36b4-46ee-ab31-39923f7bc46f&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Black Classics
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f85644a9493e0007a1f035/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc5063e-608f-11ef-a62d-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0396bd6-f5c3-4917-8680-e7d8beb30271&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Classic TV Drama
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f15e3cccf49290007053c67/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc50c88-608f-11ef-b3d5-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3709651a-c719-4058-9773-ed8f2a0c5399&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Classic TV Crime Drama
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61325c4f982acd000723287e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc50d14-608f-11ef-b2f3-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2624305-a56c-4298-b70b-a69e89930476&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Universal Crime
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6549341853fc9700083901ac/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc50da0-608f-11ef-a44e-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=836db149-0064-4ae8-9151-c188ee30220f&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Classic TV Variety
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64d1867c6b1fdb0008c6c95b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc5111a-608f-11ef-a884-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8100121b-ea5a-4ae4-a4a7-830952609a75&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Western TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e8df4bc16e34700077e77d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc5123c-608f-11ef-90c6-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efb0346c-f41b-4d58-9d17-ccd255aa02b7&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Classic Movie Westerns
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6661f3fb3d173b0008458726/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc5170a-608f-11ef-ade5-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1b7ebaea-74db-413c-a378-eb84b2102893&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Westerns
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6670a7f222acab00088dcd0a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc51796-608f-11ef-90c6-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fe8b0e90-5795-4b30-b933-a6f037773375&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Sci-Fi
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc51bba-608f-11ef-99a4-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=daf42eba-4177-4a18-acc8-1ffe941779a2&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Alien Nation by DUST
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66621ed08ea5560008fde7c9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc51c3c-608f-11ef-b90b-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=55919f76-cb94-4623-9170-fe90a9601084&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Godzilla
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c8cee1979c0008608e27/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc51cd2-608f-11ef-bce5-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c19606a-ab19-423b-b72f-bd6d771d8974&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", TokuSHOUTsu
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5c3f8f12a93c2d61b9990a4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc51d5e-608f-11ef-a11d-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cb8eee19-fac6-4652-8b9b-57573a43ea47&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Pluto TV Crime Drama
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f31fd1b4c510e00071c3103/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc52236-608f-11ef-956a-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98523d59-6bd3-41f6-820a-4921b60b852e&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", BET x Tyler Perry Drama
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/666b38a5efa2a10008b15b3a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc522c2-608f-11ef-942c-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d08a211c-a94d-49c5-9f70-6b532334b6fe&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Ebony TV Drama
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c713fc3a46000863dde7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc5234e-608f-11ef-95c2-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=55ef6671-07d0-41cb-9f0b-97e37266b6bd&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", TV Land Drama
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc52416-608f-11ef-c0ec-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7736a68e-fad4-4c47-ace1-8cc7e4e978e4&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", More TV Drama
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/613260e4bdb71c00070d63fa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc524ac-608f-11ef-8d4f-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6442435f-0726-4e41-af07-d6ad65951ade&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="Streams", Action Drama
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65033c4b98020f0008547124/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9cc52538-608f-11ef-bebf-01d2d4bbc4f1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=409d40cf-2eda-447e-9e9c-632bb95485d9&userId=&serverSideAds=true
