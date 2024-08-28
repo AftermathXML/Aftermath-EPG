@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Music",XITE 80s Flashback
-https://jmp2.uk/sam-USBB320000647.m3u8
-#EXTINF:-1 group-title="Music",XITE 90s Throwback
-https://jmp2.uk/sam-USBB3200007AK.m3u8
-#EXTINF:-1 group-title="Music",XITE Celebrates
-https://jmp2.uk/sam-USBD350003932.m3u8
-#EXTINF:-1 group-title="Music",XITE Classic Country
-https://jmp2.uk/sam-USBD3300011UT.m3u8
-#EXTINF:-1 group-title="Music",XITE Country Today
-https://jmp2.uk/sam-USBD3300006O3.m3u8
-#EXTINF:-1 group-title="Music",XITE Hits
-https://jmp2.uk/sam-USBD3300004RH.m3u8
-#EXTINF:-1 group-title="Music",XITE Icons
-https://jmp2.uk/sam-USBD3300005EX.m3u8
-#EXTINF:-1 group-title="Music",XITE Just Chill
-https://jmp2.uk/sam-USBB2300003JZ.m3u8
-#EXTINF:-1 group-title="Music",XITE Nuevo Latino
-https://jmp2.uk/sam-USBD3300007PB.m3u8
-#EXTINF:-1 group-title="Music",XITE Only Love
-https://jmp2.uk/sam-USBD3300008DG.m3u8
-#EXTINF:-1 group-title="Music",XITE R&B Classic Jams
-https://jmp2.uk/sam-USBD330000948.m3u8
-#EXTINF:-1 group-title="Music",XITE Rock x Metal
-https://jmp2.uk/sam-USBB2300004KV.m3u8
-#EXTINF:-1 group-title="Music",XITE Siempre Latino
-https://jmp2.uk/sam-USBD3300010L9.m3u8
+#EXTINF:-1 group-title="Streams",Summer of Movies (CA)
+https://jmp2.uk/plu-6654adb1f99922000854388c-alt.m3u8
+#EXTINF:-1 group-title="Streams",Pluto TV Comedy Movies (CA)
+https://jmp2.uk/plu-62ea3d24b8e02600071fa296-alt.m3u8
+#EXTINF:-1 group-title="Streams",Pluto TV Action Movies (CA)
+https://jmp2.uk/plu-62ea3c2e4823db00072788ed-alt.m3u8
+#EXTINF:-1 group-title="Streams",Pluto TV Drama Movies (CA)
+https://jmp2.uk/plu-62bdb0bcd707b9000739d2e5-alt.m3u8
+#EXTINF:-1 group-title="Streams",Pluto TV Horror (CA)
+https://jmp2.uk/plu-62ea3f8a38acc80007072d26-alt.m3u8
+#EXTINF:-1 group-title="Streams",Pluto TV Family Movie Club (UK)
+https://jmp2.uk/plu-5dc3fc6b9133f500099c7d98-alt.m3u8
+#EXTINF:-1 group-title="Streams",Pluto TV Comedy Movies (UK)
+https://jmp2.uk/plu-5c363c2411c5ca053f198f97-alt.m3u8
+#EXTINF:-1 group-title="Streams",Pluto TV Horror (UK)
+https://jmp2.uk/plu-612cda102f5f18000705e0bf-alt.m3u8
+#EXTINF:-1 group-title="Streams",Pluto TV Action (UK)
+https://jmp2.uk/plu-5dbfeb961b411c00090b52b3-alt.m3u8
+#EXTINF:-1 group-title="Streams",Pluto TV Cult Films (UK)
+https://jmp2.uk/plu-5c5c31f2f21b553c1f673fb0-alt.m3u8
+#EXTINF:-1 group-title="Streams",Pluto TV Thrillers (UK)
+https://jmp2.uk/plu-5dbfedccc563080009b60f4a-alt.m3u8
+#EXTINF:-1 group-title="Streams",Pluto TV Hot Summer Nights (UK)
+https://jmp2.uk/plu-6487148edc7a7600089e92d3-alt.m3u8
+#EXTINF:-1 group-title="Streams",Pluto TV Disaster Movies (UK)
+https://jmp2.uk/plu-63e2316e4e83e70008953158-alt.m3u8
