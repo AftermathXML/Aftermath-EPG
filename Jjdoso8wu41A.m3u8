@@ -701,7 +701,7 @@ http://mains.services/live/pmf0423/1aku0jt%40/fc705f53-1542-438b-94b7-ae6f0e9768
 #EXTINF:0 group-title="24/7",24/7: Archer
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/e0e88720-1f15-4f8a-9779-6b0c95a31bd5.m3u
-#EXTINF:48,24/7: Are You Afraid Of The Dark
+#EXTINF:0 group-title="24/7", Are You Afraid Of The Dark
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/84bd57db-9e39-482f-bcb1-741a875e00ca.m3u
 #EXTINF:0 group-title="24/7",24/7: Are You Being Served
