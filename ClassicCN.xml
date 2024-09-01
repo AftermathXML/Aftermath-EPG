@@ -1,104 +1,106 @@
+iamdasuk
+
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20240811">
 <channel id="CNClassic.us"><display-name>CNClassic</display-name><icon src="https://i.ibb.co/8DGQX1t/Swug.webp"/><url>https://vaughn.live/cnclassic</url></channel>
 
 
-<programme start="20240820100000 +0000" stop="20240820103000 +0000" channel="CNClassic.us"><title lang="en">Pokemon</title></programme>
-<programme start="20240820103000 +0000" stop="20240820110000 +0000" channel="CNClassic.us"><title lang="en">Transformers: Energon</title></programme>  
-<programme start="20240820110000 +0000" stop="20240820113000 +0000" channel="CNClassic.us"><title lang="en">Courage the Cowardly Dog</title></programme>
-<programme start="20240820113000 +0000" stop="20240820120000 +0000" channel="CNClassic.us"><title lang="en">Star Wars: The Clone Wars</title></programme> 
-<programme start="20240820120000 +0000" stop="20240820123000 +0000" channel="CNClassic.us"><title lang="en">Mucha Lucha</title></programme>
-<programme start="20240820123000 +0000" stop="20240820130000 +0000" channel="CNClassic.us"><title lang="en">The Life and Times of Juniper Lee</title></programme>  
-<programme start="20240820130000 +0000" stop="20240820133000 +0000" channel="CNClassic.us"><title lang="en">Whatever Happened to... Robot Jones?</title></programme>
-<programme start="20240820133000 +0000" stop="20240820140000 +0000" channel="CNClassic.us"><title lang="en">Sheep In The Big City</title></programme> 
-<programme start="20240820140000 +0000" stop="20240820143000 +0000" channel="CNClassic.us"><title lang="en">Batman: The Animated Series</title></programme>
-<programme start="20240820143000 +0000" stop="20240820150000 +0000" channel="CNClassic.us"><title lang="en">Robotboy</title></programme>  
-<programme start="20240820150000 +0000" stop="20240820153000 +0000" channel="CNClassic.us"><title lang="en">Tom and Jerry</title></programme>
-<programme start="20240820153000 +0000" stop="20240820160000 +0000" channel="CNClassic.us"><title lang="en">Krypto the Superdog</title></programme> 
-<programme start="20240820160000 +0000" stop="20240820163000 +0000" channel="CNClassic.us"><title lang="en">Cow and Chicken/I am Weasel</title></programme>
-<programme start="20240820163000 +0000" stop="20240820170000 +0000" channel="CNClassic.us"><title lang="en">Johnny Bravo</title></programme>  
-<programme start="20240820170000 +0000" stop="20240820173000 +0000" channel="CNClassic.us"><title lang="en">Dexter's Lab</title></programme>
-<programme start="20240820173000 +0000" stop="20240820180000 +0000" channel="CNClassic.us"><title lang="en">2 Stupid Dogs/Super Secret Secret Squirrel</title></programme> 
-<programme start="20240820180000 +0000" stop="20240820183000 +0000" channel="CNClassic.us"><title lang="en">Evil Con Carne</title></programme>
-<programme start="20240820183000 +0000" stop="20240820190000 +0000" channel="CNClassic.us"><title lang="en">Teenage Mutant Ninja Turtles</title></programme>  
-<programme start="20240820190000 +0000" stop="20240820193000 +0000" channel="CNClassic.us"><title lang="en">Code Lyoko</title></programme>
-<programme start="20240820193000 +0000" stop="20240820200000 +0000" channel="CNClassic.us"><title lang="en">The PowerPuff Girls</title></programme> 
-<programme start="20240820200000 +0000" stop="20240820203000 +0000" channel="CNClassic.us"><title lang="en">Hamtaro</title></programme>
-<programme start="20240820203000 +0000" stop="20240820210000 +0000" channel="CNClassic.us"><title lang="en">Sailor Moon</title></programme>  
-<programme start="20240820210000 +0000" stop="20240820213000 +0000" channel="CNClassic.us"><title lang="en">Dragon Ball Z</title></programme>
-<programme start="20240820213000 +0000" stop="20240820220000 +0000" channel="CNClassic.us"><title lang="en">Ronin Warriors</title></programme> 
-<programme start="20240820220000 +0000" stop="20240820223000 +0000" channel="CNClassic.us"><title lang="en">ReBoot</title></programme>
-<programme start="20240820223000 +0000" stop="20240820230000 +0000" channel="CNClassic.us"><title lang="en">Outlaw Star</title></programme>  
-<programme start="20240820230000 +0000" stop="20240820233000 +0000" channel="CNClassic.us"><title lang="en">Sym-bionic Titan</title></programme>
-<programme start="20240820233000 +0000" stop="20240821000000 +0000" channel="CNClassic.us"><title lang="en">Xiaolin Showdown</title></programme> 
-<programme start="20240821000000 +0000" stop="20240821003000 +0000" channel="CNClassic.us"><title lang="en">The Eric Andre Show</title></programme> 
-<programme start="20240821003000 +0000" stop="20240821010000 +0000" channel="CNClassic.us"><title lang="en">Samurai Jack</title></programme> 
-<programme start="20240821010000 +0000" stop="20240821013000 +0000" channel="CNClassic.us"><title lang="en">Family Guy</title></programme> 
-<programme start="20240821013000 +0000" stop="20240821020000 +0000" channel="CNClassic.us"><title lang="en">Rick and Morty</title></programme> 
-<programme start="20240821020000 +0000" stop="20240821023000 +0000" channel="CNClassic.us"><title lang="en">King of the Hill</title></programme> 
-<programme start="20240821023000 +0000" stop="20240821030000 +0000" channel="CNClassic.us"><title lang="en">Futurama</title></programme> 
-<programme start="20240821030000 +0000" stop="20240821033000 +0000" channel="CNClassic.us"><title lang="en">American Dad</title></programme> 
-<programme start="20240821033000 +0000" stop="20240821040000 +0000" channel="CNClassic.us"><title lang="en">The Simpsons</title></programme> 
-<programme start="20240821040000 +0000" stop="20240821043000 +0000" channel="CNClassic.us"><title lang="en">Aqua Teen Hunger Force</title></programme>
-<programme start="20240821043000 +0000" stop="20240821050000 +0000" channel="CNClassic.us"><title lang="en">Harvey Birdman, Attorney At Law</title></programme>  
-<programme start="20240821050000 +0000" stop="20240821053000 +0000" channel="CNClassic.us"><title lang="en">NTSF:SD:SUV</title></programme>
-<programme start="20240821053000 +0000" stop="20240821060000 +0000" channel="CNClassic.us"><title lang="en">Mike Tyson Mysteries</title></programme> 
-<programme start="20240821060000 +0000" stop="20240821063000 +0000" channel="CNClassic.us"><title lang="en">Smiling Friends</title></programme>
-<programme start="20240821063000 +0000" stop="20240821070000 +0000" channel="CNClassic.us"><title lang="en">Delocated</title></programme>  
-<programme start="20240821070000 +0000" stop="20240821073000 +0000" channel="CNClassic.us"><title lang="en">Metalocalypse</title></programme>
-<programme start="20240821073000 +0000" stop="20240821080000 +0000" channel="CNClassic.us"><title lang="en">Million Dollar Extreme Presents: World Peace</title></programme> 
-<programme start="20240821080000 +0000" stop="20240821083000 +0000" channel="CNClassic.us"><title lang="en">Pee-wee's Playhouse</title></programme>
-<programme start="20240821083000 +0000" stop="20240821090000 +0000" channel="CNClassic.us"><title lang="en">Moral Orel</title></programme>  
-<programme start="20240821090000 +0000" stop="20240821093000 +0000" channel="CNClassic.us"><title lang="en">Futurama</title></programme>
-<programme start="20240821093000 +0000" stop="20240821100000 +0000" channel="CNClassic.us"><title lang="en">China, IL</title></programme> 
+<programme start="20240903100000 +0000" stop="20240903103000 +0000" channel="CNClassic.us"><title lang="en">Pokemon</title></programme>
+<programme start="20240903103000 +0000" stop="20240903110000 +0000" channel="CNClassic.us"><title lang="en">Transformers: Energon</title></programme>  
+<programme start="20240903110000 +0000" stop="20240903113000 +0000" channel="CNClassic.us"><title lang="en">Courage the Cowardly Dog</title></programme>
+<programme start="20240903113000 +0000" stop="20240903120000 +0000" channel="CNClassic.us"><title lang="en">Star Wars: The Clone Wars</title></programme> 
+<programme start="20240903120000 +0000" stop="20240903123000 +0000" channel="CNClassic.us"><title lang="en">Mucha Lucha</title></programme>
+<programme start="20240903123000 +0000" stop="20240903130000 +0000" channel="CNClassic.us"><title lang="en">The Life and Times of Juniper Lee</title></programme>  
+<programme start="20240903130000 +0000" stop="20240903133000 +0000" channel="CNClassic.us"><title lang="en">Whatever Happened to... Robot Jones?</title></programme>
+<programme start="20240903133000 +0000" stop="20240903140000 +0000" channel="CNClassic.us"><title lang="en">Sheep In The Big City</title></programme> 
+<programme start="20240903140000 +0000" stop="20240903143000 +0000" channel="CNClassic.us"><title lang="en">Batman: The Animated Series</title></programme>
+<programme start="20240903143000 +0000" stop="20240903150000 +0000" channel="CNClassic.us"><title lang="en">Robotboy</title></programme>  
+<programme start="20240903150000 +0000" stop="20240903153000 +0000" channel="CNClassic.us"><title lang="en">Tom and Jerry</title></programme>
+<programme start="20240903153000 +0000" stop="20240903160000 +0000" channel="CNClassic.us"><title lang="en">Krypto the Superdog</title></programme> 
+<programme start="20240903160000 +0000" stop="20240903163000 +0000" channel="CNClassic.us"><title lang="en">Cow and Chicken/I am Weasel</title></programme>
+<programme start="20240903163000 +0000" stop="20240903170000 +0000" channel="CNClassic.us"><title lang="en">Johnny Bravo</title></programme>  
+<programme start="20240903170000 +0000" stop="20240903173000 +0000" channel="CNClassic.us"><title lang="en">Dexter's Lab</title></programme>
+<programme start="20240903173000 +0000" stop="20240903180000 +0000" channel="CNClassic.us"><title lang="en">2 Stupid Dogs/Super Secret Secret Squirrel</title></programme> 
+<programme start="20240903180000 +0000" stop="20240903183000 +0000" channel="CNClassic.us"><title lang="en">Evil Con Carne</title></programme>
+<programme start="20240903183000 +0000" stop="20240903190000 +0000" channel="CNClassic.us"><title lang="en">Teenage Mutant Ninja Turtles</title></programme>  
+<programme start="20240903190000 +0000" stop="20240903193000 +0000" channel="CNClassic.us"><title lang="en">Code Lyoko</title></programme>
+<programme start="20240903193000 +0000" stop="20240903200000 +0000" channel="CNClassic.us"><title lang="en">The PowerPuff Girls</title></programme> 
+<programme start="20240903200000 +0000" stop="20240903203000 +0000" channel="CNClassic.us"><title lang="en">Hamtaro</title></programme>
+<programme start="20240903203000 +0000" stop="20240903210000 +0000" channel="CNClassic.us"><title lang="en">Sailor Moon</title></programme>  
+<programme start="20240903210000 +0000" stop="20240903213000 +0000" channel="CNClassic.us"><title lang="en">Dragon Ball Z</title></programme>
+<programme start="20240903213000 +0000" stop="20240903220000 +0000" channel="CNClassic.us"><title lang="en">Ronin Warriors</title></programme> 
+<programme start="20240903220000 +0000" stop="20240903223000 +0000" channel="CNClassic.us"><title lang="en">ReBoot</title></programme>
+<programme start="20240903223000 +0000" stop="20240903230000 +0000" channel="CNClassic.us"><title lang="en">Outlaw Star</title></programme>  
+<programme start="20240903230000 +0000" stop="20240903233000 +0000" channel="CNClassic.us"><title lang="en">Sym-bionic Titan</title></programme>
+<programme start="20240903233000 +0000" stop="20240904000000 +0000" channel="CNClassic.us"><title lang="en">Xiaolin Showdown</title></programme> 
+<programme start="20240904000000 +0000" stop="20240904003000 +0000" channel="CNClassic.us"><title lang="en">The Eric Andre Show</title></programme> 
+<programme start="20240904003000 +0000" stop="20240904010000 +0000" channel="CNClassic.us"><title lang="en">Samurai Jack</title></programme> 
+<programme start="20240904010000 +0000" stop="20240904013000 +0000" channel="CNClassic.us"><title lang="en">Family Guy</title></programme> 
+<programme start="20240904013000 +0000" stop="20240904020000 +0000" channel="CNClassic.us"><title lang="en">Rick and Morty</title></programme> 
+<programme start="20240904020000 +0000" stop="20240904023000 +0000" channel="CNClassic.us"><title lang="en">King of the Hill</title></programme> 
+<programme start="20240904023000 +0000" stop="20240904030000 +0000" channel="CNClassic.us"><title lang="en">Futurama</title></programme> 
+<programme start="20240904030000 +0000" stop="20240904033000 +0000" channel="CNClassic.us"><title lang="en">American Dad</title></programme> 
+<programme start="20240904033000 +0000" stop="20240904040000 +0000" channel="CNClassic.us"><title lang="en">The Simpsons</title></programme> 
+<programme start="20240904040000 +0000" stop="20240904043000 +0000" channel="CNClassic.us"><title lang="en">Aqua Teen Hunger Force</title></programme>
+<programme start="20240904043000 +0000" stop="20240904050000 +0000" channel="CNClassic.us"><title lang="en">Harvey Birdman, Attorney At Law</title></programme>  
+<programme start="20240904050000 +0000" stop="20240904053000 +0000" channel="CNClassic.us"><title lang="en">NTSF:SD:SUV</title></programme>
+<programme start="20240904053000 +0000" stop="20240904060000 +0000" channel="CNClassic.us"><title lang="en">Mike Tyson Mysteries</title></programme> 
+<programme start="20240904060000 +0000" stop="20240904063000 +0000" channel="CNClassic.us"><title lang="en">Smiling Friends</title></programme>
+<programme start="20240904063000 +0000" stop="20240904070000 +0000" channel="CNClassic.us"><title lang="en">Delocated</title></programme>  
+<programme start="20240904070000 +0000" stop="20240904073000 +0000" channel="CNClassic.us"><title lang="en">Metalocalypse</title></programme>
+<programme start="20240904073000 +0000" stop="20240904080000 +0000" channel="CNClassic.us"><title lang="en">Million Dollar Extreme Presents: World Peace</title></programme> 
+<programme start="20240904080000 +0000" stop="20240904083000 +0000" channel="CNClassic.us"><title lang="en">Pee-wee's Playhouse</title></programme>
+<programme start="20240904083000 +0000" stop="20240904090000 +0000" channel="CNClassic.us"><title lang="en">Moral Orel</title></programme>  
+<programme start="20240904090000 +0000" stop="20240904093000 +0000" channel="CNClassic.us"><title lang="en">Futurama</title></programme>
+<programme start="20240904093000 +0000" stop="20240904100000 +0000" channel="CNClassic.us"><title lang="en">China, IL</title></programme> 
     
-<programme start="20240821100000 +0000" stop="20240821103000 +0000" channel="CNClassic.us"><title lang="en">Beyblade</title></programme>
-<programme start="20240821103000 +0000" stop="20240821110000 +0000" channel="CNClassic.us"><title lang="en">Robotboy</title></programme>  
-<programme start="20240821110000 +0000" stop="20240821113000 +0000" channel="CNClassic.us"><title lang="en">Hero</title></programme>
-<programme start="20240821113000 +0000" stop="20240821120000 +0000" channel="CNClassic.us"><title lang="en">Ben 10</title></programme> 
-<programme start="20240821120000 +0000" stop="20240821123000 +0000" channel="CNClassic.us"><title lang="en">My Gym Partner's a Money</title></programme>
-<programme start="20240821123000 +0000" stop="20240821130000 +0000" channel="CNClassic.us"><title lang="en">Bakugan</title></programme>  
-<programme start="20240821130000 +0000" stop="20240821133000 +0000" channel="CNClassic.us"><title lang="en">Static Shock</title></programme>
-<programme start="20240821133000 +0000" stop="20240821140000 +0000" channel="CNClassic.us"><title lang="en">Young Justice</title></programme> 
-<programme start="20240821140000 +0000" stop="20240821143000 +0000" channel="CNClassic.us"><title lang="en">The Powerpuff Girls</title></programme>
-<programme start="20240821143000 +0000" stop="20240821150000 +0000" channel="CNClassic.us"><title lang="en">The Grim Adventures of Billy and Mandy</title></programme>  
-<programme start="20240821150000 +0000" stop="20240821153000 +0000" channel="CNClassic.us"><title lang="en">Transformers</title></programme>
-<programme start="20240821153000 +0000" stop="20240821160000 +0000" channel="CNClassic.us"><title lang="en">Jackie Chan Adventures</title></programme> 
-<programme start="20240821160000 +0000" stop="20240821163000 +0000" channel="CNClassic.us"><title lang="en">Time Squade</title></programme>
-<programme start="20240821163000 +0000" stop="20240821170000 +0000" channel="CNClassic.us"><title lang="en">Sym-Bionic Titan</title></programme>  
-<programme start="20240821170000 +0000" stop="20240821173000 +0000" channel="CNClassic.us"><title lang="en">Chowder</title></programme>
-<programme start="20240821173000 +0000" stop="20240821180000 +0000" channel="CNClassic.us"><title lang="en">Codename: Kids Next Door</title></programme> 
-<programme start="20240821180000 +0000" stop="20240821183000 +0000" channel="CNClassic.us"><title lang="en">Megas XLR</title></programme>
-<programme start="20240821183000 +0000" stop="20240821190000 +0000" channel="CNClassic.us"><title lang="en">The Grim Adventures of Billy and Mandy</title></programme>  
-<programme start="20240821190000 +0000" stop="20240821193000 +0000" channel="CNClassic.us"><title lang="en">Ozzy and Drix</title></programme>
-<programme start="20240821193000 +0000" stop="20240821200000 +0000" channel="CNClassic.us"><title lang="en">Cow and Chicken</title></programme> 
-<programme start="20240821200000 +0000" stop="20240821203000 +0000" channel="CNClassic.us"><title lang="en">Winx Club</title></programme>
-<programme start="20240821203000 +0000" stop="20240821210000 +0000" channel="CNClassic.us"><title lang="en">Totally Spies!</title></programme>  
-<programme start="20240821210000 +0000" stop="20240821213000 +0000" channel="CNClassic.us"><title lang="en">Yu-Gi-Oh!</title></programme>
-<programme start="20240821213000 +0000" stop="20240821220000 +0000" channel="CNClassic.us"><title lang="en">Mucha Lucha</title></programme> 
-<programme start="20240821220000 +0000" stop="20240821223000 +0000" channel="CNClassic.us"><title lang="en">Code Lyoko</title></programme>
-<programme start="20240821223000 +0000" stop="20240821230000 +0000" channel="CNClassic.us"><title lang="en">Pokemon</title></programme>  
-<programme start="20240821230000 +0000" stop="20240821233000 +0000" channel="CNClassic.us"><title lang="en">Foster's Home for Imaginary Friends</title></programme>
-<programme start="20240821233000 +0000" stop="20240822000000 +0000" channel="CNClassic.us"><title lang="en">Ed, Edd and Eddy</title></programme> 
-<programme start="20240822000000 +0000" stop="20240822003000 +0000" channel="CNClassic.us"><title lang="en">King of the Hill</title></programme> 
-<programme start="20240822003000 +0000" stop="20240822010000 +0000" channel="CNClassic.us"><title lang="en">The Venture Bros.</title></programme> 
-<programme start="20240822010000 +0000" stop="20240822013000 +0000" channel="CNClassic.us"><title lang="en">The Boondocks</title></programme> 
-<programme start="20240822013000 +0000" stop="20240822020000 +0000" channel="CNClassic.us"><title lang="en">Rick and Morty</title></programme> 
-<programme start="20240822020000 +0000" stop="20240822023000 +0000" channel="CNClassic.us"><title lang="en">South Park</title></programme> 
-<programme start="20240822023000 +0000" stop="20240822030000 +0000" channel="CNClassic.us"><title lang="en">Futurama</title></programme> 
-<programme start="20240822030000 +0000" stop="20240822033000 +0000" channel="CNClassic.us"><title lang="en">American Dad</title></programme> 
-<programme start="20240822033000 +0000" stop="20240822040000 +0000" channel="CNClassic.us"><title lang="en">Harvy Birdman, Attorney At Law</title></programme> 
-<programme start="20240822040000 +0000" stop="20240822043000 +0000" channel="CNClassic.us"><title lang="en">Assy McGree</title></programme>
-<programme start="20240822043000 +0000" stop="20240822050000 +0000" channel="CNClassic.us"><title lang="en">Moral Orel</title></programme>  
-<programme start="20240822050000 +0000" stop="20240822053000 +0000" channel="CNClassic.us"><title lang="en">Cartoon Planet</title></programme>
-<programme start="20240822053000 +0000" stop="20240822060000 +0000" channel="CNClassic.us"><title lang="en">SuperJail!</title></programme> 
-<programme start="20240822060000 +0000" stop="20240822063000 +0000" channel="CNClassic.us"><title lang="en">Squidbillies</title></programme>
-<programme start="20240822063000 +0000" stop="20240822070000 +0000" channel="CNClassic.us"><title lang="en">The Brak Show</title></programme>  
-<programme start="20240822070000 +0000" stop="20240822073000 +0000" channel="CNClassic.us"><title lang="en">Sealab</title></programme>
-<programme start="20240822073000 +0000" stop="20240822080000 +0000" channel="CNClassic.us"><title lang="en">Aqua Teen Hunger Force</title></programme> 
-<programme start="20240822080000 +0000" stop="20240822083000 +0000" channel="CNClassic.us"><title lang="en">Robot Chicken</title></programme>
-<programme start="20240822083000 +0000" stop="20240822090000 +0000" channel="CNClassic.us"><title lang="en">Metalocalypse</title></programme>  
-<programme start="20240822090000 +0000" stop="20240822093000 +0000" channel="CNClassic.us"><title lang="en">Dream Corp</title></programme>
-<programme start="20240822093000 +0000" stop="20240822100000 +0000" channel="CNClassic.us"><title lang="en">Captain Planet</title></programme> 
+<programme start="20240904100000 +0000" stop="20240904103000 +0000" channel="CNClassic.us"><title lang="en">Beyblade</title></programme>
+<programme start="20240904103000 +0000" stop="20240904110000 +0000" channel="CNClassic.us"><title lang="en">Robotboy</title></programme>  
+<programme start="20240904110000 +0000" stop="20240904113000 +0000" channel="CNClassic.us"><title lang="en">Hero</title></programme>
+<programme start="20240904113000 +0000" stop="20240904120000 +0000" channel="CNClassic.us"><title lang="en">Ben 10</title></programme> 
+<programme start="20240904120000 +0000" stop="20240904123000 +0000" channel="CNClassic.us"><title lang="en">My Gym Partner's a Money</title></programme>
+<programme start="20240904123000 +0000" stop="20240904130000 +0000" channel="CNClassic.us"><title lang="en">Bakugan</title></programme>  
+<programme start="20240904130000 +0000" stop="20240904133000 +0000" channel="CNClassic.us"><title lang="en">Static Shock</title></programme>
+<programme start="20240904133000 +0000" stop="20240904140000 +0000" channel="CNClassic.us"><title lang="en">Young Justice</title></programme> 
+<programme start="20240904140000 +0000" stop="20240904143000 +0000" channel="CNClassic.us"><title lang="en">The Powerpuff Girls</title></programme>
+<programme start="20240904143000 +0000" stop="20240904150000 +0000" channel="CNClassic.us"><title lang="en">The Grim Adventures of Billy and Mandy</title></programme>  
+<programme start="20240904150000 +0000" stop="20240904153000 +0000" channel="CNClassic.us"><title lang="en">Transformers</title></programme>
+<programme start="20240904153000 +0000" stop="20240904160000 +0000" channel="CNClassic.us"><title lang="en">Jackie Chan Adventures</title></programme> 
+<programme start="20240904160000 +0000" stop="20240904163000 +0000" channel="CNClassic.us"><title lang="en">Time Squade</title></programme>
+<programme start="20240904163000 +0000" stop="20240904170000 +0000" channel="CNClassic.us"><title lang="en">Sym-Bionic Titan</title></programme>  
+<programme start="20240904170000 +0000" stop="20240904173000 +0000" channel="CNClassic.us"><title lang="en">Chowder</title></programme>
+<programme start="20240904173000 +0000" stop="20240904180000 +0000" channel="CNClassic.us"><title lang="en">Codename: Kids Next Door</title></programme> 
+<programme start="20240904180000 +0000" stop="20240904183000 +0000" channel="CNClassic.us"><title lang="en">Megas XLR</title></programme>
+<programme start="20240904183000 +0000" stop="20240904190000 +0000" channel="CNClassic.us"><title lang="en">The Grim Adventures of Billy and Mandy</title></programme>  
+<programme start="20240904190000 +0000" stop="20240904193000 +0000" channel="CNClassic.us"><title lang="en">Ozzy and Drix</title></programme>
+<programme start="20240904193000 +0000" stop="20240904200000 +0000" channel="CNClassic.us"><title lang="en">Cow and Chicken</title></programme> 
+<programme start="20240904200000 +0000" stop="20240904203000 +0000" channel="CNClassic.us"><title lang="en">Winx Club</title></programme>
+<programme start="20240904203000 +0000" stop="20240904210000 +0000" channel="CNClassic.us"><title lang="en">Totally Spies!</title></programme>  
+<programme start="20240904210000 +0000" stop="20240904213000 +0000" channel="CNClassic.us"><title lang="en">Yu-Gi-Oh!</title></programme>
+<programme start="20240904213000 +0000" stop="20240904220000 +0000" channel="CNClassic.us"><title lang="en">Mucha Lucha</title></programme> 
+<programme start="20240904220000 +0000" stop="20240904223000 +0000" channel="CNClassic.us"><title lang="en">Code Lyoko</title></programme>
+<programme start="20240904223000 +0000" stop="20240904230000 +0000" channel="CNClassic.us"><title lang="en">Pokemon</title></programme>  
+<programme start="20240904230000 +0000" stop="20240904233000 +0000" channel="CNClassic.us"><title lang="en">Foster's Home for Imaginary Friends</title></programme>
+<programme start="20240904233000 +0000" stop="20240905000000 +0000" channel="CNClassic.us"><title lang="en">Ed, Edd and Eddy</title></programme> 
+<programme start="20240905000000 +0000" stop="20240905003000 +0000" channel="CNClassic.us"><title lang="en">King of the Hill</title></programme> 
+<programme start="20240905003000 +0000" stop="20240905010000 +0000" channel="CNClassic.us"><title lang="en">The Venture Bros.</title></programme> 
+<programme start="20240905010000 +0000" stop="20240905013000 +0000" channel="CNClassic.us"><title lang="en">The Boondocks</title></programme> 
+<programme start="20240905013000 +0000" stop="20240905020000 +0000" channel="CNClassic.us"><title lang="en">Rick and Morty</title></programme> 
+<programme start="20240905020000 +0000" stop="20240905023000 +0000" channel="CNClassic.us"><title lang="en">South Park</title></programme> 
+<programme start="20240905023000 +0000" stop="20240905030000 +0000" channel="CNClassic.us"><title lang="en">Futurama</title></programme> 
+<programme start="20240905030000 +0000" stop="20240905033000 +0000" channel="CNClassic.us"><title lang="en">American Dad</title></programme> 
+<programme start="20240905033000 +0000" stop="20240905040000 +0000" channel="CNClassic.us"><title lang="en">Harvy Birdman, Attorney At Law</title></programme> 
+<programme start="20240905040000 +0000" stop="20240905043000 +0000" channel="CNClassic.us"><title lang="en">Assy McGree</title></programme>
+<programme start="20240905043000 +0000" stop="20240905050000 +0000" channel="CNClassic.us"><title lang="en">Moral Orel</title></programme>  
+<programme start="20240905050000 +0000" stop="20240905053000 +0000" channel="CNClassic.us"><title lang="en">Cartoon Planet</title></programme>
+<programme start="20240905053000 +0000" stop="20240905060000 +0000" channel="CNClassic.us"><title lang="en">SuperJail!</title></programme> 
+<programme start="20240905060000 +0000" stop="20240905063000 +0000" channel="CNClassic.us"><title lang="en">Squidbillies</title></programme>
+<programme start="20240905063000 +0000" stop="20240905070000 +0000" channel="CNClassic.us"><title lang="en">The Brak Show</title></programme>  
+<programme start="20240905070000 +0000" stop="20240905073000 +0000" channel="CNClassic.us"><title lang="en">Sealab</title></programme>
+<programme start="20240905073000 +0000" stop="20240905080000 +0000" channel="CNClassic.us"><title lang="en">Aqua Teen Hunger Force</title></programme> 
+<programme start="20240905080000 +0000" stop="20240905083000 +0000" channel="CNClassic.us"><title lang="en">Robot Chicken</title></programme>
+<programme start="20240905083000 +0000" stop="20240905090000 +0000" channel="CNClassic.us"><title lang="en">Metalocalypse</title></programme>  
+<programme start="20240905090000 +0000" stop="20240905093000 +0000" channel="CNClassic.us"><title lang="en">Dream Corp</title></programme>
+<programme start="20240905093000 +0000" stop="20240905100000 +0000" channel="CNClassic.us"><title lang="en">Captain Planet</title></programme> 
   
     
 </tv>
