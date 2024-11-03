@@ -277,140 +277,250 @@ http://supersonictv.live:8080/VDuncan23/2103799937/80238
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
 
 
-#####Fantasy#####
-#EXTINF:0 group-title="Fantasy",American Horror Story
+#####Fantasy & Horror#####
+#EXTINF:0 group-title="Fantasy & Horror",American Horror Story
 http://mains.services/live/pmf0423/1aku0jt%40/05dcd8c7-f557-44e5-9e88-dbbabdee534b.m3u
 
-#EXTINF:0 group-title="Fantasy",Are You Afraid Of The Dark
+#EXTINF:0 group-title="Fantasy & Horror",Are You Afraid Of The Dark
 http://mains.services/live/pmf0423/1aku0jt%40/84bd57db-9e39-482f-bcb1-741a875e00ca.m3u
 
-#EXTINF:0 group-title="Fantasy",Charmed
+#EXTINF:0 group-title="Fantasy & Horror",Charmed
 http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/60187.ts
 
-#EXTINF:0 group-title="Fantasy",Goosebumps
+#EXTINF:0 group-title="Fantasy & Horror",Goosebumps
 http://ufospeeds.com:2095/live/3875147095/3458182665/4087.ts
 
-#EXTINF:0 group-title="Fantasy",Lucifer
+#EXTINF:0 group-title="Fantasy & Horror",Lucifer
 http://194.49.94.11:80/live/play/WVhCalRqVlZTRUZLZWpCMVZYSk1SaXN3YUVsc05uWlFVamREYlhsSFEwMXVaRUpYYTNCU1ZrTm9VVDA9/2247905
 
-#EXTINF:0 group-title="Fantasy",Scream
+#EXTINF:0 group-title="Fantasy & Horror",Scream
 http://mains.services/live/pmf0423/1aku0jt%40/269b65e0-a598-4847-88cf-1d79c15bab59.m3u
 
-#EXTINF:0 group-title="Fantasy",Star Trek: Deep Space Nine
+#EXTINF:0 group-title="Fantasy & Horror",Star Trek: Deep Space Nine
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69bbfd77d450008c7ffee/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6e3a3277-9d15-4813-a57c-5547e9d53d6e
 
-#EXTINF:0 group-title="Fantasy",Star Trek: The Next Generation
+#EXTINF:0 group-title="Fantasy & Horror",Star Trek: The Next Generation
 https://jmp2.uk/plu-66601d838ce3110008a9d7bf-alt.m3u8
 
-#EXTINF:0 group-title="Fantasy",Star Trek: The Original Series
+#EXTINF:0 group-title="Fantasy & Horror",Star Trek: The Original Series
 https://jmp2.uk/plu-66601e338ea5560008f7820e-alt.m3u8
 
-#EXTINF:0 group-title="Fantasy",Star Trek: Voyager
+#EXTINF:0 group-title="Fantasy & Horror",Star Trek: Voyager
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a4-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=234402c1-3013-44bc-8b1d-c32ced363ff7
 
-#EXTINF:0 group-title="Fantasy",Supernatural
+#EXTINF:0 group-title="Fantasy & Horror",Supernatural
 http://mains.services/live/pmf0423/1aku0jt%40/121a0cbc-ae64-4166-9090-dc6290fabfaa.m3u
 
-#EXTINF:0 group-title="Fantasy",Xena Warrior Princess
+#EXTINF:0 group-title="Fantasy & Horror",Xena Warrior Princess
 http://mains.services/live/pmf0423/1aku0jt%40/28c30e9f-67da-438a-b69d-24b709f97115.m3u
 
-#EXTINF:0 group-title="Fantasy",24/7 Hercules: The Legendary Journeys
+#EXTINF:0 group-title="Fantasy & Horror",Hercules: The Legendary Journeys
 http://supersonictv.live:8080/VDuncan23/2103799937/80038
 
-
-#EXTINF:0 group-title="Fantasy",24/7 666 Park Avenue
+#EXTINF:0 group-title="Fantasy & Horror",666 Park Avenue
 http://supersonictv.live:8080/VDuncan23/2103799937/79093
 
+#EXTINF:0 group-title="Fantasy & Horror",American Gods
+http://mains.services/live/pmf0423/1aku0jt%40/af48a3c7-8327-4b91-9bf4-3f65da61998a.m3u
 
-#EXTINF:0 group-title="Fantasy",24/7 American Gods
-http://supersonictv.live:8080/VDuncan23/2103799937/79127
+#EXTINF:0 group-title="Fantasy & Horror",Angel
+http://mains.services/live/pmf0423/1aku0jt%40/8d583bce-1921-4645-bcfb-e1837e39e07f.m3u
 
-#EXTINF:0 group-title="Fantasy",24/7 Angel
-http://supersonictv.live:8080/VDuncan23/2103799937/79144
-
-#EXTINF:0 group-title="Fantasy",24/7 Atlantis
+#EXTINF:0 group-title="Fantasy & Horror",Atlantis
 http://supersonictv.live:8080/VDuncan23/2103799937/79204
 
-#EXTINF:0 group-title="Fantasy",24/7 American Ripper
+#EXTINF:0 group-title="Fantasy & Horror",American Ripper
 http://supersonictv.live:8080/VDuncan23/2103799937/79218
 
-#EXTINF:0 group-title="Fantasy",24/7 Andromeda
+#EXTINF:0 group-title="Fantasy & Horror",Andromeda
 http://supersonictv.live:8080/VDuncan23/2103799937/79221
 
-#EXTINF:0 group-title="Fantasy",24/7 Battlestar Galactica
-http://supersonictv.live:8080/VDuncan23/2103799937/79247
+#EXTINF:0 group-title="Fantasy & Horror",Battlestar Galactica
+http://mains.services/live/pmf0423/1aku0jt%40/3d17c2de-1ee7-42f4-9169-3bb94d217547.m3u
 
-#EXTINF:0 group-title="Fantasy",24/7 Bitten
+#EXTINF:0 group-title="Fantasy & Horror",Bitten
 http://supersonictv.live:8080/VDuncan23/2103799937/79265
 
-#EXTINF:0 group-title="Fantasy",24/7 Babylon
+#EXTINF:0 group-title="Fantasy & Horror",Babylon
 http://supersonictv.live:8080/VDuncan23/2103799937/79300
 
-#EXTINF:0 group-title="Fantasy",24/7 Babylon 5
-http://supersonictv.live:8080/VDuncan23/2103799937/79301
+#EXTINF:0 group-title="Fantasy & Horror",Babylon 5
+http://mains.services/live/pmf0423/1aku0jt%40/6a4d0406-f87d-467f-b935-e37159f2c942.m3u
 
-#EXTINF:0 group-title="Fantasy",24/7 Black Mirror
-http://supersonictv.live:8080/VDuncan23/2103799937/79345
+#EXTINF:0 group-title="Fantasy & Horror",Black Mirror
+http://mains.services/live/pmf0423/1aku0jt%40/97c501a1-99a1-47b0-aea4-cfafbd17048e.m3u
 
-#EXTINF:0 group-title="Fantasy",24/7 Blood+
+#EXTINF:0 group-title="Fantasy & Horror",Blood+
 http://supersonictv.live:8080/VDuncan23/2103799937/79352
 
-#EXTINF:0 group-title="Fantasy",24/7 Buffy the Vampire Slayer
-http://supersonictv.live:8080/VDuncan23/2103799937/79384
+#EXTINF:0 group-title="Fantasy & Horror",Buffy the Vampire Slayer
+http://mains.services/live/pmf0423/1aku0jt%40/373b2ca8-06cb-462e-ba5b-6252305625c8.m3u
 
-#EXTINF:0 group-title="Fantasy",24/7 Carnival Row
+#EXTINF:0 group-title="Fantasy & Horror",Carnival Row
 http://supersonictv.live:8080/VDuncan23/2103799937/79395
 
-#EXTINF:0 group-title="Fantasy",24/7 Castle Rock
+#EXTINF:0 group-title="Fantasy & Horror",Castle Rock
 http://supersonictv.live:8080/VDuncan23/2103799937/79398
 
-#EXTINF:0 group-title="Fantasy",24/7 Castlevania
+#EXTINF:0 group-title="Fantasy & Horror",Castlevania
 http://supersonictv.live:8080/VDuncan23/2103799937/79399
 
-#EXTINF:0 group-title="Fantasy",24/7 Charmed
+#EXTINF:0 group-title="Fantasy & Horror",Charmed
 http://supersonictv.live:8080/VDuncan23/2103799937/79413
 
-#EXTINF:0 group-title="Fantasy",24/7 Code Black
+#EXTINF:0 group-title="Fantasy & Horror",Code Black
 http://supersonictv.live:8080/VDuncan23/2103799937/79498
 
-#EXTINF:0 group-title="Fantasy",24/7 Cursed
+#EXTINF:0 group-title="Fantasy & Horror",Cursed
 http://supersonictv.live:8080/VDuncan23/2103799937/79518
 
-#EXTINF:0 group-title="Fantasy",24/7 Chiller
+#EXTINF:0 group-title="Fantasy & Horror",Chiller
 http://supersonictv.live:8080/VDuncan23/2103799937/79523
 
-#EXTINF:0 group-title="Fantasy",24/7 Slasher
+#EXTINF:0 group-title="Fantasy & Horror",Slasher
 http://supersonictv.live:8080/VDuncan23/2103799937/80998
 
-#EXTINF:0 group-title="Fantasy",24/7 Dark
+#EXTINF:0 group-title="Fantasy & Horror",Dark
 http://supersonictv.live:8080/VDuncan23/2103799937/79536
 
-#EXTINF:0 group-title="Fantasy",24/7 Dark Angel
+#EXTINF:0 group-title="Fantasy & Horror",Dark Angel
 http://supersonictv.live:8080/VDuncan23/2103799937/79537
 
-#EXTINF:0 group-title="Fantasy",24/7 Dead Like Me
-http://supersonictv.live:8080/VDuncan23/2103799937/79542
+#EXTINF:0 group-title="Fantasy & Horror",Dead Like Me
+http://mains.services/live/pmf0423/1aku0jt%40/3b69d05b-6fa6-480e-b028-a2e87efc891b.m3u
 
-#EXTINF:0 group-title="Fantasy",24/7 Dracula
+#EXTINF:0 group-title="Fantasy & Horror",Dracula
 http://supersonictv.live:8080/VDuncan23/2103799937/79679
 
-#EXTINF:0 group-title="Fantasy",24/7 Evil Lives Here
+#EXTINF:0 group-title="Fantasy & Horror",Evil Lives Here
 http://supersonictv.live:8080/VDuncan23/2103799937/79714
 
-#EXTINF:0 group-title="Fantasy",24/7 Freddys Nightmare
+#EXTINF:0 group-title="Fantasy & Horror",Freddys Nightmare
 http://supersonictv.live:8080/VDuncan23/2103799937/79758
 
-#EXTINF:0 group-title="Fantasy",24/7 Freakish
+#EXTINF:0 group-title="Fantasy & Horror",Freakish
 http://supersonictv.live:8080/VDuncan23/2103799937/79775
 
-#EXTINF:0 group-title="Fantasy",24/7 Fear the Walking Dead
+#EXTINF:0 group-title="Fantasy & Horror",Fear the Walking Dead
 http://supersonictv.live:8080/VDuncan23/2103799937/79803
 
-#EXTINF:0 group-title="Fantasy",24/7 Firefly
-http://supersonictv.live:8080/VDuncan23/2103799937/79811
+#EXTINF:0 group-title="Fantasy & Horror",Firefly
+http://mains.services/live/pmf0423/1aku0jt%40/efeae6f3-44fb-4de0-93e7-eb085f5e8166.m3u
 
-#EXTINF:0 group-title="Fantasy",24/7 Future Man
+#EXTINF:0 group-title="Fantasy & Horror",Future Man
 http://supersonictv.live:8080/VDuncan23/2103799937/79847
 
-#EXTINF:0 group-title="Fantasy",24/7 Ghost Whisperer
+#EXTINF:0 group-title="Fantasy & Horror",Ghost Whisperer
 http://supersonictv.live:8080/VDuncan23/2103799937/79920
+
+#EXTINF:0 group-title="Fantasy & Horror",Dexter
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/cd462e90-1d56-427a-992d-52da8dabf7a6.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Doctor Who
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/9e110c41-e0fc-4477-af6e-9567b85d3951.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Doctor Who (1963)
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/1e609077-4c23-406e-8a25-e4109e421ba6.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Doom Patrol
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/1364d2b4-22c1-4e3a-b563-315a7b8de74f.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Dune
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/b4cf8446-1dcd-4f55-842f-a82aed8a0696.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Falling Skies
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/0efa85c3-963c-451e-b1ec-7babbe6093cb.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Farscape
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/344315e5-e130-4590-9eef-54b5eab21013.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Friday the 13th
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/4d3d76ab-fd6f-4fef-8b37-526c64faa6cf.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Fringe
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/6e2eb8e4-5cf3-4b83-8a3e-a1fa4e102bf4.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",From Dusk Till Dawn The Series
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/67680fa5-c34d-45c6-a4ad-49c725d5a328.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Ghost Adventures
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/62dc465d-d2dd-4681-8aed-fb98cf80dc57.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Hammer House of Horror (1980)
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/95b5012f-7bb3-487b-87a4-718586ea205d.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Hannibal
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/7b31b28c-ac11-4d39-9045-82c551909ddf.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Bates Motel
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/fe3ba9a9-0c2a-4eb9-9193-a38551ed80cf.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",IZombie
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/858bd076-1aa6-404a-98b2-b5f7e8ffb59b.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Legion
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/b1794e76-83ae-44dc-8b2c-0c6630e0366f.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Lost
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/8aa8fdab-e001-4873-935a-6ffe5d4624ef.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Medium
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/fc1a09bf-1774-42d9-9748-8cc69006f5ca.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Merlin
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/9e6b4ac4-0f3e-4bb3-813e-c9f9e6f8a4ff.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Metalocalypse
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/cffc885a-fb96-4343-a61f-6d53e40811f1.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Once Upon A Time
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/6d47c40d-86ff-4b68-a4b0-9bc8e892385e.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Red Dwarf
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/4c33f0f2-e326-47c2-ba67-5332d50276c1.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Revolution
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/7d1ecd53-5e8a-423e-a4b3-076640ce2fcc.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Six Feet Under
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/d78c3927-2be0-4609-aa95-ea69285ea6d7.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Sleepy Hollow
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/7bd808b0-f1fc-4aa6-96b9-a725050e02ae.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Sliders
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/6b1dac2b-bc04-487a-8f85-2289e5a305c7.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Smallville
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/c6a217b4-5f3f-4be1-b2a1-b7165e703e0f.m3u
+
+#EXTINF:0 group-title="Fantasy & Horror",Tales From The Crypt
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/3a0537fa-080a-4f5f-b2a6-6007a30163a0.m3u
