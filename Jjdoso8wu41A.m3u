@@ -535,3 +535,27 @@ http://mains.services/live/pmf0423/1aku0jt%40/3ab6bfa6-507d-42f9-b5f1-882204fe75
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/9612cd63-6d75-4af1-a3bd-ddfac82cdef0.m3u
 
+#EXTINF:0 group-title="Comedy",Brooklyn Nine-Nine
+#EXTVLCOPT:network-caching=1000
+https://stream-cdn-iad.vaughnsoft.net/play/live_brkln99.flv
+#EXTINF:0 group-title="Comedy",Modern Family
+EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/437b9d21-e665-4e1b-ba71-9279e2a7f747.m3u
+#EXTINF:0 group-title="Comedy",All in The Family
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/2866dd2e-c7b0-438b-adbd-b3e6acb09647.m3u
+#EXTINF:0 group-title="Comedy",Always Sunny in Philly
+#EXTVLCOPT:network-caching=1000
+https://stream-cdn-iad.vaughnsoft.net/play/live_asip.flv
+#EXTINF:0 group-title="Comedy",Friends
+#EXTVLCOPT:network-caching=1000
+http://194.49.94.11:80/live/play/WVhCalRqVlZTRUZLZWpCMVZYSk1SaXN3YUVsc05uWlFVamREYlhsSFEwMXVaRUpYYTNCU1ZrTm9VVDA9/2247811
+#EXTINF:0 group-title="Comedy",Community
+EXTVLCOPT:network-caching=1000
+https://stream-cdn-iad.vaughnsoft.net/play/live_castlehawkthorne.flv
+#EXTINF:0 group-title="Comedy",Full House
+#EXTVLCOPT:network-caching=1000
+http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/60132.ts
+#EXTINF:0 group-title="Comedy",Family Matters
+#EXTVLCOPT:network-caching=1000
+http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/60143.ts
