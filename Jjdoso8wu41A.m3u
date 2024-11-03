@@ -555,7 +555,44 @@ EXTVLCOPT:network-caching=1000
 https://stream-cdn-iad.vaughnsoft.net/play/live_castlehawkthorne.flv
 #EXTINF:0 group-title="Comedy",Full House
 #EXTVLCOPT:network-caching=1000
-http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/60132.ts
+http://saypopular.com:25461/live/2796zo301/301zo2706/274008.ts
+#EXTINF:0 group-title="Comedy",Sanford & Son
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/363551.ts
+#EXTINF:0 group-title="Comedy",Chapplle Show
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/363550.ts
+#EXTINF:0 group-title="Comedy",Sister Sister
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/363671.ts
 #EXTINF:0 group-title="Comedy",Family Matters
 #EXTVLCOPT:network-caching=1000
-http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/60143.ts
+http://saypopular.com:25461/live/2796zo301/301zo2706/363726.ts
+
+#EXTINF:0 group-title="Comedy",American Pie
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/273820.ts
+
+#EXTINF:0 group-title="Comedy",Arrested Development
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/273823.ts
+
+#EXTINF:0 group-title="Comedy",Atlanta
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/273826.ts
+
+#EXTINF:0 group-title="Comedy",Big Mouth
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/273858.ts
+
+#EXTINF:0 group-title="Comedy",Boston Legal
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/273877.ts
+
+#EXTINF:0 group-title="Comedy",Coach
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/273913.ts
+
+#EXTINF:0 group-title="Comedy",Beverly Hillbillies
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6565fefdc917a50008485cc6-alt.m3u8
