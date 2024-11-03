@@ -498,4 +498,40 @@ http://mains.services/live/pmf0423/1aku0jt%40/a342c1fe-8198-4b31-b15b-d96375e268
 #EXTINF:0 group-title="Fantasy & Horror",The Twilight Zone (2019)
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/2257ec98-65ad-4dbd-b736-bcb5641f35ca.m3u
+#EXTINF:0 group-title="Fantasy & Horror",The Passage
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/70647ed0-9d3a-41b9-a9f9-fa84e5385774.m3u
+#EXTINF:0 group-title="Fantasy & Horror",The Orville
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/7b44afa4-6325-4185-b738-a8d1a5942c72.m3u
+#EXTINF:0 group-title="Fantasy & Horror",The Outer Limits (1963)
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/9a278b0f-cc1c-4431-9bd6-80465b13365f.m3u
+#EXTINF:0 group-title="Fantasy & Horror",The Haunting of Bly Manor
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/def8086a-b9cc-47da-acf0-4101fb57360c.m3u
+#EXTINF:0 group-title="Fantasy & Horror",The Dark Crystal Age Of Resistance
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/d6733b43-f9b3-4190-875f-5a16cc376a94.m3u
+#EXTINF:0 group-title="Fantasy & Horror",The 100
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/ca46ba5a-2693-45a2-9ac4-d85f0f5a86ae.m3u
+#EXTINF:0 group-title="Fantasy & Horror",Terminator The Sarah Connor Chronicles
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/7849ca9f-8acf-42e4-9eab-83b354f68cae.m3u
+#EXTINF:0 group-title="Fantasy & Horror",Stranger Things
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/67b12bec-d4ad-454a-9d1b-3e26e0e9764b.m3u
+#EXTINF:0 group-title="Fantasy & Horror",Stargate Atlantis
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/d39fdfa2-e4db-4dad-8de8-f5aa022b06d3.m3u
+#EXTINF:0 group-title="Fantasy & Horror",Stargate SG-1
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/51fd9463-7d1f-4bce-b127-6c51e032dda4.m3u
+#EXTINF:0 group-title="Fantasy & Horror",Stargate Universe
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/3ab6bfa6-507d-42f9-b5f1-882204fe7541.m3u
+#EXTINF:0 group-title="Fantasy & Horror",Star Wars Rebels
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/9612cd63-6d75-4af1-a3bd-ddfac82cdef0.m3u
 
