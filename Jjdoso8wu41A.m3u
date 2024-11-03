@@ -260,5 +260,17 @@ https://jmp2.uk/plu-63d8ed19a9957100086f4d33-alt.m3u8
 https://jmp2.uk/plu-5c363ac9e41be30cb6054c7c-alt.m3u8
 #EXTINF:0 group-title="Animated",Inspector Gadget
 https://jmp2.uk/plu-5d765786aad587cf4d0e2bf6-alt.m3u8
-#EXTINF:0,Sonic The Hedgehog
+#EXTINF:0 group-title="Animated",Sonic The Hedgehog
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60.m3u8
+#EXTINF:0 group-title="Animated",Batman Beyond
+http://supersonictv.live:8080/VDuncan23/2103799937/79322
+#EXTINF:0 group-title="Animated",Doug
+http://supersonictv.live:8080/VDuncan23/2103799937/79562
+#EXTINF:0 group-title="Animated",Drawn Together
+http://supersonictv.live:8080/VDuncan23/2103799937/79615
+#EXTINF:0 group-title="Animated",Goblin Slayer
+http://supersonictv.live:8080/VDuncan23/2103799937/79927
+#EXTINF:0 group-title="Animated",Goof Troop
+http://supersonictv.live:8080/VDuncan23/2103799937/79932
+#EXTINF:0 group-title="Animated",Gravity Falls
+http://supersonictv.live:8080/VDuncan23/2103799937/79936
