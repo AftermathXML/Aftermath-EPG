@@ -225,3 +225,9 @@ http://supersonictv.live:8080/VDuncan23/2103799937/79028
 #EXTINF:0 group-title="Animated",The Powerpuff Girls
 #EXTVLCOPT:network-caching=1000
 http://supersonictv.live:8080/VDuncan23/2103799937/79032
+#EXTINF:0 group-title="Animated",The Simpsons
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/VDuncan23/2103799937/77166
+#EXTINF:0 group-title="Animated",Ultimate Spider-Man
+#EXTVLCOPT:network-caching=1000
+http://supersonictv.live:8080/VDuncan23/2103799937/81747
