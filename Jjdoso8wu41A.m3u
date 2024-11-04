@@ -222,9 +222,9 @@ http://supersonictv.live:8080/VDuncan23/2103799937/79032
 #EXTINF:0 group-title="Animated",The Simpsons
 #EXTVLCOPT:network-caching=1000
 http://supersonictv.live:8080/VDuncan23/2103799937/77166
-#EXTINF:0 group-title="Animated",Ultimate Spider-Man
+#EXTINF:0 group-title="Animated",Super Mario Brothers
 #EXTVLCOPT:network-caching=1000
-http://supersonictv.live:8080/VDuncan23/2103799937/81747
+https://jmp2.uk/rok-a3c405bfca9b525983054aa761b10dfb.m3u8
 #EXTINF:0 group-title="Animated",Paw Patrol
 https://jmp2.uk/plu-62ea3ec626dc1900078e9f26-alt.m3u8
 #EXTINF:0 group-title="Animated",Dora TV
@@ -645,3 +645,48 @@ http://saypopular.com:25461/live/2796zo301/301zo2706/274277.ts
 #EXTINF:0 group-title="Comedy",Whose Line Is It Anyway USA
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/24b4db1b-8b38-4804-ad8c-42766704fd90.m3u
+
+#EXTINF:0 group-title="Comedy",Anger Management
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65cf8bdaa25d5e00081e1e5d-alt.m3u8
+
+#EXTINF:0 group-title="Comedy",Anger Management
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-65cf8bdaa25d5e00081e1e5d-alt.m3u8
+
+#EXTINF:0 group-title="Comedy",Cheers
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d-alt.m3u8
+
+#EXTINF:0 group-title="Comedy",Frasier
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62f4f90e39183b000769f12b-alt.m3u8
+
+#EXTINF:0 group-title="Comedy",Happy Days
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e917b5e354cf0007b97a67-alt.m3u8
+
+#EXTINF:0 group-title="Comedy",King of Queens
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62f4f414c2ba130007f8b24e-alt.m3u8
+
+#EXTINF:0 group-title="Comedy",Mister Rogers' Neighborhood
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-6686603ff01dbe0008d636cd-alt.m3u8
+
+#EXTINF:0 group-title="Comedy",The Red Green Channel
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-63565a6de3d057000783bb1c-alt.m3u8
+
+#EXTINF:0 group-title="Comedy",The Ed Sullivan Show
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e91da1f07afa0007ffccfc-alt.m3u8
+
+#EXTINF:0 group-title="Comedy",The Love Boat
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-62e91563ce7ce300076f917e-alt.m3u8
+
+#EXTINF:0 group-title="Comedy",Three's Company
+#EXTVLCOPT:network-caching=1000
+https://jmp2.uk/plu-64ca723a2bc49300081a8966-alt.m3u8
+
