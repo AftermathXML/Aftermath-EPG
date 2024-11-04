@@ -568,31 +568,80 @@ http://saypopular.com:25461/live/2796zo301/301zo2706/363671.ts
 #EXTINF:0 group-title="Comedy",Family Matters
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/363726.ts
-
 #EXTINF:0 group-title="Comedy",American Pie
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/273820.ts
-
 #EXTINF:0 group-title="Comedy",Arrested Development
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/273823.ts
-
 #EXTINF:0 group-title="Comedy",Atlanta
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/273826.ts
-
 #EXTINF:0 group-title="Comedy",Big Mouth
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/273858.ts
-
 #EXTINF:0 group-title="Comedy",Boston Legal
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/273877.ts
-
 #EXTINF:0 group-title="Comedy",Coach
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/273913.ts
-
 #EXTINF:0 group-title="Comedy",Beverly Hillbillies
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-6565fefdc917a50008485cc6-alt.m3u8
+
+#EXTINF:0 group-title="Comedy",Giliigan's Island
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/274021.ts
+
+#EXTINF:0 group-title="Comedy",Grown-ish
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/274035.ts
+
+#EXTINF:0 group-title="Comedy",I Dream of Jeannie
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/274058.ts
+
+#EXTINF:0 group-title="Comedy",I Love Lucy
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/274059.ts
+
+#EXTINF:0 group-title="Comedy",I Carly
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/274060.ts
+
+#EXTINF:0 group-title="Comedy",In Living Color
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/274061.ts
+
+#EXTINF:0 group-title="Comedy",Mom
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/e0f11bfb-6de8-4cb4-ab66-af90de909f59.m3u
+
+#EXTINF:0 group-title="Comedy",My Name is Earl
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/274177.ts
+
+#EXTINF:0 group-title="Comedy",National Lampoons
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/274187.ts
+
+#EXTINF:0 group-title="Comedy",Reno 911
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/274253.ts
+
+#EXTINF:0 group-title="Comedy",Roseanne
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/274265.ts
+
+#EXTINF:0 group-title="Comedy",Sabrina the Teenage Witch
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/274269.ts
+
+#EXTINF:0 group-title="Comedy",Scary Movies
+#EXTVLCOPT:network-caching=1000
+http://saypopular.com:25461/live/2796zo301/301zo2706/274277.ts
+
+#EXTINF:0 group-title="Comedy" Whose Line Is It Anyway USA
+#EXTVLCOPT:network-caching=1000
+http://mains.services/live/pmf0423/1aku0jt%40/24b4db1b-8b38-4804-ad8c-42766704fd90.m3u
