@@ -642,6 +642,6 @@ http://saypopular.com:25461/live/2796zo301/301zo2706/274269.ts
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/274277.ts
 
-#EXTINF:0 group-title="Comedy" Whose Line Is It Anyway USA
+#EXTINF:0 group-title="Comedy",Whose Line Is It Anyway USA
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/24b4db1b-8b38-4804-ad8c-42766704fd90.m3u
