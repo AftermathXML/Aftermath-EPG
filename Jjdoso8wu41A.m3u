@@ -650,10 +650,6 @@ http://mains.services/live/pmf0423/1aku0jt%40/24b4db1b-8b38-4804-ad8c-42766704fd
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-65cf8bdaa25d5e00081e1e5d-alt.m3u8
 
-#EXTINF:0 group-title="Comedy",Anger Management
-#EXTVLCOPT:network-caching=1000
-https://jmp2.uk/plu-65cf8bdaa25d5e00081e1e5d-alt.m3u8
-
 #EXTINF:0 group-title="Comedy",Cheers
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d-alt.m3u8
