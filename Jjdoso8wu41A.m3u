@@ -16,7 +16,6 @@ http://yesimes.oknirvana.club:8880/live/D12m2846/23828775/60222.ts
 http://supersonictv.live:8080/VDuncan23/2103799937/79244
 #EXTINF:0 group-title="Animated",Batman
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/273842.ts
 #EXTINF:0 group-title="Animated",Biker Mice from Mars
 #EXTVLCOPT:network-caching=1000
@@ -276,7 +275,6 @@ http://supersonictv.live:8080/VDuncan23/2103799937/80238
 #EXTINF:0 group-title="Animated",Rick & Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream_de.m3u8
 
-
 #####Fantasy & Horror#####
 #EXTINF:0 group-title="Fantasy & Horror",American Horror Story
 http://mains.services/live/pmf0423/1aku0jt%40/05dcd8c7-f557-44e5-9e88-dbbabdee534b.m3u
@@ -535,6 +533,7 @@ http://mains.services/live/pmf0423/1aku0jt%40/3ab6bfa6-507d-42f9-b5f1-882204fe75
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/9612cd63-6d75-4af1-a3bd-ddfac82cdef0.m3u
 
+#####Comedy#####
 #EXTINF:0 group-title="Comedy",Brooklyn Nine-Nine
 #EXTVLCOPT:network-caching=1000
 https://stream-cdn-iad.vaughnsoft.net/play/live_brkln99.flv
@@ -589,107 +588,81 @@ http://saypopular.com:25461/live/2796zo301/301zo2706/273913.ts
 #EXTINF:0 group-title="Comedy",Beverly Hillbillies
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-6565fefdc917a50008485cc6-alt.m3u8
-
 #EXTINF:0 group-title="Comedy",Giliigan's Island
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/274021.ts
-
 #EXTINF:0 group-title="Comedy",Grown-ish
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/274035.ts
-
 #EXTINF:0 group-title="Comedy",I Dream of Jeannie
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/274058.ts
-
 #EXTINF:0 group-title="Comedy",I Love Lucy
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/274059.ts
-
 #EXTINF:0 group-title="Comedy",I Carly
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/274060.ts
-
 #EXTINF:0 group-title="Comedy",In Living Color
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/274061.ts
-
 #EXTINF:0 group-title="Comedy",Mom
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/e0f11bfb-6de8-4cb4-ab66-af90de909f59.m3u
-
 #EXTINF:0 group-title="Comedy",My Name is Earl
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/274177.ts
-
 #EXTINF:0 group-title="Comedy",National Lampoons
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/274187.ts
-
 #EXTINF:0 group-title="Comedy",Reno 911
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/274253.ts
-
 #EXTINF:0 group-title="Comedy",Roseanne
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/274265.ts
-
 #EXTINF:0 group-title="Comedy",Sabrina the Teenage Witch
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/274269.ts
-
 #EXTINF:0 group-title="Comedy",Scary Movies
 #EXTVLCOPT:network-caching=1000
 http://saypopular.com:25461/live/2796zo301/301zo2706/274277.ts
-
 #EXTINF:0 group-title="Comedy",Whose Line Is It Anyway USA
 #EXTVLCOPT:network-caching=1000
 http://mains.services/live/pmf0423/1aku0jt%40/24b4db1b-8b38-4804-ad8c-42766704fd90.m3u
-
 #EXTINF:0 group-title="Comedy",Anger Management
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-65cf8bdaa25d5e00081e1e5d-alt.m3u8
-
 #EXTINF:0 group-title="Comedy",Cheers
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d-alt.m3u8
-
 #EXTINF:0 group-title="Comedy",Frasier
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-62f4f90e39183b000769f12b-alt.m3u8
-
 #EXTINF:0 group-title="Comedy",Happy Days
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-62e917b5e354cf0007b97a67-alt.m3u8
-
 #EXTINF:0 group-title="Comedy",King of Queens
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-62f4f414c2ba130007f8b24e-alt.m3u8
-
 #EXTINF:0 group-title="Comedy",Mister Rogers' Neighborhood
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-6686603ff01dbe0008d636cd-alt.m3u8
-
 #EXTINF:0 group-title="Comedy",The Red Green Channel
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-63565a6de3d057000783bb1c-alt.m3u8
-
 #EXTINF:0 group-title="Comedy",The Ed Sullivan Show
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-62e91da1f07afa0007ffccfc-alt.m3u8
-
 #EXTINF:0 group-title="Comedy",The Love Boat
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-62e91563ce7ce300076f917e-alt.m3u8
-
 #EXTINF:0 group-title="Comedy",Three's Company
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-64ca723a2bc49300081a8966-alt.m3u8
-
 #EXTINF:0 group-title="Comedy",Angry Video Game Nerd
 #EXTVLCOPT:network-caching=1000
 https://stream-cdn-iad.vaughnsoft.net/play/live_avgnathon.flv
-
 #EXTINF:0 group-title="Comedy",Married with Children
 #EXTVLCOPT:network-caching=1000
 https://stream-cdn-iad.vaughnsoft.net/play/live_mwc.flv
