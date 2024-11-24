@@ -686,3 +686,10 @@ https://jmp2.uk/plu-62e91563ce7ce300076f917e-alt.m3u8
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-64ca723a2bc49300081a8966-alt.m3u8
 
+#EXTINF:0 group-title="Comedy",Angry Video Game Nerd
+#EXTVLCOPT:network-caching=1000
+https://stream-cdn-iad.vaughnsoft.net/play/live_avgnathon.flv
+
+#EXTINF:0 group-title="Comedy",Married with Children
+#EXTVLCOPT:network-caching=1000
+https://stream-cdn-iad.vaughnsoft.net/play/live_mwc.flv
