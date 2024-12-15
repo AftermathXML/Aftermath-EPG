@@ -1,7 +1,7 @@
 iamdasuk
 
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20241215">
-<channel id="CNClassic.us"><display-name>CNC</display-name><icon src="https://i.ibb.co/8DGQX1t/Swug.webp"/><url>https://vaughn.live/cnclassic</url></channel>
+<channel id="CNC.us"><display-name>CNC</display-name><icon src="https://i.ibb.co/8DGQX1t/Swug.webp"/><url>https://vaughn.live/cnclassic</url></channel>
 
 <programme start="20241215100000 +0000" stop="20241215103000 +0000" channel="CNClassic.us"><title lang="en">Samurai X</title></programme>
 <programme start="20241215103000 +0000" stop="20241215110000 +0000" channel="CNClassic.us"><title lang="en">MAR</title></programme>  
