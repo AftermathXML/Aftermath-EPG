@@ -1,193 +1,675 @@
-<?xml version="1.0" encoding="UTF-8" ?><tv date="20241214">
-<channel id="ToonamiAftermathEast.us"><display-name>Toonami Aftermath East</display-name><icon src="https://i.imgur.com/aSjhZK7.png"/><url>https://toonamiaftermath.com</url></channel>
-<programme start="20241214110000 +0000" stop="20241214111050 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Cloud City of Gold Part 1</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20241214111225 +0000" stop="20241214112309 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Cloud City of Gold Part 2</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20241214112434 +0000" stop="20241214113525 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Neptune&apos;s Nose Cone Part 1</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20241214113706 +0000" stop="20241214114755 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Neptune&apos;s Nose Cone Part 2</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20241214114936 +0000" stop="20241214120654 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Iron Man</title><sub-title lang="en">Crimson Dynamo!, The Crimson Dynamo Strikes, Captured</sub-title><icon src="https://i.imgur.com/ZkugjMx.gif"/></programme>
-<programme start="20241214120825 +0000" stop="20241214122610 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Hulk</title><sub-title lang="en">Micro Monsters, The Lair of the Leader, To Live Again</sub-title><icon src="https://i.imgur.com/4V4izFA.gif"/></programme>
-<programme start="20241214122752 +0000" stop="20241214123422 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Birdman</title><sub-title lang="en">Professor Nightshade</sub-title><icon src="https://i.imgur.com/cAylbtL.gif"/></programme>
-<programme start="20241214123612 +0000" stop="20241214124239 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Birdman</title><sub-title lang="en">The Chameleon</sub-title><icon src="https://i.imgur.com/cAylbtL.gif"/></programme>
-<programme start="20241214124515 +0000" stop="20241214125134 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Space Ghost</title><sub-title lang="en">The Robot Master</sub-title><icon src="https://i.imgur.com/TKjCB1Z.gif"/></programme>
-<programme start="20241214125340 +0000" stop="20241214130000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Space Ghost</title><sub-title lang="en">The Energy Monster</sub-title><icon src="https://i.imgur.com/TKjCB1Z.gif"/></programme>
-<programme start="20241214130000 +0000" stop="20241214132028 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Earthworm Jim</title><sub-title lang="en">For Whom the Jingle Bell Tolls</sub-title><icon src="https://i.imgur.com/sQB7OBu.gif"/></programme>
-<programme start="20241214132406 +0000" stop="20241214134507 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Static Shock</title><sub-title lang="en">Now You See Him...</sub-title><icon src="https://i.imgur.com/riIBi2T.gif"/></programme>
-<programme start="20241214134836 +0000" stop="20241214140957 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Animaniacs</title><sub-title lang="en">Windsor Hassle / ...And Justice for Slappy</sub-title><icon src="https://i.imgur.com/Iahwehb.gif"/></programme>
-<programme start="20241214141406 +0000" stop="20241214143439 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Tick</title><sub-title lang="en">The Tick vs. The Proto-Clown</sub-title><icon src="https://i.imgur.com/6LCtAKv.gif"/></programme>
-<programme start="20241214143830 +0000" stop="20241214150000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Freakazoid</title><sub-title lang="en">The Wrath of Guitierrez</sub-title><icon src="https://i.imgur.com/qaSxxx8.gif"/></programme>
-<programme start="20241214150045 +0000" stop="20241214152117 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Digimon</title><sub-title lang="en">The Birth of Greymon</sub-title><icon src="https://i.imgur.com/rM5a4vc.gif"/></programme>
-<programme start="20241214152523 +0000" stop="20241214154642 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Monster Rancher</title><sub-title lang="en">Our Friend Henger Forever</sub-title><icon src="https://i.imgur.com/8Q2xfrx.gif"/></programme>
-<programme start="20241214155100 +0000" stop="20241214160800 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Yu-Gi-Oh!</title><sub-title lang="en">Yugi vs. Pegasus: Match of the Millennium (Part 3)</sub-title><icon src="https://i.imgur.com/F5wIvS0.gif"/></programme>
-<programme start="20241214161259 +0000" stop="20241214163359 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Starship Troopers</title><sub-title lang="en">Of Flesh And Steel</sub-title><icon src="https://i.imgur.com/aRS8xZQ.gif"/></programme>
-<programme start="20241214163829 +0000" stop="20241214170000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Beast Machines</title><sub-title lang="en">Endgame, Part. I: The Downward Spiral</sub-title><icon src="https://i.imgur.com/9E7F997.gif"/></programme>
-<programme start="20241214170128 +0000" stop="20241214172211 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Jonny Quest Real Adventures</title><sub-title lang="en">Expedition to Khumbu</sub-title><icon src="https://i.imgur.com/XOp3nEP.gif"/></programme>
-<programme start="20241214172330 +0000" stop="20241214174427 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Jonny Quest Real Adventures</title><sub-title lang="en">Ice Will Burn</sub-title><icon src="https://i.imgur.com/XOp3nEP.gif"/></programme>
-<programme start="20241214174536 +0000" stop="20241214181057 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Jonny Quest</title><sub-title lang="en">A Small Matter of Pygmies</sub-title><icon src="https://i.imgur.com/1LkPW7k.gif"/></programme>
-<programme start="20241214181218 +0000" stop="20241214183416 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Scooby Doo</title><sub-title lang="en">Mystery Mask Mix-Up</sub-title><icon src="https://i.imgur.com/i1ZedHL.gif"/></programme>
-<programme start="20241214183539 +0000" stop="20241214185735 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Scooby Doo</title><sub-title lang="en">Jeepers, It&apos;s the Creeper</sub-title><icon src="https://i.imgur.com/i1ZedHL.gif"/></programme>
-<programme start="20241214190030 +0000" stop="20241214192156 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Superman</title><sub-title lang="en">Blasts From the Past (Part 2)</sub-title><icon src="https://i.imgur.com/hUYhp5I.gif"/></programme>
-<programme start="20241214192414 +0000" stop="20241214194629 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Batman</title><sub-title lang="en">Sideshow</sub-title><icon src="https://i.imgur.com/nygJi6C.gif"/></programme>
-<programme start="20241214194839 +0000" stop="20241214200928 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Batman Beyond</title><sub-title lang="en">April Moon</sub-title><icon src="https://i.imgur.com/4bXZkXc.gif"/></programme>
-<programme start="20241214201138 +0000" stop="20241214203433 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Justice League</title><sub-title lang="en">Flashpoint</sub-title><icon src="https://i.imgur.com/IAoWUJN.gif"/></programme>
-<programme start="20241214203701 +0000" stop="20241214210000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Justice League</title><sub-title lang="en">Panic in the Sky</sub-title><icon src="https://i.imgur.com/IAoWUJN.gif"/></programme>
-<programme start="20241214210000 +0000" stop="20241214212419 +0000" channel="ToonamiAftermathEast.us"><title lang="en">GaoGaiGar</title><sub-title lang="en">Element Z0</sub-title><icon src="https://i.imgur.com/5rCBrb9.gif"/></programme>
-<programme start="20241214212817 +0000" stop="20241214215207 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Big O</title><sub-title lang="en">Negotiations with the Dead</sub-title><icon src="https://i.imgur.com/0JJXLwO.gif"/></programme>
-<programme start="20241214215456 +0000" stop="20241214221934 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gasaraki</title><sub-title lang="en">Run</sub-title><icon src="https://i.imgur.com/XjydrYg.gif"/></programme>
-<programme start="20241214222358 +0000" stop="20241214224846 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gundam 08th MS Team</title><sub-title lang="en">The Broken Order to Stand By</sub-title><icon src="https://i.imgur.com/OpWFAlA.gif"/></programme>
-<programme start="20241214225312 +0000" stop="20241214231800 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gundam 08th MS Team</title><sub-title lang="en">Battle Line on the Burning Sand</sub-title><icon src="https://i.imgur.com/OpWFAlA.gif"/></programme>
-<programme start="20241214231800 +0000" stop="20241214233929 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Celebrity Deathmatch</title><sub-title lang="en">Fandemonium I</sub-title><icon src="https://i.imgur.com/asKW14D.gif"/></programme>
-<programme start="20241214234159 +0000" stop="20241215000505 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Immortal Grand Prix</title><sub-title lang="en">Puzzled</sub-title><icon src="https://i.imgur.com/5DMvqBq.gif"/></programme>
-<programme start="20241215000740 +0000" stop="20241215003046 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Immortal Grand Prix</title><sub-title lang="en">Moving On</sub-title><icon src="https://i.imgur.com/5DMvqBq.gif"/></programme>
-<programme start="20241215003302 +0000" stop="20241215005656 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Fighting Spirit</title><sub-title lang="en">Surpass that Moment</sub-title><icon src="https://i.imgur.com/q17pj8O.gif"/></programme>
-<programme start="20241215010006 +0000" stop="20241215012400 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Fighting Spirit</title><sub-title lang="en">Mix-Up</sub-title><icon src="https://i.imgur.com/q17pj8O.gif"/></programme>
-<programme start="20241215012435 +0000" stop="20241215014735 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Powerpuff Girls Z</title><sub-title lang="en">Friends in High Places / Happy Birthday, New Townsville</sub-title><icon src="https://i.imgur.com/8hApzOA.gif"/></programme>
-<programme start="20241215014842 +0000" stop="20241215021138 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Powerpuff Girls Z</title><sub-title lang="en">Bubbles&apos; Troubles</sub-title><icon src="https://i.imgur.com/8hApzOA.gif"/></programme>
-<programme start="20241215021252 +0000" stop="20241215023904 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ghost in the Shell</title><sub-title lang="en">SA: Public Security Section 9 - SECTION-9</sub-title><icon src="https://i.imgur.com/19QluZh.gif"/></programme>
-<programme start="20241215024022 +0000" stop="20241215030630 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ghost in the Shell</title><sub-title lang="en">SA: Runaway Evidence - TESTATION</sub-title><icon src="https://i.imgur.com/19QluZh.gif"/></programme>
-<programme start="20241215030815 +0000" stop="20241215033255 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Cowboy Bebop</title><sub-title lang="en">Jupiter Jazz (Part 1)</sub-title><icon src="https://i.imgur.com/CJXo161.gif"/></programme>
-<programme start="20241215033518 +0000" stop="20241215040000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Cowboy Bebop</title><sub-title lang="en">Jupiter Jazz (Part 2)</sub-title><icon src="https://i.imgur.com/CJXo161.gif"/></programme>
-<programme start="20241215040100 +0000" stop="20241215050610 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Interstella 5555</title><icon src="https://i.imgur.com/ODBlBOU.gif"/></programme>
-<programme start="20241215050610 +0000" stop="20241215072221 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax - Star Wars I</title></programme>
-<programme start="20241215072431 +0000" stop="20241215074909 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax - Nestor the Long Eared Donkey</title></programme>
-<programme start="20241215074928 +0000" stop="20241215092209 +0000" channel="ToonamiAftermathEast.us"><title lang="en">MST3K - S06E10 - The Violent Years</title></programme>
-
-
-
-
-
-
-
-<programme start="20241215110000 +0000" stop="20241215111058 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Home Part 1</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-
-<programme start="20241215111238 +0000" stop="20241215112323 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Home Part 2</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-
-<programme start="20241215112505 +0000" stop="20241215113542 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Blotto Part 1</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20241215113722 +0000" stop="20241215114826 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spiderman</title><sub-title lang="en">Blotto Part 2</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>
-<programme start="20241215115004 +0000" stop="20241215120741 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Captain America</title><sub-title lang="en">Zemo and his Masters of Evil, Zemo Strikes, The Fury of Zemo</sub-title><icon src="https://i.imgur.com/rz9XhcO.gif"/></programme>
-<programme start="20241215120922 +0000" stop="20241215122612 +0000" channel="ToonamiAftermathEast.us"><title lang="en">The Mighty Thor</title><sub-title lang="en">The Tomorrow Man, Return of Zarrko, Slave of Tomorrow Man</sub-title><icon src="https://i.imgur.com/vARmo88.gif"/></programme>
-<programme start="20241215122754 +0000" stop="20241215123423 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Birdman</title><sub-title lang="en">The Empress of Evil</sub-title><icon src="https://i.imgur.com/cAylbtL.gif"/></programme>
-<programme start="20241215123612 +0000" stop="20241215124241 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Birdman</title><sub-title lang="en">Birdman Meets Birdboy</sub-title><icon src="https://i.imgur.com/cAylbtL.gif"/></programme>
-<programme start="20241215124520 +0000" stop="20241215125139 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Space Ghost</title><sub-title lang="en">Hi-Jackers</sub-title><icon src="https://i.imgur.com/TKjCB1Z.gif"/></programme>
-<programme start="20241215125340 +0000" stop="20241215130000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Space Ghost</title><sub-title lang="en">The Lure</sub-title><icon src="https://i.imgur.com/TKjCB1Z.gif"/></programme>
-<programme start="20241215130000 +0000" stop="20241215132115 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Earthworm Jim</title><sub-title lang="en">Sidekicked</sub-title><icon src="https://i.imgur.com/sQB7OBu.gif"/></programme>
-<programme start="20241215132440 +0000" stop="20241215134540 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Static Shock</title><sub-title lang="en">Where the Rubber Meets the Road</sub-title><icon src="https://i.imgur.com/riIBi2T.gif"/></programme>
-<programme start="20241215134914 +0000" stop="20241215141032 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Animaniacs</title><sub-title lang="en">Turkey Jerky / Wild Blue Yonder</sub-title><icon src="https://i.imgur.com/Iahwehb.gif"/></programme>
-<programme start="20241215141440 +0000" stop="20241215143516 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Tick</title><sub-title lang="en">The Tick vs. Arthur&apos;s Bank Account</sub-title><icon src="https://i.imgur.com/6LCtAKv.gif"/></programme>
-<programme start="20241215143859 +0000" stop="20241215150000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Freakazoid</title><sub-title lang="en">Dexter&apos;s Date</sub-title><icon src="https://i.imgur.com/qaSxxx8.gif"/></programme>
-<programme start="20241215150045 +0000" stop="20241215152117 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Digimon</title><sub-title lang="en">Garurumon</sub-title><icon src="https://i.imgur.com/rM5a4vc.gif"/></programme>
-<programme start="20241215152512 +0000" stop="20241215154631 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Monster Rancher</title><sub-title lang="en">Suezo&apos;s Secret Weapon</sub-title><icon src="https://i.imgur.com/8Q2xfrx.gif"/></programme>
-<programme start="20241215155021 +0000" stop="20241215160903 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Yu-Gi-Oh!</title><sub-title lang="en">Yugi vs. Pegasus: Match of the Millennium (Part 4)</sub-title><icon src="https://i.imgur.com/F5wIvS0.gif"/></programme>
-<programme start="20241215161332 +0000" stop="20241215163424 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Starship Troopers</title><sub-title lang="en">Captured</sub-title><icon src="https://i.imgur.com/aRS8xZQ.gif"/></programme>
-<programme start="20241215163829 +0000" stop="20241215170000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Beast Machines</title><sub-title lang="en">Endgame, Part. II: When Legends Fall</sub-title><icon src="https://i.imgur.com/9E7F997.gif"/></programme>
-<programme start="20241215170128 +0000" stop="20241215172229 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Jonny Quest Real Adventures</title><sub-title lang="en">Alligators and Okeechobee Vikings</sub-title><icon src="https://i.imgur.com/XOp3nEP.gif"/></programme>
-<programme start="20241215172341 +0000" stop="20241215174435 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Jonny Quest Real Adventures</title><sub-title lang="en">To Bardo and Back</sub-title><icon src="https://i.imgur.com/XOp3nEP.gif"/></programme>
-<programme start="20241215174545 +0000" stop="20241215181107 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Jonny Quest</title><sub-title lang="en">Dragons of Ashida</sub-title><icon src="https://i.imgur.com/1LkPW7k.gif"/></programme>
-<programme start="20241215181226 +0000" stop="20241215183421 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Scooby Doo</title><sub-title lang="en">Scooby&apos;s Night with a Frozen Fright</sub-title><icon src="https://i.imgur.com/i1ZedHL.gif"/></programme>
-<programme start="20241215183537 +0000" stop="20241215185730 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Scooby Doo</title><sub-title lang="en">Haunted House Hang-Up</sub-title><icon src="https://i.imgur.com/i1ZedHL.gif"/></programme>
-<programme start="20241215190030 +0000" stop="20241215192146 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Superman</title><sub-title lang="en">The Prometheon</sub-title><icon src="https://i.imgur.com/hUYhp5I.gif"/></programme>
-<programme start="20241215192428 +0000" stop="20241215194542 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Batman</title><sub-title lang="en">A Bullet for Bullock</sub-title><icon src="https://i.imgur.com/nygJi6C.gif"/></programme>
-<programme start="20241215194822 +0000" stop="20241215200907 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Batman Beyond</title><sub-title lang="en">Sentries of the Last Cosmos</sub-title><icon src="https://i.imgur.com/4bXZkXc.gif"/></programme>
-<programme start="20241215201121 +0000" stop="20241215203423 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Justice League</title><sub-title lang="en">Divided We Fall</sub-title><icon src="https://i.imgur.com/IAoWUJN.gif"/></programme>
-<programme start="20241215203657 +0000" stop="20241215210000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Justice League</title><sub-title lang="en">Epilogue</sub-title><icon src="https://i.imgur.com/IAoWUJN.gif"/></programme>
-<programme start="20241215210000 +0000" stop="20241215212420 +0000" channel="ToonamiAftermathEast.us"><title lang="en">GaoGaiGar</title><sub-title lang="en">The Lightless World</sub-title><icon src="https://i.imgur.com/5rCBrb9.gif"/></programme>
-<programme start="20241215212816 +0000" stop="20241215215205 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Big O</title><sub-title lang="en">Day of the Advent</sub-title><icon src="https://i.imgur.com/0JJXLwO.gif"/></programme>
-<programme start="20241215215518 +0000" stop="20241215221954 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gasaraki</title><sub-title lang="en">Personification</sub-title><icon src="https://i.imgur.com/XjydrYg.gif"/></programme>
-<programme start="20241215222328 +0000" stop="20241215224814 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gundam 08th MS Team</title><sub-title lang="en">Reunion</sub-title><icon src="https://i.imgur.com/OpWFAlA.gif"/></programme>
-<programme start="20241215225312 +0000" stop="20241215231800 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gundam 08th MS Team</title><sub-title lang="en">Duty and Ideals</sub-title><icon src="https://i.imgur.com/OpWFAlA.gif"/></programme>
-<programme start="20241215231800 +0000" stop="20241215233927 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Celebrity Deathmatch</title><sub-title lang="en">Battle of The Bulls</sub-title><icon src="https://i.imgur.com/asKW14D.gif"/></programme>
-<programme start="20241215234200 +0000" stop="20241216000506 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Immortal Grand Prix</title><sub-title lang="en">Comeback</sub-title><icon src="https://i.imgur.com/5DMvqBq.gif"/></programme>
-<programme start="20241216000743 +0000" stop="20241216003049 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Immortal Grand Prix</title><sub-title lang="en">Decision</sub-title><icon src="https://i.imgur.com/5DMvqBq.gif"/></programme>
-<programme start="20241216003309 +0000" stop="20241216005635 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Fighting Spirit</title><sub-title lang="en">A Step Further (Finale)</sub-title><icon src="https://i.imgur.com/q17pj8O.gif"/></programme>
-<programme start="20241216005954 +0000" stop="20241216012400 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Fighting Spirit</title><sub-title lang="en">The First Step</sub-title><icon src="https://i.imgur.com/q17pj8O.gif"/></programme>
-<programme start="20241216012435 +0000" stop="20241216014733 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Powerpuff Girls Z</title><sub-title lang="en">Mojo and the Amoeba Boys / Revenge of Negatron</sub-title><icon src="https://i.imgur.com/8hApzOA.gif"/></programme>
-<programme start="20241216014849 +0000" stop="20241216021139 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Powerpuff Girls Z</title><sub-title lang="en">Attack of the Gangreen Gang</sub-title><icon src="https://i.imgur.com/8hApzOA.gif"/></programme>
-<programme start="20241216021304 +0000" stop="20241216023917 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ghost in the Shell</title><sub-title lang="en">SA: A Modest Rebellion - ANDROID AND I</sub-title><icon src="https://i.imgur.com/19QluZh.gif"/></programme>
-<programme start="20241216024035 +0000" stop="20241216030622 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ghost in the Shell</title><sub-title lang="en">C: The Visual Device will Laugh - INTERCEPTER</sub-title><icon src="https://i.imgur.com/19QluZh.gif"/></programme>
-<programme start="20241216030822 +0000" stop="20241216033302 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Cowboy Bebop</title><sub-title lang="en">Bohemian Rhapsody</sub-title><icon src="https://i.imgur.com/CJXo161.gif"/></programme>
-<programme start="20241216033519 +0000" stop="20241216040000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Cowboy Bebop</title><sub-title lang="en">My Funny Valentine</sub-title><icon src="https://i.imgur.com/CJXo161.gif"/></programme>
-<programme start="20241216040100 +0000" stop="20241216051556 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Pokemon The First Movie</title><icon src="https://i.imgur.com/WwSnhVk.jpg"/></programme>
-<programme start="20241216051556 +0000" stop="20241216070214 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax - Fast Furious 4</title></programme>
-<programme start="20241216070423 +0000" stop="20241216082721 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rifftrax - Santa and the ice cream bunny</title></programme>
-<programme start="20241216082740 +0000" stop="20241216095947 +0000" channel="ToonamiAftermathEast.us"><title lang="en">MST3K - S06E12 - The Starfighters</title></programme>
-<programme start="20241216095947 +0000" stop="20241216102453 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Pokemon</title><sub-title lang="en">A Goldenrod Opportunity</sub-title><icon src="https://i.imgur.com/VfdN6pP.gif"/></programme>
-<programme start="20241216102841 +0000" stop="20241216105537 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Teen Titans</title><sub-title lang="en">The End (Part 3)</sub-title><icon src="https://i.imgur.com/Csz1Dr1.gif"/></programme>
-<programme start="20241216110117 +0000" stop="20241216112202 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dragonball</title><sub-title lang="en">Preliminary Peril</sub-title><icon src="https://i.imgur.com/cQBxAVU.gif"/></programme>
-<programme start="20241216112514 +0000" stop="20241216114852 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Sailor Moon</title><sub-title lang="en">Thorny Weather</sub-title><icon src="https://i.imgur.com/TnI0NkT.gif"/></programme>
-<programme start="20241216114952 +0000" stop="20241216121024 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Nightmare Comes True</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20241216121248 +0000" stop="20241216123316 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Goku&apos;s Assassin</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20241216123546 +0000" stop="20241216125947 +0000" channel="ToonamiAftermathEast.us"><title lang="en">G Gundam</title><sub-title lang="en">Assault of the Four Evil Kings! Soaring Raven Gundam</sub-title><icon src="https://i.imgur.com/WCckIMt.gif"/></programme>
-<programme start="20241216130047 +0000" stop="20241216134854 +0000" channel="ToonamiAftermathEast.us"><title lang="en">The History Of Trunks</title><icon src="https://i.imgur.com/4GMWDrX.jpg"/></programme>
-<programme start="20241216134956 +0000" stop="20241216141212 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Powerpuff Girls</title><sub-title lang="en">Toast of the Town / Divide and Conquer</sub-title><icon src="https://i.imgur.com/8ULe6pE.gif"/></programme>
-<programme start="20241216141221 +0000" stop="20241216142318 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ed Edd Eddy</title><sub-title lang="en">Cry Ed</sub-title><icon src="https://i.imgur.com/igzgfih.gif"/></programme>
-<programme start="20241216142337 +0000" stop="20241216143012 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Cow and Chicken</title><sub-title lang="en">Alive!</sub-title><icon src="https://i.imgur.com/0QYl7ZQ.gif"/></programme>
-<programme start="20241216143030 +0000" stop="20241216143704 +0000" channel="ToonamiAftermathEast.us"><title lang="en">I Am Weasel</title><sub-title lang="en">I Are Good Salesmans</sub-title><icon src="https://i.imgur.com/b0n28MI.gif"/></programme>
-<programme start="20241216143730 +0000" stop="20241216144433 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dexters Laboratory</title><sub-title lang="en">Can&apos;t Nap</sub-title><icon src="https://i.imgur.com/hMP6ON2.gif"/></programme>
-<programme start="20241216144449 +0000" stop="20241216145200 +0000" channel="ToonamiAftermathEast.us"><title lang="en">2 Stupid Dogs</title><sub-title lang="en">Goldflipper</sub-title><icon src="https://i.imgur.com/wQWDVZi.gif"/></programme>
-<programme start="20241216145230 +0000" stop="20241216145903 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Johnny Bravo</title><sub-title lang="en">Hail To The Chump</sub-title><icon src="https://i.imgur.com/duW3ILx.gif"/></programme>
-<programme start="20241216150118 +0000" stop="20241216152203 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dragonball</title><sub-title lang="en">Battle of the eight</sub-title><icon src="https://i.imgur.com/cQBxAVU.gif"/></programme>
-<programme start="20241216152520 +0000" stop="20241216154857 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Sailor Moon</title><sub-title lang="en">Heightened Hazard</sub-title><icon src="https://i.imgur.com/TnI0NkT.gif"/></programme>
-<programme start="20241216154957 +0000" stop="20241216161029 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Deadly Beauty</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20241216161257 +0000" stop="20241216163328 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">No Match For The Androids</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20241216163610 +0000" stop="20241216165948 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gundam Wing</title><sub-title lang="en">The Treize Assassination</sub-title><icon src="https://i.imgur.com/XWp96IJ.gif"/></programme>
-<programme start="20241216170030 +0000" stop="20241216172016 +0000" channel="ToonamiAftermathEast.us"><title lang="en">X-Men</title><sub-title lang="en">Phoenix Saga (Part 4): The Starjammers</sub-title><icon src="https://i.imgur.com/ZSZ0x1m.gif"/></programme>
-<programme start="20241216170317 +0000" stop="20241216171510 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Space Ghost C2C</title><icon src="https://i.imgur.com/7oi7Qxf.gif"/></programme>
-<programme start="20241216171841 +0000" stop="20241216174105 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Home Movies</title><sub-title lang="en">Politics</sub-title><icon src="https://i.imgur.com/VDMuEdj.gif"/></programme>
-<programme start="20241216172111 +0000" stop="20241216174537 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Mega Man</title><sub-title lang="en">Robo-Spider</sub-title><icon src="https://i.imgur.com/vhvmTlP.gif"/></programme>
-<programme start="20241216174443 +0000" stop="20241216175601 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Brak Show</title><sub-title lang="en">All That I Desire You</sub-title><icon src="https://i.imgur.com/uGF2Olk.gif"/></programme>
-<programme start="20241216174624 +0000" stop="20241216180747 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Men in Black</title><sub-title lang="en">The Bye-Bye Worm Syndrome</sub-title><icon src="https://i.imgur.com/M2q5NRC.gif"/></programme>
-<programme start="20241216180854 +0000" stop="20241216183223 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Street Fighter II V</title><sub-title lang="en">The Beginning of a Journey</sub-title><icon src="https://i.imgur.com/mQiuwRJ.gif"/></programme>
-<programme start="20241216183339 +0000" stop="20241216185400 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Spider-Man</title><sub-title lang="en">The Awakening</sub-title><icon src="https://i.imgur.com/hprZiwl.gif"/></programme>
-<programme start="20241216185601 +0000" stop="20241216191817 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Thundercats</title><sub-title lang="en">Frogman</sub-title><icon src="https://i.imgur.com/7TOnnN5.gif"/></programme>
-<programme start="20241216191932 +0000" stop="20241216194339 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Saint Seiya</title><sub-title lang="en">Hero! Ikki Destroyed For Brotherly Love</sub-title><icon src="https://i.imgur.com/6rmD2nL.gif"/></programme>
-<programme start="20241216194454 +0000" stop="20241216200827 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Mobile Suit Gundam</title><sub-title lang="en">Breakthrough</sub-title><icon src="https://i.imgur.com/EXLbEng.gif"/></programme>
-<programme start="20241216201008 +0000" stop="20241216203229 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Robotech</title><sub-title lang="en">The Invid Invasion</sub-title><icon src="https://i.imgur.com/d2iQJ5T.gif"/></programme>
-<programme start="20241216203412 +0000" stop="20241216205558 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Beast Wars</title><sub-title lang="en">Chain of Command</sub-title><icon src="https://i.imgur.com/1fov0VP.gif"/></programme>
-<programme start="20241216210000 +0000" stop="20241216212518 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Pokemon</title><sub-title lang="en">A Dairy Tale Ending</sub-title><icon src="https://i.imgur.com/VfdN6pP.gif"/></programme>
-<programme start="20241216212856 +0000" stop="20241216215546 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Teen Titans</title><sub-title lang="en">Homecoming (Part 1)</sub-title><icon src="https://i.imgur.com/Csz1Dr1.gif"/></programme>
-<programme start="20241216220130 +0000" stop="20241216222215 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dragonball</title><sub-title lang="en">Tien Shinhan vs. Mercenary Tao</sub-title><icon src="https://i.imgur.com/cQBxAVU.gif"/></programme>
-<programme start="20241216222518 +0000" stop="20241216224856 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Sailor Moon</title><sub-title lang="en">It&apos;s In The Cards</sub-title><icon src="https://i.imgur.com/TnI0NkT.gif"/></programme>
-<programme start="20241216224957 +0000" stop="20241216231028 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Last Ditch Effort</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20241216231241 +0000" stop="20241216233312 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Closing In</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20241216233559 +0000" stop="20241217000000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">G Gundam</title><sub-title lang="en">Royal Counterattack! Ambush of the Grand Gundam</sub-title><icon src="https://i.imgur.com/WCckIMt.gif"/></programme>
-<programme start="20241217000020 +0000" stop="20241217011753 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Beavis And Butthead Do America</title><icon src="https://i.imgur.com/g6P6McV.gif"/></programme>
-<programme start="20241217011916 +0000" stop="20241217014145 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Powerpuff Girls</title><sub-title lang="en">Burglar Alarmed / Shotgun Wedding</sub-title><icon src="https://i.imgur.com/8ULe6pE.gif"/></programme>
-<programme start="20241217014145 +0000" stop="20241217015234 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ed Edd Eddy</title><sub-title lang="en">The Ed-Touchables</sub-title><icon src="https://i.imgur.com/igzgfih.gif"/></programme>
-<programme start="20241217015234 +0000" stop="20241217015944 +0000" channel="ToonamiAftermathEast.us"><title lang="en">What A Cartoon! Show</title><sub-title lang="en">Dexter&apos;s Laboratory</sub-title><icon src="https://i.imgur.com/Vfe6dDZ.gif"/></programme>
-<programme start="20241217020130 +0000" stop="20241217022215 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dragonball</title><sub-title lang="en">Anonymous Proposal</sub-title><icon src="https://i.imgur.com/cQBxAVU.gif"/></programme>
-<programme start="20241217022530 +0000" stop="20241217024908 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Sailor Moon</title><sub-title lang="en">Goodness Eclipsed (Awakening of the Messiah of Silence? Stars of Destiny)</sub-title><icon src="https://i.imgur.com/TnI0NkT.gif"/></programme>
-<programme start="20241217025009 +0000" stop="20241217031041 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Unwelcome Discovery</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20241217031254 +0000" stop="20241217033339 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Seized with Fear</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20241217033622 +0000" stop="20241217040000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gundam Wing</title><sub-title lang="en">Portrait of a Ruined Country</sub-title><icon src="https://i.imgur.com/XWp96IJ.gif"/></programme>
-<programme start="20241217040145 +0000" stop="20241217041201 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Space Ghost C2C</title><icon src="https://i.imgur.com/7oi7Qxf.gif"/></programme>
-<programme start="20241217041331 +0000" stop="20241217043540 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Home Movies</title><sub-title lang="en">Identifying a Body</sub-title><icon src="https://i.imgur.com/VDMuEdj.gif"/></programme>
-<programme start="20241217043741 +0000" stop="20241217050000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dr Katz</title><sub-title lang="en">Family Car</sub-title><icon src="https://i.imgur.com/ILKvVhz.gif"/></programme>
-<programme start="20241217050130 +0000" stop="20241217052524 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Full Metal Alchemist</title><sub-title lang="en">Goodbye</sub-title><icon src="https://i.imgur.com/3T6NatN.gif"/></programme>
-<programme start="20241217052656 +0000" stop="20241217055037 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Yu Yu Hakusho</title><sub-title lang="en">Beneath Bui&apos;s Armor</sub-title><icon src="https://i.imgur.com/zLgdAie.gif"/></programme>
-<programme start="20241217055123 +0000" stop="20241217061123 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Rurouni Kenshin</title><sub-title lang="en">Dissolution of a Nightmare</sub-title><icon src="https://i.imgur.com/litCtMD.gif"/></programme>
-<programme start="20241217061255 +0000" stop="20241217063455 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Lupin III</title><sub-title lang="en">Who&apos;s Vroomin&apos; Who?</sub-title><icon src="https://i.imgur.com/ttnXgu9.gif"/></programme>
-<programme start="20241217063647 +0000" stop="20241217070000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ranma</title><sub-title lang="en">Kodachi the Black Rose! The Beeline to True Love</sub-title><icon src="https://i.imgur.com/GZNzBTy.gif"/></programme>
-<programme start="20241217070000 +0000" stop="20241217072337 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Berserk</title><sub-title lang="en">Noble Man</sub-title><icon src="https://i.imgur.com/ilYReUx.gif"/></programme>
-<programme start="20241217073021 +0000" stop="20241217074151 +0000" channel="ToonamiAftermathEast.us"><title lang="en">12 oz Mouse</title><sub-title lang="en">Pre-Reckoning</sub-title><icon src="https://i.imgur.com/VxDpdPC.gif"/></programme>
-<programme start="20241217074842 +0000" stop="20241217080859 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Serial Experiments Lain</title><sub-title lang="en">Girls</sub-title><icon src="https://i.imgur.com/42cuq2g.gif"/></programme>
-<programme start="20241217081605 +0000" stop="20241217082756 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Cromartie High School</title><sub-title lang="en">Sentimental Bus</sub-title><icon src="https://i.imgur.com/4BYylmk.gif"/></programme>
-<programme start="20241217083454 +0000" stop="20241217090000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Nadia - Secret of Blue Water</title><sub-title lang="en">Nemo&apos;s Secret</sub-title><icon src="https://i.imgur.com/n9ylocT.gif"/></programme>
-<programme start="20241217090000 +0000" stop="20241217092518 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Pokemon</title><sub-title lang="en">A Dairy Tale Ending</sub-title><icon src="https://i.imgur.com/VfdN6pP.gif"/></programme>
-<programme start="20241217092856 +0000" stop="20241217095546 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Teen Titans</title><sub-title lang="en">Homecoming (Part 1)</sub-title><icon src="https://i.imgur.com/Csz1Dr1.gif"/></programme>
-<programme start="20241217100130 +0000" stop="20241217102215 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dragonball</title><sub-title lang="en">Tien Shinhan vs. Mercenary Tao</sub-title><icon src="https://i.imgur.com/cQBxAVU.gif"/></programme>
-<programme start="20241217102518 +0000" stop="20241217104856 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Sailor Moon</title><sub-title lang="en">It&apos;s In The Cards</sub-title><icon src="https://i.imgur.com/TnI0NkT.gif"/></programme>
-<programme start="20241217104957 +0000" stop="20241217111028 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Last Ditch Effort</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20241217111241 +0000" stop="20241217113312 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Closing In</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20241217113559 +0000" stop="20241217120000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">G Gundam</title><sub-title lang="en">Royal Counterattack! Ambush of the Grand Gundam</sub-title><icon src="https://i.imgur.com/WCckIMt.gif"/></programme>
-<programme start="20241217120020 +0000" stop="20241217131753 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Beavis And Butthead Do America</title><icon src="https://i.imgur.com/g6P6McV.gif"/></programme>
-<programme start="20241217131916 +0000" stop="20241217134145 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Powerpuff Girls</title><sub-title lang="en">Burglar Alarmed / Shotgun Wedding</sub-title><icon src="https://i.imgur.com/8ULe6pE.gif"/></programme>
-<programme start="20241217134145 +0000" stop="20241217135234 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Ed Edd Eddy</title><sub-title lang="en">The Ed-Touchables</sub-title><icon src="https://i.imgur.com/igzgfih.gif"/></programme>
-<programme start="20241217135234 +0000" stop="20241217135944 +0000" channel="ToonamiAftermathEast.us"><title lang="en">What A Cartoon! Show</title><sub-title lang="en">Dexter&apos;s Laboratory</sub-title><icon src="https://i.imgur.com/Vfe6dDZ.gif"/></programme>
-<programme start="20241217140130 +0000" stop="20241217142215 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dragonball</title><sub-title lang="en">Anonymous Proposal</sub-title><icon src="https://i.imgur.com/cQBxAVU.gif"/></programme>
-<programme start="20241217142530 +0000" stop="20241217144908 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Sailor Moon</title><sub-title lang="en">Goodness Eclipsed (Awakening of the Messiah of Silence? Stars of Destiny)</sub-title><icon src="https://i.imgur.com/TnI0NkT.gif"/></programme>
-<programme start="20241217145009 +0000" stop="20241217151041 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Unwelcome Discovery</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20241217151254 +0000" stop="20241217153339 +0000" channel="ToonamiAftermathEast.us"><title lang="en">DBZ</title><sub-title lang="en">Seized with Fear</sub-title><icon src="https://i.imgur.com/4qfad4o.gif"/></programme>
-<programme start="20241217153622 +0000" stop="20241217160000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Gundam Wing</title><sub-title lang="en">Portrait of a Ruined Country</sub-title><icon src="https://i.imgur.com/XWp96IJ.gif"/></programme>
-<programme start="20241217160145 +0000" stop="20241217161201 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Space Ghost C2C</title><icon src="https://i.imgur.com/7oi7Qxf.gif"/></programme>
-<programme start="20241217161331 +0000" stop="20241217163540 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Home Movies</title><sub-title lang="en">Identifying a Body</sub-title><icon src="https://i.imgur.com/VDMuEdj.gif"/></programme>
-<programme start="20241217163741 +0000" stop="20241217170000 +0000" channel="ToonamiAftermathEast.us"><title lang="en">Dr Katz</title><sub-title lang="en">Family Car</sub-title><icon src="https://i.imgur.com/ILKvVhz.gif"/></programme>
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20251227">
+<channel id="CNC.us"><display-name>Cartoon Classic Network</display-name><icon src="https://i.imgur.com/aSjhZK7.png"/><url>https://toonamiaftermath.com</url></channel>
+<programme start="20250119100000 +0000" stop="20250119103000 +0000" channel="CartonNClassic"><title lang="en">Samurai X</title></programme>
+<programme start="20250119103000 +0000" stop="20250119110000 +0000" channel="CartonNClassic"><title lang="en">MAR</title></programme>  
+<programme start="20250119110000 +0000" stop="20250119113000 +0000" channel="CartonNClassic"><title lang="en">Deltora Quest</title></programme>
+<programme start="20250119113000 +0000" stop="20250119120000 +0000" channel="CartonNClassic"><title lang="en">Mew Mew Power</title></programme> 
+<programme start="20250119120000 +0000" stop="20250119123000 +0000" channel="CartonNClassic"><title lang="en">Duck Dodgers</title></programme>
+<programme start="20250119123000 +0000" stop="20250119130000 +0000" channel="CartonNClassic"><title lang="en">Street Fighter</title></programme>  
+<programme start="20250119130000 +0000" stop="20250119133000 +0000" channel="CartonNClassic"><title lang="en">Extreme Ghostbusters</title></programme>
+<programme start="20250119133000 +0000" stop="20250119140000 +0000" channel="CartonNClassic"><title lang="en">Men in Black</title></programme> 
+<programme start="20250119140000 +0000" stop="20250119143000 +0000" channel="CartonNClassic"><title lang="en">Rescue Heroes</title></programme>
+<programme start="20250119143000 +0000" stop="20250119150000 +0000" channel="CartonNClassic"><title lang="en">C.O.P.S</title></programme>  
+<programme start="20250119150000 +0000" stop="20250119153000 +0000" channel="CartonNClassic"><title lang="en">Sonic the Hedgehog</title></programme>
+<programme start="20250119153000 +0000" stop="20250119160000 +0000" channel="CartonNClassic"><title lang="en">Spider Rider</title></programme> 
+<programme start="20250119160000 +0000" stop="20250119163000 +0000" channel="CartonNClassic"><title lang="en">Dexter's Lab</title></programme>
+<programme start="20250119163000 +0000" stop="20250119170000 +0000" channel="CartonNClassic"><title lang="en">Digimon</title></programme>  
+<programme start="20250119170000 +0000" stop="20250119173000 +0000" channel="CartonNClassic"><title lang="en">Kappa Mikey</title></programme>
+<programme start="20250119173000 +0000" stop="20250119180000 +0000" channel="CartonNClassic"><title lang="en">Jackie Chan's Adventure</title></programme> 
+<programme start="20250119180000 +0000" stop="20250119183000 +0000" channel="CartonNClassic"><title lang="en">Reboot</title></programme>
+<programme start="20250119183000 +0000" stop="20250119190000 +0000" channel="CartonNClassic"><title lang="en">He-Man</title></programme>  
+<programme start="20250119190000 +0000" stop="20250119193000 +0000" channel="CartonNClassic"><title lang="en">Thunder Cats</title></programme>
+<programme start="20250119193000 +0000" stop="20250119200000 +0000" channel="CartonNClassic"><title lang="en">G.I Joe</title></programme> 
+<programme start="20250119200000 +0000" stop="20250119203000 +0000" channel="CartonNClassic"><title lang="en">Robotech</title></programme>
+<programme start="20250119203000 +0000" stop="20250119210000 +0000" channel="CartonNClassic"><title lang="en">Sailor Moon</title></programme>  
+<programme start="20250119210000 +0000" stop="20250119213000 +0000" channel="CartonNClassic"><title lang="en">Dragon Ball Z</title></programme>
+<programme start="20250119213000 +0000" stop="20250119220000 +0000" channel="CartonNClassic"><title lang="en">Gundam Wing</title></programme> 
+<programme start="20250119220000 +0000" stop="20250119223000 +0000" channel="CartonNClassic"><title lang="en">Tenchi Universe</title></programme>
+<programme start="20250119223000 +0000" stop="20250119230000 +0000" channel="CartonNClassic"><title lang="en">Dot Hack Sign</title></programme>  
+<programme start="20250119230000 +0000" stop="20250119233000 +0000" channel="CartonNClassic"><title lang="en">Voltron</title></programme>
+<programme start="20250119233000 +0000" stop="20250120000000 +0000" channel="CartonNClassic"><title lang="en">Dragon Ball GT</title></programme> 
+<programme start="20250120000000 +0000" stop="20250120003000 +0000" channel="CartonNClassic"><title lang="en">Dragon Ball</title></programme> 
+<programme start="20250120003000 +0000" stop="20250120010000 +0000" channel="CartonNClassic"><title lang="en">Naruto</title></programme> 
+<programme start="20250120010000 +0000" stop="20250120013000 +0000" channel="CartonNClassic"><title lang="en">Fire Force</title></programme> 
+<programme start="20250120013000 +0000" stop="20250120020000 +0000" channel="CartonNClassic"><title lang="en">One Piece</title></programme> 
+<programme start="20250120020000 +0000" stop="20250120023000 +0000" channel="CartonNClassic"><title lang="en">Nerima</title></programme> 
+<programme start="20250120023000 +0000" stop="20250120030000 +0000" channel="CartonNClassic"><title lang="en">Is This a Zombie</title></programme> 
+<programme start="20250120030000 +0000" stop="20250120033000 +0000" channel="CartonNClassic"><title lang="en">That Time I got Reincarnated as a Slime</title></programme> 
+<programme start="20250120033000 +0000" stop="20250120040000 +0000" channel="CartonNClassic"><title lang="en">Twin Tails</title></programme> 
+<programme start="20250120040000 +0000" stop="20250120043000 +0000" channel="CartonNClassic"><title lang="en">KONOSUBA</title></programme>
+<programme start="20250120043000 +0000" stop="20250120050000 +0000" channel="CartonNClassic"><title lang="en">Yamada</title></programme>  
+<programme start="20250120050000 +0000" stop="20250120053000 +0000" channel="CartonNClassic"><title lang="en">Girls Brabo</title></programme>
+<programme start="20250120053000 +0000" stop="20250120060000 +0000" channel="CartonNClassic"><title lang="en">Gushing over Magical Girls</title></programme> 
+<programme start="20250120060000 +0000" stop="20250120063000 +0000" channel="CartonNClassic"><title lang="en">100 Girlfriends</title></programme>
+<programme start="20250120063000 +0000" stop="20250120070000 +0000" channel="CartonNClassic"><title lang="en">Date A Live</title></programme>  
+<programme start="20250120070000 +0000" stop="20250120073000 +0000" channel="CartonNClassic"><title lang="en">Fruits Basket</title></programme>
+<programme start="20250120073000 +0000" stop="20250120080000 +0000" channel="CartonNClassic"><title lang="en">Intinal D</title></programme> 
+<programme start="20250120080000 +0000" stop="20250120083000 +0000" channel="CartonNClassic"><title lang="en">Polar Bear Cafe</title></programme>
+<programme start="20250120083000 +0000" stop="20250120090000 +0000" channel="CartonNClassic"><title lang="en">Lucky Star</title></programme>  
+<programme start="20250120090000 +0000" stop="20250120093000 +0000" channel="CartonNClassic"><title lang="en">Fairy Tail</title></programme>
+<programme start="20250120093000 +0000" stop="20250120100000 +0000" channel="CartonNClassic"><title lang="en">Naruto Shippuden</title></programme> 
+<programme start="20250120100000 +0000" stop="20250120103000 +0000" channel="CartonNClassic"><title lang="en">Class of 300</title></programme>
+<programme start="20250120103000 +0000" stop="20250120110000 +0000" channel="CartonNClassic"><title lang="en">Johnny Test</title></programme>  
+<programme start="20250120110000 +0000" stop="20250120113000 +0000" channel="CartonNClassic"><title lang="en">Misadventures of Flapjack</title></programme>
+<programme start="20250120113000 +0000" stop="20250120120000 +0000" channel="CartonNClassic"><title lang="en">Yu-Gi-Oh</title></programme> 
+<programme start="20250120120000 +0000" stop="20250120123000 +0000" channel="CartonNClassic"><title lang="en">Adventure Time</title></programme>
+<programme start="20250120123000 +0000" stop="20250120130000 +0000" channel="CartonNClassic"><title lang="en">Camp Lazlo</title></programme>  
+<programme start="20250120130000 +0000" stop="20250120133000 +0000" channel="CartonNClassic"><title lang="en">The Powerpuff Girls</title></programme>
+<programme start="20250120133000 +0000" stop="20250120140000 +0000" channel="CartonNClassic"><title lang="en">Hi Hi Puff</title></programme> 
+<programme start="20250120140000 +0000" stop="20250120143000 +0000" channel="CartonNClassic"><title lang="en">I am Weasel</title></programme>
+<programme start="20250120143000 +0000" stop="20250120150000 +0000" channel="CartonNClassic"><title lang="en">Clarence</title></programme>  
+<programme start="20250120150000 +0000" stop="20250120153000 +0000" channel="CartonNClassic"><title lang="en">Swat Kats</title></programme>
+<programme start="20250120153000 +0000" stop="20250120160000 +0000" channel="CartonNClassic"><title lang="en">Juniper Lee</title></programme> 
+<programme start="20250120160000 +0000" stop="20250120163000 +0000" channel="CartonNClassic"><title lang="en">Pokemon</title></programme>
+<programme start="20250120163000 +0000" stop="20250120170000 +0000" channel="CartonNClassic"><title lang="en">My Gyms Partners a Money</title></programme>  
+<programme start="20250120170000 +0000" stop="20250120173000 +0000" channel="CartonNClassic"><title lang="en">Code Lyoko</title></programme>
+<programme start="20250120173000 +0000" stop="20250120180000 +0000" channel="CartonNClassic"><title lang="en">Code Lyoko</title></programme> 
+<programme start="20250120180000 +0000" stop="20250120183000 +0000" channel="CartonNClassic"><title lang="en">Teen Titans</title></programme>
+<programme start="20250120183000 +0000" stop="20250120190000 +0000" channel="CartonNClassic"><title lang="en">Teen Titans</title></programme>  
+<programme start="20250120190000 +0000" stop="20250120193000 +0000" channel="CartonNClassic"><title lang="en">Totally Spies</title></programme>
+<programme start="20250120193000 +0000" stop="20250120200000 +0000" channel="CartonNClassic"><title lang="en">Totally Spies</title></programme> 
+<programme start="20250120200000 +0000" stop="20250120203000 +0000" channel="CartonNClassic"><title lang="en">Codename Kids Next Door</title></programme>
+<programme start="20250120203000 +0000" stop="20250120210000 +0000" channel="CartonNClassic"><title lang="en">Codename Kids Next Door</title></programme>  
+<programme start="20250120210000 +0000" stop="20250120213000 +0000" channel="CartonNClassic"><title lang="en">Billy and Mandy</title></programme>
+<programme start="20250120213000 +0000" stop="20250120220000 +0000" channel="CartonNClassic"><title lang="en">Billy and Mandy</title></programme> 
+<programme start="20250120220000 +0000" stop="20250120223000 +0000" channel="CartonNClassic"><title lang="en">Fosters Home</title></programme>
+<programme start="20250120223000 +0000" stop="20250120230000 +0000" channel="CartonNClassic"><title lang="en">Fosters Home</title></programme>  
+<programme start="20250120230000 +0000" stop="20250120233000 +0000" channel="CartonNClassic"><title lang="en">Ed, Edd and Eddy</title></programme>
+<programme start="20250120233000 +0000" stop="20250121000000 +0000" channel="CartonNClassic"><title lang="en">Ed, Edd and Eddy</title></programme> 
+<programme start="20250121000000 +0000" stop="20250121003000 +0000" channel="CartonNClassic"><title lang="en">King of The Hill</title></programme> 
+<programme start="20250121003000 +0000" stop="20250121010000 +0000" channel="CartonNClassic"><title lang="en">The Venture Bros</title></programme> 
+<programme start="20250121010000 +0000" stop="20250121013000 +0000" channel="CartonNClassic"><title lang="en">Boondocks</title></programme> 
+<programme start="20250121013000 +0000" stop="20250121020000 +0000" channel="CartonNClassic"><title lang="en">Space Ghost</title></programme> 
+<programme start="20250121020000 +0000" stop="20250121023000 +0000" channel="CartonNClassic"><title lang="en">Bob's Burgers</title></programme> 
+<programme start="20250121023000 +0000" stop="20250121030000 +0000" channel="CartonNClassic"><title lang="en">Futurama</title></programme> 
+<programme start="20250121030000 +0000" stop="20250121033000 +0000" channel="CartonNClassic"><title lang="en">The Cleveland Show</title></programme> 
+<programme start="20250121033000 +0000" stop="20250121040000 +0000" channel="CartonNClassic"><title lang="en">Smiling Friends</title></programme> 
+<programme start="20250121040000 +0000" stop="20250121043000 +0000" channel="CartonNClassic"><title lang="en">Squidbillies</title></programme>
+<programme start="20250121043000 +0000" stop="20250121050000 +0000" channel="CartonNClassic"><title lang="en">Brad Neley</title></programme>  
+<programme start="20250121050000 +0000" stop="20250121053000 +0000" channel="CartonNClassic"><title lang="en">Tom goes to the Mayor</title></programme>
+<programme start="20250121053000 +0000" stop="20250121060000 +0000" channel="CartonNClassic"><title lang="en">Tim and Eric</title></programme> 
+<programme start="20250121060000 +0000" stop="20250121063000 +0000" channel="CartonNClassic"><title lang="en">Dream Corp</title></programme>
+<programme start="20250121063000 +0000" stop="20250121070000 +0000" channel="CartonNClassic"><title lang="en">The Oblongs</title></programme>  
+<programme start="20250121070000 +0000" stop="20250121073000 +0000" channel="CartonNClassic"><title lang="en">Home Movies</title></programme>
+<programme start="20250121073000 +0000" stop="20250121080000 +0000" channel="CartonNClassic"><title lang="en">Xavier</title></programme> 
+<programme start="20250121080000 +0000" stop="20250121083000 +0000" channel="CartonNClassic"><title lang="en">Happy Tree Friends</title></programme>
+<programme start="20250121083000 +0000" stop="20250121090000 +0000" channel="CartonNClassic"><title lang="en">Superjail!</title></programme>  
+<programme start="20250121090000 +0000" stop="20250121093000 +0000" channel="CartonNClassic"><title lang="en">Metalocalypse</title></programme>
+<programme start="20250121093000 +0000" stop="20250121100000 +0000" channel="CartonNClassic"><title lang="en">China IL</title></programme> 
+<programme start="20250121100000 +0000" stop="20250121103000 +0000" channel="CartonNClassic"><title lang="en">Pokemon</title></programme>
+<programme start="20250121103000 +0000" stop="20250121110000 +0000" channel="CartonNClassic"><title lang="en">Transformers: Energon</title></programme>  
+<programme start="20250121110000 +0000" stop="20250121113000 +0000" channel="CartonNClassic"><title lang="en">Courage the Cowardly Dog</title></programme>
+<programme start="20250121113000 +0000" stop="20250121120000 +0000" channel="CartonNClassic"><title lang="en">Star Wars: The Clone Wars</title></programme> 
+<programme start="20250121120000 +0000" stop="20250121123000 +0000" channel="CartonNClassic"><title lang="en">Mucha Lucha</title></programme>
+<programme start="20250121123000 +0000" stop="20250121130000 +0000" channel="CartonNClassic"><title lang="en">The Life and Times of Juniper Lee</title></programme>  
+<programme start="20250121130000 +0000" stop="20250121133000 +0000" channel="CartonNClassic"><title lang="en">Whatever Happened to... Robot Jones?</title></programme>
+<programme start="20250121133000 +0000" stop="20250121140000 +0000" channel="CartonNClassic"><title lang="en">Sheep In The Big City</title></programme> 
+<programme start="20250121140000 +0000" stop="20250121143000 +0000" channel="CartonNClassic"><title lang="en">Batman: The Animated Series</title></programme>
+<programme start="20250121143000 +0000" stop="20250121150000 +0000" channel="CartonNClassic"><title lang="en">Robotboy</title></programme>  
+<programme start="20250121150000 +0000" stop="20250121153000 +0000" channel="CartonNClassic"><title lang="en">Tom and Jerry</title></programme>
+<programme start="20250121153000 +0000" stop="20250121160000 +0000" channel="CartonNClassic"><title lang="en">Krypto the Superdog</title></programme> 
+<programme start="20250121160000 +0000" stop="20250121163000 +0000" channel="CartonNClassic"><title lang="en">Cow and Chicken/I am Weasel</title></programme>
+<programme start="20250121163000 +0000" stop="20250121170000 +0000" channel="CartonNClassic"><title lang="en">Johnny Bravo</title></programme>  
+<programme start="20250121170000 +0000" stop="20250121173000 +0000" channel="CartonNClassic"><title lang="en">Dexter's Lab</title></programme>
+<programme start="20250121173000 +0000" stop="20250121180000 +0000" channel="CartonNClassic"><title lang="en">2 Stupid Dogs/Super Secret Secret Squirrel</title></programme> 
+<programme start="20250121180000 +0000" stop="20250121183000 +0000" channel="CartonNClassic"><title lang="en">Evil Con Carne</title></programme>
+<programme start="20250121183000 +0000" stop="20250121190000 +0000" channel="CartonNClassic"><title lang="en">Teenage Mutant Ninja Turtles</title></programme>  
+<programme start="20250121190000 +0000" stop="20250121193000 +0000" channel="CartonNClassic"><title lang="en">Code Lyoko</title></programme>
+<programme start="20250121193000 +0000" stop="20250121200000 +0000" channel="CartonNClassic"><title lang="en">The PowerPuff Girls</title></programme> 
+<programme start="20250121200000 +0000" stop="20250121203000 +0000" channel="CartonNClassic"><title lang="en">Hamtaro</title></programme>
+<programme start="20250121203000 +0000" stop="20250121210000 +0000" channel="CartonNClassic"><title lang="en">Sailor Moon</title></programme>  
+<programme start="20250121210000 +0000" stop="20250121213000 +0000" channel="CartonNClassic"><title lang="en">Dragon Ball Z</title></programme>
+<programme start="20250121213000 +0000" stop="20250121220000 +0000" channel="CartonNClassic"><title lang="en">Ronin Warriors</title></programme> 
+<programme start="20250121220000 +0000" stop="20250121223000 +0000" channel="CartonNClassic"><title lang="en">ReBoot</title></programme>
+<programme start="20250121223000 +0000" stop="20250121230000 +0000" channel="CartonNClassic"><title lang="en">Outlaw Star</title></programme>  
+<programme start="20250121230000 +0000" stop="20250121233000 +0000" channel="CartonNClassic"><title lang="en">Sym-bionic Titan</title></programme>
+<programme start="20250121233000 +0000" stop="20250122000000 +0000" channel="CartonNClassic"><title lang="en">Xiaolin Showdown</title></programme> 
+<programme start="20250122000000 +0000" stop="20250122003000 +0000" channel="CartonNClassic"><title lang="en">The Eric Andre Show</title></programme> 
+<programme start="20250122003000 +0000" stop="20250122010000 +0000" channel="CartonNClassic"><title lang="en">Samurai Jack</title></programme> 
+<programme start="20250122010000 +0000" stop="20250122013000 +0000" channel="CartonNClassic"><title lang="en">Family Guy</title></programme> 
+<programme start="20250122013000 +0000" stop="20250122020000 +0000" channel="CartonNClassic"><title lang="en">Rick and Morty</title></programme> 
+<programme start="20250122020000 +0000" stop="20250122023000 +0000" channel="CartonNClassic"><title lang="en">King of the Hill</title></programme> 
+<programme start="20250122023000 +0000" stop="20250122030000 +0000" channel="CartonNClassic"><title lang="en">Futurama</title></programme> 
+<programme start="20250122030000 +0000" stop="20250122033000 +0000" channel="CartonNClassic"><title lang="en">American Dad</title></programme> 
+<programme start="20250122033000 +0000" stop="20250122040000 +0000" channel="CartonNClassic"><title lang="en">The Simpsons</title></programme> 
+<programme start="20250122040000 +0000" stop="20250122043000 +0000" channel="CartonNClassic"><title lang="en">Aqua Teen Hunger Force</title></programme>
+<programme start="20250122043000 +0000" stop="20250122050000 +0000" channel="CartonNClassic"><title lang="en">Harvey Birdman, Attorney At Law</title></programme>  
+<programme start="20250122050000 +0000" stop="20250122053000 +0000" channel="CartonNClassic"><title lang="en">NTSF:SD:SUV</title></programme>
+<programme start="20250122053000 +0000" stop="20250122060000 +0000" channel="CartonNClassic"><title lang="en">Mike Tyson Mysteries</title></programme> 
+<programme start="20250122060000 +0000" stop="20250122063000 +0000" channel="CartonNClassic"><title lang="en">Smiling Friends</title></programme>
+<programme start="20250122063000 +0000" stop="20250122070000 +0000" channel="CartonNClassic"><title lang="en">Delocated</title></programme>  
+<programme start="20250122070000 +0000" stop="20250122073000 +0000" channel="CartonNClassic"><title lang="en">Metalocalypse</title></programme>
+<programme start="20250122073000 +0000" stop="20250122080000 +0000" channel="CartonNClassic"><title lang="en">Million Dollar Extreme Presents: World Peace</title></programme> 
+<programme start="20250122080000 +0000" stop="20250122083000 +0000" channel="CartonNClassic"><title lang="en">Pee-wee's Playhouse</title></programme>
+<programme start="20250122083000 +0000" stop="20250122090000 +0000" channel="CartonNClassic"><title lang="en">Moral Orel</title></programme>  
+<programme start="20250122090000 +0000" stop="20250122093000 +0000" channel="CartonNClassic"><title lang="en">Futurama</title></programme>
+<programme start="20250122093000 +0000" stop="20250122100000 +0000" channel="CartonNClassic"><title lang="en">China, IL</title></programme> 
+<programme start="20250122100000 +0000" stop="20250122103000 +0000" channel="CartonNClassic"><title lang="en">Beyblade</title></programme>
+<programme start="20250122103000 +0000" stop="20250122110000 +0000" channel="CartonNClassic"><title lang="en">Robotboy</title></programme>  
+<programme start="20250122110000 +0000" stop="20250122113000 +0000" channel="CartonNClassic"><title lang="en">Hero</title></programme>
+<programme start="20250122113000 +0000" stop="20250122120000 +0000" channel="CartonNClassic"><title lang="en">Ben 10</title></programme> 
+<programme start="20250122120000 +0000" stop="20250122123000 +0000" channel="CartonNClassic"><title lang="en">My Gym Partner's a Money</title></programme>
+<programme start="20250122123000 +0000" stop="20250122130000 +0000" channel="CartonNClassic"><title lang="en">Bakugan</title></programme>  
+<programme start="20250122130000 +0000" stop="20250122133000 +0000" channel="CartonNClassic"><title lang="en">Static Shock</title></programme>
+<programme start="20250122133000 +0000" stop="20250122140000 +0000" channel="CartonNClassic"><title lang="en">Young Justice</title></programme> 
+<programme start="20250122140000 +0000" stop="20250122143000 +0000" channel="CartonNClassic"><title lang="en">The Powerpuff Girls</title></programme>
+<programme start="20250122143000 +0000" stop="20250122150000 +0000" channel="CartonNClassic"><title lang="en">The Grim Adventures of Billy and Mandy</title></programme>  
+<programme start="20250122150000 +0000" stop="20250122153000 +0000" channel="CartonNClassic"><title lang="en">Transformers</title></programme>
+<programme start="20250122153000 +0000" stop="20250122160000 +0000" channel="CartonNClassic"><title lang="en">Jackie Chan Adventures</title></programme> 
+<programme start="20250122160000 +0000" stop="20250122163000 +0000" channel="CartonNClassic"><title lang="en">Time Squade</title></programme>
+<programme start="20250122163000 +0000" stop="20250122170000 +0000" channel="CartonNClassic"><title lang="en">Sym-Bionic Titan</title></programme>  
+<programme start="20250122170000 +0000" stop="20250122173000 +0000" channel="CartonNClassic"><title lang="en">Chowder</title></programme>
+<programme start="20250122173000 +0000" stop="20250122180000 +0000" channel="CartonNClassic"><title lang="en">Codename: Kids Next Door</title></programme> 
+<programme start="20250122180000 +0000" stop="20250122183000 +0000" channel="CartonNClassic"><title lang="en">Megas XLR</title></programme>
+<programme start="20250122183000 +0000" stop="20250122190000 +0000" channel="CartonNClassic"><title lang="en">The Grim Adventures of Billy and Mandy</title></programme>  
+<programme start="20250122190000 +0000" stop="20250122193000 +0000" channel="CartonNClassic"><title lang="en">Ozzy and Drix</title></programme>
+<programme start="20250122193000 +0000" stop="20250122200000 +0000" channel="CartonNClassic"><title lang="en">Cow and Chicken</title></programme> 
+<programme start="20250122200000 +0000" stop="20250122203000 +0000" channel="CartonNClassic"><title lang="en">Winx Club</title></programme>
+<programme start="20250122203000 +0000" stop="20250122210000 +0000" channel="CartonNClassic"><title lang="en">Totally Spies!</title></programme>  
+<programme start="20250122210000 +0000" stop="20250122213000 +0000" channel="CartonNClassic"><title lang="en">Yu-Gi-Oh!</title></programme>
+<programme start="20250122213000 +0000" stop="20250122220000 +0000" channel="CartonNClassic"><title lang="en">Mucha Lucha</title></programme> 
+<programme start="20250122220000 +0000" stop="20250122223000 +0000" channel="CartonNClassic"><title lang="en">Code Lyoko</title></programme>
+<programme start="20250122223000 +0000" stop="20250122230000 +0000" channel="CartonNClassic"><title lang="en">Pokemon</title></programme>  
+<programme start="20250122230000 +0000" stop="20250122233000 +0000" channel="CartonNClassic"><title lang="en">Foster's Home for Imaginary Friends</title></programme>
+<programme start="20250122233000 +0000" stop="20250123000000 +0000" channel="CartonNClassic"><title lang="en">Ed, Edd and Eddy</title></programme> 
+<programme start="20250123000000 +0000" stop="20250123003000 +0000" channel="CartonNClassic"><title lang="en">King of the Hill</title></programme> 
+<programme start="20250123003000 +0000" stop="20250123010000 +0000" channel="CartonNClassic"><title lang="en">The Venture Bros.</title></programme> 
+<programme start="20250123010000 +0000" stop="20250123013000 +0000" channel="CartonNClassic"><title lang="en">The Boondocks</title></programme> 
+<programme start="20250123013000 +0000" stop="20250123020000 +0000" channel="CartonNClassic"><title lang="en">Rick and Morty</title></programme> 
+<programme start="20250123020000 +0000" stop="20250123023000 +0000" channel="CartonNClassic"><title lang="en">South Park</title></programme> 
+<programme start="20250123023000 +0000" stop="20250123030000 +0000" channel="CartonNClassic"><title lang="en">Futurama</title></programme> 
+<programme start="20250123030000 +0000" stop="20250123033000 +0000" channel="CartonNClassic"><title lang="en">American Dad</title></programme> 
+<programme start="20250123033000 +0000" stop="20250123040000 +0000" channel="CartonNClassic"><title lang="en">Harvy Birdman, Attorney At Law</title></programme> 
+<programme start="20250123040000 +0000" stop="20250123043000 +0000" channel="CartonNClassic"><title lang="en">Assy McGree</title></programme>
+<programme start="20250123043000 +0000" stop="20250123050000 +0000" channel="CartonNClassic"><title lang="en">Moral Orel</title></programme>  
+<programme start="20250123050000 +0000" stop="20250123053000 +0000" channel="CartonNClassic"><title lang="en">Cartoon Planet</title></programme>
+<programme start="20250123053000 +0000" stop="20250123060000 +0000" channel="CartonNClassic"><title lang="en">SuperJail!</title></programme> 
+<programme start="20250123060000 +0000" stop="20250123063000 +0000" channel="CartonNClassic"><title lang="en">Squidbillies</title></programme>
+<programme start="20250123063000 +0000" stop="20250123070000 +0000" channel="CartonNClassic"><title lang="en">The Brak Show</title></programme>  
+<programme start="20250123070000 +0000" stop="20250123073000 +0000" channel="CartonNClassic"><title lang="en">Sealab</title></programme>
+<programme start="20250123073000 +0000" stop="20250123080000 +0000" channel="CartonNClassic"><title lang="en">Aqua Teen Hunger Force</title></programme> 
+<programme start="20250123080000 +0000" stop="20250123083000 +0000" channel="CartonNClassic"><title lang="en">Robot Chicken</title></programme>
+<programme start="20250123083000 +0000" stop="20250123090000 +0000" channel="CartonNClassic"><title lang="en">Metalocalypse</title></programme>  
+<programme start="20250123090000 +0000" stop="20250123093000 +0000" channel="CartonNClassic"><title lang="en">Dream Corp</title></programme>
+<programme start="20250123093000 +0000" stop="20250123100000 +0000" channel="CartonNClassic"><title lang="en">Captain Planet</title></programme> 
+<programme start="20250123100000 +0000" stop="20250123103000 +0000" channel="CartonNClassic"><title lang="en">Johnny Bravo</title></programme>
+<programme start="20250123103000 +0000" stop="20250123110000 +0000" channel="CartonNClassic"><title lang="en">TMNT</title></programme>  
+<programme start="20250123110000 +0000" stop="20250123113000 +0000" channel="CartonNClassic"><title lang="en">Swat Kats</title></programme>
+<programme start="20250123113000 +0000" stop="20250123120000 +0000" channel="CartonNClassic"><title lang="en">Dino-Riders</title></programme> 
+<programme start="20250123120000 +0000" stop="20250123123000 +0000" channel="CartonNClassic"><title lang="en">G.I Joe</title></programme>
+<programme start="20250123123000 +0000" stop="20250123130000 +0000" channel="CartonNClassic"><title lang="en">Batman</title></programme>  
+<programme start="20250123130000 +0000" stop="20250123133000 +0000" channel="CartonNClassic"><title lang="en">Batman Beyond</title></programme>
+<programme start="20250123133000 +0000" stop="20250123140000 +0000" channel="CartonNClassic"><title lang="en">Dragon Ball Z</title></programme> 
+<programme start="20250123140000 +0000" stop="20250123143000 +0000" channel="CartonNClassic"><title lang="en">Sailor Moon</title></programme>
+<programme start="20250123143000 +0000" stop="20250123150000 +0000" channel="CartonNClassic"><title lang="en">Hamtaro</title></programme>  
+<programme start="20250123150000 +0000" stop="20250123153000 +0000" channel="CartonNClassic"><title lang="en">Rave Master</title></programme>
+<programme start="20250123153000 +0000" stop="20250123160000 +0000" channel="CartonNClassic"><title lang="en">Cardcaptors</title></programme> 
+<programme start="20250123160000 +0000" stop="20250123163000 +0000" channel="CartonNClassic"><title lang="en">Totally Spies!</title></programme>
+<programme start="20250123163000 +0000" stop="20250123170000 +0000" channel="CartonNClassic"><title lang="en">Chowder</title></programme>  
+<programme start="20250123170000 +0000" stop="20250123173000 +0000" channel="CartonNClassic"><title lang="en">Camp Lazlo</title></programme>
+<programme start="20250123173000 +0000" stop="20250123180000 +0000" channel="CartonNClassic"><title lang="en">Megas XLR</title></programme> 
+<programme start="20250123180000 +0000" stop="20250123183000 +0000" channel="CartonNClassic"><title lang="en">Robotboy</title></programme>
+<programme start="20250123183000 +0000" stop="20250123190000 +0000" channel="CartonNClassic"><title lang="en">Dexter's Lab</title></programme>  
+<programme start="20250123190000 +0000" stop="20250123193000 +0000" channel="CartonNClassic"><title lang="en">Cow and Chicken</title></programme>
+<programme start="20250123193000 +0000" stop="20250123200000 +0000" channel="CartonNClassic"><title lang="en">Teen Titans</title></programme> 
+<programme start="20250123200000 +0000" stop="20250123203000 +0000" channel="CartonNClassic"><title lang="en">Johnny Test</title></programme>
+<programme start="20250123203000 +0000" stop="20250123210000 +0000" channel="CartonNClassic"><title lang="en">Regular Show</title></programme>  
+<programme start="20250123210000 +0000" stop="20250123213000 +0000" channel="CartonNClassic"><title lang="en">Ok K.O</title></programme>
+<programme start="20250123213000 +0000" stop="20250123220000 +0000" channel="CartonNClassic"><title lang="en">MAD</title></programme> 
+<programme start="20250123220000 +0000" stop="20250123223000 +0000" channel="CartonNClassic"><title lang="en">Xiaolin Showdoen</title></programme>
+<programme start="20250123223000 +0000" stop="20250123230000 +0000" channel="CartonNClassic"><title lang="en">The Amazing Worrld of Gumball</title></programme>  
+<programme start="20250123230000 +0000" stop="20250123233000 +0000" channel="CartonNClassic"><title lang="en">Clearance</title></programme>
+<programme start="20250123233000 +0000" stop="20250124000000 +0000" channel="CartonNClassic"><title lang="en">Adventure Time</title></programme> 
+<programme start="20250124000000 +0000" stop="20250124003000 +0000" channel="CartonNClassic"><title lang="en">Bob's Burgers</title></programme> 
+<programme start="20250124003000 +0000" stop="20250124010000 +0000" channel="CartonNClassic"><title lang="en">The Cleveland Show</title></programme> 
+<programme start="20250124010000 +0000" stop="20250124013000 +0000" channel="CartonNClassic"><title lang="en">Rick and Morty</title></programme> 
+<programme start="20250124013000 +0000" stop="20250124020000 +0000" channel="CartonNClassic"><title lang="en">American Dad</title></programme> 
+<programme start="20250124020000 +0000" stop="20250124023000 +0000" channel="CartonNClassic"><title lang="en">Family Guy</title></programme> 
+<programme start="20250124023000 +0000" stop="20250124030000 +0000" channel="CartonNClassic"><title lang="en">Archer</title></programme> 
+<programme start="20250124030000 +0000" stop="20250124033000 +0000" channel="CartonNClassic"><title lang="en">The Simspsons</title></programme> 
+<programme start="20250124033000 +0000" stop="20250124040000 +0000" channel="CartonNClassic"><title lang="en">South Park</title></programme> 
+<programme start="20250124040000 +0000" stop="20250124043000 +0000" channel="CartonNClassic"><title lang="en">Robot Chicken</title></programme>
+<programme start="20250124043000 +0000" stop="20250124050000 +0000" channel="CartonNClassic"><title lang="en">Aqua Teen Hunger Force</title></programme>  
+<programme start="20250124050000 +0000" stop="20250124053000 +0000" channel="CartonNClassic"><title lang="en">China, IL</title></programme>
+<programme start="20250124053000 +0000" stop="20250124060000 +0000" channel="CartonNClassic"><title lang="en">Tim and Eric</title></programme> 
+<programme start="20250124060000 +0000" stop="20250124063000 +0000" channel="CartonNClassic"><title lang="en">Don't Hug Me</title></programme>
+<programme start="20250124063000 +0000" stop="20250124070000 +0000" channel="CartonNClassic"><title lang="en">Harvey Birdmen</title></programme>  
+<programme start="20250124070000 +0000" stop="20250124073000 +0000" channel="CartonNClassic"><title lang="en">Home Movies</title></programme>
+<programme start="20250124073000 +0000" stop="20250124080000 +0000" channel="CartonNClassic"><title lang="en">Xavier</title></programme> 
+<programme start="20250124080000 +0000" stop="20250124083000 +0000" channel="CartonNClassic"><title lang="en">Black Dynamite</title></programme>
+<programme start="20250124083000 +0000" stop="20250124090000 +0000" channel="CartonNClassic"><title lang="en">Black Jesus</title></programme>  
+<programme start="20250124090000 +0000" stop="20250124093000 +0000" channel="CartonNClassic"><title lang="en">Squidebillies</title></programme>
+<programme start="20250124093000 +0000" stop="20250124100000 +0000" channel="CartonNClassic"><title lang="en">Super Jail</title></programme> 
+<programme start="20250124100000 +0000" stop="20250124103000 +0000" channel="CartonNClassic"><title lang="en">Clone Wars</title></programme>
+<programme start="20250124103000 +0000" stop="20250124110000 +0000" channel="CartonNClassic"><title lang="en">Batman Beyond</title></programme>  
+<programme start="20250124110000 +0000" stop="20250124113000 +0000" channel="CartonNClassic"><title lang="en">Sym Bionic</title></programme>
+<programme start="20250124113000 +0000" stop="20250124120000 +0000" channel="CartonNClassic"><title lang="en">Evil Con</title></programme> 
+<programme start="20250124120000 +0000" stop="20250124123000 +0000" channel="CartonNClassic"><title lang="en">The Amazing World of Gumball</title></programme>
+<programme start="20250124123000 +0000" stop="20250124130000 +0000" channel="CartonNClassic"><title lang="en">Regular Show</title></programme>  
+<programme start="20250124130000 +0000" stop="20250124133000 +0000" channel="CartonNClassic"><title lang="en">Chowder</title></programme>
+<programme start="20250124133000 +0000" stop="20250124140000 +0000" channel="CartonNClassic"><title lang="en">Johnny Test</title></programme> 
+<programme start="20250124140000 +0000" stop="20250124143000 +0000" channel="CartonNClassic"><title lang="en">Batman</title></programme>
+<programme start="20250124143000 +0000" stop="20250124150000 +0000" channel="CartonNClassic"><title lang="en">Justice League</title></programme>  
+<programme start="20250124150000 +0000" stop="20250124153000 +0000" channel="CartonNClassic"><title lang="en">Misadventures of Flapjack</title></programme>
+<programme start="20250124153000 +0000" stop="20250124160000 +0000" channel="CartonNClassic"><title lang="en">Ninjago</title></programme> 
+<programme start="20250124160000 +0000" stop="20250124163000 +0000" channel="CartonNClassic"><title lang="en">Steven Universe</title></programme>
+<programme start="20250124163000 +0000" stop="20250124170000 +0000" channel="CartonNClassic"><title lang="en">2 Stupid Dogs</title></programme>  
+<programme start="20250124170000 +0000" stop="20250124173000 +0000" channel="CartonNClassic"><title lang="en">Xiaolin Showdow</title></programme>
+<programme start="20250124173000 +0000" stop="20250124180000 +0000" channel="CartonNClassic"><title lang="en">Clerance</title></programme> 
+<programme start="20250124180000 +0000" stop="20250124183000 +0000" channel="CartonNClassic"><title lang="en">Courage The Cowardly Dog</title></programme>
+<programme start="20250124183000 +0000" stop="20250124190000 +0000" channel="CartonNClassic"><title lang="en">Camp Lazio</title></programme>  
+<programme start="20250124190000 +0000" stop="20250124193000 +0000" channel="CartonNClassic"><title lang="en">My Gym Partner is a Monkey</title></programme>
+<programme start="20250124193000 +0000" stop="20250124200000 +0000" channel="CartonNClassic"><title lang="en">Juniper Lee</title></programme> 
+<programme start="20250124200000 +0000" stop="20250124203000 +0000" channel="CartonNClassic"><title lang="en">Code Lyoko</title></programme>
+<programme start="20250124203000 +0000" stop="20250124210000 +0000" channel="CartonNClassic"><title lang="en">Teen Titan</title></programme>  
+<programme start="20250124210000 +0000" stop="20250124213000 +0000" channel="CartonNClassic"><title lang="en">Hi Hi Puff</title></programme>
+<programme start="20250124213000 +0000" stop="20250124220000 +0000" channel="CartonNClassic"><title lang="en">Ed, Edd and Eddy</title></programme> 
+<programme start="20250124220000 +0000" stop="20250124223000 +0000" channel="CartonNClassic"><title lang="en">Totally Spies</title></programme>
+<programme start="20250124223000 +0000" stop="20250124230000 +0000" channel="CartonNClassic"><title lang="en">Foster's Home</title></programme>  
+<programme start="20250124230000 +0000" stop="20250124233000 +0000" channel="CartonNClassic"><title lang="en">Codename: Kids Next Door</title></programme>
+<programme start="20250124233000 +0000" stop="20250125000000 +0000" channel="CartonNClassic"><title lang="en">Billy and Mandy</title></programme> 
+<programme start="20250125000000 +0000" stop="20250125003000 +0000" channel="CartonNClassic"><title lang="en">Slayers</title></programme> 
+<programme start="20250125003000 +0000" stop="20250125010000 +0000" channel="CartonNClassic"><title lang="en">Zatch Bell</title></programme> 
+<programme start="20250125010000 +0000" stop="20250125013000 +0000" channel="CartonNClassic"><title lang="en">Jojo's Bizarre Adventure</title></programme> 
+<programme start="20250125013000 +0000" stop="20250125020000 +0000" channel="CartonNClassic"><title lang="en">Witch Hunter Robin</title></programme> 
+<programme start="20250125020000 +0000" stop="20250125023000 +0000" channel="CartonNClassic"><title lang="en">Toriko</title></programme> 
+<programme start="20250125023000 +0000" stop="20250125030000 +0000" channel="CartonNClassic"><title lang="en">Deadman Wonderland</title></programme> 
+<programme start="20250125030000 +0000" stop="20250125033000 +0000" channel="CartonNClassic"><title lang="en">The Big O</title></programme> 
+<programme start="20250125033000 +0000" stop="20250125040000 +0000" channel="CartonNClassic"><title lang="en">Trinity Blood</title></programme> 
+<programme start="20250125040000 +0000" stop="20250125043000 +0000" channel="CartonNClassic"><title lang="en">Bleach</title></programme>
+<programme start="20250125043000 +0000" stop="20250125050000 +0000" channel="CartonNClassic"><title lang="en">The Prince of Tennis</title></programme>  
+<programme start="20250125050000 +0000" stop="20250125053000 +0000" channel="CartonNClassic"><title lang="en">Reign</title></programme>
+<programme start="20250125053000 +0000" stop="20250125060000 +0000" channel="CartonNClassic"><title lang="en">Parasyte</title></programme> 
+<programme start="20250125060000 +0000" stop="20250125063000 +0000" channel="CartonNClassic"><title lang="en">Paranoia Agent</title></programme>
+<programme start="20250125063000 +0000" stop="20250125070000 +0000" channel="CartonNClassic"><title lang="en">Infinite Stratos </title></programme>  
+<programme start="20250125070000 +0000" stop="20250125073000 +0000" channel="CartonNClassic"><title lang="en">Durarara</title></programme>
+<programme start="20250125073000 +0000" stop="20250125080000 +0000" channel="CartonNClassic"><title lang="en">Neon Genesis</title></programme> 
+<programme start="20250125080000 +0000" stop="20250125083000 +0000" channel="CartonNClassic"><title lang="en">Mobile Suit Gundam</title></programme>
+<programme start="20250125083000 +0000" stop="20250125090000 +0000" channel="CartonNClassic"><title lang="en">Case Closed</title></programme>  
+<programme start="20250125090000 +0000" stop="20250125093000 +0000" channel="CartonNClassic"><title lang="en">Death Note</title></programme>
+<programme start="20250125093000 +0000" stop="20250125100000 +0000" channel="CartonNClassic"><title lang="en">IGPX</title></programme> 
+<programme start="20250125100000 +0000" stop="20250125103000 +0000" channel="CartonNClassic"><title lang="en">Popeye</title></programme>
+<programme start="20250125103000 +0000" stop="20250125110000 +0000" channel="CartonNClassic"><title lang="en">Looney Tunes</title></programme>  
+<programme start="20250125110000 +0000" stop="20250125113000 +0000" channel="CartonNClassic"><title lang="en">Tom and Jerry</title></programme>
+<programme start="20250125113000 +0000" stop="20250125120000 +0000" channel="CartonNClassic"><title lang="en">Wacky Races</title></programme> 
+<programme start="20250125120000 +0000" stop="20250125123000 +0000" channel="CartonNClassic"><title lang="en">Yogi Bear</title></programme>
+<programme start="20250125123000 +0000" stop="20250125130000 +0000" channel="CartonNClassic"><title lang="en">The Jetsons</title></programme>  
+<programme start="20250125130000 +0000" stop="20250125133000 +0000" channel="CartonNClassic"><title lang="en">The Smurfs</title></programme>
+<programme start="20250125133000 +0000" stop="20250125140000 +0000" channel="CartonNClassic"><title lang="en">Snorks</title></programme> 
+<programme start="20250125140000 +0000" stop="20250125143000 +0000" channel="CartonNClassic"><title lang="en">The Flintstones</title></programme>
+<programme start="20250125143000 +0000" stop="20250125150000 +0000" channel="CartonNClassic"><title lang="en">Josie and the Pussy Cats</title></programme>  
+<programme start="20250125150000 +0000" stop="20250125153000 +0000" channel="CartonNClassic"><title lang="en">Babt Looney Tunes</title></programme>
+<programme start="20250125153000 +0000" stop="20250125160000 +0000" channel="CartonNClassic"><title lang="en">Scooby-Doo</title></programme> 
+<programme start="20250125160000 +0000" stop="20250125163000 +0000" channel="CartonNClassic"><title lang="en">The Grim and Evil Show</title></programme>
+<programme start="20250125163000 +0000" stop="20250125170000 +0000" channel="CartonNClassic"><title lang="en">My Gyms Partners a Monkey</title></programme>  
+<programme start="20250125170000 +0000" stop="20250125173000 +0000" channel="CartonNClassic"><title lang="en">Batman</title></programme>
+<programme start="20250125173000 +0000" stop="20250125180000 +0000" channel="CartonNClassic"><title lang="en">Ben 10</title></programme> 
+<programme start="20250125180000 +0000" stop="20250125183000 +0000" channel="CartonNClassic"><title lang="en">Johnny Bravo</title></programme>
+<programme start="20250125183000 +0000" stop="20250125190000 +0000" channel="CartonNClassic"><title lang="en">Cow and Chicken</title></programme>  
+<programme start="20250125190000 +0000" stop="20250125193000 +0000" channel="CartonNClassic"><title lang="en">Regular Show</title></programme>
+<programme start="20250125193000 +0000" stop="20250125200000 +0000" channel="CartonNClassic"><title lang="en">Total Drama</title></programme> 
+<programme start="20250125200000 +0000" stop="20250125203000 +0000" channel="CartonNClassic"><title lang="en">Courage the Cowardly Dog</title></programme>
+<programme start="20250125203000 +0000" stop="20250125210000 +0000" channel="CartonNClassic"><title lang="en">Pokemon</title></programme>  
+<programme start="20250125210000 +0000" stop="20250125213000 +0000" channel="CartonNClassic"><title lang="en">Teen Titans</title></programme>
+<programme start="20250125213000 +0000" stop="20250125220000 +0000" channel="CartonNClassic"><title lang="en">Codename: Kids Next Door</title></programme> 
+<programme start="20250125220000 +0000" stop="20250125223000 +0000" channel="CartonNClassic"><title lang="en">Totally Spies</title></programme>
+<programme start="20250125223000 +0000" stop="20250125230000 +0000" channel="CartonNClassic"><title lang="en">Foster's Home</title></programme>  
+<programme start="20250125230000 +0000" stop="20250125233000 +0000" channel="CartonNClassic"><title lang="en">The Powerpuff Girls</title></programme>
+<programme start="20250125233000 +0000" stop="20250126000000 +0000" channel="CartonNClassic"><title lang="en">Ed, Edd and Eddy</title></programme> 
+<programme start="20250126000000 +0000" stop="20250126003000 +0000" channel="CartonNClassic"><title lang="en">Bobobo</title></programme> 
+<programme start="20250126003000 +0000" stop="20250126010000 +0000" channel="CartonNClassic"><title lang="en">Ouran High</title></programme> 
+<programme start="20250126010000 +0000" stop="20250126013000 +0000" channel="CartonNClassic"><title lang="en">Yu Yu Hakusho</title></programme> 
+<programme start="20250126013000 +0000" stop="20250126020000 +0000" channel="CartonNClassic"><title lang="en">Inuyasha</title></programme> 
+<programme start="20250126020000 +0000" stop="20250126023000 +0000" channel="CartonNClassic"><title lang="en">Samurai Camploo</title></programme> 
+<programme start="20250126023000 +0000" stop="20250126030000 +0000" channel="CartonNClassic"><title lang="en">Haganai</title></programme> 
+<programme start="20250126030000 +0000" stop="20250126033000 +0000" channel="CartonNClassic"><title lang="en">Overlord</title></programme> 
+<programme start="20250126033000 +0000" stop="20250126040000 +0000" channel="CartonNClassic"><title lang="en">My Hero Acidemia </title></programme> 
+<programme start="20250126040000 +0000" stop="20250126043000 +0000" channel="CartonNClassic"><title lang="en">Shin Chan</title></programme>
+<programme start="20250126043000 +0000" stop="20250126050000 +0000" channel="CartonNClassic"><title lang="en">Hamtato</title></programme>  
+<programme start="20250126050000 +0000" stop="20250126053000 +0000" channel="CartonNClassic"><title lang="en">Fullmetal Alchemist</title></programme>
+<programme start="20250126053000 +0000" stop="20250126060000 +0000" channel="CartonNClassic"><title lang="en">FLCL</title></programme> 
+<programme start="20250126060000 +0000" stop="20250126063000 +0000" channel="CartonNClassic"><title lang="en">Ghost in The Shell</title></programme>
+<programme start="20250126063000 +0000" stop="20250126070000 +0000" channel="CartonNClassic"><title lang="en">Cowboy Bebop</title></programme>  
+<programme start="20250126070000 +0000" stop="20250126073000 +0000" channel="CartonNClassic"><title lang="en">Heaven's Lost Property</title></programme>
+<programme start="20250126073000 +0000" stop="20250126080000 +0000" channel="CartonNClassic"><title lang="en">Sekirei</title></programme> 
+<programme start="20250126080000 +0000" stop="20250126083000 +0000" channel="CartonNClassic"><title lang="en">Ranma</title></programme>
+<programme start="20250126083000 +0000" stop="20250126090000 +0000" channel="CartonNClassic"><title lang="en">Lupin</title></programme>  
+<programme start="20250126090000 +0000" stop="20250126093000 +0000" channel="CartonNClassic"><title lang="en">Star Blazers</title></programme>
+<programme start="20250126093000 +0000" stop="20250126100000 +0000" channel="CartonNClassic"><title lang="en">Trigun</title></programme>   
+<programme start="20250126100000 +0000" stop="20250126103000 +0000" channel="CartonNClassic"><title lang="en">Samurai X</title></programme>
+<programme start="20250126103000 +0000" stop="20250126110000 +0000" channel="CartonNClassic"><title lang="en">MAR</title></programme>  
+<programme start="20250126110000 +0000" stop="20250126113000 +0000" channel="CartonNClassic"><title lang="en">Deltora Quest</title></programme>
+<programme start="20250126113000 +0000" stop="20250126120000 +0000" channel="CartonNClassic"><title lang="en">Mew Mew Power</title></programme> 
+<programme start="20250126120000 +0000" stop="20250126123000 +0000" channel="CartonNClassic"><title lang="en">Duck Dodgers</title></programme>
+<programme start="20250126123000 +0000" stop="20250126130000 +0000" channel="CartonNClassic"><title lang="en">Street Fighter</title></programme>  
+<programme start="20250126130000 +0000" stop="20250126133000 +0000" channel="CartonNClassic"><title lang="en">Extreme Ghostbusters</title></programme>
+<programme start="20250126133000 +0000" stop="20250126140000 +0000" channel="CartonNClassic"><title lang="en">Men in Black</title></programme> 
+<programme start="20250126140000 +0000" stop="20250126143000 +0000" channel="CartonNClassic"><title lang="en">Rescue Heroes</title></programme>
+<programme start="20250126143000 +0000" stop="20250126150000 +0000" channel="CartonNClassic"><title lang="en">C.O.P.S</title></programme>  
+<programme start="20250126150000 +0000" stop="20250126153000 +0000" channel="CartonNClassic"><title lang="en">Sonic the Hedgehog</title></programme>
+<programme start="20250126153000 +0000" stop="20250126160000 +0000" channel="CartonNClassic"><title lang="en">Spider Rider</title></programme> 
+<programme start="20250126160000 +0000" stop="20250126163000 +0000" channel="CartonNClassic"><title lang="en">Dexter's Lab</title></programme>
+<programme start="20250126163000 +0000" stop="20250126170000 +0000" channel="CartonNClassic"><title lang="en">Digimon</title></programme>  
+<programme start="20250126170000 +0000" stop="20250126173000 +0000" channel="CartonNClassic"><title lang="en">Kappa Mikey</title></programme>
+<programme start="20250126173000 +0000" stop="20250126180000 +0000" channel="CartonNClassic"><title lang="en">Jackie Chan's Adventure</title></programme> 
+<programme start="20250126180000 +0000" stop="20250126183000 +0000" channel="CartonNClassic"><title lang="en">Reboot</title></programme>
+<programme start="20250126183000 +0000" stop="20250126190000 +0000" channel="CartonNClassic"><title lang="en">He-Man</title></programme>  
+<programme start="20250126190000 +0000" stop="20250126193000 +0000" channel="CartonNClassic"><title lang="en">Thunder Cats</title></programme>
+<programme start="20250126193000 +0000" stop="20250126200000 +0000" channel="CartonNClassic"><title lang="en">G.I Joe</title></programme> 
+<programme start="20250126200000 +0000" stop="20250126203000 +0000" channel="CartonNClassic"><title lang="en">Robotech</title></programme>
+<programme start="20250126203000 +0000" stop="20250126210000 +0000" channel="CartonNClassic"><title lang="en">Sailor Moon</title></programme>  
+<programme start="20250126210000 +0000" stop="20250126213000 +0000" channel="CartonNClassic"><title lang="en">Dragon Ball Z</title></programme>
+<programme start="20250126213000 +0000" stop="20250126220000 +0000" channel="CartonNClassic"><title lang="en">Gundam Wing</title></programme> 
+<programme start="20250126220000 +0000" stop="20250126223000 +0000" channel="CartonNClassic"><title lang="en">Tenchi Universe</title></programme>
+<programme start="20250126223000 +0000" stop="20250126230000 +0000" channel="CartonNClassic"><title lang="en">Dot Hack Sign</title></programme>  
+<programme start="20250126230000 +0000" stop="20250126233000 +0000" channel="CartonNClassic"><title lang="en">Voltron</title></programme>
+<programme start="20250126233000 +0000" stop="20250127000000 +0000" channel="CartonNClassic"><title lang="en">Dragon Ball GT</title></programme> 
+<programme start="20250127000000 +0000" stop="20250127003000 +0000" channel="CartonNClassic"><title lang="en">Dragon Ball</title></programme> 
+<programme start="20250127003000 +0000" stop="20250127010000 +0000" channel="CartonNClassic"><title lang="en">Naruto</title></programme> 
+<programme start="20250127010000 +0000" stop="20250127013000 +0000" channel="CartonNClassic"><title lang="en">Fire Force</title></programme> 
+<programme start="20250127013000 +0000" stop="20250127020000 +0000" channel="CartonNClassic"><title lang="en">One Piece</title></programme> 
+<programme start="20250127020000 +0000" stop="20250127023000 +0000" channel="CartonNClassic"><title lang="en">Nerima</title></programme> 
+<programme start="20250127023000 +0000" stop="20250127030000 +0000" channel="CartonNClassic"><title lang="en">Is This a Zombie</title></programme> 
+<programme start="20250127030000 +0000" stop="20250127033000 +0000" channel="CartonNClassic"><title lang="en">That Time I got Reincarnated as a Slime</title></programme> 
+<programme start="20250127033000 +0000" stop="20250127040000 +0000" channel="CartonNClassic"><title lang="en">Twin Tails</title></programme> 
+<programme start="20250127040000 +0000" stop="20250127043000 +0000" channel="CartonNClassic"><title lang="en">KONOSUBA</title></programme>
+<programme start="20250127043000 +0000" stop="20250127050000 +0000" channel="CartonNClassic"><title lang="en">Yamada</title></programme>  
+<programme start="20250127050000 +0000" stop="20250127053000 +0000" channel="CartonNClassic"><title lang="en">Girls Brabo</title></programme>
+<programme start="20250127053000 +0000" stop="20250127060000 +0000" channel="CartonNClassic"><title lang="en">Gushing over Magical Girls</title></programme> 
+<programme start="20250127060000 +0000" stop="20250127063000 +0000" channel="CartonNClassic"><title lang="en">100 Girlfriends</title></programme>
+<programme start="20250127063000 +0000" stop="20250127070000 +0000" channel="CartonNClassic"><title lang="en">Date A Live</title></programme>  
+<programme start="20250127070000 +0000" stop="20250127073000 +0000" channel="CartonNClassic"><title lang="en">Fruits Basket</title></programme>
+<programme start="20250127073000 +0000" stop="20250127080000 +0000" channel="CartonNClassic"><title lang="en">Intinal D</title></programme> 
+<programme start="20250127080000 +0000" stop="20250127083000 +0000" channel="CartonNClassic"><title lang="en">Polar Bear Cafe</title></programme>
+<programme start="20250127083000 +0000" stop="20250127090000 +0000" channel="CartonNClassic"><title lang="en">Lucky Star</title></programme>  
+<programme start="20250127090000 +0000" stop="20250127093000 +0000" channel="CartonNClassic"><title lang="en">Fairy Tail</title></programme>
+<programme start="20250127093000 +0000" stop="20250127100000 +0000" channel="CartonNClassic"><title lang="en">Naruto Shippuden</title></programme> 
+<programme start="20250127100000 +0000" stop="20250127103000 +0000" channel="CartonNClassic"><title lang="en">Class of 300</title></programme>
+<programme start="20250127103000 +0000" stop="20250127110000 +0000" channel="CartonNClassic"><title lang="en">Johnny Test</title></programme>  
+<programme start="20250127110000 +0000" stop="20250127113000 +0000" channel="CartonNClassic"><title lang="en">Misadventures of Flapjack</title></programme>
+<programme start="20250127113000 +0000" stop="20250127120000 +0000" channel="CartonNClassic"><title lang="en">Yu-Gi-Oh</title></programme> 
+<programme start="20250127120000 +0000" stop="20250127123000 +0000" channel="CartonNClassic"><title lang="en">Adventure Time</title></programme>
+<programme start="20250127123000 +0000" stop="20250127130000 +0000" channel="CartonNClassic"><title lang="en">Camp Lazlo</title></programme>  
+<programme start="20250127130000 +0000" stop="20250127133000 +0000" channel="CartonNClassic"><title lang="en">The Powerpuff Girls</title></programme>
+<programme start="20250127133000 +0000" stop="20250127140000 +0000" channel="CartonNClassic"><title lang="en">Hi Hi Puff</title></programme> 
+<programme start="20250127140000 +0000" stop="20250127143000 +0000" channel="CartonNClassic"><title lang="en">I am Weasel</title></programme>
+<programme start="20250127143000 +0000" stop="20250127150000 +0000" channel="CartonNClassic"><title lang="en">Clarence</title></programme>  
+<programme start="20250127150000 +0000" stop="20250127153000 +0000" channel="CartonNClassic"><title lang="en">Swat Kats</title></programme>
+<programme start="20250127153000 +0000" stop="20250127160000 +0000" channel="CartonNClassic"><title lang="en">Juniper Lee</title></programme> 
+<programme start="20250127160000 +0000" stop="20250127163000 +0000" channel="CartonNClassic"><title lang="en">Pokemon</title></programme>
+<programme start="20250127163000 +0000" stop="20250127170000 +0000" channel="CartonNClassic"><title lang="en">My Gyms Partners a Money</title></programme>  
+<programme start="20250127170000 +0000" stop="20250127173000 +0000" channel="CartonNClassic"><title lang="en">Code Lyoko</title></programme>
+<programme start="20250127173000 +0000" stop="20250127180000 +0000" channel="CartonNClassic"><title lang="en">Code Lyoko</title></programme> 
+<programme start="20250127180000 +0000" stop="20250127183000 +0000" channel="CartonNClassic"><title lang="en">Teen Titans</title></programme>
+<programme start="20250127183000 +0000" stop="20250127190000 +0000" channel="CartonNClassic"><title lang="en">Teen Titans</title></programme>  
+<programme start="20250127190000 +0000" stop="20250127193000 +0000" channel="CartonNClassic"><title lang="en">Totally Spies</title></programme>
+<programme start="20250127193000 +0000" stop="20250127200000 +0000" channel="CartonNClassic"><title lang="en">Totally Spies</title></programme> 
+<programme start="20250127200000 +0000" stop="20250127203000 +0000" channel="CartonNClassic"><title lang="en">Codename Kids Next Door</title></programme>
+<programme start="20250127203000 +0000" stop="20250127210000 +0000" channel="CartonNClassic"><title lang="en">Codename Kids Next Door</title></programme>  
+<programme start="20250127210000 +0000" stop="20250127213000 +0000" channel="CartonNClassic"><title lang="en">Billy and Mandy</title></programme>
+<programme start="20250127213000 +0000" stop="20250127220000 +0000" channel="CartonNClassic"><title lang="en">Billy and Mandy</title></programme> 
+<programme start="20250127220000 +0000" stop="20250127223000 +0000" channel="CartonNClassic"><title lang="en">Fosters Home</title></programme>
+<programme start="20250127223000 +0000" stop="20250127230000 +0000" channel="CartonNClassic"><title lang="en">Fosters Home</title></programme>  
+<programme start="20250127230000 +0000" stop="20250127233000 +0000" channel="CartonNClassic"><title lang="en">Ed, Edd and Eddy</title></programme>
+<programme start="20250127233000 +0000" stop="20250128000000 +0000" channel="CartonNClassic"><title lang="en">Ed, Edd and Eddy</title></programme> 
+<programme start="20250128000000 +0000" stop="20250128003000 +0000" channel="CartonNClassic"><title lang="en">King of The Hill</title></programme> 
+<programme start="20250128003000 +0000" stop="20250128010000 +0000" channel="CartonNClassic"><title lang="en">The Venture Bros</title></programme> 
+<programme start="20250128010000 +0000" stop="20250128013000 +0000" channel="CartonNClassic"><title lang="en">Boondocks</title></programme> 
+<programme start="20250128013000 +0000" stop="20250128020000 +0000" channel="CartonNClassic"><title lang="en">Space Ghost</title></programme> 
+<programme start="20250128020000 +0000" stop="20250128023000 +0000" channel="CartonNClassic"><title lang="en">Bob's Burgers</title></programme> 
+<programme start="20250128023000 +0000" stop="20250128030000 +0000" channel="CartonNClassic"><title lang="en">Futurama</title></programme> 
+<programme start="20250128030000 +0000" stop="20250128033000 +0000" channel="CartonNClassic"><title lang="en">The Cleveland Show</title></programme> 
+<programme start="20250128033000 +0000" stop="20250128040000 +0000" channel="CartonNClassic"><title lang="en">Smiling Friends</title></programme> 
+<programme start="20250128040000 +0000" stop="20250128043000 +0000" channel="CartonNClassic"><title lang="en">Squidbillies</title></programme>
+<programme start="20250128043000 +0000" stop="20250128050000 +0000" channel="CartonNClassic"><title lang="en">Brad Neley</title></programme>  
+<programme start="20250128050000 +0000" stop="20250128053000 +0000" channel="CartonNClassic"><title lang="en">Tom goes to the Mayor</title></programme>
+<programme start="20250128053000 +0000" stop="20250128060000 +0000" channel="CartonNClassic"><title lang="en">Tim and Eric</title></programme> 
+<programme start="20250128060000 +0000" stop="20250128063000 +0000" channel="CartonNClassic"><title lang="en">Dream Corp</title></programme>
+<programme start="20250128063000 +0000" stop="20250128070000 +0000" channel="CartonNClassic"><title lang="en">The Oblongs</title></programme>  
+<programme start="20250128070000 +0000" stop="20250128073000 +0000" channel="CartonNClassic"><title lang="en">Home Movies</title></programme>
+<programme start="20250128073000 +0000" stop="20250128080000 +0000" channel="CartonNClassic"><title lang="en">Xavier</title></programme> 
+<programme start="20250128080000 +0000" stop="20250128083000 +0000" channel="CartonNClassic"><title lang="en">Happy Tree Friends</title></programme>
+<programme start="20250128083000 +0000" stop="20250128090000 +0000" channel="CartonNClassic"><title lang="en">Superjail!</title></programme>  
+<programme start="20250128090000 +0000" stop="20250128093000 +0000" channel="CartonNClassic"><title lang="en">Metalocalypse</title></programme>
+<programme start="20250128093000 +0000" stop="20250128100000 +0000" channel="CartonNClassic"><title lang="en">China IL</title></programme> 
+<programme start="20250128100000 +0000" stop="20250128103000 +0000" channel="CartonNClassic"><title lang="en">Pokemon</title></programme>
+<programme start="20250128103000 +0000" stop="20250128110000 +0000" channel="CartonNClassic"><title lang="en">Transformers: Energon</title></programme>  
+<programme start="20250128110000 +0000" stop="20250128113000 +0000" channel="CartonNClassic"><title lang="en">Courage the Cowardly Dog</title></programme>
+<programme start="20250128113000 +0000" stop="20250128120000 +0000" channel="CartonNClassic"><title lang="en">Star Wars: The Clone Wars</title></programme> 
+<programme start="20250128120000 +0000" stop="20250128123000 +0000" channel="CartonNClassic"><title lang="en">Mucha Lucha</title></programme>
+<programme start="20250128123000 +0000" stop="20250128130000 +0000" channel="CartonNClassic"><title lang="en">The Life and Times of Juniper Lee</title></programme>  
+<programme start="20250128130000 +0000" stop="20250128133000 +0000" channel="CartonNClassic"><title lang="en">Whatever Happened to... Robot Jones?</title></programme>
+<programme start="20250128133000 +0000" stop="20250128140000 +0000" channel="CartonNClassic"><title lang="en">Sheep In The Big City</title></programme> 
+<programme start="20250128140000 +0000" stop="20250128143000 +0000" channel="CartonNClassic"><title lang="en">Batman: The Animated Series</title></programme>
+<programme start="20250128143000 +0000" stop="20250128150000 +0000" channel="CartonNClassic"><title lang="en">Robotboy</title></programme>  
+<programme start="20250128150000 +0000" stop="20250128153000 +0000" channel="CartonNClassic"><title lang="en">Tom and Jerry</title></programme>
+<programme start="20250128153000 +0000" stop="20250128160000 +0000" channel="CartonNClassic"><title lang="en">Krypto the Superdog</title></programme> 
+<programme start="20250128160000 +0000" stop="20250128163000 +0000" channel="CartonNClassic"><title lang="en">Cow and Chicken/I am Weasel</title></programme>
+<programme start="20250128163000 +0000" stop="20250128170000 +0000" channel="CartonNClassic"><title lang="en">Johnny Bravo</title></programme>  
+<programme start="20250128170000 +0000" stop="20250128173000 +0000" channel="CartonNClassic"><title lang="en">Dexter's Lab</title></programme>
+<programme start="20250128173000 +0000" stop="20250128180000 +0000" channel="CartonNClassic"><title lang="en">2 Stupid Dogs/Super Secret Secret Squirrel</title></programme> 
+<programme start="20250128180000 +0000" stop="20250128183000 +0000" channel="CartonNClassic"><title lang="en">Evil Con Carne</title></programme>
+<programme start="20250128183000 +0000" stop="20250128190000 +0000" channel="CartonNClassic"><title lang="en">Teenage Mutant Ninja Turtles</title></programme>  
+<programme start="20250128190000 +0000" stop="20250128193000 +0000" channel="CartonNClassic"><title lang="en">Code Lyoko</title></programme>
+<programme start="20250128193000 +0000" stop="20250128200000 +0000" channel="CartonNClassic"><title lang="en">The PowerPuff Girls</title></programme> 
+<programme start="20250128200000 +0000" stop="20250128203000 +0000" channel="CartonNClassic"><title lang="en">Hamtaro</title></programme>
+<programme start="20250128203000 +0000" stop="20250128210000 +0000" channel="CartonNClassic"><title lang="en">Sailor Moon</title></programme>  
+<programme start="20250128210000 +0000" stop="20250128213000 +0000" channel="CartonNClassic"><title lang="en">Dragon Ball Z</title></programme>
+<programme start="20250128213000 +0000" stop="20250128220000 +0000" channel="CartonNClassic"><title lang="en">Ronin Warriors</title></programme> 
+<programme start="20250128220000 +0000" stop="20250128223000 +0000" channel="CartonNClassic"><title lang="en">ReBoot</title></programme>
+<programme start="20250128223000 +0000" stop="20250128230000 +0000" channel="CartonNClassic"><title lang="en">Outlaw Star</title></programme>  
+<programme start="20250128230000 +0000" stop="20250128233000 +0000" channel="CartonNClassic"><title lang="en">Sym-bionic Titan</title></programme>
+<programme start="20250128233000 +0000" stop="20250129000000 +0000" channel="CartonNClassic"><title lang="en">Xiaolin Showdown</title></programme> 
+<programme start="20250129000000 +0000" stop="20250129003000 +0000" channel="CartonNClassic"><title lang="en">The Eric Andre Show</title></programme> 
+<programme start="20250129003000 +0000" stop="20250129010000 +0000" channel="CartonNClassic"><title lang="en">Samurai Jack</title></programme> 
+<programme start="20250129010000 +0000" stop="20250129013000 +0000" channel="CartonNClassic"><title lang="en">Family Guy</title></programme> 
+<programme start="20250129013000 +0000" stop="20250129020000 +0000" channel="CartonNClassic"><title lang="en">Rick and Morty</title></programme> 
+<programme start="20250129020000 +0000" stop="20250129023000 +0000" channel="CartonNClassic"><title lang="en">King of the Hill</title></programme> 
+<programme start="20250129023000 +0000" stop="20250129030000 +0000" channel="CartonNClassic"><title lang="en">Futurama</title></programme> 
+<programme start="20250129030000 +0000" stop="20250129033000 +0000" channel="CartonNClassic"><title lang="en">American Dad</title></programme> 
+<programme start="20250129033000 +0000" stop="20250129040000 +0000" channel="CartonNClassic"><title lang="en">The Simpsons</title></programme> 
+<programme start="20250129040000 +0000" stop="20250129043000 +0000" channel="CartonNClassic"><title lang="en">Aqua Teen Hunger Force</title></programme>
+<programme start="20250129043000 +0000" stop="20250129050000 +0000" channel="CartonNClassic"><title lang="en">Harvey Birdman, Attorney At Law</title></programme>  
+<programme start="20250129050000 +0000" stop="20250129053000 +0000" channel="CartonNClassic"><title lang="en">NTSF:SD:SUV</title></programme>
+<programme start="20250129053000 +0000" stop="20250129060000 +0000" channel="CartonNClassic"><title lang="en">Mike Tyson Mysteries</title></programme> 
+<programme start="20250129060000 +0000" stop="20250129063000 +0000" channel="CartonNClassic"><title lang="en">Smiling Friends</title></programme>
+<programme start="20250129063000 +0000" stop="20250129070000 +0000" channel="CartonNClassic"><title lang="en">Delocated</title></programme>  
+<programme start="20250129070000 +0000" stop="20250129073000 +0000" channel="CartonNClassic"><title lang="en">Metalocalypse</title></programme>
+<programme start="20250129073000 +0000" stop="20250129080000 +0000" channel="CartonNClassic"><title lang="en">Million Dollar Extreme Presents: World Peace</title></programme> 
+<programme start="20250129080000 +0000" stop="20250129083000 +0000" channel="CartonNClassic"><title lang="en">Pee-wee's Playhouse</title></programme>
+<programme start="20250129083000 +0000" stop="20250129090000 +0000" channel="CartonNClassic"><title lang="en">Moral Orel</title></programme>  
+<programme start="20250129090000 +0000" stop="20250129093000 +0000" channel="CartonNClassic"><title lang="en">Futurama</title></programme>
+<programme start="20250129093000 +0000" stop="20250129100000 +0000" channel="CartonNClassic"><title lang="en">China, IL</title></programme> 
+<programme start="20250129100000 +0000" stop="20250129103000 +0000" channel="CartonNClassic"><title lang="en">Beyblade</title></programme>
+<programme start="20250129103000 +0000" stop="20250129110000 +0000" channel="CartonNClassic"><title lang="en">Robotboy</title></programme>  
+<programme start="20250129110000 +0000" stop="20250129113000 +0000" channel="CartonNClassic"><title lang="en">Hero</title></programme>
+<programme start="20250129113000 +0000" stop="20250129120000 +0000" channel="CartonNClassic"><title lang="en">Ben 10</title></programme> 
+<programme start="20250129120000 +0000" stop="20250129123000 +0000" channel="CartonNClassic"><title lang="en">My Gym Partner's a Money</title></programme>
+<programme start="20250129123000 +0000" stop="20250129130000 +0000" channel="CartonNClassic"><title lang="en">Bakugan</title></programme>  
+<programme start="20250129130000 +0000" stop="20250129133000 +0000" channel="CartonNClassic"><title lang="en">Static Shock</title></programme>
+<programme start="20250129133000 +0000" stop="20250129140000 +0000" channel="CartonNClassic"><title lang="en">Young Justice</title></programme> 
+<programme start="20250129140000 +0000" stop="20250129143000 +0000" channel="CartonNClassic"><title lang="en">The Powerpuff Girls</title></programme>
+<programme start="20250129143000 +0000" stop="20250129150000 +0000" channel="CartonNClassic"><title lang="en">The Grim Adventures of Billy and Mandy</title></programme>  
+<programme start="20250129150000 +0000" stop="20250129153000 +0000" channel="CartonNClassic"><title lang="en">Transformers</title></programme>
+<programme start="20250129153000 +0000" stop="20250129160000 +0000" channel="CartonNClassic"><title lang="en">Jackie Chan Adventures</title></programme> 
+<programme start="20250129160000 +0000" stop="20250129163000 +0000" channel="CartonNClassic"><title lang="en">Time Squade</title></programme>
+<programme start="20250129163000 +0000" stop="20250129170000 +0000" channel="CartonNClassic"><title lang="en">Sym-Bionic Titan</title></programme>  
+<programme start="20250129170000 +0000" stop="20250129173000 +0000" channel="CartonNClassic"><title lang="en">Chowder</title></programme>
+<programme start="20250129173000 +0000" stop="20250129180000 +0000" channel="CartonNClassic"><title lang="en">Codename: Kids Next Door</title></programme> 
+<programme start="20250129180000 +0000" stop="20250129183000 +0000" channel="CartonNClassic"><title lang="en">Megas XLR</title></programme>
+<programme start="20250129183000 +0000" stop="20250129190000 +0000" channel="CartonNClassic"><title lang="en">The Grim Adventures of Billy and Mandy</title></programme>  
+<programme start="20250129190000 +0000" stop="20250129193000 +0000" channel="CartonNClassic"><title lang="en">Ozzy and Drix</title></programme>
+<programme start="20250129193000 +0000" stop="20250129200000 +0000" channel="CartonNClassic"><title lang="en">Cow and Chicken</title></programme> 
+<programme start="20250129200000 +0000" stop="20250129203000 +0000" channel="CartonNClassic"><title lang="en">Winx Club</title></programme>
+<programme start="20250129203000 +0000" stop="20250129210000 +0000" channel="CartonNClassic"><title lang="en">Totally Spies!</title></programme>  
+<programme start="20250129210000 +0000" stop="20250129213000 +0000" channel="CartonNClassic"><title lang="en">Yu-Gi-Oh!</title></programme>
+<programme start="20250129213000 +0000" stop="20250129220000 +0000" channel="CartonNClassic"><title lang="en">Mucha Lucha</title></programme> 
+<programme start="20250129220000 +0000" stop="20250129223000 +0000" channel="CartonNClassic"><title lang="en">Code Lyoko</title></programme>
+<programme start="20250129223000 +0000" stop="20250129230000 +0000" channel="CartonNClassic"><title lang="en">Pokemon</title></programme>  
+<programme start="20250129230000 +0000" stop="20250129233000 +0000" channel="CartonNClassic"><title lang="en">Foster's Home for Imaginary Friends</title></programme>
+<programme start="20250129233000 +0000" stop="20250130000000 +0000" channel="CartonNClassic"><title lang="en">Ed, Edd and Eddy</title></programme> 
+<programme start="20250130000000 +0000" stop="20250130003000 +0000" channel="CartonNClassic"><title lang="en">King of the Hill</title></programme> 
+<programme start="20250130003000 +0000" stop="20250130010000 +0000" channel="CartonNClassic"><title lang="en">The Venture Bros.</title></programme> 
+<programme start="20250130010000 +0000" stop="20250130013000 +0000" channel="CartonNClassic"><title lang="en">The Boondocks</title></programme> 
+<programme start="20250130013000 +0000" stop="20250130020000 +0000" channel="CartonNClassic"><title lang="en">Rick and Morty</title></programme> 
+<programme start="20250130020000 +0000" stop="20250130023000 +0000" channel="CartonNClassic"><title lang="en">South Park</title></programme> 
+<programme start="20250130023000 +0000" stop="20250130030000 +0000" channel="CartonNClassic"><title lang="en">Futurama</title></programme> 
+<programme start="20250130030000 +0000" stop="20250130033000 +0000" channel="CartonNClassic"><title lang="en">American Dad</title></programme> 
+<programme start="20250130033000 +0000" stop="20250130040000 +0000" channel="CartonNClassic"><title lang="en">Harvy Birdman, Attorney At Law</title></programme> 
+<programme start="20250130040000 +0000" stop="20250130043000 +0000" channel="CartonNClassic"><title lang="en">Assy McGree</title></programme>
+<programme start="20250130043000 +0000" stop="20250130050000 +0000" channel="CartonNClassic"><title lang="en">Moral Orel</title></programme>  
+<programme start="20250130050000 +0000" stop="20250130053000 +0000" channel="CartonNClassic"><title lang="en">Cartoon Planet</title></programme>
+<programme start="20250130053000 +0000" stop="20250130060000 +0000" channel="CartonNClassic"><title lang="en">SuperJail!</title></programme> 
+<programme start="20250130060000 +0000" stop="20250130063000 +0000" channel="CartonNClassic"><title lang="en">Squidbillies</title></programme>
+<programme start="20250130063000 +0000" stop="20250130070000 +0000" channel="CartonNClassic"><title lang="en">The Brak Show</title></programme>  
+<programme start="20250130070000 +0000" stop="20250130073000 +0000" channel="CartonNClassic"><title lang="en">Sealab</title></programme>
+<programme start="20250130073000 +0000" stop="20250130080000 +0000" channel="CartonNClassic"><title lang="en">Aqua Teen Hunger Force</title></programme> 
+<programme start="20250130080000 +0000" stop="20250130083000 +0000" channel="CartonNClassic"><title lang="en">Robot Chicken</title></programme>
+<programme start="20250130083000 +0000" stop="20250130090000 +0000" channel="CartonNClassic"><title lang="en">Metalocalypse</title></programme>  
+<programme start="20250130090000 +0000" stop="20250130093000 +0000" channel="CartonNClassic"><title lang="en">Dream Corp</title></programme>
+<programme start="20250130093000 +0000" stop="20250130100000 +0000" channel="CartonNClassic"><title lang="en">Captain Planet</title></programme> 
+<programme start="20250130100000 +0000" stop="20250130103000 +0000" channel="CartonNClassic"><title lang="en">Johnny Bravo</title></programme>
+<programme start="20250130103000 +0000" stop="20250130110000 +0000" channel="CartonNClassic"><title lang="en">TMNT</title></programme>  
+<programme start="20250130110000 +0000" stop="20250130113000 +0000" channel="CartonNClassic"><title lang="en">Swat Kats</title></programme>
+<programme start="20250130113000 +0000" stop="20250130120000 +0000" channel="CartonNClassic"><title lang="en">Dino-Riders</title></programme> 
+<programme start="20250130120000 +0000" stop="20250130123000 +0000" channel="CartonNClassic"><title lang="en">G.I Joe</title></programme>
+<programme start="20250130123000 +0000" stop="20250130130000 +0000" channel="CartonNClassic"><title lang="en">Batman</title></programme>  
+<programme start="20250130130000 +0000" stop="20250130133000 +0000" channel="CartonNClassic"><title lang="en">Batman Beyond</title></programme>
+<programme start="20250130133000 +0000" stop="20250130140000 +0000" channel="CartonNClassic"><title lang="en">Dragon Ball Z</title></programme> 
+<programme start="20250130140000 +0000" stop="20250130143000 +0000" channel="CartonNClassic"><title lang="en">Sailor Moon</title></programme>
+<programme start="20250130143000 +0000" stop="20250130150000 +0000" channel="CartonNClassic"><title lang="en">Hamtaro</title></programme>  
+<programme start="20250130150000 +0000" stop="20250130153000 +0000" channel="CartonNClassic"><title lang="en">Rave Master</title></programme>
+<programme start="20250130153000 +0000" stop="20250130160000 +0000" channel="CartonNClassic"><title lang="en">Cardcaptors</title></programme> 
+<programme start="20250130160000 +0000" stop="20250130163000 +0000" channel="CartonNClassic"><title lang="en">Totally Spies!</title></programme>
+<programme start="20250130163000 +0000" stop="20250130170000 +0000" channel="CartonNClassic"><title lang="en">Chowder</title></programme>  
+<programme start="20250130170000 +0000" stop="20250130173000 +0000" channel="CartonNClassic"><title lang="en">Camp Lazlo</title></programme>
+<programme start="20250130173000 +0000" stop="20250130180000 +0000" channel="CartonNClassic"><title lang="en">Megas XLR</title></programme> 
+<programme start="20250130180000 +0000" stop="20250130183000 +0000" channel="CartonNClassic"><title lang="en">Robotboy</title></programme>
+<programme start="20250130183000 +0000" stop="20250130190000 +0000" channel="CartonNClassic"><title lang="en">Dexter's Lab</title></programme>  
+<programme start="20250130190000 +0000" stop="20250130193000 +0000" channel="CartonNClassic"><title lang="en">Cow and Chicken</title></programme>
+<programme start="20250130193000 +0000" stop="20250130200000 +0000" channel="CartonNClassic"><title lang="en">Teen Titans</title></programme> 
+<programme start="20250130200000 +0000" stop="20250130203000 +0000" channel="CartonNClassic"><title lang="en">Johnny Test</title></programme>
+<programme start="20250130203000 +0000" stop="20250130210000 +0000" channel="CartonNClassic"><title lang="en">Regular Show</title></programme>  
+<programme start="20250130210000 +0000" stop="20250130213000 +0000" channel="CartonNClassic"><title lang="en">Ok K.O</title></programme>
+<programme start="20250130213000 +0000" stop="20250130220000 +0000" channel="CartonNClassic"><title lang="en">MAD</title></programme> 
+<programme start="20250130220000 +0000" stop="20250130223000 +0000" channel="CartonNClassic"><title lang="en">Xiaolin Showdoen</title></programme>
+<programme start="20250130223000 +0000" stop="20250130230000 +0000" channel="CartonNClassic"><title lang="en">The Amazing Worrld of Gumball</title></programme>  
+<programme start="20250130230000 +0000" stop="20250130233000 +0000" channel="CartonNClassic"><title lang="en">Clearance</title></programme>
+<programme start="20250130233000 +0000" stop="20250131000000 +0000" channel="CartonNClassic"><title lang="en">Adventure Time</title></programme> 
+<programme start="20250131000000 +0000" stop="20250131003000 +0000" channel="CartonNClassic"><title lang="en">Bob's Burgers</title></programme> 
+<programme start="20250131003000 +0000" stop="20250131010000 +0000" channel="CartonNClassic"><title lang="en">The Cleveland Show</title></programme> 
+<programme start="20250131010000 +0000" stop="20250131013000 +0000" channel="CartonNClassic"><title lang="en">Rick and Morty</title></programme> 
+<programme start="20250131013000 +0000" stop="20250131020000 +0000" channel="CartonNClassic"><title lang="en">American Dad</title></programme> 
+<programme start="20250131020000 +0000" stop="20250131023000 +0000" channel="CartonNClassic"><title lang="en">Family Guy</title></programme> 
+<programme start="20250131023000 +0000" stop="20250131030000 +0000" channel="CartonNClassic"><title lang="en">Archer</title></programme> 
+<programme start="20250131030000 +0000" stop="20250131033000 +0000" channel="CartonNClassic"><title lang="en">The Simspsons</title></programme> 
+<programme start="20250131033000 +0000" stop="20250131040000 +0000" channel="CartonNClassic"><title lang="en">South Park</title></programme> 
+<programme start="20250131040000 +0000" stop="20250131043000 +0000" channel="CartonNClassic"><title lang="en">Robot Chicken</title></programme>
+<programme start="20250131043000 +0000" stop="20250131050000 +0000" channel="CartonNClassic"><title lang="en">Aqua Teen Hunger Force</title></programme>  
+<programme start="20250131050000 +0000" stop="20250131053000 +0000" channel="CartonNClassic"><title lang="en">China, IL</title></programme>
+<programme start="20250131053000 +0000" stop="20250131060000 +0000" channel="CartonNClassic"><title lang="en">Tim and Eric</title></programme> 
+<programme start="20250131060000 +0000" stop="20250131063000 +0000" channel="CartonNClassic"><title lang="en">Don't Hug Me</title></programme>
+<programme start="20250131063000 +0000" stop="20250131070000 +0000" channel="CartonNClassic"><title lang="en">Harvey Birdmen</title></programme>  
+<programme start="20250131070000 +0000" stop="20250131073000 +0000" channel="CartonNClassic"><title lang="en">Home Movies</title></programme>
+<programme start="20250131073000 +0000" stop="20250131080000 +0000" channel="CartonNClassic"><title lang="en">Xavier</title></programme> 
+<programme start="20250131080000 +0000" stop="20250131083000 +0000" channel="CartonNClassic"><title lang="en">Black Dynamite</title></programme>
+<programme start="20250131083000 +0000" stop="20250131090000 +0000" channel="CartonNClassic"><title lang="en">Black Jesus</title></programme>  
+<programme start="20250131090000 +0000" stop="20250131093000 +0000" channel="CartonNClassic"><title lang="en">Squidebillies</title></programme>
+<programme start="20250131093000 +0000" stop="20250131100000 +0000" channel="CartonNClassic"><title lang="en">Super Jail</title></programme> 
+<programme start="20250131100000 +0000" stop="20250131103000 +0000" channel="CartonNClassic"><title lang="en">Clone Wars</title></programme>
+<programme start="20250131103000 +0000" stop="20250131110000 +0000" channel="CartonNClassic"><title lang="en">Batman Beyond</title></programme>  
+<programme start="20250131110000 +0000" stop="20250131113000 +0000" channel="CartonNClassic"><title lang="en">Sym Bionic</title></programme>
+<programme start="20250131113000 +0000" stop="20250131120000 +0000" channel="CartonNClassic"><title lang="en">Evil Con</title></programme> 
+<programme start="20250131120000 +0000" stop="20250131123000 +0000" channel="CartonNClassic"><title lang="en">The Amazing World of Gumball</title></programme>
+<programme start="20250131123000 +0000" stop="20250131130000 +0000" channel="CartonNClassic"><title lang="en">Regular Show</title></programme>  
+<programme start="20250131130000 +0000" stop="20250131133000 +0000" channel="CartonNClassic"><title lang="en">Chowder</title></programme>
+<programme start="20250131133000 +0000" stop="20250131140000 +0000" channel="CartonNClassic"><title lang="en">Johnny Test</title></programme> 
+<programme start="20250131140000 +0000" stop="20250131143000 +0000" channel="CartonNClassic"><title lang="en">Batman</title></programme>
+<programme start="20250131143000 +0000" stop="20250131150000 +0000" channel="CartonNClassic"><title lang="en">Justice League</title></programme>  
+<programme start="20250131150000 +0000" stop="20250131153000 +0000" channel="CartonNClassic"><title lang="en">Misadventures of Flapjack</title></programme>
+<programme start="20250131153000 +0000" stop="20250131160000 +0000" channel="CartonNClassic"><title lang="en">Ninjago</title></programme> 
+<programme start="20250131160000 +0000" stop="20250131163000 +0000" channel="CartonNClassic"><title lang="en">Steven Universe</title></programme>
+<programme start="20250131163000 +0000" stop="20250131170000 +0000" channel="CartonNClassic"><title lang="en">2 Stupid Dogs</title></programme>  
+<programme start="20250131170000 +0000" stop="20250131173000 +0000" channel="CartonNClassic"><title lang="en">Xiaolin Showdow</title></programme>
+<programme start="20250131173000 +0000" stop="20250131180000 +0000" channel="CartonNClassic"><title lang="en">Clerance</title></programme> 
+<programme start="20250131180000 +0000" stop="20250131183000 +0000" channel="CartonNClassic"><title lang="en">Courage The Cowardly Dog</title></programme>
+<programme start="20250131183000 +0000" stop="20250131190000 +0000" channel="CartonNClassic"><title lang="en">Camp Lazio</title></programme>  
+<programme start="20250131190000 +0000" stop="20250131193000 +0000" channel="CartonNClassic"><title lang="en">My Gym Partner is a Monkey</title></programme>
+<programme start="20250131193000 +0000" stop="20250131200000 +0000" channel="CartonNClassic"><title lang="en">Juniper Lee</title></programme> 
+<programme start="20250131200000 +0000" stop="20250131203000 +0000" channel="CartonNClassic"><title lang="en">Code Lyoko</title></programme>
+<programme start="20250131203000 +0000" stop="20250131210000 +0000" channel="CartonNClassic"><title lang="en">Teen Titan</title></programme>  
+<programme start="20250131210000 +0000" stop="20250131213000 +0000" channel="CartonNClassic"><title lang="en">Hi Hi Puff</title></programme>
+<programme start="20250131213000 +0000" stop="20250131220000 +0000" channel="CartonNClassic"><title lang="en">Ed, Edd and Eddy</title></programme> 
+<programme start="20250131220000 +0000" stop="20250131223000 +0000" channel="CartonNClassic"><title lang="en">Totally Spies</title></programme>
+<programme start="20250131223000 +0000" stop="20250131230000 +0000" channel="CartonNClassic"><title lang="en">Foster's Home</title></programme>  
+<programme start="20250131230000 +0000" stop="20250131233000 +0000" channel="CartonNClassic"><title lang="en">Codename: Kids Next Door</title></programme>
+<programme start="20250131233000 +0000" stop="20250201000000 +0000" channel="CartonNClassic"><title lang="en">Billy and Mandy</title></programme> 
+<programme start="20250201000000 +0000" stop="20250201003000 +0000" channel="CartonNClassic"><title lang="en">Slayers</title></programme> 
+<programme start="20250201003000 +0000" stop="20250201010000 +0000" channel="CartonNClassic"><title lang="en">Zatch Bell</title></programme> 
+<programme start="20250201010000 +0000" stop="20250201013000 +0000" channel="CartonNClassic"><title lang="en">Jojo's Bizarre Adventure</title></programme> 
+<programme start="20250201013000 +0000" stop="20250201020000 +0000" channel="CartonNClassic"><title lang="en">Witch Hunter Robin</title></programme> 
+<programme start="20250201020000 +0000" stop="20250201023000 +0000" channel="CartonNClassic"><title lang="en">Toriko</title></programme> 
+<programme start="20250201023000 +0000" stop="20250201030000 +0000" channel="CartonNClassic"><title lang="en">Deadman Wonderland</title></programme> 
+<programme start="20250201030000 +0000" stop="20250201033000 +0000" channel="CartonNClassic"><title lang="en">The Big O</title></programme> 
+<programme start="20250201033000 +0000" stop="20250201040000 +0000" channel="CartonNClassic"><title lang="en">Trinity Blood</title></programme> 
+<programme start="20250201040000 +0000" stop="20250201043000 +0000" channel="CartonNClassic"><title lang="en">Bleach</title></programme>
+<programme start="20250201043000 +0000" stop="20250201050000 +0000" channel="CartonNClassic"><title lang="en">The Prince of Tennis</title></programme>  
+<programme start="20250201050000 +0000" stop="20250201053000 +0000" channel="CartonNClassic"><title lang="en">Reign</title></programme>
+<programme start="20250201053000 +0000" stop="20250201060000 +0000" channel="CartonNClassic"><title lang="en">Parasyte</title></programme> 
+<programme start="20250201060000 +0000" stop="20250201063000 +0000" channel="CartonNClassic"><title lang="en">Paranoia Agent</title></programme>
+<programme start="20250201063000 +0000" stop="20250201070000 +0000" channel="CartonNClassic"><title lang="en">Infinite Stratos </title></programme>  
+<programme start="20250201070000 +0000" stop="20250201073000 +0000" channel="CartonNClassic"><title lang="en">Durarara</title></programme>
+<programme start="20250201073000 +0000" stop="20250201080000 +0000" channel="CartonNClassic"><title lang="en">Neon Genesis</title></programme> 
+<programme start="20250201080000 +0000" stop="20250201083000 +0000" channel="CartonNClassic"><title lang="en">Mobile Suit Gundam</title></programme>
+<programme start="20250201083000 +0000" stop="20250201090000 +0000" channel="CartonNClassic"><title lang="en">Case Closed</title></programme>  
+<programme start="20250201090000 +0000" stop="20250201093000 +0000" channel="CartonNClassic"><title lang="en">Death Note</title></programme>
+<programme start="20250201093000 +0000" stop="20250201100000 +0000" channel="CartonNClassic"><title lang="en">IGPX</title></programme> 
+<programme start="20250201100000 +0000" stop="20250201103000 +0000" channel="CartonNClassic"><title lang="en">Popeye</title></programme>
+<programme start="20250201103000 +0000" stop="20250201110000 +0000" channel="CartonNClassic"><title lang="en">Looney Tunes</title></programme>  
+<programme start="20250201110000 +0000" stop="20250201113000 +0000" channel="CartonNClassic"><title lang="en">Tom and Jerry</title></programme>
+<programme start="20250201113000 +0000" stop="20250201120000 +0000" channel="CartonNClassic"><title lang="en">Wacky Races</title></programme> 
+<programme start="20250201120000 +0000" stop="20250201123000 +0000" channel="CartonNClassic"><title lang="en">Yogi Bear</title></programme>
+<programme start="20250201123000 +0000" stop="20250201130000 +0000" channel="CartonNClassic"><title lang="en">The Jetsons</title></programme>  
+<programme start="20250201130000 +0000" stop="20250201133000 +0000" channel="CartonNClassic"><title lang="en">The Smurfs</title></programme>
+<programme start="20250201133000 +0000" stop="20250201140000 +0000" channel="CartonNClassic"><title lang="en">Snorks</title></programme> 
+<programme start="20250201140000 +0000" stop="20250201143000 +0000" channel="CartonNClassic"><title lang="en">The Flintstones</title></programme>
+<programme start="20250201143000 +0000" stop="20250201150000 +0000" channel="CartonNClassic"><title lang="en">Josie and the Pussy Cats</title></programme>  
+<programme start="20250201150000 +0000" stop="20250201153000 +0000" channel="CartonNClassic"><title lang="en">Babt Looney Tunes</title></programme>
+<programme start="20250201153000 +0000" stop="20250201160000 +0000" channel="CartonNClassic"><title lang="en">Scooby-Doo</title></programme> 
+<programme start="20250201160000 +0000" stop="20250201163000 +0000" channel="CartonNClassic"><title lang="en">The Grim and Evil Show</title></programme>
+<programme start="20250201163000 +0000" stop="20250201170000 +0000" channel="CartonNClassic"><title lang="en">My Gyms Partners a Monkey</title></programme>  
+<programme start="20250201170000 +0000" stop="20250201173000 +0000" channel="CartonNClassic"><title lang="en">Batman</title></programme>
+<programme start="20250201173000 +0000" stop="20250201180000 +0000" channel="CartonNClassic"><title lang="en">Ben 10</title></programme> 
+<programme start="20250201180000 +0000" stop="20250201183000 +0000" channel="CartonNClassic"><title lang="en">Johnny Bravo</title></programme>
+<programme start="20250201183000 +0000" stop="20250201190000 +0000" channel="CartonNClassic"><title lang="en">Cow and Chicken</title></programme>  
+<programme start="20250201190000 +0000" stop="20250201193000 +0000" channel="CartonNClassic"><title lang="en">Regular Show</title></programme>
+<programme start="20250201193000 +0000" stop="20250201200000 +0000" channel="CartonNClassic"><title lang="en">Total Drama</title></programme> 
+<programme start="20250201200000 +0000" stop="20250201203000 +0000" channel="CartonNClassic"><title lang="en">Courage the Cowardly Dog</title></programme>
+<programme start="20250201203000 +0000" stop="20250201210000 +0000" channel="CartonNClassic"><title lang="en">Pokemon</title></programme>  
+<programme start="20250201210000 +0000" stop="20250201213000 +0000" channel="CartonNClassic"><title lang="en">Teen Titans</title></programme>
+<programme start="20250201213000 +0000" stop="20250201220000 +0000" channel="CartonNClassic"><title lang="en">Codename: Kids Next Door</title></programme> 
+<programme start="20250201220000 +0000" stop="20250201223000 +0000" channel="CartonNClassic"><title lang="en">Totally Spies</title></programme>
+<programme start="20250201223000 +0000" stop="20250201230000 +0000" channel="CartonNClassic"><title lang="en">Foster's Home</title></programme>  
+<programme start="20250201230000 +0000" stop="20250201233000 +0000" channel="CartonNClassic"><title lang="en">The Powerpuff Girls</title></programme>
+<programme start="20250201233000 +0000" stop="20250202000000 +0000" channel="CartonNClassic"><title lang="en">Ed, Edd and Eddy</title></programme> 
+<programme start="20250202000000 +0000" stop="20250202003000 +0000" channel="CartonNClassic"><title lang="en">Bobobo</title></programme> 
+<programme start="20250202003000 +0000" stop="20250202010000 +0000" channel="CartonNClassic"><title lang="en">Ouran High</title></programme> 
+<programme start="20250202010000 +0000" stop="20250202013000 +0000" channel="CartonNClassic"><title lang="en">Yu Yu Hakusho</title></programme> 
+<programme start="20250202013000 +0000" stop="20250202020000 +0000" channel="CartonNClassic"><title lang="en">Inuyasha</title></programme> 
+<programme start="20250202020000 +0000" stop="20250202023000 +0000" channel="CartonNClassic"><title lang="en">Samurai Camploo</title></programme> 
+<programme start="20250202023000 +0000" stop="20250202030000 +0000" channel="CartonNClassic"><title lang="en">Haganai</title></programme> 
+<programme start="20250202030000 +0000" stop="20250202033000 +0000" channel="CartonNClassic"><title lang="en">Overlord</title></programme> 
+<programme start="20250202033000 +0000" stop="20250202040000 +0000" channel="CartonNClassic"><title lang="en">My Hero Acidemia </title></programme> 
+<programme start="20250202040000 +0000" stop="20250202043000 +0000" channel="CartonNClassic"><title lang="en">Shin Chan</title></programme>
+<programme start="20250202043000 +0000" stop="20250202050000 +0000" channel="CartonNClassic"><title lang="en">Hamtato</title></programme>  
+<programme start="20250202050000 +0000" stop="20250202053000 +0000" channel="CartonNClassic"><title lang="en">Fullmetal Alchemist</title></programme>
+<programme start="20250202053000 +0000" stop="20250202060000 +0000" channel="CartonNClassic"><title lang="en">FLCL</title></programme> 
+<programme start="20250202060000 +0000" stop="20250202063000 +0000" channel="CartonNClassic"><title lang="en">Ghost in The Shell</title></programme>
+<programme start="20250202063000 +0000" stop="20250202070000 +0000" channel="CartonNClassic"><title lang="en">Cowboy Bebop</title></programme>  
+<programme start="20250202070000 +0000" stop="20250202073000 +0000" channel="CartonNClassic"><title lang="en">Heaven's Lost Property</title></programme>
+<programme start="20250202073000 +0000" stop="20250202080000 +0000" channel="CartonNClassic"><title lang="en">Sekirei</title></programme> 
+<programme start="20250202080000 +0000" stop="20250202083000 +0000" channel="CartonNClassic"><title lang="en">Ranma</title></programme>
+<programme start="20250202083000 +0000" stop="20250202090000 +0000" channel="CartonNClassic"><title lang="en">Lupin</title></programme>  
+<programme start="20250202090000 +0000" stop="20250202093000 +0000" channel="CartonNClassic"><title lang="en">Star Blazers</title></programme>
+<programme start="20250202093000 +0000" stop="20250202100000 +0000" channel="CartonNClassic"><title lang="en">Trigun</title></programme>     
 </tv>
