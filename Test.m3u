@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:54,Channel 99
+https://www.pracdev.org/channel99/pls_files/channel_99.pls
+#EXTINF:0,Channel 99½
+https://www.pracdev.org/channel99/pls_files/channel_99_half.pls
+#EXTINF:0,Channel 99 Classic
+https://www.pracdev.org/channel99/pls_files/channel_99_classic.pls
+#EXTINF:0,Channel 99 HD
+https://www.pracdev.org/channel99/pls_files/channel_99_hd.pls
+
