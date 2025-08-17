@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20250817">`
 <channel id="CCube"><display-name>CCube</display-name><icon src="https://i.imgur.com/aSjhZK7.png"/><url>doesnotmatter</url></channel>
   
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20250817">`
+<channel id="CCube"><display-name>CCube</display-name><icon src="https://i.imgur.com/aSjhZK7.png"/><url>doesnotmatter</url></channel>
+  
 <programme start="20250817040000 +0000" stop="20250817043000 +0000" channel="CCube"><title lang="en">IGPX</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
 <programme start="20250817043000 +0000" stop="20250817050000 +0000" channel="CCube"><title lang="en">Fullmetal Alchemist Brotherhood</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
 <programme start="20250817050000 +0000" stop="20250817053000 +0000" channel="CCube"><title lang="en">Samurai Champloo</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
@@ -294,55 +297,7 @@
 <programme start="20250822023000 +0000" stop="20250822030000 +0000" channel="CCube"><title lang="en">Paranoia Agent</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
 <programme start="20250822030000 +0000" stop="20250822033000 +0000" channel="CCube"><title lang="en">Cyborg 009</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
 
-
-
-<programme start="20250823040000 +0000" stop="20250823043000 +0000" channel="CCube"><title lang="en">IGPX</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823043000 +0000" stop="20250823050000 +0000" channel="CCube"><title lang="en">Fullmetal Alchemist Brotherhood</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-<programme start="20250823050000 +0000" stop="20250823053000 +0000" channel="CCube"><title lang="en">Samurai Champloo</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823053000 +0000" stop="20250823060000 +0000" channel="CCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823060000 +0000" stop="20250823063000 +0000" channel="CCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823063000 +0000" stop="20250823070000 +0000" channel="CCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-<programme start="20250823070000 +0000" stop="20250823073000 +0000" channel="CCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823073000 +0000" stop="20250823080000 +0000" channel="CCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823080000 +0000" stop="20250823083000 +0000" channel="CCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823083000 +0000" stop="20250823090000 +0000" channel="CCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-<programme start="20250823090000 +0000" stop="20250823093000 +0000" channel="CCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823093000 +0000" stop="20250823100000 +0000" channel="CCube"><title lang="en">Popeye</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823100000 +0000" stop="20250823103000 +0000" channel="CCube"><title lang="en">Captian Planet</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823103000 +0000" stop="20250823110000 +0000" channel="CCube"><title lang="en">The Smurfs</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-<programme start="20250823110000 +0000" stop="20250823113000 +0000" channel="CCube"><title lang="en">Fantastic Four</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823113000 +0000" stop="20250823120000 +0000" channel="CCube"><title lang="en">Pound Puppies</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823120000 +0000" stop="20250823123000 +0000" channel="CCube"><title lang="en">Popeye</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823123000 +0000" stop="20250823130000 +0000" channel="CCube"><title lang="en">Dexters Lab</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-<programme start="20250823130000 +0000" stop="20250823133000 +0000" channel="CCube"><title lang="en">Megas XLR</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823133000 +0000" stop="20250823140000 +0000" channel="CCube"><title lang="en">Ed Edd n' Eddy</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823140000 +0000" stop="20250823143000 +0000" channel="CCube"><title lang="en">Courage the Cowardly Dog</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823143000 +0000" stop="20250823150000 +0000" channel="CCube"><title lang="en">Static Shock</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823150000 +0000" stop="20250823153000 +0000" channel="CCube"><title lang="en">Hi Hi Puffy Ami-Yumi Show</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823153000 +0000" stop="20250823160000 +0000" channel="CCube"><title lang="en">Jackie Chan Adventures</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823160000 +0000" stop="20250823163000 +0000" channel="CCube"><title lang="en">Time Squad</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823163000 +0000" stop="20250823170000 +0000" channel="CCube"><title lang="en">Johnny Bravo</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-<programme start="20250823170000 +0000" stop="20250823173000 +0000" channel="CCube"><title lang="en">Foster's Home for Imaginary Friends</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823173000 +0000" stop="20250823180000 +0000" channel="CCube"><title lang="en">Chowder</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823180000 +0000" stop="20250823183000 +0000" channel="CCube"><title lang="en">Samurai Jack</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823183000 +0000" stop="20250823190000 +0000" channel="CCube"><title lang="en">Xiaolin Showdown</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-<programme start="20250823190000 +0000" stop="20250823193000 +0000" channel="CCube"><title lang="en">What's New Scooby-Doo</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823193000 +0000" stop="20250823200000 +0000" channel="CCube"><title lang="en">Codename KND</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823200000 +0000" stop="20250823203000 +0000" channel="CCube"><title lang="en">Totally Spies</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823203000 +0000" stop="20250823210000 +0000" channel="CCube"><title lang="en">Whatever Happened To Robot Jones</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-<programme start="20250823210000 +0000" stop="20250823213000 +0000" channel="CCube"><title lang="en">SGC2C</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823213000 +0000" stop="20250823220000 +0000" channel="CCube"><title lang="en">Futurama</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823220000 +0000" stop="20250823223000 +0000" channel="CCube"><title lang="en">King of The Hill</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823223000 +0000" stop="20250823230000 +0000" channel="CCube"><title lang="en">Family Guy</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-<programme start="20250823230000 +0000" stop="20250823233000 +0000" channel="CCube"><title lang="en">ATHF</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823233000 +0000" stop="20250823000000 +0000" channel="CCube"><title lang="en">Inuyasha</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823000000 +0000" stop="20250823003000 +0000" channel="CCube"><title lang="en">Gigantor</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823003000 +0000" stop="20250823010000 +0000" channel="CCube"><title lang="en">Dragon Ball</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-<programme start="20250823010000 +0000" stop="20250823013000 +0000" channel="CCube"><title lang="en">Case Closed</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823013000 +0000" stop="20250823020000 +0000" channel="CCube"><title lang="en">Space Dandy</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823020000 +0000" stop="20250823023000 +0000" channel="CCube"><title lang="en">Serial Experiment Lain</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823023000 +0000" stop="20250823030000 +0000" channel="CCube"><title lang="en">Paranoia Agent</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-<programme start="20250823030000 +0000" stop="20250823033000 +0000" channel="CCube"><title lang="en">Cyborg 009</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
+</tv>
 
 
 </tv>
