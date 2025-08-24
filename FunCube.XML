@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20250824">`
-
-
-
 <channel id="TheCube"><display-name>TheCube</display-name><icon src="https://i.imgur.com/aSjhZK7.png"/><url>doesnotmatter</url></channel>
 
-
-  
 
 
 <programme start="20250824040000 +0000" stop="20250824043000 +0000" channel="TheCube"><title lang="en">IGPX</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
@@ -56,292 +51,101 @@
 <programme start="20250824023000 +0000" stop="20250824030000 +0000" channel="TheCube"><title lang="en">Paranoia Agent</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
 <programme start="20250824030000 +0000" stop="20250824033000 +0000" channel="TheCube"><title lang="en">Cyborg 009</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
 
-
-
-
-
 <programme start="20250825040000 +0000" stop="20250825043000 +0000" channel="TheCube"><title lang="en">IGPX</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825043000 +0000" stop="20250825050000 +0000" channel="TheCube"><title lang="en">Fullmetal Alchemist Brotherhood</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250825050000 +0000" stop="20250825053000 +0000" channel="TheCube"><title lang="en">Samurai Champloo</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825053000 +0000" stop="20250825060000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825060000 +0000" stop="20250825063000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825063000 +0000" stop="20250825070000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250825070000 +0000" stop="20250825073000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825073000 +0000" stop="20250825080000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825080000 +0000" stop="20250825083000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825083000 +0000" stop="20250825090000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250825090000 +0000" stop="20250825093000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825093000 +0000" stop="20250825100000 +0000" channel="TheCube"><title lang="en">Popeye</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825100000 +0000" stop="20250825103000 +0000" channel="TheCube"><title lang="en">Captian Planet</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825103000 +0000" stop="20250825110000 +0000" channel="TheCube"><title lang="en">The Smurfs</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250825110000 +0000" stop="20250825113000 +0000" channel="TheCube"><title lang="en">Fantastic Four</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825113000 +0000" stop="20250825120000 +0000" channel="TheCube"><title lang="en">Pound Puppies</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825120000 +0000" stop="20250825123000 +0000" channel="TheCube"><title lang="en">Popeye</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825123000 +0000" stop="20250825130000 +0000" channel="TheCube"><title lang="en">Dexters Lab</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250825130000 +0000" stop="20250825133000 +0000" channel="TheCube"><title lang="en">Megas XLR</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825133000 +0000" stop="20250825140000 +0000" channel="TheCube"><title lang="en">Ed Edd n' Eddy</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825140000 +0000" stop="20250825143000 +0000" channel="TheCube"><title lang="en">Courage the Cowardly Dog</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825143000 +0000" stop="20250825150000 +0000" channel="TheCube"><title lang="en">Static Shock</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825150000 +0000" stop="20250825153000 +0000" channel="TheCube"><title lang="en">Hi Hi Puffy Ami-Yumi Show</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825153000 +0000" stop="20250825160000 +0000" channel="TheCube"><title lang="en">Jackie Chan Adventures</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825160000 +0000" stop="20250825163000 +0000" channel="TheCube"><title lang="en">Time Squad</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825163000 +0000" stop="20250825170000 +0000" channel="TheCube"><title lang="en">Johnny Bravo</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250825170000 +0000" stop="20250825173000 +0000" channel="TheCube"><title lang="en">Foster's Home for Imaginary Friends</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825173000 +0000" stop="20250825180000 +0000" channel="TheCube"><title lang="en">Chowder</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825180000 +0000" stop="20250825183000 +0000" channel="TheCube"><title lang="en">Samurai Jack</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825183000 +0000" stop="20250825190000 +0000" channel="TheCube"><title lang="en">Xiaolin Showdown</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250825190000 +0000" stop="20250825193000 +0000" channel="TheCube"><title lang="en">What's New Scooby-Doo</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825193000 +0000" stop="20250825200000 +0000" channel="TheCube"><title lang="en">Codename KND</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825200000 +0000" stop="20250825203000 +0000" channel="TheCube"><title lang="en">Totally Spies</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825203000 +0000" stop="20250825210000 +0000" channel="TheCube"><title lang="en">Whatever Happened To Robot Jones</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250825210000 +0000" stop="20250825213000 +0000" channel="TheCube"><title lang="en">SGC2C</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825213000 +0000" stop="20250825220000 +0000" channel="TheCube"><title lang="en">Futurama</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825220000 +0000" stop="20250825223000 +0000" channel="TheCube"><title lang="en">King of The Hill</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825223000 +0000" stop="20250825230000 +0000" channel="TheCube"><title lang="en">Family Guy</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250825230000 +0000" stop="20250825233000 +0000" channel="TheCube"><title lang="en">ATHF</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825233000 +0000" stop="20250825000000 +0000" channel="TheCube"><title lang="en">Inuyasha</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825000000 +0000" stop="20250825003000 +0000" channel="TheCube"><title lang="en">Gigantor</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825003000 +0000" stop="20250825010000 +0000" channel="TheCube"><title lang="en">Dragon Ball</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250825010000 +0000" stop="20250825013000 +0000" channel="TheCube"><title lang="en">Case Closed</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825013000 +0000" stop="20250825020000 +0000" channel="TheCube"><title lang="en">Space Dandy</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825020000 +0000" stop="20250825023000 +0000" channel="TheCube"><title lang="en">Serial Experiment Lain</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825023000 +0000" stop="20250825030000 +0000" channel="TheCube"><title lang="en">Paranoia Agent</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250825030000 +0000" stop="20250825033000 +0000" channel="TheCube"><title lang="en">Cyborg 009</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
 
 
-
-
-
 <programme start="20250826040000 +0000" stop="20250826043000 +0000" channel="TheCube"><title lang="en">IGPX</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826043000 +0000" stop="20250826050000 +0000" channel="TheCube"><title lang="en">Fullmetal Alchemist Brotherhood</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250826050000 +0000" stop="20250826053000 +0000" channel="TheCube"><title lang="en">Samurai Champloo</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826053000 +0000" stop="20250826060000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826060000 +0000" stop="20250826063000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826063000 +0000" stop="20250826070000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250826070000 +0000" stop="20250826073000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826073000 +0000" stop="20250826080000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826080000 +0000" stop="20250826083000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826083000 +0000" stop="20250826090000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250826090000 +0000" stop="20250826093000 +0000" channel="TheCube"><title lang="en">Anime</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826093000 +0000" stop="20250826100000 +0000" channel="TheCube"><title lang="en">Popeye</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826100000 +0000" stop="20250826103000 +0000" channel="TheCube"><title lang="en">Captian Planet</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826103000 +0000" stop="20250826110000 +0000" channel="TheCube"><title lang="en">The Smurfs</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250826110000 +0000" stop="20250826113000 +0000" channel="TheCube"><title lang="en">Fantastic Four</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826113000 +0000" stop="20250826120000 +0000" channel="TheCube"><title lang="en">Pound Puppies</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826120000 +0000" stop="20250826123000 +0000" channel="TheCube"><title lang="en">Popeye</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826123000 +0000" stop="20250826130000 +0000" channel="TheCube"><title lang="en">Dexters Lab</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250826130000 +0000" stop="20250826133000 +0000" channel="TheCube"><title lang="en">Megas XLR</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826133000 +0000" stop="20250826140000 +0000" channel="TheCube"><title lang="en">Ed Edd n' Eddy</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826140000 +0000" stop="20250826143000 +0000" channel="TheCube"><title lang="en">Courage the Cowardly Dog</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826143000 +0000" stop="20250826150000 +0000" channel="TheCube"><title lang="en">Static Shock</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826150000 +0000" stop="20250826153000 +0000" channel="TheCube"><title lang="en">Hi Hi Puffy Ami-Yumi Show</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826153000 +0000" stop="20250826160000 +0000" channel="TheCube"><title lang="en">Jackie Chan Adventures</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826160000 +0000" stop="20250826163000 +0000" channel="TheCube"><title lang="en">Time Squad</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826163000 +0000" stop="20250826170000 +0000" channel="TheCube"><title lang="en">Johnny Bravo</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250826170000 +0000" stop="20250826173000 +0000" channel="TheCube"><title lang="en">Foster's Home for Imaginary Friends</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826173000 +0000" stop="20250826180000 +0000" channel="TheCube"><title lang="en">Chowder</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826180000 +0000" stop="20250826183000 +0000" channel="TheCube"><title lang="en">Samurai Jack</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826183000 +0000" stop="20250826190000 +0000" channel="TheCube"><title lang="en">Xiaolin Showdown</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250826190000 +0000" stop="20250826193000 +0000" channel="TheCube"><title lang="en">What's New Scooby-Doo</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826193000 +0000" stop="20250826200000 +0000" channel="TheCube"><title lang="en">Codename KND</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826200000 +0000" stop="20250826203000 +0000" channel="TheCube"><title lang="en">Totally Spies</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826203000 +0000" stop="20250826210000 +0000" channel="TheCube"><title lang="en">Whatever Happened To Robot Jones</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250826210000 +0000" stop="20250826213000 +0000" channel="TheCube"><title lang="en">SGC2C</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826213000 +0000" stop="20250826220000 +0000" channel="TheCube"><title lang="en">Futurama</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826220000 +0000" stop="20250826223000 +0000" channel="TheCube"><title lang="en">King of The Hill</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826223000 +0000" stop="20250826230000 +0000" channel="TheCube"><title lang="en">Family Guy</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>   
-
-
 <programme start="20250826230000 +0000" stop="20250826233000 +0000" channel="TheCube"><title lang="en">ATHF</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826233000 +0000" stop="20250826000000 +0000" channel="TheCube"><title lang="en">Inuyasha</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826000000 +0000" stop="20250826003000 +0000" channel="TheCube"><title lang="en">Gigantor</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826003000 +0000" stop="20250826010000 +0000" channel="TheCube"><title lang="en">Dragon Ball</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme> 
-
-
 <programme start="20250826010000 +0000" stop="20250826013000 +0000" channel="TheCube"><title lang="en">Case Closed</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826013000 +0000" stop="20250826020000 +0000" channel="TheCube"><title lang="en">Space Dandy</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826020000 +0000" stop="20250826023000 +0000" channel="TheCube"><title lang="en">Serial Experiment Lain</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826023000 +0000" stop="20250826030000 +0000" channel="TheCube"><title lang="en">Paranoia Agent</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
-
-
 <programme start="20250826030000 +0000" stop="20250826033000 +0000" channel="TheCube"><title lang="en">Cyborg 009</title><sub-title lang="en">Saturday</sub-title><icon src="https://i.imgur.com/rtVhGpO.gif"/></programme>  
 
 
